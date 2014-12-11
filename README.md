@@ -1,4 +1,4 @@
 text-mining
 ===========
 
-Text mining attemps on the corpus of abstract from cost.eu
+Text mining attempts on the corpus of abstract from cost.eu (COST Actions)
