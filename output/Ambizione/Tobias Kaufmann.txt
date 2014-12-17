@@ -1,0 +1,36 @@
+ Lead Lay summary Cold baryons (stars and gas) in  Milky-Way size halos account for only
+~ 20 % of their   associated  baryons.  The  search for   these
+missing baryons remains as an unfulfilled quest in cosmology.
+Observations  of local X-ray absorbers, high-velocity neutral clouds,
+and distant quasar absorption line systems,
+suggest    that a significant fraction  of
+these baryons may reside in multi-phase, extended, ~ 100  kpc,  gaseous halos of normal
+galaxies.
+We propose a  series  of focused cosmological simulations  to model
+the gaseous halos of individual galaxies at very high resolution,
+with the goal of  confronting a range of
+halo-gas  observations.  We specifically aim to understand  how gas-halo
+observations constrain the nature of gas infall into galaxies (e.g. cold vs. hot,
+streams vs. clumps)  and
+how heating mechanisms can affect the acquisition of gas,
+the formation of hot halos, and the rate with which halo gas cools, fragments,
+and fuels galaxy formation.  We will employ a version of the smoothed particle hydrodynamics code
+GASOLINE that allows us to to track infalling and cooling gas
+at extremely high resolution.  The proposed work includes
+(1) a suite of  high-resolution, hydrodynamical
+simulations  of a single  galaxy halo set  within  a full cosmological
+context; (2) a series of exploratory simulations  of isolated
+galaxy halos;  and (3) constraining different models of galaxy formation using optical, \HI, X-ray and absorption line observations.
+The isolated simulations will be used to develop methodology
+and explore trends in halo properties as a  function of  dark matter
+halo mass.  The  cosmological  simulations will   be used to  explore
+the detailed topology of cold flows; to provide
+realistic initial conditions for hot halo fragmentation; and to explore
+the impact of
+pre-heating mechanisms on the acquisition of gas on
+subsequent cooling of gas from pre-heated
+galactic halos.  One of the  goals of this  proposal is
+to  simultaneously compare  a variety of
+multi-wavelength  probes  of galactic  gas  within  a  single coherent
+picture of galaxy assembly and to use this as a baseline for future
+evaluation of models.
