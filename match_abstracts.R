@@ -1,13 +1,15 @@
 library("tm")
 
-files <- dir("output/Ambizione")
+files <- dir("output/Ambizione_en")
 name <- vector()
 project <- vector()
 score <- vector()
 	
 for(f in files) {
 	
-	candidate <- Corpus(VectorSource(paste(scan(paste0("output/Ambizione/", f), what = "character"), collapse = " ")), readerControl = list(reader=readPlain, language="eng"))
+	candidate <- paste(scan(paste0("output/Ambizione_en/", f), what = "character", fileEncoding = "iso-8859-1"), collapse = " ")
+	candidate <- Corpus(VectorSource(candidate), readerControl = list(reader=readPlain))
+	
 	cost <-Corpus(DirSource("output/COST"), readerControl = list(reader=readPlain, language="eng"))
 	
 	cost_cand <- c(cost, candidate)
@@ -62,6 +64,6 @@ for(f in files) {
 }
 
 ranking <- data.frame(Name = name, Project = project, Score = score)
-ranking <- ranking[order(ranking$Score),]
+ranking <- ranking[rev(order(ranking$Score)),]
 
-write.csv(ranking, "score.csv", fileEncoding = "utf-8")
+write.csv(ranking, "score_en.csv", fileEncoding = "utf-8")
