@@ -20,7 +20,7 @@ for(f in files) {
 	}
 	
 	if (lang != "en"){
-		candidate_eng <- translate(content.vec = c(candidate_orig), microsoft.client.id ="xxx", microsoft.client.secret = "f1yRrF3oIQ3AWiyIQQJWiNI1MfVu8bgIHwiby9yW5Ak=", source.lang = lang, target.lang = 'en')
+		candidate_eng <- translate(content.vec = c(candidate_orig), microsoft.client.id ="cost_text", microsoft.client.secret = "f1yRrF3oIQ3AWiyIQQJWiNI1MfVu8bgIHwiby9yW5Ak=", source.lang = lang, target.lang = 'en')
 	} else {
 		candidate_eng <- candidate_orig
 	}
