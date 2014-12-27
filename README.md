@@ -1,7 +1,7 @@
 text-mining
 ===========
 
-##Text mining attempts on the corpus of abstract from cost.eu (COST Actions)##
+##Text mining attempts on the corpus of abstracts from cost.eu (COST Actions)##
 
 snf_abstracts.py populates a collection of scientific abstracts from the p3.snf.ch website, starting from a list of names that can be obtained from the snf.ch website;
 
