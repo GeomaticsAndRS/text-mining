@@ -23,7 +23,7 @@ for(f in files) {
 		}
 	
 		if (lang != "en"){
-			candidate_eng <- translate(content.vec = c(candidate_orig), microsoft.client.id ="cardiff_text", microsoft.client.secret = "f1yRrF3oIQ3AWiyIQQJWiNI1MfVu8bgIHwiby9yW5Ak=", source.lang = lang, target.lang = 'en')
+			candidate_eng <- translate(content.vec = c(candidate_orig), microsoft.client.id ="cost_text", microsoft.client.secret = "f1yRrF3oIQ3AWiyIQQJWiNI1MfVu8bgIHwiby9yW5Ak=", source.lang = lang, target.lang = 'en')
 			write(candidate_eng, paste(c("Corpora_en", target, f), collapse = "/"))
 		} else {
 			candidate_eng <- candidate_orig
