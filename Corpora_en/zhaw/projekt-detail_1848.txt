@@ -1,0 +1,1 @@
+For a new generation of printers from Lexmark ink cartridges for inkjet printing nozzle pin assignment and control were analyzed. Microscope photos, prints and Logic Analyzer charts served. Thus, it was possible to adapt a test device for the recycling of printer cartridges and to prepare for the production. This unit was the company CSEE SA, Neuchâtel made.

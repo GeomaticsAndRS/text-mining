@@ -1,0 +1,4 @@
+Monitoring von Medienleistungen bei der Thematisierung von Risiken elektro-magnetischer Felder (EMF)  
+Ziel: Entwicklung eines Monitoring-Systems zur Analyse und Interpretation von Medienleistungen bei der Thematisierung von EMF-Risiken. Das Monitoring-System untersucht die Aufmerksamkeitsstrukturen, Selektions-, Bearbeitungs-, Informationsbeschaffungs- und Präsentationsprozesse des deutschschweizerischen (Print-) Mediensystems bezüglich des Themas EMF und gibt damit Hinweise über das Gelingen der Informationsvermittlungs- und Glaubwürdigkeitsstrategien verschiedenster am öffentlichen Diskurs teilnehmender Akteurskategorien.  
+Methode: quantitative Inhaltsanalyse 
+Auftraggeber: Forschungskooperation Nachhaltiger Mobilfunk an der ETH Zürich

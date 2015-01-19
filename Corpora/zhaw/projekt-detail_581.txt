@@ -1,0 +1,6 @@
+Der Service mit grafischer IDE, wird im Projekt um 
+•	einen grafischen Wizard, 
+•	einen Konsistenzchecker, 
+•	eine Web-Schnittstelle 
+•	und die Anbindung von Drittsystemen erweitert.  
+Damit können die Kosten gesenkt und das Marktpotential vergrössert werden.

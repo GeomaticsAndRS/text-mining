@@ -1,0 +1,1 @@
+Defining a reference architecture for the exchange of standardized and ad hoc data in a time-critical, heterogeneous system.

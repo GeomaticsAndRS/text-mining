@@ -1,0 +1,1 @@
+Procedural model for the process optimisation in hospital: a process model will be developed that pointing out possible improvements in leadership, structure and processes in hospitals on the basis of benchmarking and assessment and makes an implementation through appropriate methods. ProjectID = 28617

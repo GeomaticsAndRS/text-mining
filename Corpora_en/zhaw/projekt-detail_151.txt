@@ -1,0 +1,1 @@
+Development of a GPS-based Smartphone application to the information and warning the user against ticks and their communicable diseases. Including reminder function for tick bites and hints for self-protection.

@@ -1,0 +1,1 @@
+Über eine Website werden die Messwerte (Bodenfeuchte, Niederschlag, Saugspannung, etc.) des Ostschweizer Bodenmessnetzes visuell dargestellt und interessierten Person (z.B. Ämter, Bauern, etc.) zur Verfügung gestellt werden.

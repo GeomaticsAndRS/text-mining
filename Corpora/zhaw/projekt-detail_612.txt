@@ -1,0 +1,2 @@
+Erstellung bwz. Erweiterung einer GIS-basierten Software zur Bestimmung der Blendwirkung von Solar-Anlagen. Die Software ermittelt für jeden Zeitpunkt im Jahr die durch  Blendwirkung potentiell betroffenen Gebiete auf der Landkarte und wertet diese Gebiete aus. Der Einsatzbereich liegt zur Zeit vorallem bei PV-Grossanlagen (z.B. auf Lawinenverbauungen, in Steinbrüchen, usw.).  
+Für kleinere Solar-Anlagen (z.B. auf Hausdächern) wird in einem noch nicht veröffentlichten Projekt eine GIS-unabhängige Spezialsoftware erstellt. Diese befindet sich zur Zeit in der Testphase.

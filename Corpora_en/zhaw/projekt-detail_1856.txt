@@ -1,0 +1,1 @@
+Realization of a Web-based training course to the new public management for the cantonal administration of Zurich. The course comprises three modules, all of which are developed on the basis of case studies from the cantonal administration: basic terminology control tools cost-performance-Bill.

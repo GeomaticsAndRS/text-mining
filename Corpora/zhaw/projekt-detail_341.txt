@@ -1,0 +1,2 @@
+Ziel dieses Projektes ist, einen Demonstrator in Form einer Android-App zu entwickeln, welcher die Redeanteile zweier Gesprächspartner in Echtzeit visualisieren kann. Damit soll es z.B. einem Vorgesetzen möglich sein zu erkennen, ob er in einem Mitarbeitergespräch zu viel redet oder ob das Gespräch ausgeglichen ist. 
+In einem weiteren Schritt soll versucht werden, eine antrainierte Stimme von einer ganzen Gruppe anderer Sprecher zu unterscheiden.

@@ -1,0 +1,16 @@
+Gate Gourmet International AG plant ein neues Materialflusskonzept für den Betrieb am Flughafen Melbourne. Die nötigen Kapazitäten in den einzelnen Produktions- und Pufferbereichen sind stark vom Flugplan abhängig. Es besteht ein hoher Vernetzungsgrad zwischen den einzelnen Dishwashing-, Puffer- und  Bereitstellungsbereichen und den Arbeitskräfteressourcen. Der Arrival und Departure Flight scedule bilden die zentralen Steuerungselemente des Systems. Aufgrund des Departure-Flugplanes erfolgt eine Rückwärtsterminierung ab Traysetting. 
+Basierend auf dem bereits erarbeiteten Layouts des neuen Materialflusses soll ein parametrisiertes Simulationsmodell erstellt werden. Die Flugpläne bilden die Basis für die Systemlastdaten des Simulationsmodelles.  
+Durch die Simulation sollen der Materialfluss und die Pufferkapazitäten optimal ausgelegt werden. Die folgenden Ziele sind, in Abhängigkeit der Flugpläne, im Detail zu erreichen: 
+ - Optimale Dimensionierung der Puffer (definierte Puffer, offene Puffer) 
+ - Ermitteln des Arbeitsplatzbedarfs 
+ - Kapazitätsplanung auf Mitarbeiterebene 
+ - Aufzeigen von Engpässen im Materialfluss  
+Zur Beurteilung des Systems werden folgenden Zielgrössen herangezogen: 
+ - Auslastung der Puffer während der Simulationszeit 
+ - Auslastung der Mitarbeiter 
+ - Auslastung von Anlagen im Materialfluss 
+ - Verhalten von Staustrecken vor Engpässen 
+ - Verspätungen von Outbound  
+Die Systemlastdaten, Parameter und Zielgrössen werden per Excel dem Simulator übergeben.  
+Der verantwortliche Planer von Gategourmet kann ohne Simulationskenntnisse selbständig verschiedenste Szenarien untersuchen.  
+Das Verfahren und das Modell ist so konzipiert, dass mit diesem Modellansatz die Cateringbereiche weltweit geprüft und konzipiert werden können.

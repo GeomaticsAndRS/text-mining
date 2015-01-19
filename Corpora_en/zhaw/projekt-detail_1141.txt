@@ -1,0 +1,1 @@
+Establishment of an integration platform. Combination of GIS data and component data. Definition of rules and implementation in a rules engine.

@@ -1,0 +1,1 @@
+In the project BikeLoft, an automatic parking was developed for bicycles.

@@ -1,0 +1,1 @@
+: 01.04.2008 partners / project partner (s): DSwiss AG / Avantec AG within the framework of this project has been developed a highly secure Web application, which safely and securely stores digital values by customers. The InIT was primarily responsible in the project design, implementation and testing of safety-critical components.

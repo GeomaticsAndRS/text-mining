@@ -1,0 +1,1 @@
+In the project FM service barometer, a FM-specific service barometer is developed and applied to determine the internal FM service quality and customer satisfaction on the basis of FM of the health care system. Further, this project includes the development of a meter of leadership culture in the FM. This meter is also applied in the health care sector, evaluated and validated.

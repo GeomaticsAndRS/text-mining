@@ -1,0 +1,6 @@
+Wir untersuchen wie man neuen Protokollierungs-Tools für Java-Programme einsetzen kann, um automatisch Regressions-Testdaten und Regressionstests für produktive System zu erzeugen. Dadurch soll beim Refactoring von Software das Risiko und der Aufwand minimiert werden.  
+Kernpunkte des Projektes sind: 
+Dabei werden wir auf die folgenden Aspekte fokussieren:  
+1. Performance-Einfluss: Der Einsatz der Protokollierungs-Systeme in produktiven Programmen ist nur möglich, wenn dadurch die Funktionalität und Stabilität nicht zu stark beeinflusst wird. Wir werden untersuchen, welche Performance-Effekte die verschiedenen Tools hervorrufen, und Kriterien entwickeln, wann und wo sie einsetzbar sind – und wann nicht.  
+2. Testdaten-Erzeugung: Durch die Protokollierung weiss man für den produktiven Betrieb, welche Methoden aufgerufen werden, und mit welchen Ein- und Ausgabe-Werten. Für effiziente  Regressionstests müssen Teile des Systems gemockt werden (externe Services, Datenbanken etc.). Wir werden untersuchen, wie man Äquivalenzklassen automatisch bildet und wie man automatisch aus den Protokollierungsdaten geeignete Testfälle und Mock-Objekte erzeugen kann.  
+3. Implementierung: Wir werden ein Tool implementieren, das automatisch geeignete Regressions-Tests erzeugen und ausführen kann.

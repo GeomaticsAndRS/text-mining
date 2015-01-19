@@ -1,0 +1,3 @@
+Dialysis is a central treatment element for patients with end stage renal disease (ESRD). 
+There is high variability in dialysis service patterns between countries, concerning the relative share of ESRD patients treated with Hemodialysis (HD) or Peritoneal Dialysis (PD). 
+Our health economic study examines the current dialysis service pattern in the Swiss context.

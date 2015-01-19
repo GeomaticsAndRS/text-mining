@@ -1,0 +1,9 @@
+Die Subiaco People  Promotion führt Werbeaktionen in der ganzen Schweiz durch. Für ihr CRM und die Mitarbeiterverwaltung sowie die Einsatzplanung wird eine Datenbank, programmiert auf der Basis von MS Access, verwendet. Diese speziell für die Subiaco entwickelte Datenbank hatte einige Mängel, die im Rahmen dieses Projektes behoben und Prozesse optimiert wurden.  
+Zu den Lieferobjekten gehörten: 
+- Anpassung der Datenbankstruktur und der Oberfläche für die Darstellung von Bildern 
+- Erstellung eines Moduls für die automatische Abrechnung der offenen Positionen 
+- Durchgängige Umsetzung des Corporate Designs auf allen Reports 
+- Optimierung der Menu-Führung für eine einfache und intuitive Bedienung 
+- Automatisierung ausgewählter Prozesse (Projektschliessung etc.) 
+- Implementierung einer automatischen PDF-Generierung der Lohnrapporte mit Email-Client für den automatischen Versand 
+- Schulung des Personals

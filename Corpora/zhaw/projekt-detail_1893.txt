@@ -1,0 +1,8 @@
+Mit dem Kompetenznetzwerk EDiSoN soll die Wettbewerbsfähigkeit des Informatik-Standorts Schweiz auf dem Gebiet der verteilten eingebetteten Systeme gefördert werden. 
+Dazu werden die folgenden Ziele angestrebt:  
+- Informationsaustausch der EDiSoN-Mitglieder untereinander, mit der Industrie sowie nationalen und internationalen Forschungs- und Ausbildungsstätten.  
+- aF  und Dienstleistungen: Akquisition, Koordination und Durchführung von Projekten in den Bereichen Technik, Wirtschaft und Gesellschaft (Beratung, Entwicklung, Forschung, Produkt- und Technologie-Übersichten, Marktstudien,  Marketingkonzepte etc.) . EDiSoN sorgt für die Sicherstellung der Qualität der Projekte  und erstellt entsprechende Richtlinien.  
+- Vermittlung von Kompetenzen und Ressourcen der Mitglieder. Mit anderen Institutionen, die ähnliche Zweckbestimmungen verfolgen, wird eine Zusammenarbeit angestrebt.  
+- Weiterbildung, Veranstaltungen, Informationsplattformen (Katalysator-Funktion, Sensibilisierung).  
+- Aktualisierung der Unterrichtsinhalte im Bereich der Diplomstudien durch den Know-how-Rückfluss aus Projekten.  
+EDiSoN ist als Verein organisiert und verfolgt keinen Erwerbszweck. Vielmehr soll EDiSoN einen Rahmen bilden für die Leistungen der einzelnen Fachhochschulen im Bereich von verteilten Embedded Systems. Wie oben erwähnt, können sich diese Leistungen über das ganze Spektrum (Beratung, Schulung, Durchführung von Projekten etc.) erstrecken.

@@ -1,0 +1,4 @@
+In diesem Projekt geht es um die Darstellung der aktuellen Situation in der Schweiz und das Aufzeigen von zukünftigen Möglichkeiten aus einer möglichst umfassenden Sicht. Insbesondere werden im Bericht drei Punkte in Bezug auf die zu untersuchende Entwicklung der Versicherten- zur Gesundheitskarte / Health Information Clearinghouse bearbeitet: 
+1. Darstellung der verschiedenen Perspektiven der relevanten Akteure im schweizerischen Gesundheitswesen 
+2. Darstellung von möglichen Modellen im technischen Bereich und zur Trägerschaft 
+3. Darstellung relevanter Aspekte aus den Perspektiven Medizin, Ethik, Ökonomie und Recht

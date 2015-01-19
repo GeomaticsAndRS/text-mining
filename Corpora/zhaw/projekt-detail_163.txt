@@ -1,0 +1,3 @@
+EC-Motoren werden in diversen Bereichen als Stellantriebe eingesetzt. Sie werden Moment-, 
+Drehzahl- oder Positionsgeregelt betrieben. In der Steuerung werden die Positionsinformationen des Motors erfasst und für eine geeignete Bestromung verwendet. 
+Im Projekt wurden Algorithmen entwickelt, um die den Strom ideal an die Eigenschaften des Motors anzupassen und somit einen besseren Wirkungsgrad oder bessere Bewegungseigenschaften zu erzeugen. Die Algorithmen wurden auf einem in diesem Bereich oft verwendeten Microcontroller implementiert.

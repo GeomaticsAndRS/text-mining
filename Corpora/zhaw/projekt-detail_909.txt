@@ -1,0 +1,3 @@
+An der ZHAW besteht zurzeit keine einheitliche Erfassung der Pauschalstunden für Dozierende (ILP/ILV). In einigen Departementen wird sie stark elektronisch unterstütz und in anderen erfolgt die Erfassung manuell. Auch die Regelung, welche Personalkategorie in welchem Detaillierungsgrad eine ILP/ILV erfassen muss, ist in allen Departementen unterschiedlich geregelt. 
+Eine neue Datenbanklösung (ILV-Sammler) soll eine einheitliche Erfassung für alle Departemente ermöglichen. 
+Das Institut für Angewandte Simulation hat für das Dept.N eine Datenbanklösung entwickelt die sich die letzten beiden Jahre bewährt hat. Diese bestehende Lösung dient als Vorgabe für den neu zu programmierenden ILV-Sammler. Das vorliegende Dokument beschreibt den geplanten Lösungsansatz.

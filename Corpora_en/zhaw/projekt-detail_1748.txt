@@ -1,0 +1,1 @@
+Driver software in Java for the INTERBUS-S peripheral of a multiaxis robot with Hydraulikaktuatoren injection of concrete in tunnel construction. Project ended in 2004.

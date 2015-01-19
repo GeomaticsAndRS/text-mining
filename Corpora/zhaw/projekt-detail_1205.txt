@@ -1,0 +1,1 @@
+Mit dem Projekt VISIMAN wird erstmals ein IT-basiertes Werkzeug für das Besuchermanagement in Natur- und Nationalpärken entwickelt. Das Produkt besteht aus einer systembasierten Management-Plattform. In den 4 Partnerregionen werden Projekte zum Besuchermonitoring umgesetzt und in die Plattform integriert.

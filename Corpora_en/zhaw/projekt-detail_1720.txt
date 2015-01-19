@@ -1,0 +1,1 @@
+The Department W builds a database as a tool for its customer relationship management. You captured the customers and target groups of the various products in the area of Weiterbidlung, services and research of the Department einermal. On the other hand the typical processes of participating organization units collected in the database, as far as they have to do with CRM.

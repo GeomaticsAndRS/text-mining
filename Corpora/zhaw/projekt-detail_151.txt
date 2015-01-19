@@ -1,0 +1,1 @@
+Entwicklung einer GPS basierten Smartphone-Applikation zur Information und Warnung der Benutzer vor Zecken und deren übertragbaren Krankheiten. Inklusive Reminder-Funktion bei Zeckenstichen und Hinweisen zum Selbstschutz.

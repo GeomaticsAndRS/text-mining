@@ -1,0 +1,1 @@
+Neue Laser Druckergenerationen von Lexmark setzen kodierte Miniaturschaltungen ein, um den Nachbau oder das Recycling zu unterbinden. In dieser Studie wurde untersucht, ob die Programmierung ausgelesen und allenfalls interpretiert werden kann. Damit konnten Vorschläge für das weitere Vorgehen ausgearbeitet werden.

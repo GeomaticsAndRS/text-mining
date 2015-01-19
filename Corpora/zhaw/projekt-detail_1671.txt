@@ -1,0 +1,10 @@
+Die ZHW verfügt über vielfältige wertvolle Informationsquellen in verschiedenen Datenbanken. Diese wurden im Rahmen des Wissensmanagementprojektes (99-01) konzipiert und beinhalten: 
+•	Erfahrungswissen von Personen (Porträtdatenbank), 
+•	Publikationen 
+•	Projekte 
+•	Weiterbildungskurse 
+Alle Informationsquellen sind auf der ZHW-Website und über das ZHW-Intranet einzeln abrufbar, waren jedoch noch nicht datenbankübergreifend suchbar.  
+Ziel des Projektes: 
+Alle Informationsquellen sollen durch ein übergreifendes Retrievalsystem einfach auffindbar und besser zugänglich gemacht werden. Dazu entwickelt die Online-Kommunikation ein hochschulspezifisches Retrievalkonzept. Es wird eine Suchapplikation eingesetzt, die thematisch und semantisch über sämtliche Datenbanken und Dokumente sucht und das Ergebnis gewichten und übersichtlich darstellen kann.  
+Durch Kombination, Kategorisierung und Stratifizierung der bestehenden Datenquellen entstehen höherwertige Informationen über Expertenwissen und Kompetenzschwerpunkte der ZHW. Diese Informationen bieten vielfältigen Nutzen für verschiedene interne und externe Benutzergruppen. Z.B. können damit Fachleute für spezifische Sachthemen, Ansprechpartner für Fachprobleme oder Kontaktpersonen für Projekte gefunden, oder die Leistungen eines Forschungsteams dargestellt werden. 
+Die Suchapplikation (Eurospider) ist seit Frühjahr 05 auf der ZHW-Website online.

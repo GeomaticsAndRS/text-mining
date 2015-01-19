@@ -1,0 +1,7 @@
+Mit dem Forschungsprojekt KoLe-Statistik sollen folgende Zielsetzungen erreicht werden: 
+-	Aufbau eines Statistikprototyps mit den Daten die gem. KVV Art. 28 dem BAG von den Krankenversicherern als Aufsichtsdaten zur Verfügung zu stellen sind, aufzubereiten und zu nutzen 
+-	Verbesserung der Entscheidungsgrundlagen für die Krankenversicherung (insbesondere Bereitstellung von Grundlagen zur Beurteilung der Leistungsqualität und der WZW-Kriterien) 
+-	Bereitstellung der methodischen Grundlagen um die durch die Krankenversicherung übrenommenen Leistungen mit Erkrankungs- und Behandlungsangaben zu vervollständigen 
+-	Vorbereitung der Umsetzung der Statistikaufgaben, die gem. Revision KVG dem BAG zu erfüllen sein werden. 
+-	Nutzung der Daten der Krankenversicherung für die weiteren gesundheitspolitischen Aufgaben des BAG (Evaluation, Gesundheitsförderunge, Prävention, etc.) 
+-	Definition der Zusammenarbeit mit dem BFS und der Schnittstellen für die Übergabe von Aufsichtsdaten zur Verwendung für statistische Analysen

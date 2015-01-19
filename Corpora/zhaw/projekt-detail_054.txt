@@ -1,0 +1,6 @@
+Beekeeper Beekeeper provides cloud solutions for managing online customer communities. The community managers using the Beekeeper software have to cope with an ever increasing user base.  
+The goal of this project is to build intelligent software modules which allows to handle even larger communities. Using automatic analysis of the textual content and the user interactions the community manager will be guided using extracted informations like:  
+- Sentiment / Mood 
+- Hot Topics 
+- Key Influencers 
+- User Interests

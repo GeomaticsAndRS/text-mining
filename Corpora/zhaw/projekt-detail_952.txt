@@ -1,0 +1,3 @@
+: 01.03.2010 ProjektpartnerInnen / Project partner(s) : Credit Suisse Die Office Accessibility Add-Ins sind COM Add-Ins für Microsoft Word 2010 und Powerpoint 2010. 
+Diese unterstützen den Author beim Erstellen von zugänglichen Word und Powerpoint Dokumenten für Menschen mit Sehbehinderungen. Aus diesen Dokumenten können PDF Dokumente erzeugt werden, welche mit Screen Readern vollständig lesbar sind. The Office Accessibility Add-Ins are COM Add-Ins for Microsoft Word 2010 and Powerpoint 2010. 
+They support the author in creating accessible Word/Powerpoint documents for visually handicapped people. From these documents the user can generate PDF documents, which are fully readable by screen-readers.

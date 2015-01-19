@@ -1,0 +1,1 @@
+The aim of the project is to develop a new approach to cooperation between a hospital and a health insurance and to implement. It tracked the two following main thrusts: reduce bureaucracy, simplify control

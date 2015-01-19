@@ -1,0 +1,5 @@
+Das Ziel des Projekts ist die Entwicklung eines PCS welches als Berechnungsgrundlage für einen leistungsorientierten Tarif in der stationären paraplegiologischen Rehabilitation verwendet werden kann. Auf der Basis des PCS sollen die Patienten 3 bis 5 Tarifstufen zugeordnet werden, welche einer auf Wochenbasis zu bestimmenden Tagespauschale entsprechen. 
+Methoden und Resultate: 
+Phase 1 (Abschluss 2013): Vorbereitung: Definition der Patientenmerkmale als mögliche Kostenprädiktoren; Auswahl der zu erhebenden Leistungs- und Kostendaten. 
+Phase 2: Datenerhebung in den vier Kliniken bei 400 Patienten 
+Phase 3: Entwicklung eines einfachen und verlässlichen PCS zur Prognose der durchschnittlich zu erwartenden Tageskosten aufgrund der Merkmale der Patienten. Das PCS soll die Patientenin wenige möglichst klar abgegrenzte Tarifstufen mit relevanten Kostenunterschieden einteilen.

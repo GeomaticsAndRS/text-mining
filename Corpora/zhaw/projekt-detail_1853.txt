@@ -1,0 +1,1 @@
+Dieses Projekt dient dem Kompetenzaufbau des Vertiefungsfaches Systemdesign im Studiengang für Datenanalyse und Prozessdesign (DP) sowie des entsprechenden Geschäftsbereichs des neu zu gründenden Instituts für Datenanalyse und Prozessdesign (idp).

@@ -1,0 +1,8 @@
+Branche: Logistik  
+Auftrag: Produktdefinition für einen Logistikanbieter in Deutschland  
+Aufgaben: 
+- Definition von anzubietenden Produkten 
+- Produktmodule definieren 
+- Servicelevels bestimmen 
+- Produktehierarchie festlegen 
+- Preisfestlegung vorschlagen

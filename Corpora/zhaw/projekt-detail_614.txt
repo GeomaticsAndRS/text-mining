@@ -1,0 +1,2 @@
+C-CIT AG The CITSens Bio project aims at developing a disposable (or single-use) multi-parameter sensor system intended for disposable bioreactors, and offering ethernet/internet-based monitoring. The sensor array will be composed of glucose, lactate sensors and pH electrode, designed on screen-printed electrodes. Measurements from sensor array will be 
+transmitted wirelessly to a server that offers data storage and communication hub. Users can monitor and have information access from any terminal (PC, mobile phone, tablet) at any time and from anywhere around the world.

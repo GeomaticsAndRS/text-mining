@@ -1,0 +1,4 @@
+Das Projekt wurde an der ZHAW Ende 2008 abgeschlossen.  
+SMART P  soll ein System werden, welches Personenwagen in einer Aufnahmestation automatisch  zentrieren und erfassen kann um diese schnell und Platz sparend in ein Parkhaus mit minimalen Aussenmassen zu transportieren. Auf Abruf vor Ort oder per Handy sollen diese automatisch wieder aus dem Lager bereitgestellt werden. 
+SMART P soll ein voll automatisches Valet-Parking ohne dauerhaften Personalbedarf und Überwachung ermöglichen. 
+Projektende 2009.

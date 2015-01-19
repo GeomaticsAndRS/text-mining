@@ -1,0 +1,4 @@
+Bundesamt für Strassen Ziel des Forschungsvorhabens ist es, einen Lösungsvorschlag für eine standardisierte Reisezeitinformation (MIV) zu erarbeiten, die 
+1. den Verkehrsteilnehmer in seiner Routenwahl unterstützt und gleichzeitig 
+2. hilft, die Ziele des Verkehrsmanagements umzusetzen. 
+Die Reisezeitinformationen auf Wechseltextanzeigen (variable message signs) sollen von den Verkehrsteilnehmern schnell wahrgenommen und erfasst werden können. Die damit verbundene Ablenkung vom umgebenden Verkehr soll dabei möglichst gering ausfallen. Eine Standardisierung der Informationsdarstellung unterstützt eine schnelle Auffassung aufgrund des Gewöhnungseffekts. Im Ergebnis ist der Strassennetzbetreiber in der Lage, einen bestmöglichen Lenkungseffekt zu erzielen und gleichzeitig die Sicherheit der Verkehrsteilnehmer nicht unnötig zu gefährden.

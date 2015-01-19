@@ -1,0 +1,1 @@
+In einer zentralen Datenbank wird eine umfangreiche Sammlung an verschieden Gesteinsarten gespeichert. Über ein webbasiertes Bestimmungstool können die Besucher der Website beliebige Gesteinscharakteren eingeben, die dann mit den vorhandenen Gesteinsbeschreibungen verglichen werden.

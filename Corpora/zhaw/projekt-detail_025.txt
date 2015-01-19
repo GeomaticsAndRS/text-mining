@@ -1,0 +1,1 @@
+Es wird ein Inspektionsroboter zur Bestimmung der Strukturintegrität vorgespannter Komponenten mit einem neuartigen Aktorprinzip entwickelt.

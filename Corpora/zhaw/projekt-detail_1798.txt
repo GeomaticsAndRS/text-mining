@@ -1,0 +1,3 @@
+Das Institut für Mechatronische Systeme IMS ist zusammen mit den Industriepartnern Neuweiler AG aus Kreuzlingen und Tuchschmid AG aus Frauenfeld im Rahmen eines KTI-Projekts daran, ein System zu entwickeln, das vollautomatisch Normcontainer zwischen  Lastwagen und Eisenbahnwagen umladen soll. 
+Zu diesem Zweck wurde ein Manipulator mit 14 Servoantrieben gebaut. Dieser ist fähig, die Normcontainer unter dem Fahrdraht der Eisenbahn zu verschieben.  
+Das Projekt wurde Ende 2003 erfolgreich abgeschlossen und Aspekte davon an der IEEE Konferenz Intelligent Transportation Systems ITSC 2004, Oktober 2004, Washington DC  veröffentlicht.

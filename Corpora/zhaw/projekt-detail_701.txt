@@ -1,0 +1,10 @@
+Projektbeschreibung 
+Die Schweizerische Gesundheitsbefragung (SGB) ist eine Bevölkerungsbefragung, die vom Bundesamt für Statistik in fünfjährigem Abstand durchgeführt wird. Die nächste SGB ist für das Jahr 2012 vorgesehen. Aus diesem Anlass sollen die bislang in der SGB verwendeten Messinstrumente für psychische Gesundheit und Krankheit überprüft werden. Insbesondere sollen die nachfolgenden Fragen geklärt werden:  
+1)	Wie ist die Testqualität und Testgüte der bisher verwendeten Instrumente für Depression („Wittchen-Skala“) und Kohärenzgefühl (SOC-3/13) zu bewerten? 
+2)	Welche Beziehungen bestehen zwischen den bislang in der SGB eingesetzten Instrumenten zur Erfassung psychischer Gesundheit/Krankheit und zentralen individuellen und strukturellen Determinanten und was ist deren Erklärungsgehalt? 
+3)	Inwiefern sind die bislang verwendeten Instrumente zur Erfassung psychischer Gesundheit/Krankheit über die Zeit vergleichbar und welche Vergleichsmöglichkeiten bestehen zur EUROHIS?  
+Auf der Grundlage der Befunde werden Empfehlungen für die Schweizerische Gesundheitsbefragung 2012 zu Handen des Schweizerischen Gesundheitsobservatoriums und des Bundesamtes für Statistik ausgearbeitet.  
+Datengrundlage 
+Datengrundlage für das Projekt bilden einerseits verschiedene Wellen der Schweizerischen Gesundheitsbefragung (Sekundärdatenanalyse). Andererseits werden im Rahmen von semi-strukturierten Experteninterviews Gesprächsprotokolle erhoben.  
+Methode 
+Testgüte und Testqualität werden anhand unterschiedlicher quantitativer Methoden wie Itemanalyse, Reliabiliätsanalyse, faktorielle Validitätsprüfung, Sensitivitäts- und Spezifitätsbeurteilung vorgenommen. Die Auswertung der Experteninterviews wird mittels qualitativer Inhaltsanalyse vorgenommen.

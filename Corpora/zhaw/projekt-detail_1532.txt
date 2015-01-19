@@ -1,0 +1,4 @@
+Die am IDP eingesetzten und weiter entwickelten Verkehrsflussmodelle dienen der Untersuchung der Verkehrsdynamik in Transportnetzwerken sowie deren Prognose, welche die Grundlage zur Verkehrssteuerung darstellen. 
+Um dies zu erreichen ist es notwendig, eine Entwicklungsumgebung zur Verfügung zu haben, mit welcher verschiedenste Problemstellungen effizient untersucht werden können. 
+Im Rahmen dieses Projektes sollen mikro- und makroskopische Modellierungsansätze gekoppelt werden um die in Strassenverkehrssystemen ablaufenden dynamischen Prozesse besser verstehen zu können. 
+Speziell für Strecken ohne Zählstellen können durch die Mikrosimulation Daten erzeugt werden, welche von makroskopischen Modellen als Input genutzt werden können.

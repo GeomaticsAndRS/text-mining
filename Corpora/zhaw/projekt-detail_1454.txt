@@ -1,0 +1,15 @@
+Accelopment Beim fp7 assistant handelt es sich um ein Projekt, das die Bearbeitung von Projektanträgen im Forschungsbereich einfacher und effizienter zu machen hilft. 
+Dabei wird gezielt Open Source Software eingesetzt - eine Kombination aus Content Management (dem System Typo3) und Dokumentenmanagement (Knowledge Tree). Die Schnittstellenprogrammierung erfolgt durch das Zentrum für Neues Lernen.  
+Nutzen 
+Forschungsprojektanträge erfordern oft Mannmonate in der Erstellung, sind inhaltlich jedoch ausserordentlich komplex - und erst noch nur in einem Viertel der Fälle erfolgreich! Das Risiko für die Antragsteller ist also hoch.  
+Der fp7 assistant  
+    * unterstützt Forschende bei der Ausarbeitung von Projektanträgen 
+    * und hilft dadurch, die Chancen auf die Bewilligung zu steigern   
+Inhalte 
+Der fp7 assistant stellt einerseits Lerninhalte für das Antragsstellen zur Verfügung: 
+=  Für jede Stelle im Antrag werden wertvolle Tipps bereitgestellt 
+=  Neuerungen im FP7 werden tagesaktuell eingestellt 
+=  Sie werden Kapitel für Kapitel durch die Antragstellung geführt  
+Der fp7 assistant verwaltet mit seiner Dokumentenverwaltung Antragsdokumente und die gemeinsame Arbeit daran:  
+=  Ausschreibungsspezifische Dokumente und Vorlagen stehen Ihnen zur Verfügung 
+=  Sie können die Projektpartner informieren, Antragsdokumente austauschen und am Text gemeinsam

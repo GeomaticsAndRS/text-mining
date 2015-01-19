@@ -1,0 +1,1 @@
+A commercially established in-situ sensor for determination of optical density is modfied such that fluorescence of biosuspensions can be measured. This sensor has been shown useful for the real-time quantification of fluorescent proteins (GFP, BFP, YFP) and the autofluorescence of cells in bioreactors.

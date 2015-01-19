@@ -1,0 +1,2 @@
+Skyguide In diesem Projekt entwickeln wir gemeinsam mit unserem Industriepartner Skyguide ein 
+mobiles System, mit dessen Hilfe man Verkehrs- und Kleinflugzeuge hochgenau orten kann.

@@ -1,0 +1,1 @@
+Accelopment AG Für die Accelopment AG, einem Kooperations- und Projektpartner für Projektakquisition und Marketing von EU-Projekten (FP7, FP6, FP5 etc), wurde das Content Management System Typo3 installiert und konfiguriert.

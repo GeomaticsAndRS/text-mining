@@ -1,0 +1,4 @@
+Realisierung eines webbasierten Lehrganges zum New Public Management für die Kantonale Verwaltung Zürich. Der Lehrgang umfasst drei Module, die alle anhand von Case Studies aus der Kantonsverwaltung erarbeitet werden: 
+-Grundbegriffe 
+-Steuerungsinstrumente 
+-Kosten-Leistungs-Rechnung.

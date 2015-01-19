@@ -1,0 +1,1 @@
+Ziel des Projektes ist, den emotionalen Aspekt bei der Gestaltung bzw. dem Gestaltungsprozess der Mensch-Maschine-Schnittstelle medizintechnischer Geräte zu untersuchen und die sich daraus ergebenden spezifischen Anforderungen für die Technikkommunikation zu evaluieren.

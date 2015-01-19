@@ -1,0 +1,12 @@
+Performances Improvement Team AG (PIT) Für das Messezentrum Beaulieu Lausanne 
+wurde ein neuartiger Ansatz zur Messeplanung 
+mit Hilfe eines Simula tionsmodelles 
+entwickelt. Das Modell erlaubt 
+es, ein neues Logistikkonzept in verschiedensten 
+Szenarien auf Engpässe 
+zu untersuchen und weiterzuentwickeln. 
+Wesentliche Modellelemente sind die 
+Steuerung der Lkw- und Pkw-Ströme bei 
+den Checkpoints und auf dem Messeareal 
+sowie das Management der Rampen, des 
+Personals und der Lifte.

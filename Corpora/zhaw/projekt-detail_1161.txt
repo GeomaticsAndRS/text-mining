@@ -1,0 +1,1 @@
+Vacuum interrupters are key components in medium voltage applications and have the task to cut short-circuit and load currents. The underlying physics of metal vapour arcs is very complex. Modeling and simulation can serve to better understand the phenomena, identify the influence of various parameters and optimize the design for better performance.

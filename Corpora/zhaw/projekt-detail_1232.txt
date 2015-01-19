@@ -1,0 +1,1 @@
+Im Projekt BikeLoft wurde ein automatisches Parkhaus für Fahrräder entwickelt.

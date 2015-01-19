@@ -1,0 +1,4 @@
+Das ZHAW Zentrum analysiert Funds of Hedge Funds (FoHF) für institutionelle Investoren auf der Basis von hedgegate (www.hedgegate.com). Die Selektion von FoHF erfolgt aufgrund von 3 Schritten. 
+1. Performance Rating: Aufgrund des auf hedgegate verfügbaren Performance Rating wird eine Long-list erstellt. 
+2. Die Risiken der FoHF auf der Long-list werden mittels zwei Faktormodellen im Hinblick auf Style Risiken und Marktfaktorrisiken analysiert. 
+3. Für die finale Selektion werden die Korrelationen zwischen den FoHF analysiert. Künftig werden auch die Tail-Dependencies analysiert.

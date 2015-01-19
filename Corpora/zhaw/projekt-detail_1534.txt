@@ -1,0 +1,1 @@
+The integrated risk management platform riskpro™ will be extended for use in non-banking organizations. To this end a prototype will be build that is able to model cash flow patterns and risk drivers important in non-banking organisations but not encountered in banks.

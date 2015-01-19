@@ -1,0 +1,7 @@
+In den Zweigwerken von DaimlerChrysler werden viele halb und voll automatisierte Verarbeitungsschritte durchgeführt, bei denen in der Regel mehrere physikalische Grössen erfasst und mittels SPC (Statistical Process Control) überwacht werden. Üblicherweise besteht die SPC darin, bei jedem Messwert zu überprüfen, ob er innerhalb des Toleranzbereichs liegt. Wenn die Werte ausserhalb liegen, wird Alarm geschlagen.  
+Ein Ausbau der Betrachtungsweise besteht darin, dass nicht nur eine statische Überprüfung durchgeführt wird sondern eine dynamische: Es wird auch das zeitliche Verhalten von Werten untersucht. Die folgenden Auffälligkeiten werden unterschieden: 
+•  kontinuierliche Drift von Werten (z.B. durch kontinuierliche Abnützung von Maschinenteilen), 
+•  Sprünge im Erwartungswert (z. B. nach Auswechseln eines Maschinenteils) 
+•  erhöhte Varianz (ein Maschinenteil ist z.B. am Ende der Lebenszeit angelangt und erlaubt deshalb keine Produktion von konstanter Qualität mehr) 
+•  Ausreisser: Wenige Werte liegen ausserhalb des Wertebereichs der Mehrheit der Werte, welche zeitlich in der Nähe liegen. Letzteres kann auf eine Unregelmässigkeit im Herstellungsprozess hinweisen, welche nur „einmalig“ auftritt.  
+Ziel des Projekts war die Entwicklung eines neuen SPC-Algorithmus, welcher die vier oben genannten Auffälligkeiten detektieren kann. Für die Realisation wurden im Wesentlichen robuste Schätzungen von Erwartungswert und Varianz verwendet.

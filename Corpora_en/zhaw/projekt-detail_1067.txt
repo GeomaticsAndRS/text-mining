@@ -1,0 +1,1 @@
+The company ECTN extracted form features of the detected vehicles from measurement data from laser scanners. Aim of this project was to associate the correct SWISS 10 vehicles vehicle class due to these characteristics, while all classes (even the severely under-represented) be identified with high classification rate.

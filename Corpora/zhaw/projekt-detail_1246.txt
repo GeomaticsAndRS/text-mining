@@ -1,0 +1,1 @@
+Simulation eines hochdynamischen Transport- und Lagersystems. Erarbeitung und Test der Steuerungsstrategien und Überprüfung des Anforderungsprofiles für die Transporteinheiten im Simulator

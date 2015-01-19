@@ -1,0 +1,1 @@
+A human membrane protein (ion channel) is produced in very high cell density cultivations of /Pichia pastoris/. The bacterial system /Rhodobacter/ is currently being developed as a generic bacterial production system for membrane proteins.

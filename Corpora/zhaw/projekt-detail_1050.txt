@@ -1,0 +1,6 @@
+Auch im Jahr 2010 dürfen Studentinnen und Studenten der Studienrichtung Betriebsökonomie mit Schwergewicht Business Information Technology der ZHAW School of Management and Law die technische Realisierung des IT Managements durchführen. Die vorjährige Zusammenarbeit hat gezeigt, dass ein solches Projekt den Studentinnen und Studenten einen starken Praxisbezug bietet und die enge Zusammenarbeit mit Wirtschaftspartnern auch eine gute Möglichkeit für das eigene Netzwerk darstellt. Unter Leitung des Dozenten Caesar Roth und Betreuung durch Lukas Kurtz hat sich die Klasse BIT07 in spezialisierte Gruppen aufgeteilt, welche sich um die Lieferobjekte kümmern. Diese sind unter anderem: 
+- Webseite 
+- Newsletter-Tool für den Versand von Neuigkeiten 
+- Möglichkeit für das integrierte Online-Voting 
+- Ticketing/Seating Applikation für einen reibungslosen Ablauf des Anlasses  
+Ein Projektoffice ist für die Organisation des Projektes innerhalb der ZHAW zuständig.

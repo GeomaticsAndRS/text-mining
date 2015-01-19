@@ -1,0 +1,6 @@
+In der Studie wird der Entwicklungsstand eines Gesundheitsclusters (u.a. Medizinaltechnik; Gesundheitswesen) in der Region Winterthur untersucht. Mit einer fundierten Analyse der darin involvierten Wirtschaftszweige und Akteure sollen Grundlagen erarbeitet werden, welche (künftige) Rolle die ZHW innerhalb dieses Clusters spielt bzw. spielen könnte.  
+Methodisches Vorgehen 
+1) Erarbeiten der Ausgangslage	(Theoretische Grundlagen, Situationsanalyse): Literaturanalyse, Internetrecherche, Experteninterviews 
+2) Analyse: a) Ebene CH und grenznahes Ausland, Wirtschaftsraum Zürich, Region Winterthur: Sekundäranalyse amtlicher Statistiken, Dokumentenanalyse; 
+b) interne und externe Einbindung der ZHW in informelle und formelle Netzwerke im Bereich der Gesundheit, Medizinaltechnik, etc.: on-line Befragung ZHW 
+3) Synthese: Visualisierung (Standorte, Kooperationen), Auswertung des Materials, Folgerungen und Auswertungen mit GIS, Schlussbericht.

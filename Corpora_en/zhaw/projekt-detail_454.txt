@@ -1,0 +1,1 @@
+Aim of this project is the development of a system for the automation in the precision boring. In the current state of technology, manual intervention by the operator are necessary for correcting tool due to wear in the machining. Through the innovation of this project, for the first time enables an automated production and thus a cost reduction realized by products.

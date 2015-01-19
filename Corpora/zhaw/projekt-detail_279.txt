@@ -1,0 +1,2 @@
+Gegenstand des Projektes ist die fachliche Modellierung der Prozesslandschaft eines typischen kleineren Energieversorgungsunternehmens.  
+Dabei wird einerseits eine Prozesslandkarte entwickelt, sowie auch zwei Detaillierungsstufen der einzelnen Prozesse mithilfe der Notation BPMN 2.0 modelliert. Bereits vorhandene Prozesse, welche mit der EPK-Notation festgehalten wurden, werden ins BPMN 2.0 übersetzt, evaluiert und verfeinert.

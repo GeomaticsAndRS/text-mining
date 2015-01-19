@@ -1,0 +1,7 @@
+Das Ziel des Projekts ist die Entwicklung eines Patienten-klassifikationssystems (PCS) welches als Berechnungsgrundlage für einen leistungsorientierten Tarif in der stationären geriatrischen Rehabilitation verwendet werden kann. Auf der Basis des PCS sollen die Patienten 3 bis 5 Tarifstufen zugeordnet werden, welche einer auf Wochenbasis zu bestimmenden Tagespauschale entsprechen. 
+Die Entwicklung des PCS verläuft in folgenden Phasen: 
+1. Es werden zwei Arbeitsgruppen gebildet, an denen jeweils sowohl Vertreter der Kliniken wie der ZHAW teilnehmen: 
+•	Die erste Arbeitsgruppe definiert, welche Patientenmerkmale als mögliche Prädiktoren der Kosten erhoben werden sollen (beispielsweise validierte Assessments). Dieses Teilprojekt wird vom G geleitet. 
+•	Die zweite Arbeitsgruppe befasst sich mit der Auswahl der zu erhebenden Leistungs- und Kostendaten. Teilprojekt unter der Leitung vom WIG. 
+2. Erhebung: Die definierten Patientenmerkmale sowie die Leistungs- und Kostendaten werden in den teilnehmenden Kliniken für 800 zufällig ausgewählte Patienten erhoben. Das G ist während der Erhebung mit der Kontrolle der Datenqualität mitbetraut. 
+3. Statistische Aufbereitung der erhobenen Patienten- und Kostendaten. Das Ziel ist die Entwicklung eines einfachen und verlässlichen Instruments zur Prognose der durchschnittlich zu erwartenden Tageskosten aufgrund der Merkmale der Patienten. Das PCS soll die Patienten in wenige möglichst klar abgegrenzte Tarifstufen mit relevanten Kostenunterschieden einteilen.

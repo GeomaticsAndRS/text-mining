@@ -1,0 +1,2 @@
+Treibersoftware in Java für die Interbus-S Peripherie eines mehrachsigen Roboters mit Hydraulikaktuatoren zum Spritzen von Beton im Tunnelbau. 
+Projekt beendet 2004.

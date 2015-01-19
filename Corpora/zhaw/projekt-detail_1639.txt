@@ -1,0 +1,2 @@
+Projektziel ist die Sicherung der Konkurrenzfähigkeit von Schweissteile herstellenden KMUs durch Automatisierung der Prozessschritte „Zusammenfügen von Teilen zu Baugruppen und Heften“. Dazu wird das roboterbasierte Assistenzsystem RAAS (Robot Assisted Assembly System) entwickelt. Eine solche Anlage kann sich bereits ab Produktionslosgrösse von einem Stück lohnen. 
+Das Projekt wurde 2006 mit der Präsentation eines funktionsfähigen Prototypen abgeschlossen.

@@ -1,0 +1,1 @@
+The project is the professional modeling of the process landscape of a typical smaller power supply company. While a process map will be developed, and modeled two levels of detail of each process using the notation of BPMN 2.0. Existing processes, which have been held with the EPC notation are translated in the BPMN 2.0, evaluated and refined.

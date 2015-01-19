@@ -1,0 +1,1 @@
+The objective is the development of a near real-time pathogen screening system for all globally relevant turf grass diseases using PCR-ELISA technology against a prepared array of disease specific oligonucleotide probes.

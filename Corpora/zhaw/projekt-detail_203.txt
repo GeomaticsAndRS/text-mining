@@ -1,0 +1,7 @@
+Über 50% der Menschen weltweit leben in Städten und verbrauchen einen Grossteil der global produzierten Energie. Städte bieten somit ein grosses Potential für Energieeffizienzmassnahmen und spielen eine entsprechend wichtige Rolle in der Energiewende.  
+Aufbauend auf früheren Erkenntnissen werden Grundlagen für ein wissenschaftlich fundiertes Gesamtkonzept „Smart City“ erarbeitet und entsprechende Transformationsprozesse entwickelt. Im Vordergrund stehen dabei system­wissenschaftliche Ansätze. Zudem werden geeignete Technologien für Smart Cities sowie deren Verknüpfungspotentiale analysiert.  
+Unter dem Begriff „smart city“ wird ein Konzept verstanden, welches Städten ermöglichen soll, mithilfe von Informations- und Kommunikationstechnologien, Infrastrukturen und Ressourcen (z.B. Energie) intelligenter zu nutzen. Eine wichtige Rolle spielt hierbei die Verknüpfung von verschiedenen Technologien, z.B. im Gebäudebereich und der Energieversorgung.  
+Ziele des Projekts sind: 
+Ein besseres Verständnis des Begriffs „smart city“ zu entwickeln 
+Identifikation und Analyse von geeigneten Technologien und Technologieportfolios für „smart cities“ 
+Identifikation von Treibern und Barrieren für die Entwicklung von „smart cities“ sowie Konzeption eines entsprechenden Transformationsprozesses.

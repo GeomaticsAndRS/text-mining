@@ -1,0 +1,7 @@
+Das Ermitteln von Kennzahlen ist ein wichtiger Schritt zur Professionalisierung der Führung von Betriebswäschereien. Die Datenbank „Kennzahlen für das Textilmanagement“ generiert auf der Basis der erfassten Daten Kennzahlen zu folgenden Aspekten: 
+- Wäschemenge 
+- Kosten 
+- Umsatz 
+- Produktivität 
+- Qualität  
+Der Kennzahlenbericht ermöglicht inner - und zwischenbetriebliche Vergleiche und liefert umfassende Grundlagen für das Textilmanagement und allfällige Make-or-buy-Entscheidungen.

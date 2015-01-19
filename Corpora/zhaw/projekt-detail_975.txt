@@ -1,0 +1,4 @@
+Im Rahmen eines Pilotprojektes wurde die ZHAW School of Management and Law (SML) beauftragt, zu evaluieren, ob Data Mining für eine spezifische Fragestellung im Bereich Detailhandel grundsätzlich in Frage kommt und um erste Modelle zu erarbeiten. Diese Arbeiten hat das Zentrum für Wirtschaftsinformatik (ZWI) von August bis Dezember 2009 mit folgenden Resultaten erledigt: 
+Die relevanten Qualitätswerte sind für beide erarbeiteten Modelle zu tief, um die Richtigkeit der Modelle annehmen zu dürfen und mit ihnen arbeiten zu können. Dies ist insbesondere darauf zurückzuführen, dass die Anzahl berücksichtigter Input-Faktoren im Verhältnis zu den identifizierten Einflussfaktoren zu niedrig war.  
+Aufgrund dieser Resultate wurde die ZHAW beauftragt, eine Vollerhebung der 
+Einflussfaktoren bei allen Input-Faktoren durchzuführen und darauf aufbauend neue Data Mining Modelle für den Erfolg einer dieser Input-Faktoren zu erarbeiten.

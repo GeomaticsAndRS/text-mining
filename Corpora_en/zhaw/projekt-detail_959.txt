@@ -1,0 +1,1 @@
+A new class of wavelets, derived by an abstract mathematical model for the signal processing in the inner ear, is examined in numerical computer experiments. Performance and limits with respect to analysis and manipulation of acoustic data, such as data compression or de-noising, are explored.

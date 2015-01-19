@@ -1,0 +1,2 @@
+In der Machbarkeitsstudie PMA wurden die Grundlagen für die personalisierte mobile Wegleitung und Information von (Flug-)Reisenden mit Behinderungen entwickelt. Insbesondere surde die Machbarkeit der Wegleitung basierend auf der optischen Auswertung der visuell-taktilen Leitlinien gemäss einem vom InIT entwickelten Patent nachgewiesen werden. 
+Der PMA soll den behinderten Flugpassagieren den Weg weisen von zu Hause bis an das gewünschte Abflug-Gate (oder umgekehrt) und sie jederzeit mit den aktuellen Reiseinformationen versorgen.

@@ -1,0 +1,1 @@
+Johnson Zug In dieser Machbarkeitsstudie wurde untersucht, ob es möglich ist, quantitative Modelle für die Vorhersage von Preisen für Fein- und Spezialchemikalien zu erstellen.

@@ -1,0 +1,1 @@
+Definition einer Referenzarchitektur für den Austausch von standardisierten und adhoc Daten in einem heterogenen, zeitkritischen System.

@@ -1,0 +1,1 @@
+A GUI (graphical user interface) was developed for PCS AG (Wetzikon), which is active in the field of biotechnological and pharmaceutical process industry, can be visualized with which process variables.

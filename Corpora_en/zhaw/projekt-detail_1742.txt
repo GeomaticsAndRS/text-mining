@@ -1,0 +1,1 @@
+Industry: Logistics order: product definition for a logistics provider in Germany tasks: – definition of offered products - define product modules – determine service levels - product hierarchy set - suggest pricing

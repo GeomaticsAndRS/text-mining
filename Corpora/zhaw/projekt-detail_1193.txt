@@ -1,0 +1,2 @@
+Bei diesem Projekt handelt es sich um ein Kooperationsprojekt des Zentrums für Technikkommunikation mit dem Zentrum für Marketing Management (Brian P. Rüeger; Frank Hannich; Cornelia Sauer). 
+Ziel des Projektes ist, mittels der Methoden Usability-Testing und Eyetracking die Benutzerfreundlichkeit einer neu lancierten E-Mailing Kampagne zu untersuchen und Optimierungsempfehlungen für zukünftige Kampagnen zu erarbeiten.

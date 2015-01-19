@@ -1,0 +1,3 @@
+Accarda AG Um die Reaktion eines Kundenkreises auf Werbemassnahmen vorherzusagen, stehen 3 verschiedene Variablensets à 10, 30 und 52 erklärende Grössen bereit. Mit analytischen Methoden soll die aussagekräftigste Datenquelle ermittelt werden.  
+Auf jedem dieser drei Sets wurde eine prädiktive Variablenkombination ermittelt und eine Prognose des Kunden-Response mit Data Mining Tools wie Classification Trees, Random Forests, Support Vector Machines und logistischen Klassifizierern durchgeführt.  
+Danach wurden die gefundenen Variablensets sowie die verschiedenen Vorhersagemethoden mittels eigens entwickelten Lift Charts und zugehörigen Konfidenzintervallen hinsichtlich ihres prädiktiven Nutzens beurteilt und grafisch dargestellt.

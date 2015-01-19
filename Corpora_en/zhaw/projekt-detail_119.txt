@@ -1,0 +1,1 @@
+myX GmbH verification and if necessary modification of already mapped polygons in the KT of advanced soil suitability map for Niederhelfenschwil St. Gallen. This is made 3 holes of control through the detailed description, according to polygon size, 1 -. The new polygon boundaries are then digitized in Arc GIS.

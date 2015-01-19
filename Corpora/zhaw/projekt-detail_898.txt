@@ -1,0 +1,1 @@
+Bestehende Konzepte für das User Interface eines Gerätes aus dem Bereich Medizintechnik (Strahlentherapie) sollen im Hinblick auf Usabilty-Aspekte überprüft und ggf. optimiert werden (Zusammenarbeit mit Industriepartner).

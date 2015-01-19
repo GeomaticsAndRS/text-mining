@@ -1,0 +1,1 @@
+A novel driving module will be developed through the use of a special component, which can be made robust, compact and low-cost. To all constructive details as well as the control technical aspects of mechatronic system are examined with the aim to generate a prototype for a mass-grade product.

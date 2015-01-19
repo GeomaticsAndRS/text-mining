@@ -1,0 +1,5 @@
+Es wird ein optimierter PROFINET IO Stack auf einem neu zu entwickelnden Hardware-Modul mit einem ColdFire-Prozessor und auch dem Linux-Betriebssystem 
+realisiert. Das Modul wird universell aufgebaut, um verschiedene Feldbussysteme sowie die Anforderungen für eine IRT 
+Switching Unit des PROFINET IO zu unterstützen. Diese Komponenten werden künftig auch zur 
+PROFINET Schulung eingesetzt. Im PROFINET IO Stack werden Erweiterungen, wie 
+Topologieerkennung, Querverkehr, IPsec und SNMP-Ankopplung implementiert. Dazu wird aktiv in den PN Benutzergremien mitgearbeitet.

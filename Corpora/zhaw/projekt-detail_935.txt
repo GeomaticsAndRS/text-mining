@@ -1,0 +1,7 @@
+Für die Erforschung des menschlichen Ganges und die klinische Ganganalyse ist es notwendig, dass erhobene Daten mit einer Normdatenbank verglichen werden können. Jedes Bewegungslabor muss hierzu seine eigenen Daten aufnehmen.  
+Zu diesem Zweck wurde das Gangmuster von 40 erwachsenen Personen im Alter zwischen 20 – 60 Jahren aufgezeichnet und in einer Normdatenbank gespeichert. Es wurden drei verschiedene Ganggeschwindigkeiten gemessen: langsames Gehen, die selbstgewählte Geschwindigkeit und Jogging. 
+Das Gangmuster wurde anhand eines Infrarotkamera-Systems, Kraftmessplatten und Elektromyographie aufgezeichnet.  
+In der klinischen Ganganalyse werden vor allem Kinder mit Cerebraler Parese untersucht. So wurden in einem weiteren Schritt Normdaten von Kindern im Alter zwischen 7 und 14 Jahren aufgenommen. 
+Da hier der Bewegung des Fusses eine spezielle Bedeutung zugemessen wird, wurden die Kinder mit dem Oxford Foot Model gemessen. Dieses Modell ermöglicht die genauere Beurteilung der Bewegung zwischen Vor- und Rückfuss.  
+Ziel dieses Projekts ist eine Datenbank von Normdaten des menschlichen Ganges, welche aufgeteilt ist in verschiedene Altersgruppen, Ganggeschwindigkeiten und Modelle.  
+Das Projekt wurde erfolgreich abgeschlossen.

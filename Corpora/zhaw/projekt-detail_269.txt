@@ -1,0 +1,5 @@
+This project is aimed at the development of a CAS programme in English-medium instruction, focusing on the interface between language and didactics. The project involves the following steps: 
+-	Market surey 
+-	Curriculum development  
+Timeline: September 2013 to February 2014 
+Deliverable: CAS programme

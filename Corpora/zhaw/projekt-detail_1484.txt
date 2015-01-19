@@ -1,0 +1,14 @@
+In diesem Projekt wird prototypisch die Wirksamkeit zweier E-Learning-Tools untersucht, die für den Kommunikationsunterricht in Deutsch und Englisch an der ZHW konzipiert und entwickelt wurden.  
+„Recht, Sprache &  eLearning“  
+Das Tool „Recht, Sprache &  eLearning“ hat zum Ziel, die sprachformalen Kompetenzen von Hochschulstudierenden beim Redigieren und Schreiben deutschsprachiger Sachtexte zu erhöhen. Es besteht in der Hauptsache aus Fachtexten, die mit Orthographie-, Interpunktions- und Grammatikregeln verbunden sind. Die Studierenden lernen individualisiert und erhalten auf Fehler bei der Bearbeitung spezifische Rückmeldungen und Hinweise zur individuellen Verbesserung. 
+Im Projekt werden mittels Leistungstests die Redaktionskompetenz sowie die sprachformale Schreibkompetenz von ZHW-Studierenden im 1. Semester gemessen – jeweils vor und nach der Beschäftigung mit dem Sprachlern-Tool –, um daraus Aussagen über dessen Wirksamkeit abzuleiten.  
+“The English Grammar E-learning Tool”  
+“The English Grammar E-learning Tool” is being developed in an attempt to unify the grammar practice material used by the English teachers in the ZHW. Its aim is to provide grammar explanations, practice and feedback to students and, thus, to improve students’ grammatical awareness (units consisting of a variety of exercises and texts at approximately B2 and C1 level). 
+Measurements: 
+a) The extent to which students’ grammatical knowledge does benefit from this tool 
+b) The extent to which students prefer such a tool to a more traditional grammar book 
+c) The way in which students use this tool 
+Methods: 
+a) testing at the beginning and end of two EE1 courses next semester 
+b) contrasting two classes that use this tool with two classes that adopt a more traditional approach 
+c) interviewing students about their use and opinion of the tool

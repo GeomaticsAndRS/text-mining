@@ -1,0 +1,1 @@
+Screening / sieving are basic methods to classify mixtures of particles (granular media) according to their size and a key process in many industries an applications. A new mathematical model based on the description of the underlying stochastic processes is developed which allows an optimzed dimensioning of sieving machines.

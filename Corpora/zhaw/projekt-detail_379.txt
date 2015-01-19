@@ -1,0 +1,1 @@
+Bakteriophagen sind Viren von Bakterien. Da Phagen äusserst spezifisch sind und ihre Wirtsbakterien effizient zerstören können, werden sie zum Nachweis und zur Kontrolle von pathogenen und Verderbskeimen eingesetzt. In diesem Projekt werden Bakteriophagen isoliert und charakterisiert, um sie zur Detektion oder Kontrolle von pathogenen Bakterien im Lebensmittel einzusetzen.

@@ -1,0 +1,1 @@
+Dosilab AG We develop an electronic personal dosemeter that should be able to measure pulsed radiation as it is used in CT.

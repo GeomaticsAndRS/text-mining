@@ -1,0 +1,1 @@
+Entwicklung eines Grobkonzepts für einen Datenverbund einer verteilten Organisation.

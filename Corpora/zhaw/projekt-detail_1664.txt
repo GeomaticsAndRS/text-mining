@@ -1,0 +1,1 @@
+Für die Firma PCS AG (Wetzikon), welche im Bereich der biotechnologischen und pharmazeutischen Prozessindustrie tätig ist, wurde ein GUI (Graphical User Interface) entwickelt, mit welchem Prozessgrössen visualisiert werden können.

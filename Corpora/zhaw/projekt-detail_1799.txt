@@ -1,0 +1,36 @@
+MAN. München Ausgangslage 
+Die MAN Nutzfahrzeuge AG in München plant ein automatisiertes Fahrerhaus-Silo am Standort München. Die Planung des neuen, automatisierten Pufferlagers ist mit herkömmlichen, statischen Methoden nicht zuverlässig genug möglich. Die statischen Leistungsanforderungen an das neue Lagerkonzept sind bekannt. Die daraus resultierenden dynamischen Anforderungen an Beschleunigungen und Geschwindigkeiten für Shuttles und Heber sollen in einem Simulationsmodell ermittelt werden. Der Einfluss verschiedener Ein- und Auslagerungsstrategien sollen hinsichtlich der Grenzleistungen des Systems überprüft werden. Die bisher angewandten Planungsmethoden berücksichtigen die Dynamik des Ein-, Aus- und Umlagern nur teilweise. Um die Planungssicherheit zu erhöhen und die Investitionen in das neue automatische Zwischenlager abzusichern, soll eine Simulationsstudie durchgeführt werden.  
+Zielsetzungen  
+Mittels Simulation sollen die Anforderungen an die Fördermittel definiert und das Materialfluss-Steuerungskonzept erarbeitet werden. Die Auswirkungen verschiedener Ein- und Auslagerstrategien sollen aufgezeigt werden. Die Grenzleistungen des Systems sollen unter Berücksichtung verschiedener Einflussgrössen ermittelt werden.  
+Insbesondere ist die Erbringung des Funktions- und Leistungsnachweises erklärte Zielsetzung. Die Richtigkeit der Dimensionierung und Steuerung von Teilsystemen, sowie des Gesamtsystems ist bereits vor Vergabe des Auftrages weitestgehend zu gewährleisten. Unter einer richtigen Dimensionierung wird hierbei verstanden, dass ausschliesslich die unter kundenspezifischen Bedingungen wirklich notwendigen Ressourcen zum Einsatz kommen. 
+Steuerungskonzepte sind zu erarbeiten und zu überprüfen, Engpässe sind zu ermitteln. 
+Das von MAN Nutzfahrzeuge AG definierte Mengengerüst soll im Simulator verarbeitet und das System hinsichtlich der geforderten Leistungen beurteilt werden.  
+Die folgenden Ziele und Spezifikationen sind, in Abhängigkeit des Mengengerüsts, im Detail zu erreichen: 
+ - Geschwindigkeiten und Beschleunigungen der Shuttles 
+ - Geschwindigkeiten und Beschleunigungen der Etagenförderer 
+ - Geschwindigkeiten aller übrigen Fördermittel 
+ - Zeit um eine Palette um 1 Position zu verschieben 
+ - Zeiten für das An- und Abkoppeln 
+ - Ermitteln und Überprüfen der Steuerungsstrategie für das Ein- und Auslagern der Fahrerhäuser.  
+Das Simulationsmodell soll in der Phase der Auftragsvergabe dazu dienen, die verschiedenen Systemanbieter hinsichtlich der geforderten Leistungen zu beurteilen.  
+Kosteneinsparungen 
+ - Optimale Auswahl der Systemanbieter 
+ - Reduktion der Zeit für die Inbetriebnahme. 
+ - Optimierte Anlagensteuerung 
+ - Effiziente Planung 
+ - Planungsänderungen hinsichtlich Auswirkungen auf die dynamischen Wechselwirkungen beurteilen  
+Systemverständnis 
+ - Begründung und Überprüfung der gewählten Lösung. 
+ - Vermeidung oder Eliminierung von Engpässen. 
+ - Simulationsmodell als Schulungsobjekt. 
+ - Prozessoptimierung nach beliebigen Zielfunktionen. 
+ - Anlagenbetreiber und beratende Ingenieure können mittels EXCEL-Interface auch ohne Simulationskenntnisse auf das Model zugreifen und das System auf die Parametersensibilität überprüfen.  
+Sicherheitsgewinn 
+ - Funktionalität des geplanten Systems. 
+ - Minimierung planungsbedingter Fehlerquellen. 
+ - Qualität des Pflichtenhefts  
+Flexibilität 
+ - Kurzfristige Bereitstellung von Entscheidungsgrundlagen. 
+ - Ermitteln optimaler Strukturen. 
+ - Gestaltung zeitoptimierter Abläufe.  
+Die Systemlastdaten, Parameter und Zielgrössen werden per Excel dem Simulator übergeben

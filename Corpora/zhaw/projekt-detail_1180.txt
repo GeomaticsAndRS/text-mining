@@ -1,0 +1,7 @@
+Aufbauend auf der Struktur der Studie „Biogene Güterflüsse der Schweiz“ werden Daten und Informationen zu Biomasse gebundenen Schadstoffen zusammengetragen, mit Schadstoffflüssen aus anderen Quellen in Zusammenhang gebracht und als Stoffflussanalyse dargestellt. Die Studie, die im Auftrag des Bundesamts für Umwelt (BAFU) durchgeführt wird, fokussiert dabei auf  
+- die Erarbeitung einer Übersicht über vorhandene Daten-  Informationsquellen zu biomassegebundenen Schadstoffen in der Schweiz 
+- die Beurteilung und Auflistung möglicher Quellen, Eintragspfade und Senken von organische Schadstoffen und Schwermetallen in Biomassen. 
+- die detaillierte Betrachtung dieser Schadstoffflüsse in den Mega-Prozessen „Landwirtschaft“ (Pflanzenbau, Tierhaltung) sowie „Nutzung  Entsorgung“ (Vergärung, Kompostierung, Verarbeitung Energieträger). 
+- der Vergleich dieser Schadstoffflüsse mit jenen aus mineralischen Düngern und weiteren landwirtschaftlichen Gütern  Hilfsprodukten. 
+- die Beschreibung offener Datenlücken in Bezug aus Schadstoffe in Biomassen. 
+- die Erarbeitung von Empfehlungen zur Schliessung dieser Datenlücken.

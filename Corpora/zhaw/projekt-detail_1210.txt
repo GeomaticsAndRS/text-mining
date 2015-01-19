@@ -1,0 +1,1 @@
+Als Teil eines kompletten Redesign des Marktauftritts wurde der Internetauftritt dem neuen Corporate Identity Konzept anpasst und technisch auf den neusten Stand der Technologie gebracht. Das Projekt umfasste unter anderem CMS-Module (CMS = Content Management System) zur Umrechnung von Fremdwährungen, aktuelle Zinssätze, Offene Stellen, etc.

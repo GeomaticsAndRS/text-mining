@@ -1,0 +1,17 @@
+Problemstellung 
+Annähernd 30% der über 65 Jährigen stürzen jährlich wobei sich die Inzidenz pro Dekade zusätzlich um 10% erhöht. Die demografische Alterung in der Schweiz setzt sich laut dem Bundesamt für Statistik (BFS) von Jahr zu Jahr fort. Interdisziplinäre multifaktorielle Sturzpräventionsprogramme weisen gute Ergebnisse auf, jede erstmalige Implementierung eines Solchen muss jedoch evaluiert werden. 
+Das Pilotprojekt „Mobil und sicher zuhause leben“ (wird später im Text als „Projekt“ bezeichnet) wurde von der Rheumaliga Schweiz (RLS) und der Rheumaliga Luzern und Unterwalden initiiert. In interdisziplinärer Zusammenarbeit sollen Sturzgefährdete ältere Menschen ( 65) erfasst und präventiv behandelt werden. 
+ Fragestellung 
+Was sind Stärken und Barrieren des interdisziplinären, multifaktoriellen Pilotprojektes „Mobil und sicher zuhause leben“? Wie können identifizierte Barrieren abgebaut werden? 
+ Methode 
+Studiendesign: 
+ „Mixed method design“: Qualitative, phänomenologische Daten und quantitative Daten werden seriell erhoben um eine möglichst hohe Sättigung an Informationen und somit ein möglichst vollständiges Bild über das Projekt zu bekommen (Creswell  Plano Clark, 2007). 
+Studienablauf: 
+Erfassen der Stärken und Barrieren anhand Daten aus dem Projekt, anhand semistrukurierten Interviews und Fragebögen. 
+Sample 
+Spitex Luzern (84), Luzerner Hausärzte (280), Physiotherapeuten (4) 
+Projekt-Studienteilnehmer (ca.150) 
+Statistisches Auswertungskonzept: 
+Analyse der durch die RLS übermittelten Daten auf Teilnehmerverluste 
+Analyse der Interviews durch die qualitative Inhaltsanalyse nach Mayring (1997) (Flick, von Kardoff,  Steinke, 2000 S.475) mit Hilfe des Computerprogrammes ATLAS.ti. 
+Analyse der dichotomen Aussagen aus den Fragebögen in Zusammenhang mit den Daten von der RLS (Alter, Geschlecht, Wohnstandort) mit IBM SPSS Statistics 21.

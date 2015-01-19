@@ -1,0 +1,1 @@
+Um die Palette an Küchengeräten zu ergänzen wurde ein neuer Gerätetyp #039;GarSensorik #039; entwickelt, dieser ist fähig anhand automatischer Mengenerkennung die Gartemperatur, die Garzeit, sowie die ideale Betriebsart mit dem gewünschten Bräungungsgrad auf das entsprechende Lebensmittel abzustimmen.

@@ -1,0 +1,15 @@
+Das Institut für Wirtschaftsinformatik führt in regelmässigen Abständen Studien zum Stand des Prozessmanagement in der Praxis durch. 2015 steht die Studie unter dem Titel Prozessintelligenz . 
+Prozessintelligenz kombiniert Methoden und Werkzeuge aus der Welt des Prozessmanagement und der Business Intelligence, um die Struktur und Ausführung der Geschäftsprozesse mit Blick auf strategische und operative Ziele weiterzuentwickeln, z.B. um: 
+-Prozessmodelle und Prozessausführung zu analysieren und zu optimieren (Performanz, Qualität) 
+-Kunden-/Kontextorientierung zu verbessern 
+-Entscheide in Prozessen zu unterstützen 
+-Prozessstrukturen zu erkennen und zu rekonstruieren (Transparenz) 
+-Die Konformität von Prozessen zu prüfen (Soll/Ist-execution-gaps, Compliance, QM) 
+-Prozesse agiler zu machen (Flexibilität) 
+-Neue Geschäftsmodelle zu ermöglichen (Innovation)  
+Ziel der Studie ist es den Stand der Praxis in Sachen Prozessintelligenz im deutschsprachigen Raum zu ermitteln: 
+-Wofür wird Prozessintelligenz bereits eingesetzt (Anwendungsszenarien)? 
+-Wo sehen Unternehmen nicht ausgeschöpftes Potenzial? 
+-Welche Elemente aus der Welt der BI- und BPM-Lösungen sind für Prozessintelligenz relevant / im Einsatz (was, wofür)? Was sind Einstiegsmöglichkeiten und Weiterentwicklungen?  
+In einer Serie von Praxis-Workshops (Q1 2015) mit Anwenderunternehmen und einer Umfrage sollen early practices und der Stand der Praxis ermittelt werden. 
+Interessierten Unternehmen, die bereits Anwendungsszenarien im Bereich Prozessintelligenz umgesetzt haben oder sich in einem fortgeschrittenen Projekt befinden, gibt die Projekleitung gerne weitere Informationen.

@@ -1,0 +1,14 @@
+The R Project for Statistical Computing 
+IDPmisc enthält verschiedene komplexe Grafikfunktionen, welche speziell für grosse Datensätze entwickelt wurden wie sie z.B. in der Lufthygiene immer wieder anzutreffen sind: 
+Pairs- und Lagplots, bei denen an Stelle einzelner Punkte Punktedichten dargestellt werden. 
+Plots von sehr langen Zeitreihen, welche u.U. nicht mehr auf eine einzelne Bildschirmseite passen. Es kann bequem durch die Zeitreihen geblättert werden oder es können automatisch mehrere Grafikseiten erstellt werden. Mehrere Zeitreihen können bequem übereinandergelegt werden, wobei bei Bedarf zwei verschiedene Skalierungen für die linke und rechte Y-Achse gewählt werden können. 
+Windrosenplots für zirkuläre Daten samt Gruppierungsmöglichkeit.  
+Daneben enthält das Package diverse nützliche Utilities zur Erstellung von Grafiken und zum Programmieren, u.a. 
+fein abgestimmte Farbpaletten zur Darstellung von Dichten bzw. Intensitäten; 
+eine Funktion zum Zeichnen von „ästetischeren“ Pfeilen; 
+eine Zoomfunktion für 2-D-Bilder; 
+eine Funktion zum Entfernen von ungültigen und unendlichen Werten aus data.frames; 
+eine Funktion zur Selektion von Daten, auch wenn die logische Operation einige NA-Werte liefert; etc.  
+Weiter existieren zwei Funktionen, welche für Spektren und Zeitreihen interessant sind: 
+Finden von Peaks und Schultern 
+Bestimmung der Basislinie eines Spektrums

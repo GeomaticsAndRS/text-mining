@@ -1,0 +1,6 @@
+Bundesamt für Metrologie METAS, Bern In der klinischen Analytik werden chemische Sensoren routinemässig zur Bestimmung von Elektrolyten und Glucose in Blut oder Blutplasma eingesetzt. Sie erfassen dabei die Aktivität eines Analyten, also dessen frei verfügbaren und somit biologisch relevanten Anteil. Im Gegensatz dazu wird mit konventionellen Messgeräten die Gesamtkonzentration des Analyten bestimmt.  
+In Zusammenarbeit mit dem Bundesamt für Metrologie (METAS) wird im Projekt die Messung mit potentiometrischen ionenselektiven Elektroden (ISEs) und amperometrisch-enzymatischen Glucose-Biosensoren unter die Lupe genommen. Im Vordergrund stehen dabei Anwendungen in der klinischen Chemie. Im Rahmen des Projekts werden die folgenden Fragestellungen untersucht: 
+    * Optimierung von chemischen Sensoren für präzise Messungen 
+    * Verfahren zur Kalibration im physiologischen Bereich 
+    * Quantifizierung der Messunsicherheit 
+    * Vergleichbarkeit und Rückführbarkeit der Messungen mit chemischen Sensoren

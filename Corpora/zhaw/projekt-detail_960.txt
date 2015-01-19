@@ -1,0 +1,2 @@
+Computer data centers consume some 2% of worldwide electricity. The idea is to bring 
+together industrial and academic expertise in the areas of sensing systems, building technology, and advanced control and systems theory for dynamically optimizing the cooling of a data center.

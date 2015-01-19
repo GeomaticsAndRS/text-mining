@@ -1,0 +1,1 @@
+Seit dem 01.08.2011 bietet die Fachstelle Geoinformatik das Aufsetzen einer Wiki für Fachstellen oder Projekte an. Auf Grundlage der Software Mediawiki (bekannt von z.B. Wikipedia) kann eine individuelle Wiki aufgebaut werden.

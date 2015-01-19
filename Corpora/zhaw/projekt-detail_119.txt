@@ -1,0 +1,1 @@
+myx GmbH Verifizierung und ggf. Modifizierung von bereits kartierten Polygonen der erweiterten Bodeneignungskarte bei Niederhelfenschwil im Kt. St. Gallen. Dies wird durch die detaillierte Beschreibung von, je nach Polygongrösse, 1 - 3 Kontrollbohrungen gemacht. Die neuen Polygongrenzen werden anschliessend in Arc GIS digitalisiert.

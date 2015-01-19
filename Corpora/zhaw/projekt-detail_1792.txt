@@ -1,0 +1,15 @@
+Das Projektziel ist die Entwicklung eines schnellen und trotzdem präzisen Roboter-Systems. Der Roboter soll in Genauigkeit und Geschwindigkeit heutige Systeme deutlich übertreffen. Trotzdem soll er kostengünstig sein. 
+Es sollen zwei fast baugleiche Prototypen realisiert werden: Ein Roboter mit Harmonic-Drive-Getriebe und der andere mit Direct-Drive-Antrieb.  
+Geschwindigkeit und Beschleunigung 
+Takt min. 5 Zyklen pro Sekunde 
+- Jede Position muss von Mitte Arbeitsbereich in 0.1s erreichbar sein. 
+- Ev. muss der Arbeitsbereich in 0.1s durchfahren werden können 
+- Ziel: 0.1m in 0.1s  
+Nutzlast 
+Min. 0.25 kg inkl.Greifer (Wunsch 0.5 kg), für schnelle Bewegungen 0.1 kg.  
+Genauigkeit 
+Höchste Genauigkeit ist nur bei langsamer Bewegung erforderlich. 
+- Auflösung 0.0001 mm, 1 mrad 
+- Positionskorrektur 0.001 mm, 100 mrad 
+- Wiederholgenauigkeit 0.002 mm, 200 mrad 
+- Absolutgenauigkeit 0.1 mm, 10 mrad

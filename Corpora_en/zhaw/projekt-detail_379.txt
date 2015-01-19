@@ -1,0 +1,1 @@
+Bacteriophages are viruses of bacteria. Because phages are extremely specific and their host bacteria can efficiently destroy, used for the detection and control of pathogenic and spoilage bacteria. In this project, bacteriophages are isolated and characterized, to insert it to the detection or control of pathogenic bacteria in the food.

@@ -1,0 +1,1 @@
+The Institute developed a prototype, which should serve as a tool for the evaluation of business process management software solutions for information management within the framework of a research project.

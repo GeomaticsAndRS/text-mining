@@ -1,0 +1,4 @@
+Aufgrund der Klassifikation von Einzelfahrzeugen an lokalen Messstellen lässt sich die Zusammensetzung des Strassenverkehrs bestimmen. Voraussetzung dafür ist, dass ein möglichst hoher Anteil der Fahrzeuge korrekt klassifiziert werden kann. Wird diese Voraussetzung erfüllt, können die Informationen beispielsweise auch zur Schweizerischen Strassenverkehrszählung genutzt werden. 
+In der Schweiz erfolgt die Fahrzeugklassifizierung gemäss SWISS 10, wobei entsprechend zehn Fahrzeugkategorien unterschieden werden (Pkw, Lkw, Motorräder etc.). 
+Die Firma ECTN AG hat verschiedene Software-Applikationen entwickelt, um aus Messdaten von Laser-Scannern (Hersteller: Sick AG) 3D-Profile von Einzelfahrzeugen zu erstellen. 
+In diesem Projekt soll eine verbesserte Klassifikationsmethode entwickelt werden, welche dazu aus den 3D-Rohdaten extrahierte Fahrzeugparameter nutzt. Gleichzeitig soll auch die Parameterwahl optimiert werden.

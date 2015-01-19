@@ -1,0 +1,4 @@
+Referenzmodelle zur Steuerung des Wertschöpfungs- und Kostenbeitrags von Supportprozessen 
+im Schweizer Spitalwesen. Mit Blick auf die Einführung von SwissDRG ermöglicht dies eine 
+effizientere Kerngeschäfts- und Support-Steuerung und verschafft dadurch dem medizinischen 
+und pflegerischen Bereich einen entsprechenden finanziellen Spielraum, um ihre Leistungen in gleichbleibend hoher Qualität zu erbringen. Dies erhöht letztlich die Wettbewerbsfähigkeit des Spitals und senkt die Betriebskosten.

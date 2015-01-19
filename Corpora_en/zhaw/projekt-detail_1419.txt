@@ -1,0 +1,1 @@
+ETH A complete Ethernet POWERLINK Controlled Node stack was designed and developed in Oberon for the Active Oberon System (AOS) supporting both synchronous and asynchronous communication.

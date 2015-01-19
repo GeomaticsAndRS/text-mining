@@ -1,0 +1,1 @@
+CLOUD STORAGE SERVICE, a core strategic cloud-based storage service for CloudSigma -  AWS S3 compatible API and locally POSIX compliant API.

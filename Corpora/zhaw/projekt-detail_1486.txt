@@ -1,0 +1,5 @@
+In the framework of a PhD thesis a novel biomorphic nonlinear model of the mammalian cochlea has been developed within the Stoop Group at the Institute of Neuroinformatics (INI) of the University and the ETH Zurich. A second PhD thesis based upon these results led to an electronic analog circuit upon which a prototype was built. With this prototype different types of cochlea damages are simulated in ongoing projects and the performance is compared to existing analog cochlea implementations.  
+Due to two project theses and one diploma thesis written at the Institute of Mechatronic Systems IMS, a basis for further cooperation between the IMS and the INI could be established. The IMS now continues to support the further development and optimization of the electronic implementation, investigates the fields of application, and develops an application. The area of possible applications for the novel device can be divided into three sections: 
+1) simulations for auditory research 
+2) cochlear implants (CI) for hearing recovery 
+3) intelligent acoustic sensor technology (for example in the area of robotics)

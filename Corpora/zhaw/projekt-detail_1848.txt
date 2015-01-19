@@ -1,0 +1,2 @@
+Für eine neue Druckergeneration von Lexmark wurden die Tintenpatronen bezüglich Anschlussbelegung, Inkjet Druckdüse und Ansteuerung analysiert. Dazu dienten Mikroskopaufnahmen, Ausdrucke und Logikanalysatorzeitdiagramme. 
+Damit war es möglich, ein Testgerät für die Wiederverwendung der Druckerpatronen anzupassen und für die Produktion vorzubereiten. Dieses Testgerät wurde von der Firma CSEE SA, Neuchâtel angefertigt.

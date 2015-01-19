@@ -1,0 +1,4 @@
+Ziel der randomisierten Fall-Kontrollstudie ist es, das herkömmliche Modell der Physiotherapiebehandlung nach ärztlicher Verordnung mit einem Modell ähnlich dem Direktzugang zu vergleichen. Im Modell bestimmt der Physiotherapeut die Art der Behandlung, deren Dauer und Frequenz selbst. Untersucht werden Unterschiede zum herkömmlichen Modell in Bezug auf Behandlungskosten, Patientenzufriedenheit und Arbeitsunfähigkeitstage.  
+Literatur: 
+Mischker, A. (2011). Neues Modellvorhaben Physiotherapie nach § 63 SGB V. Die Krankenversicherung, 07/08, 232-233. 
+Heissmann, N. (2013). Geht’s ohne Arzt besser? Stern, 8.5.2013, S. 60.

@@ -1,0 +1,1 @@
+A tool will be developed, which allows to estimate the power of a carried out by Mikroarrayexperiment, as well as to identify technical and biological outliers in automatic way.

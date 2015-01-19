@@ -1,0 +1,1 @@
+Die Firma ECTN AG extrahiert aus Messdaten von Laser Scannern Form-Merkmale der detektierten Fahrzeuge. Ziel dieses Projekts war es, aufgrund dieser Merkmale die Fahrzeuge der korrekten SWISS-10 Fahrzeugklasse zuzuordnen, wobei alle Klassen (auch die stark  untervertretenen) mit hoher Klassifikationsrate erkannt werden.

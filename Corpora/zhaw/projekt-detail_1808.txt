@@ -1,0 +1,5 @@
+Der OEC-Kompass ist ein kostenloses Online-Recherche-Tool für Betriebs- und Volkswirtschafter/innen.  
+Den Studierenden der Betriebs- und Volkswirtschaft wird ein Online-Recherche-Tool zur Verfügung gestellt, mit dem sie effizient zu qualitativ hochstehenden Informationen in gedruckten Publikationen und im Internet gelangen. 
+Weitere Zielgruppen bilden Studierende der Rechts- und Sozialwissenschaften. Da die Website kostenlos öffentlich zugänglich ist, profitieren auch weitere Interessierte (z.B. Medienschaffende, Forschende, öffentliche Stellen).  
+Die Umsetzung vom Buch zur e-Learning-Version wurde finanziert durch das BBT im Rahmen des Wettbewerbs creatools@UAS. Die thematische Aktualisierung geschieht im Rahmen der Unterrichtsvorbereitung an der ZHW.  
+Am 8. April 2003 fand an der ZHW die creatools@UAS-Schlusspräsentation mit Prämierung der zwei besten Projekte statt. Mit dem OEC-Kompass haben wir den Preis für reusability  gewonnen.

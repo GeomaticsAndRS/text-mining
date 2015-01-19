@@ -1,0 +1,1 @@
+: 01.04.2008 ProjektpartnerInnen / Project partner(s) : DSwiss AG / Avantec AG Im Rahmen dieses Projekts wurde eine hochsichere Web-Applikation entwickelt, welche digitale Werte von Kunden sicher und zuverlässig abspeichert. Das InIT war im Projekt primär für Design, Implementierung und Testen der sicherheitskritischen Komponenten zuständig.

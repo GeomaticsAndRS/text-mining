@@ -1,0 +1,5 @@
+Virtamed VirtaMed entwickelt und produziert Chirurgie-Simulatoren, die sehr realistisch, aber auch aufwendig und teuer sind. Deshalb werden diese Simulatoren vor allem in grossen Aubildungszentren eingesetzt. Damit mehr Ärzte die Vorteile des Simulator-Trainings nutzen können, wird in diesem Projket ein vereinfachter Simulator mit einem E-Learning System kombiniert und dazu ein kostengünstiges Eingabegerät entwickelt. Damit soll die Ausbildung auf einem beliebigen Computer sowie mit einem innovativen Abrechnungsmodell (z.B. pay-per-use) ermöglicht werden.  
+Kooperationspartner: 
+Inst. für Mechatronik, ZHAW-IMS, Dept. T 
+Zetrum für Education and New Learning, ZHAW-CENL, Dept. W 
+Erdmann Design, Baden

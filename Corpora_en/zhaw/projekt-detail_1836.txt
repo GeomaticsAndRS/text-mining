@@ -1,0 +1,1 @@
+Huber Suhner AG, Herisau Vollparametrisiertes model for planning and sizing new assembly lines, taking into account spatial and organizational boundaries.

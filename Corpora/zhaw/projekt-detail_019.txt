@@ -1,0 +1,1 @@
+aaarisk GmbH Dieses Forschungsprojekt bezweckt die Entwicklung eines ganzheitlichen Operationellen Risikomanagements für die Verwaltung von Vorsorgeeinrichtungen. Dabei wird u.a. die spezifische Risikolandschaft erfasst und in einer Software implementiert. Diese unterstützt eine automatisierte Berichterstattung an Stiftungsrat und Revisor.

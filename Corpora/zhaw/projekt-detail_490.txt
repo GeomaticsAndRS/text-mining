@@ -1,0 +1,4 @@
+ZHAW R D will measure 16 Patients with neck pain and movement 
+dysfunctions due to their neck pain. Tests are repeated movements in the 3 dimensions. 
+The foci are movement variability within and between subjects and the comparison to movement functions in healthy controls, measured by Marco Barbero et al at Scuola Universitaria professionale della Svizzera italiana (SUPSI). ZHAW R D will use a measurement system developed by researchers at the University of Brussels and Marco Barbero, and tests its validity (Feipel et al. 1999; Feipel et al. 2000). Marco Barbero will deliver data processing algorithms for ZHAW. ZHAW R D will measure Patients parallel with 
+the already acquired Vicon System to compare its validity to the system from Brussels and Barbero (Grip et al. 2008).

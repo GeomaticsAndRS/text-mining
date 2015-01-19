@@ -1,0 +1,13 @@
+Dynamische Überprüfung verschiedener Einflussgrössen auf den Flugplan. Erarbeitung und Test von Strategien wie mit einem zweiten Reserveflugzeug am Standort Unique Zürich Airport die Flugpünktlichkeit verbessert werden kann. Die Massnahmen wurde im Simulator auf ihre Wirksamkeit auf das europäische Flugnetz der Swissair/Sabena überprüft.  
+Ausgangslage 
+Die Swissair/Sabena kann den Flugplan öfters nicht einhalten. Durch verschiedene Einflussfaktoren treten zum Teil erhebliche Verspätungen auf. Da die Flugzeuge innerhalb des europäischen Raums mehrmals pro Tag von Zürich starten, werden diese Verspätungen kumuliert. Eine Möglichkeit diesen Verspätungen entgegen zu wirken, ist der Einsatz eines zusätzlichen Reserveflugzeugs am Standort Zürich.  
+Ziel 
+Mit einer Simulationsstudie soll im Modell der Nutzen weiterer Reserveflugzeuge überprüft werden. Insbesondere sollen die Auswirkungen zusätzlicher Reserveflugzeuge auf die folgenden Kennzahlen untersucht werden: 
+- Abflugspünktlichkeit in % aller Abflüge, als pünktliche gelten alle Abflüge mit einer Verspätung von maximal 3 min 
+ - Ankunftspünklichkeit in % aller Ankünfte, als pünktliche gelten alle Ankünfte mit einer Verspätung von maximal 15 min 
+ - Passagierstunden pro Passagier bei einer Abflugverspätung die grösser als 3 min beträgt 
+ - Prozentualer Anteil der Passagierstunden, die durch einen IR93 verursacht werden  
+Vorgehen 
+Die Einflussfaktoren auf den Flugplan sind sehr unterschiedlich und die Zusammenhänge untereinander sehr komplex. Zu Beginn der Studie wird daher ein sehr vereinfachtes Modell erstellt. 
+Die Datenbasis wird von der Swissair/Sabena auf die vier Zielgrössen analysiert. Die Datenbasis beinhaltet ein Reserveflugzeug. Diese Datenbasis wird als ist Betriebspunkt bezeichnet und wird durch die Ausprägung der Zielgrössen charakterisiert. Aufgrund der Datenbasis wird ein Flugplan für die Simulation erstellt. Das vereinfachte Modell wird soweit ergänzt bis aus den Experimenten vergleichbare Zielgrössen hervorgehen. Das Experiment mit den besten Werten wird als modellBetriebspunkt bezeichnet. 
+Um den Effekt der durchgeführten Veränderungen abzuschätzen, werden die Resultate mit dem modellBetriebspunkt verglichen.

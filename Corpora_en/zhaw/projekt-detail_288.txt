@@ -1,0 +1,1 @@
+Amphasys AG Raw milk needs to meet safety and quality requirements. In particular it must not contain bacterial contamination and/or enhenced levels of somatic cells. Within this CTI project an impedance flow cytometer which enables the detection of both, bacteria and somatic cells, within minutes in a single run is developed.

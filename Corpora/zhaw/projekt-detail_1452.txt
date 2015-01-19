@@ -1,0 +1,17 @@
+: 15.10.2006 ProjektpartnerInnen / Project partner(s) : V-Zug AG, Zug Die V-ZUG AG plant ein neues Logistik-Zenter (LoZ) am Standort Zug. Mit dem geplanten Bau soll das bestehende HRL auf 21 039;000 Palettenplätze aufgestockt werden. Verschiedene Systemlieferanten haben unterschiedliche Lösungsvarianten erarbeitet. Im Simulator soll das von den Systemanbietern erarbeitete Materialflusskonzept dynamisch abgesichert werden. 
+Eine Simulationsstudie soll Aufschluss über die Leistungsfähigkeit und Leistungsgrenzen des geplanten Logistikcenters geben. Im Zentrum der Betrachtungen stehen vor allem die abgegebenen Leistungsgarantien unter Volllast im neuen HRL. Um diese Fragestellungen klären zu können, verwendet die Simulation Echtdaten von V-Zug und der Systemanbieter.  
+Ziele 
+ - Funktionsnachweis des geplanten Systems 
+ - Ermitteln der Leistungsgrenzen des Systems 
+ - Aufzeigen von Engpässen und Erarbeitung von Massnahmen, um diese zu beheben 
+ - Erarbeitung von Materialflusssteuerungskonzepten 
+ - Aufzeigen, wie sich das System unter Grenzlast verhält 
+ - Ermitteln der Auslastungsgrade der einzelnen Systemkomponenten 
+ - Bestimmen der Auswirkung von unterschiedlichen Mengengerüsten 
+ - Einfluss der einzelnen Systemparameter auf die Gesamtleistung  
+Zielgrössen 
+ - Gesamtzeit, bis alle Kommissionieraufträge abgearbeitet sind 
+ - Anzahl Palettenbewegungen aus dem HRL 
+ - Durchschnittliche Auslagerungs-Leistung pro Stunde 
+ - Auslastungen der einzelnen Förderelemente (insbesondere  RBG, Lifte, Querverschiebewagen, MA) 
+ - Maximale Belegung der Verladebuchten

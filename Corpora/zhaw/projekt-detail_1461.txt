@@ -1,0 +1,1 @@
+Es soll ein Werkzeug entwickelt werden, das es erlaubt die Macht eines durchgeführten Mikroarrayexperiment abzuschätzen sowie in automatischer Weise technische und biologische Ausreisser zu identifizieren.

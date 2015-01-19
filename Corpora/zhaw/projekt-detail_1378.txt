@@ -1,0 +1,2 @@
+Entwicklung eines quantitativen Ratings für Funds of Hedge Funds. Das Rating ist seit 2009 auf www.hedgegate.com implementiert und kostenlos zugänglich. 
+Weiter wurde ein Total Risk Rating entwickelt mit den drei Komponenten Marktrisiko, Liquiditäts- und Kreditrisiko sowie operationellem Risiko.

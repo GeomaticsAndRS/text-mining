@@ -1,0 +1,1 @@
+Im Rahmen eines KTI-Projektes wurde eine NoSQL Datenbank entwickelt. Ziel dieses Projektes ist, das neu entwickelte System systematisch zu untersuchen und gegenüber state-of-the-art key-value stores wie Cassandra und Redis zu vergleichen. Im Speziellen sollen Throughput und Latency anhand von standardisierten Benchmarks gemessen und das System entsprechend getuned werden.

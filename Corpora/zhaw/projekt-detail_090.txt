@@ -1,0 +1,2 @@
+Unternehmensbewertung für externe Unternehmen  
+Ermittlung des Unternehmenswertes nach den gängigen Methoden wie Substanzwertmethode, Ertragswertmethode, Discounted-Cashflow-Methode (DCF)und Multiplikatorverfahren.

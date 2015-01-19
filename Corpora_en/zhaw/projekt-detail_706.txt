@@ -1,0 +1,1 @@
+Since the 01.08.2011 the geoinformatics Department has set up a wiki for departments or projects. An individual wiki can be established on basis of the MediaWiki software (known from such as Wikipedia).

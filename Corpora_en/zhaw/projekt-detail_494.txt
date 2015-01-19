@@ -1,0 +1,1 @@
+We are designing a tool to model and optimize team building processes for HR applications.

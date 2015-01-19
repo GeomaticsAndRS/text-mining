@@ -1,0 +1,1 @@
+A CTI project developed a NoSQL database. Aim of this project is to examine the newly developed system systematically and to compare key-value stores like Cassandra and re discover state-of-the-art. In particular throughput and latency should on the basis of standardized benchmarks measured and the system according to grantig are.

@@ -1,0 +1,10 @@
+Im Kurs Juristisches Schreiben  benötigen die Studierenden praktisches Training um die theoretisch gelernten Seminarinhalte in der Praxis anwenden zu können. Das Institut für Wirtschaftsrecht möchte sein E-Assessment zur Überprüfung der Interpunktion um Elemente des game based learning ergänzen.  
+Die Sprache ist für Wirtschaftjuristen ein wichtiges Werkzeug – wenn nicht sogar das wichtigste.  
+Die Komma-Kanone  bietet Studierenden die Möglichkeit, ihre Kenntnisse der Inperpunktion in spielerischer Form zu testen und zu verbessern. 
+Das Projekt dient als Lernhilfe der Kontrolle und Steigerung der Kenntnisse der Rechtschreibung. Die Zielgruppe bilden primär Studierende des Studiengangs Wirtschaftsrecht der ZHAW.  
+Ziele 
+=  Studierende nutzen die Software zur Kontrolle und Steigerung ihrer Rechtschreibekenntnisse 
+=  Die zu entwickelnde Software ist interaktiv 
+=  Der Umgang mit der Anwendung mach Spaß 
+=  Die Software ist für andere Zentren und Institute sowie für externe Kunden einsetzbar  
+Mit dem Projekt wird erstmals konsequent auf spielerische Elemente beim Lernen gesetzt. Wir sind gespannt auf die Erfahrungen damit!

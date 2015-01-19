@@ -1,0 +1,2 @@
+Bei dem Projekt handelt es sich um die Fortsetzung des KTI-Projekts 5844.2 FHS. Neben der Laves Arzneimittel GmbH und der Hochschule Wädenswil sind die Berner Fachhochschule, das Inselspital Bern sowie fünf weitere KMUs involviert. 
+Ziel des Projekts ist die Ableitung von Modellübertragungskriterien für die Kultivierung von HEK-Zellen und E. coli in Wave-Systemen. Der Schwerpunkt der Arbeiten liegt aber auf der Konzeption einer disposable Produktionsstätte zur Herstellung von Immunmodulatoren auf der Basis des Wave 200 SPS.

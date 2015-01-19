@@ -1,0 +1,1 @@
+Know-how-Aufbau im Bereich der mechanischen Schwingungsmesstechnik und –auswertung im Allgemeinen, sowie Validierung der nichtlinearen Schwingungssimulationen mit Reibungsdämpfung und des zu diesem Zweck entwickelten Simulationsprogrammes im Speziellen.

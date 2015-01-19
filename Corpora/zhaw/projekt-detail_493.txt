@@ -1,0 +1,1 @@
+Das Institut für Wirtschaftsinformatik entwickelt im Rahmen eines Forschungsprojekt ein Protoyp, welcher als Werkzeug dienen sollte, für die Evaluation von Business Process Management-Softwarelösungen.

@@ -1,0 +1,3 @@
+Ziel dieses Projekts war ein Framework zur Verarbeitung und Analyse von Verbindungsdaten von Computernetzen zu haben, mit dessen Hilfe neuste Algorithmen aus der Forschung flexibel und schnell umgesetzt werden können. 
+Das Framework stellt dazu oft benötigte Funktionalität wie z.B. das Herausfiltern von Scanning Verkehr in Form von zu Verarbeitungsketten verbindbaren Modulen bereit.  
+Als Showcase wurden zwei Analyseideen umgesetzt:  (1) Analyse der Entwicklung der onlinezeit von vernetzten Geräten zur Untersuchung von Fragen wie: Wieviele Geräte sind ständig eingeschaltet? (2) Automatische erkennung von Service-Endpunkten. Damit kann man z.B. ohne das Netzwerk aktiv abzuscannen eine Service-Landkarte erstellen.

@@ -1,0 +1,6 @@
+KIARA aspires to improve the state-of-the-art in multiple ways:  
+- Improves developer productivity and greatly simplifies application integration. 
+- Dynamically and transparently selects the optimal communication mechanisms, protocols, and data representations to be used between two peers. 
+- Embedded compiler dynamically at run-time generates highly optimized code that transfers messages directly from application data structures to the network. 
+- Simple, high-level specifications of QoS/QoE and security requirements 
+- KIARA uses a 'Secure By Design' approach for of the communication architecture

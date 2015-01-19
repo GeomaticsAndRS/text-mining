@@ -1,0 +1,2 @@
+Der SML International Blog berichtet regelmäßig über die Studienreisen von Studierenden an der ZHAW School of Management and Law. Darüber hinaus bietet der Blog eine Plattform für Austauschstudenten - Incomings wie Outgoings –, die Ihre Erfahrungen in einer fremden Studienumgebung teilen.  
+Die Fachstelle für Neues Lernen implementierte für den International Blog das Open Source System Wordpress und betreut seither die Studierenden in technischen Belangen.

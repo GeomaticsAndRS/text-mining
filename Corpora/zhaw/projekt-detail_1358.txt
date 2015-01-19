@@ -1,0 +1,3 @@
+The goal of the study is to get insight in the gene expression differences of 
+tumor cell lines with very low tendency for metastasis and matched 
+cell lines with high tendency for metastasis.

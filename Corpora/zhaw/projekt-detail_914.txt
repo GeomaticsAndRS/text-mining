@@ -1,0 +1,1 @@
+Im Rahmen eines Mandates der Planzer Transport AG untersucht AL Engineering AG die Anforderungen an ein neues Lager- und Kommissioniersystems. Im Simulator wird ein konkretes Kommissionierlayout im Tagesverlauf abgebildet und auf die Funktionstüchtigkeit sowie dessen Dimensionierung untersucht. Warenflüsse und Engpässe werden visualisiert.

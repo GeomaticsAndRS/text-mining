@@ -1,0 +1,23 @@
+: 14.10.2005 ProjektpartnerInnen / Project partner(s) : IE Industrial Engineering Untersuchung von drei automatisierten Materialflusskonzepten für einen Neubau zur Lagerung und Kommissionierung von Lebensmitteln.  
+Die drei Materialflusskonzepte: 
+ - mehrstufige Kommissionierung über Förderelemente und Sorter 
+ - 1-stufige Kommissionierung per Hängebahn 
+ - Anbindung eines automatischen Hochregallagers, resp. Tageslagers an die Kommissionierung  
+Die Auswirkungen der verschiedenen Szenarien auf den Materialfluss und die notwendigen Personalressourcen können statisch nicht ermittelt werden. Die Simulationsstudie soll die Abhängigkeiten, die Vor- und Nachteile der verschiedenen Materialflusssysteme und -varianten aufzeigen.  
+Mit der Simulation werden die folgenden Ziele verfolgt:  
+ - Verständnis für die Systemdynamik hinsichtlich Anzahl und Auslastung Mitarbeiter in den einzelnen Kommissionierbereichen in Abhängigkeit der Batchgrössen, der Zahl der Endstellen vom Sorter und der Kapazität des Sorters. 
+ - Ermittlung einer optimalen Steuerungsstrategie für das Zusammenspiel der verschiedenen Kommissionierbereiche und Zwischenpuffer 
+ - Erkenntnisse über den Einfluss der Batchgrösse auf die notwendige Anzahl Ausschleusstellen sowie die Auslastung der Mitarbeiter im Bereich Kommissionierung und daraus abgeleitet die Ermittlung einer optimalen Steuerungsstrategie und Batchgrösse. 
+ - Erkenntnisse über den Einfluss der Artikelstandorte im Lager auf die Leistungsfähigkeit des Systems und der Auslastung der Mitarbeiter. 
+ - Dimensionierung und Steuerung von Teilsystemen, sowie des Gesamtsystems. 
+ - Beurteilung verschiedener Gebäudelayouts auf die Systemdynamik, Leistungsfähigkeit des Systems, Mitarbeitereinsatz und die Mitarbeiterauslastung. 
+ - Ermitteln der Leistungsgrenzen des Systems 
+ - Aufzeigen von Engpässen und Erarbeitung von Massnahmen, um diese zu beheben 
+ - Aufzeigen, wie sich das System unter Grenzlast verhält 
+ - Ermitteln der Auslastungsgrade der einzelnen Systemkomponenten 
+ - Bestimmen der Auswirkung von unterschiedlichen Mengengerüsten 
+ - Bestimmen, welchen Einfluss die einzelnen Systemparameter auf die Gesamtleistung haben 
+ - Bestimmen, welche Auswirkungen Störungen auf die Systemleistung haben  
+ - Erkenntnisse über die Wirtschaftlichkeit der versch. Varianten im Vergleich 
+ - Beurteilung verschiedener Gebäudelayouts auf die Systemdynamik, Leistungsfähigkeit des Systems, Mitarbeitereinsatz und die Mitarbeiterauslastung. 
+ - Ermittlung einer optimalen Steuerungsstrategie für die verschiedenen Kommissionierbereiche.

@@ -1,0 +1,4 @@
+Für das Bundesamt für Strassen ASTRA wird die Entwicklung eines Stauprognosen-Systems für das Schweizer Nationalstrassen-Netz abgeklärt.  
+Der Projektauftrag umfasst die Beleuchtung der existierenden Systeme und Methoden für Stauprognosen, eine Bedürfnisanalyse sowie die Klärung von Fragen hinsichtlich des Datenbedarfs und der Datenverfügbarkeit für heutige und zukünftige Systeme.  
+Weiter wird ein Systemkonzept für ein Stauprognose-Tool für das Schweizer Nationalstrassen-Netz ausgearbeitet.  
+Das Projekt wird in Zusammenarbeit mit Rapp Trans AG, Zürich/Basel, realisiert. Auftraggeber ist das Bundesamt für Strassen ASTRA.

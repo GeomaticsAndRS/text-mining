@@ -1,0 +1,1 @@
+In the framework of a mandate of Planzer Transport AG, AL Engineering AG examines the requirements for a new storage and order-picking system. In the Simulator, a specific layout of picking in the course of the day is shown and checked for functionality, as well as the sizing. Goods flows and bottlenecks are visualised.

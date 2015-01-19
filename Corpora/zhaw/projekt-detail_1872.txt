@@ -1,0 +1,1 @@
+Erstellung eines webbasierten Lehrgangs, der flankierend zu den Vorlesungen und Uebungen in Betriebswirtschaftslehre eingesetzt wird.

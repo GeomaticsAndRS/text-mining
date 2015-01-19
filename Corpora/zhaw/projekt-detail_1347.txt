@@ -1,0 +1,8 @@
+Die Software GINES wurde zur Unterstützung räumlicher Monitoring- und Controllingprozesse entwickelt. Mit GINES wird die Verwaltung, Analyse und Darstellung von räumlich-zeitlichen Daten erheblich vereinfacht. 
+Folgende Kantone nutzen GINES: 
+Aargau 
+Bern 
+Graubünden 
+Schaffhausen 
+Solothurn 
+Uri
