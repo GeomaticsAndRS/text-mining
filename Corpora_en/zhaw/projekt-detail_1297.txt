@@ -1,1 +1,0 @@
-Implementation of end-to-end business process for spoke well in health care

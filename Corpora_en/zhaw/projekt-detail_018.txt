@@ -1,1 +1,0 @@
-This project aims at developing an innovative sensing platform to monitor the quality of liquids.

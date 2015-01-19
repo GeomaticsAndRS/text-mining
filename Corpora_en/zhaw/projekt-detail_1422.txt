@@ -1,1 +1,0 @@
-Bosch Development of a dynamic model of a PEM fuel cell system for automotive applications.

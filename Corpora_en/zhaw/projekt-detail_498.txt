@@ -1,1 +1,0 @@
-DyMoRail is a Modelica library for simulation of longitudinal dynamics of entire railway trains.
