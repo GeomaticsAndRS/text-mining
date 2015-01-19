@@ -1,0 +1,1 @@
+Internet portal with various applications on nutrition, based on the database of SwissFIR of the ETH and the BAG. The applications support the user in conscious and healthy diet. In addition, the collected data serve as a basis for statistical analysis in research.

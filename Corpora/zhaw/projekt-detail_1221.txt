@@ -1,0 +1,2 @@
+Simulation der automatisierten, innerbetrieblichen Logistik eines neuen Produktionsstandortes. Erarbeitung und Überprüfung der technischen Anforderungen für den hoch dynamischen, automatisierten Materialfluss vom Wareneingang über die Bearbeitungszentren bis hin zur Pufferung im Hochregallager und Verlad auf die LKW’s. Entwickeln und Test verschiedener Steuerungsstrategien und deren Beurteilung hinsichtlich Durchlaufzeiten und Dimensionierung der Puffer.  
+Simulation und Beurteilung der verschiedenen technischen Varianten und Angebote vor der Vergabe des Auftrages

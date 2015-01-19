@@ -1,0 +1,1 @@
+Internetportal mit diversen Applikationen zum Thema Ernährung, basierend auf der Datenbank von SwissFIR der ETH und dem BAG. Die Applikationen unterstützen den Anwender bei bewusster und gesunder Ernährung. Zusätzlich dienen die gesammelten Daten als Grundlage für statistische Auswertungen in der Forschung.

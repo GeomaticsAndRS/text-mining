@@ -1,0 +1,2 @@
+Elephant Studios Die Pipeline ist das Herzstück eines jeden 3D-Animations- und VFX-Studios. Ziel dieses Projektes ist es,  eine  Pipeline  zu  entwickeln  und umzusetzen,  die  den  kompletten  Produktionsprozess  unterstützt und  dabei  trotzdem  flexibel  auf  die  unterschiedlichen  Projektstrukturen  eines  mittelgrossen  Studios 
+eingehen kann. Diese Flexibilität wird mit dem am InIT entwickelten Node-basierten Ansatz erreicht.

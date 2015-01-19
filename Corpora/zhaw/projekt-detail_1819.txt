@@ -1,0 +1,7 @@
+Campus Software MESA ist ein vom Departement Soziale Arbeit der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) entwickeltes modularisiertes Konzept für die Evaluation von Schulsozialarbeitsstellen.MESA beleuchtet das Angebot Schulsozialarbeit aus verschiedenen Perspektiven und umfasst folgende drei Module:  
+•	MESA Leistungen (Leistungsdokumentation) 
+•	MESA Schule (Lehrpersonenbefragung) 
+•	MESA Kooperation (Schlüsselpersonenbefragung)  
+\ MESA Leistungen\ 
+Die Aufgaben von Schulsozialarbeitenden sind komplex und vielfältig. Professionelle Leistungserfassung und Evaluation sind daher äusserst wichtig. MESA Leistungen ist eine webbasierte Softwareapplikation zur Erfassung von Leistungen der Schulsozialarbeit. Die Sofware wurde vom Departement Soziale Arbeit der ZHAW in Kooperation mit der Firma Campus, einem führenden Sofwareanbieter für Schulverwaltungen, entwickelt. MESA Leistungen ermöglicht durch die Erfassung der wichtigsten Eckdaten von Schulsozialarbeit ein Monitoring und ist gleichzeitig Fallführungsinstrument. MESA wird bereits in zahlreichen Gemeinden in den Kantonen Zürich, Bern, St. Gallen und Solothurn verwendet. 
+Die Software wird unter Einbezug von Anregungen von Schulsozialarbeitenden weiterentwickelt.

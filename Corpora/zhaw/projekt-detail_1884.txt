@@ -1,0 +1,6 @@
+Die Altersvorsorge ist ein heiss diskutiertes Thema. Mit ergänzenden Auswertungen der Pensionskassen-Statistik 1998 wurde geprüft, ob die Daten für wichtige Fragestellungen im Hinblick auf zukünftige Revisionen der Pensionskassen-Statistik (und damit auch für die Altersvorsorge) genutzt werden können.  
+Folgende Themenkreise wurden betrachtet: Koordinationsabzug, Rücktrittsalter, Teuerungs-ausgleich auf Altersrenten, Verwaltungsaufwand, Deckungsgrad und Performance. Die Resultate sind in einem Erfahrungsbericht zur Datenqualität zuhanden des Auftraggebers Bundesamt für Statistik)und in einem Ergebnisbericht festgehalten, letzterer wird demnächst vom BFS publiziert. Sie beruhen einerseits auf mehrdimensionalen Auswertungen durch empirische Modellierung der Zusammenhänge mittels logistischer und lokaler Regression. Anderseits wird die Qualität des Fragebogens und der erhobenen Daten kritisch beleuchtet.  
+Der offizielle Bericht wurde im August 2003 beim Bundesamt für Statistik  publiziert (www.statistik.admin.ch/stat_ch/ber13/pk/pk/dcp01-precedents.htm).  
+Gemeinsames Projekt des Zentrums für Wirtschaftspolitik (Wirpo) und des Instituts für Datenanalyse und Prozessdesign (IDP)  
+Publikationen 
+- Artikel in der Zeitschrift Schweizer Personalvorsorge, März 2004

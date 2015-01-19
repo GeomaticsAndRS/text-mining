@@ -1,0 +1,14 @@
+Wir wollen ein Software‐Instrument entwickeln, das die Auswertung von beliebigen Fragebögen für eine neuartige, 
+von uns entwickelte Kohärenzanalyse erlaubt. Das Instrument ermöglicht eine nutzerdefinierte Ähnlichkeitsbestimmung 
+der einzelnen Daten durch die Wahl der Gewichtung von Fragebogen‐Items sowie der jeweiligen 
+Distanzfunktion. Die auf selbstorganisiertem Clustering aufbauende, nichtparametrische Kohärenzanalyse 
+kann dann mittels dieser Ähnlichkeitsbestimmung neuartige Aussagen zum Datensatz machen, die mittels klassischer 
+Verfahren (ANOVA, Regressionsanalysen) nicht möglich sind. Insbesondere können Variabilität und 
+Stabilität der Klassifikation des Datensatzes untersucht werden, was insbesondere (aber nicht nur) für sozialwissenschaftliche 
+Fragestellungen wichtig ist. Entsprechend sind diese Forschungen eingebettet in eine bereits 
+bestehende Kooperation zwischen der Universität Zürich (Moralforschung), der Universität Bern (Politologie) 
+und der Zürcher Hochschule für Angewandte Wissenschaften (Simulation und Datenanalyse). Proof‐of‐concept 
+der Ähnlichkeitsbestimmung und Kohärenzanalyse sind erfolgt und erfolgreich zur Erklärung von Parteienspaltungen 
+im Schweizer Politsystem angewendet worden. Für die Entwicklung des Tools wird ein Forschungskontext 
+gewählt, in dem einer der derzeit komplexesten Fragebögen der empirischen Sozialforschung – der World 
+Values Survey – als Ausgangspunkt für die Entwicklung des Software‐Tools genommen wird.

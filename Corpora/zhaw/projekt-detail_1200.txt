@@ -1,0 +1,5 @@
+Swissfiber AG Weiterentwicklung des Biegeträgermoduls (BTM) zum Platten-Scheiben-Modul (PSM). Veränderungen erfolgten: 
+- in der Produktionstechnik 
+- im Aufbau 
+- in der Materialisierung 
+- Anschlussdetails

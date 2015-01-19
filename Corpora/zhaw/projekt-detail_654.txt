@@ -1,0 +1,5 @@
+Das Oxford Foot Model ermöglicht es, Bewegungen des Fusses aufzuzeigen. In der Orthopädie wird es deshalb oft angewendet, um zu bestimmen, ob eine Operation an den unteren Extremitäten nötig ist, oder um aufzuzeigen, wie sich eine Operation auf das Gangbild des Patienten ausgewirkt hat. 
+Zum jetzigen Zeitpunkt sind die erhaltenen Daten nur teilweise brauchbar, da sich die Kurven in der Vertikalen verschieben und somit die Möglichkeit, das Ausmass einer Krankheit wie Cerebralparese zu erkennen, verloren geht. 
+Da drei Marker des Modells sehr nahe am Fersenpolster geklebt werden, liegt es nahe, dass sich durch Deformation des Fersenpolsters auch die Marker verschieben. Dadurch verändern sich auch die Winkel. Das Ziel dieser Studie ist es, diese Verschiebungen zu messen und deren Auswirkungen auf die Winkel zu bestimmen. 
+Dieses Projekt ist eine Masterarbeit (ETH).  
+Das Projekt wurde erfolgreich abgeschlossen.

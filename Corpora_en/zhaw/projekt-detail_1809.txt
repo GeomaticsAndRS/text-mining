@@ -1,0 +1,1 @@
+Bell AG planning be sliding end study of a new conveyor, storage and order-picking system. Performance test of the new system in the Simulator. Detailed simulations for the new order-picking warehouse. Development and test of different control strategies in the Simulator.

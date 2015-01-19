@@ -1,0 +1,2 @@
+Synthes Bestimmung von optimalen Meldebeständen. Reduktion der Sicherheitsbestände über die gesamte Supply Chain, bei gleichem Servicegrad.  
+Realisierung eines simulationsgestützten Planungs- und Optimierungstools.

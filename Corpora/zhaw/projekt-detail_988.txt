@@ -1,0 +1,7 @@
+Das Projekt NOVA (Neue Online-Verwaltung für Abteilungen) ist ein internes School of Management and Law (SOM) Projekt und beinhaltet die Erstellung einer zentrumsübergreifenden Verwaltungs-Software als Instrument für die Abteilungsleitung.  
+Die Applikation basiert auf einem Web-Interface (Flex 4.0) und die Architektur ist auf dem SOA Prinzip aufgebaut. Den berechtigten Anwendern stehen folgende Möglichkeiten zur Verfügung: 
+- Organisation der Mitarbeiter 
+- Erfassung und Verwaltung von Projekten 
+- Erfassung und Verwaltung von Weiterbildungs-Angeboten 
+- Planung durch Eingabe von SOLL-Werten und Kontrolle durch die Eingabe der IST-Werte 
+- Reporting mittels PDF-Exporten

@@ -1,0 +1,3 @@
+Die Leitung der konsekutiven Masterstudiengänge wünscht sich vom Zentrum für Neues Lernen die Erstellung und Umsetzung eines Kurstemplates für das Blended-Learning-Konzept.  
+Dabei soll auf der Lernplattform Moodle eine Struktur der Module und Kurse der Studiengänge in Form einer wiederverwendbaren Vorlage abgebildet werden.  
+Zusätzlich sollen webtaugliche Kurstafeln erstellt und auf der Internetpräsenz des Departments veröffentlicht werden.

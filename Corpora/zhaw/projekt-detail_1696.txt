@@ -1,0 +1,13 @@
+Sprüngli, Kilchberg, Deutschland, Italia Die Firma Lindt  Sprüngli AG stellt qualitative Spitzenprodukte im Bereich der Schokoladenerzeugnisse her. Die Umsetzung der Anforderungen an die Rückverfolgbarkeit erfordert eine Überprüfung der Tanklagerkapazität im Bereich der Zwischen- und Lagertanks für Schokoladenmassen. 
+Die Auslegung und Dimensionierung des geplanten Systems sind mit herkömmlichen Planungsmitteln nicht berechenbar. Die notwendige Anzahl an Komponenten, die Leistungsanforderungen an die Materialführungssysteme, der Einfluss der Struktur der Lastdaten auf die Leistung des Gesamt-system, sowie die Auswirkungen verschiedener Störfaktoren können statisch nicht bestimmt werden. 
+Das geplante System soll deshalb dynamisch untersucht und im Rahmen einer Simulationsstudie beurteilt werden. 
+Basierend auf den von der Firma Lindt  Sprüngli AG bereitgestellten Lastdaten einer produktionsstarken Woche der Vergangenheit, soll durch eine Simulation geklärt werden, ob die bestehende Tanksituation für die Bewältigung der neuen Herausforderung genügt, bzw. wie viele Tanks zusätzlich beschafft werden müssen.  
+In einem Simulationsmodell wird das Konzept des aktuellen Tanklager-Systems durch das IAS abgebildet und das Verhalten dynamisch untersucht. Durch die Simulation soll ermittelt werden, ob die bestehenden Tanks im Bereich dunkle und helle Massen ausreichen, um die für die Chargen-Rückverfolgbarkeit wichtige Voraussetzung „Tank erst befüllen, wenn vollständig entleert“ zu garantieren. Falls die bestehenden Lager- und Haltekapazitäten nicht ausreichen, soll die Simulation die Anzahl und die Dimension der zu beschaffenden Tanks im Bereich der Zwischentanks und Lagertanks ermitteln.  
+Die folgenden Ziele sind zu erreichen: 
+ - Beurteilung der aktuellen Tanksituation (Anzahl Tanks) im Hinblick auf die Rückverfolgbarkeit 
+ - Optimale Anzahl Tanks für die Bewältigung produktionsstarker Tage  
+Zur Beurteilung des Systems werden folgenden Zielgrössen herangezogen: 
+ - Verarbeitetes Mengengerüst pro Zeiteinheit 
+ - Belegung der Tanks während der Simulationszeit 
+ - Unterbruchszeiten in den Bereichen Conchieren und Formen aufgrund zu geringer Tankkapazitäten  
+Das Vorgehen in dieser Simulationsstudien wurde für ingesamt drei Produktionsstandorte von Lindt  Sprüngli im In- und Ausland angewendet.

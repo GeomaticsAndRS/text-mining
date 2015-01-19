@@ -1,0 +1,2 @@
+In diesem Projekt werden drei verschiedene Hörsysteme von Testpersonen aus der Zielgruppe Senioren getestet. 
+Ziel des Projektes ist, Faktoren zu evaluieren, die beim Einsetzen verschiedener Hörsysteme zum Erfolg oder Misserfolg führen.

@@ -1,0 +1,1 @@
+The iGräser project was accompanied by a Bachelor's thesis, which deals with the ease of the apps. A WebApp is used as a preliminary study for the creation of the native app. iGräser is already available as a WebApp on any smartphones. Grasses can be determined on the basis of entered the user features.

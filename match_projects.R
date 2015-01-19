@@ -71,4 +71,4 @@ for(f in files) {
 ranking <- data.frame(Name = name, Project = project, Score = score)
 ranking <- ranking[rev(order(ranking$Score)),]
 
-write.csv(ranking, "score_en.csv", fileEncoding = "utf-8")
+write.csv(ranking, paste(c(target, "_score.csv", collapse=""), fileEncoding = "utf-8")

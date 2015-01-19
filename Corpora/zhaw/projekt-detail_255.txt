@@ -1,0 +1,1 @@
+Ziel des Projektes ist es, eine umfassende Datenanalyse der Betriebsdaten einer Mono-Vergäranlage für tierische Nebenprodukte (TNP) zu erstellen, um daraus Arbeitshypothesen zur Optimierung des Betriebs und zur Weiterentwicklung der eingesetzten Verfahrenskette abzuleiten.

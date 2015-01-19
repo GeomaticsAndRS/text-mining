@@ -1,0 +1,11 @@
+WWF Schweiz Für jede politische Gemeinde in der Schweiz wurden die folgenden Daten ermittelt: 
+- den aktuellen Energieverbrauch 
+- die aktuelle Energieproduktion 
+- das Potential bezüglich Energieeffizienz (durch technische Massnahmen 
+bzw. Verhaltensänderungen) 
+- das Potential zur zusätzlichen Produktion von Energie aus erneuerbaren 
+Ressourcen (Solar, Windkraft, Holz, Wasserkraft, usw.) 
+- den heutigen und den voraussichtlich erzielbaren Selbstversorgungsgrad 
+der Gemeinde mit Energie 
+- Auswirkungen der Erhöhung des Energie-Selbstversorgungsgrades auf 
+die regionale Wertschöpfung und damit auf Arbeitsplätze in der Region.

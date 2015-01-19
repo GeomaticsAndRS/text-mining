@@ -1,0 +1,1 @@
+Ein erster Konzeptentwurf für das User Interface eines Gerätes aus dem Bereich Medizintechnik soll im Hinblick auf Usabilty-Aspekte überprüft werden, so dass iterativ ein benutzerfreundliches möglichst intuitiv bedienbares User-Interface entwickelt werden kann. (Zusammenarbeit mit Industriepartner)

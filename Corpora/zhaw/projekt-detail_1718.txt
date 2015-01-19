@@ -1,0 +1,2 @@
+Mittels einer Logistikstudie wird der Produktionsbetrieb in Sursee analysiert und Massnahmen zur Kostensenkung aufgezeigt. 
+Die Massnahmen werden in einem Simulationsmodell getestet und auf deren Machbarkeit geprüft.

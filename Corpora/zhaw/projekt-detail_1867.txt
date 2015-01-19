@@ -1,0 +1,13 @@
+Die Auftraggeberin unterhält eine mehrsprachige Terminologie-Datenbank 
+(TDB) mit rund 8000 Einträgen für die Erstellung von technischen 
+Handbüchern und Übersetzungen. Ziel des Projektes war, mit 
+computerlinguistischen Methoden herauszuarbeiten, wie konsistent die 
+Terminologie in den Handbüchern verwendet wird und wie konsistent sie 
+mit der TDB ist. Mittels automatischer Termextraktion und manueller 
+Überprüfung wurde die relevante Terminologie in den Handbüchern 
+ermittelt und anschliessend mit Hilfe von Perl-Scripts aufbereitet. Die 
+entstandenen Listen zeigen Abweichungen in der Schreibung und 
+Termkandidaten zur Ergänzung der TDB und sie lassen ungewollte Synonyme 
+erkennen. So geben sie Hinweise auf Konsistenzlücken und ermöglichen 
+eine einfache Nachbearbeitung durch die FachgebietsexpertInnen der 
+Auftraggeberin. Das Projekt wurde Ende Mai 2001 nach einer Laufzeit von vier Monaten abgeschlossen.

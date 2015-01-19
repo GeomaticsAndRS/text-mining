@@ -1,0 +1,1 @@
+Das Projekt iGräser wurde begleitet von einer Bachelorarbeit, welche sich mit der Anwenderfreundlichkeit des Apps befasst. Ein WebApp dient als Vorstudie für die Erstellung der nativen App. iGräser ist als WebApp auf jeglichen Smartphones bereits nutzbar. Gräser können anhand vom Benutzer eingegebenen Merkmalen bestimmt werden.

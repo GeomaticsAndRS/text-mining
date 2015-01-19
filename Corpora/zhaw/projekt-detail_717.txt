@@ -1,0 +1,8 @@
+Die Aufgabenbörse ist eine eLearning-Plattform, die im IAS realisiert wird. In der Aufgabenbörse wird Übungsmaterial gespeichert, verwaltet und genutzt. Studierende und Dozierende können Aufgaben und Lösungen hoch- und runterladen, austauschen und bewerten.  
+Dank der Aufgabenbörse... 
+•	können Aufgaben zentral in einem Ressourcen-Pool verwaltet werden. Das erhöht die Wiederverwendbarkeit und generell die Nachhaltigkeit. 
+•	ist wertvolles Material für die Leistungsnachweise abrufbar. 
+•	können Aufgaben und Lösungen gezielt aufgefunden werden. 
+•	erhalten die Studierenden eine stetig wachsende und vielseitige Übungsplattform. 
+•	werden Studierende vor allem in der - an Bedeutung zunehmenden - Selbstlern-Phase unterstützt. 
+•	wird moodle um eine zusätzliche Funktion erweitert.

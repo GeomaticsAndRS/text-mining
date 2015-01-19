@@ -46,7 +46,6 @@ class MyHTMLParser(HTMLParser):
 				if not ("http" in data) and not ("rende Informationen:" in data) and not ("ProjektpartnerInnen:" in data) and not ("Start date " in data):
 					self.content = self.content + " " + data.rstrip()
 			elif self.next_leader == True and self.assume_ok == False:
-				print self.leader
 				self.leader = self.leader + data
 				self.next_leader = False
 
@@ -64,11 +63,13 @@ for proj in sort(glob.glob("Raw/zhaw/projekt-detail*")):
 	parser.feed(content)
 	
 	try:
-		title = re.findall("Projekte ZHAW: (.+)</title", content)[0].strip().decode("utf-8") 
+		title = re.findall("Projekte ZHAW: (.+)</title", content.encode('ascii', 'ignore'))[0].strip()
 		start = parser.get_start()[-10:]
 	except:
 		parser.reset_content()
 		continue
+	
+	print title
 	
 	leader = unicode(parser.get_leader()).encode("utf-8")
 	outfilename = proj.replace("Raw", "Corpora").replace(".php", "").replace(".html", ".txt")

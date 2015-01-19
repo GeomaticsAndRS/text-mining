@@ -1,0 +1,11 @@
+Info Flora Schweiz Im Rahmen des Projektes wurden vom Institut für Angewandte Simulation mit wissenschaftlich systematischem Vorgehen Effiziente Bestimmungsalgorithmen  entwickelt. Diese schlagen die traditionellen Verfahren bei der Bestimmung von Arten (Flora und Fauna) und können zukünftig für weitere Bestimmungs-Apps eingesetzt werden.  
+Mit iGräser kann man die 111 häufigsten einheimischen Wald- und Freiland-Grasarten (Poaceae) der Schweiz sowohl im nicht-blühenden als auch im blühenden Zustand einfach, schnell und zuverlässig bestimmen. Die Bestimmung erfolgt über individuell gewählte Merkmale aus den Bereichen (1) Standort, (2) Wuchsform, (3) Wuchshöhe, (4) vegetative Merkmale (Blätter), (5) generative Merkmale (Blüten), bzw. (6) Systematik, unter Einbezug der Verbreitungsdaten via GPS-Ortung. 
+Die einzelnen Arten sind ausführlich beschrieben (Merkmale, Zeigerwerte, Verbreitung in der Schweiz) und die für die Bestimmung relevanten Merkmale mit Fotos illustriert. Auf ähnliche Arten und Verwechslungsmöglichkeiten wir explizit hingewiesen. Fundorte von seltenen Arten lassen sich via die Ortungsfunktion einfach speichern.  
+Die App ermöglicht ein mobiles Lernen (E-Learning) für die Studierenden.  
+Das vom IAS erarbeitete nachhaltige Software-Framework stellt zusammen mit dem effizienten Bestimmungs-Algorithmus eine wertvolle Grundlage für die Entwicklung weiterer, ähnlich strukturierter Apps dar.  
+Keywords: 
+grasses, Poaceae, identification key, Switzerland, Gras, Gräser, Bestimmungsschlüssel, Schweiz, Flora  
+App fürs iPhone:  
+Transfer-Artikel (3-2012):  
+iPhone App «iGräser» – Gräserbestimmen leicht gemacht  
+Zukünftige Bestimmungsschlüssel denken mit

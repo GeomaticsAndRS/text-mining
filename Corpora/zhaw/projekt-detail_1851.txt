@@ -1,0 +1,25 @@
+Das eLearning Programm Ernährung wird zurzeit erstellt und ab Herbst 2010 eingesetzt. Das Modul soll einen gesundheitsfördernden Beitrag im Bereich Ernährung und Gesundheit leisten und die Zielgruppen befähigen, Eigenverantwortung für ihre Ernährung zu übernehmen sowie Kompetenzen vermitteln, welche die Gestaltung eines gesunden Ernährungsangebotes ermöglichen. 
+Voraussetzungen dazu sind: 
+•	Wissen über Komponenten einer gesunden Ernährung 
+•	Adäquates Körper- und Gesundheitsbewusstsein (Einstellungen) 
+•	Eine entsprechende Auswahl von Lebensmitteln  
+Es gilt weiter, die Attraktivität von gesunder Ernährung aufzuzeigen, indem: 
+•	Der mittelbare Nutzen (z.B. körperliche Fitness) bewusst gemacht wird 
+•	Gesunde Ernährung als Genuss erlebt wird 
+Somit wird die genussvolle gesunde Ernährung in den Vordergrund gestellt.  
+Verantwortung E-Learning Ernährung: claudia.schuetz@zhaw.ch  
+E-Learning Ernährung ist ein Teilprojekt des Projektes Bapoly. 
+Bapoly bedeutet Basic Principles of Oecotrophology und ist ein Gemeinschaftsprojekt der ZHAW und der Pädagogische Hochschule Zürich. Das Projekt wurde 2001 gestartet mit dem Ziel, eine moderne und interaktive Lernplattform  für Hochschulen zu entwickeln.  
+Ein weiteres Teilprojekt von Baboly ist E-Learning Werkstoffe. Die eLearning Plattform Werk- und Baustoffe für den Studiengang Facility Management wurde vervollständigt und mit interaktiven Aufgaben und Fragstellungen ergänzt. Seit April 2010 stehen eBooks zu den Themen Holz, Glas, Naturstein, Beton und Kunststein, Keramik, Metall, Kunststoffe, Voll- und Halbsynthetische Chemiefasern Baumwolle, Leine, Seide, sowie Wolle, die seit April 2010 zur Verfügung. 
+Mit dieser interaktiven Lernform erhalten die Studierenden die Möglichkeit, ihre Vorkenntnisse individuell zu ergänzen und je nach Interesse weiterführend zu vertiefen. Der Lerninhalt ist weitgehend auf den Fokus des Facility Managers, der Facility Managerin ausgerichtet. Im Fokus ist jeweils der gesamte Lebenszyklus der Werkstoffe. Die eBooks geben Informationen zur Herstellung und Nutzung verschiedener Materialien, sowie zu Eigenschaften und Einsatzgebieten, Reinigung und Nachhaltigkeit. Darauf abgestimmt können die Studierenden im ItkA!, dem interaktiven Aufgabenwerkzeug, Fragestellungen lösen und ihren eigenen Lernfortschritt unmittelbar überprüfen.  
+Verantwortung E-Learning Werkstoffe: anja.fuchs@zhaw.ch  
+Das interaktive Aufgabenwerkzeug ItkA! wird in beiden Teilprojekten eingesetzt. Die Konzeption stammt von Dr. Wolfgang Schmidberger. 
+ItkA! ist eine interaktive Software, die aufgaben- und problemorientiertes Lernen fördert. Studierende sollen durch diese Lernsoftware zum selbständigen Wissenserwerb angeregt werden. 
+Aufgaben und Fragestellungen werden nach der Taxonomie von Benjamin Bloom kategorisiert und in verschiedene Lernebenen gegliedert. 
+Im freien Übungsbereich kann der Studierende selbstständig entscheiden, welche Themen und auf welcher Taxonomieebene er üben will. Die Aufgaben werden abhängig von den Auswahlkriterien per Zufallssystem aus einer Datenbank zusammengestellt. 
+Dozierende können Tests für bestimmte Kapitel und Lernebenen aufschalten. Während der Bearbeitung eines Tests wird der Lernende laufend über seinen aktuellen Leistungsstand informiert. Am Ende eines jeden Testblocks erhält er eine Auswertung seiner Leistung, sowie des Kursdurchschnitts. 
+Der sogenannte „Battle of Knowledge“ ist eine spielerische Variante zwischen Übung und Test. 
+Zum Wissenserwerb im höchsten Lernlevel (Synthese, Evaluation) stehen Fallstudien zur Verfügung. Auch Fallstudien haben Spielcharakter; es wird unterschieden zwischen der goldorientierten Fallstudie (Sammeln von Goldtalern) und der zielorientierten Fallstudie (Erreichen einer letzten Frage). 
+ItkA! ist ein leeres Gefäss, das mit beliebigen Inhalten in unterschiedlichen Modulen gefüllt werden kann. Besonders effizient wird der Einsatz, wenn mehrere Projektpartner jeweils ein Modul gemeinsam erarbeiten und verwenden. 
+Aktuell werden drei Aufgabenmodule entwickelt: Werkstoffe, Ernährung, sowie Haushaltstechnik.  
+Verantwortung ItkA! und Koordination Bapoly: claudia.schmucki@zhaw.ch

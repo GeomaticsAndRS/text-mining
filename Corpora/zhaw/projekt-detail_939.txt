@@ -1,0 +1,5 @@
+makora AG Angestellte eines grösseren Betriebes im Dienstleistungssektor können an einem Checkup psychischer Gesundheit teilnehmen. Bei hoher Belastung in den Bereichen Stress, Burnout oder Depression wird den betroffenen Arbeitnehmenden ein passendes internetbasiertes Behandlungsmodul angeboten. Dabei handelt es sich um Online-Coaching (Stress, Burnout) oder Online- Kurzeitpsychotherapie (Depression) durch eine Fachperson.  
+Im Rahmen dieses F E-Projekts wird das Angebot durch die makora, ein auf betriebliches Gesundheitsmanagement spezialisiertes Unternehmen, entwickelt und durch die ZHAW Fachstelle Gesundheitswissenschaften wissenschaftlich evaluiert. Die Begleitforschung soll überprüfen ob: 
+•	sich valide Screeninginstrumente für die internetbasierte Diagnostik entwickeln lassen; 
+•	die problemspezifischen, internetbasierten Interventionen bei den Arbeitnehmenden wirksam sind, indem sie zu einer Reduktion der Symptombelastung und zu einer Verbesserung des Wohlbefindens führen; 
+•	die internetbasierten Interventionen sich hinsichtlich der betriebswirtschaftlichen Kosten und Nutzen für einen Betrieb lohnen.

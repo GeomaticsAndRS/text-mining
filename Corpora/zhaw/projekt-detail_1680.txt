@@ -1,0 +1,7 @@
+Modul 1: Wissensdatenbank 
+Im Auftrag des Vereins alleinerziehender Mütter und Väter Zürich (VAZ) erstellt das Departement Soziale Arbeit mit Filemaker Pro 7 eine Wissensdatenbank zur Erfassung von Adressen und Informationen zu Angeboten, zur Ablage von Dokumenten, zur Verwaltung von Internetadressen etc. 
+Die Wissensdatenbank wird in der im November 2004 neu eröffneten Erstberatungsstelle Zürich implementiert und soll dann auch von anderen Beratungsstellen des Schweizerischen Verbandes alleinerziehender Mütter und Väter (SVAMV) übernommen werden.  
+Modul 2: Projektcontrolling 
+Im Sinne eines Pilotprojektes bietet der VAZ ab November 2004 eine unabhängige, niederschwellige Erstberatungsstelle für Ein-Elternfamilien im Kanton Zürich an. Da die Erstberatungsstelle als Pilotprojekt konzipiert ist, wird ein Projektcontrolling nötig, das von der HSSAZ durchgeführt wird. 
+Die im Rahmen des Projektcontrollings erhobenen Daten sollen die Möglichkeit schaffen, zu überprüfen, inwieweit die Tätigkeiten der Beratungsstellen den ursprünglichen Intentionen entsprechen, ob und wo sich allenfalls Schwierigkeiten manifestieren und Herausforderungen wirksam sind, die in der Konzeptualisierung nicht bedacht wurden. 
+Das Projekt wurde im April 2007 abgeschlossen.

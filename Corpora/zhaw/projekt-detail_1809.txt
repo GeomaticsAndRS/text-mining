@@ -1,0 +1,1 @@
+Bell AG Planungsbegleitende Studie eines neuen Förder-, Lager- und Kommissioniersystems. Leistungsnachweis des neuen Systems im Simulator. Detailsimulationen zum neuen Kommissionierlager. Erarbeitung und Test verschiedener Steuerungsstrategien im Simulator.

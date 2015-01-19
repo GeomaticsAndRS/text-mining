@@ -1,0 +1,3 @@
+A person's accent and pronunciation are important aspects of their identity. Beyond the desire to be well understood, German learners also have deeply personal reasons for improving their phonetic skills. 
+We will build a mobile app that transforms successful in-classroom exercises to a blended learning approach that can also be used individually. It will teach and test both theoretical knowledge and practical skills including essential phonetic phenomena. 
+(Status = eingereicht, September 2014)

@@ -1,0 +1,2 @@
+bfa Ltd in der von der Firma bfa ltd. und KTI finanzierten Machbarkeitsstudie wurde untersucht, wie die technische Realisation einer Service-Vermittlungsplattform (PiArch) möglich ist. br / 
+Bfa möchte mit PiArch eine Service-Plattform anbieten, welche die Funktion eines Brokers übernimmt. Dieser soll den Kunden unterschiedliche Speicher- und Business-Intelligence Anbieter vermitteln und deren Service transparent integrieren. PiArch Service ist demzufolge ein Metaservice, also ein Service der einen Service anbietet.

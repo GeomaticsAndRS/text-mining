@@ -1,0 +1,6 @@
+Institut für Wissenschaftliches Rechnen, Prof. Dr. H. Hinterberger, ETHZ Anpassung des elearning Kurses ZHW Computerlizenz für ÜbersetzerInnen/Mehrsprachige KommunikatorInnen  an aktuelle Basisanwendungen, die für die Übersetzertätigkeit und das Übersetzerstudium bzw. die Arbeit mit mehrsprachigen Daten notwendig sind. Der Kurs ist für alle Fachbereiche anpassbar. 
+Im Kurs wird mit der von der ZAHW standardmässig zur Verfügung gestellten Software, aber auch im Rahmen anderer Anwendungen gearbeitet, wobei das jeweils trainierte Programm gleichzeitig mit den Arbeitsanweisungen zur Verfügung gestellt wird. 
+Projektziele: Bewältigung einer grossen Anzahl Studierender mit deutlich unterschiedlichen 
+Vorkenntnissen, flexible Anpassung des Lehrmaterials an unterschiedliches Arbeitstempo, Motivation durch fachspezifische Aufgabenstellungen (problem-based learning).  
+Publikation: 
+Gröblinger, Ortrun; Jekat, Susanne; Vögeli, Martin: Anwendungsführer: Die Idee zur Softwareschulung. In: ZHWinfo: Schwerpunkt: Best Practice und Internationalisierung / Armin Züger (Hrsg.). - 4000. Aufl. - Winterthur: ZHW, 22 (2004), S. 59 ff.

@@ -1,0 +1,11 @@
+Die App der ZHAW Life Sciences und Facility Management (LSFM) beantwortet Ihre Fragen rund um Studium und Campus in Wädenswil: 
+- Menüplan: Was tischt die Mensa auf? 
+- Stundenplan: Wo findet die nächste Lektion statt? 
+- Kontakte: Wie erreiche ich Dozierende oder Studierende? 
+- Orientierung: Wo ist mein Gebäude? 
+- Social Media: Wie kann ich mich vernetzen? 
+- News und Events: Was läuft an der Hochschule? 
+- Notfall: Was ist im Ernstfall zu tun? 
+Die App richtet sich an Studierende, Dozierende, Mitarbeitende und Besucher.  
+App fürs iPhone:  
+App für Android: hl=de

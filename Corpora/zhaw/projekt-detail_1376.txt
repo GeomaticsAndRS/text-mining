@@ -1,0 +1,16 @@
+Im neuen PJZ (Polizei- und Justizzentrum) wird der gesamte Warentransport zentral über zwei Rampen im Innern des neuen Gebäudekomplexes abgewickelt. Die Platzverhältnisse im Bereich der Warenrampen sind begrenzt. Die Anlieferung und der Abtransport der Waren aus diesem Bereich sollen geregelt erfolgen. Im Rampenbereich sollen sich nur zugelassene Fahrzeuge aufhalten und die Durchfahrt für Einsatzfahrzeuge der Polizei soll jederzeit gewährleistet sein. Die Dimensionierung der Puffer und Steuerung der Materialflüsse im Rampenbereich hängt von folgenden Faktoren und deren Wechselwirkungen ab: 
+- Leistungsfähigkeit, Verfügbarkeit und Steuerung der Warenlifte 
+- Vorlaufzeit für die Rückführung und Bereitstellung der Waren auf den Rampen für den Abtransport 
+- Materialfusssteuerung aus den Rampen in die verschiedenen Stockwerke des Gebäudes 
+- Organisation der Warentransporte über Zeitfenster. 
+Statisch können diese Einflussfaktoren nicht beurteilt werden. Im Sinne einer ganzheitlichen Beurteilung des geplanten Systems soll mit einer Simulationsstudie der Bereich Warenannahme dynamisch beurteilt werden. Engpässe sollen aufgedeckt und Steuerungskonzepte im Bereich Materialfluss und Mitarbeitersteuerung sollen entwickelt werden.  
+Mit der Simulation wurden unter anderen die folgenden Ziele verfolgt: 
+• Funktionsnachweis des geplanten Systems 
+• Ermitteln der Leistungsgrenzen des Systems 
+• Aufzeigen von Engpässen und Erarbeitung von Massnahmen um diese zu beheben 
+• Bestimmen der Auswirkung von unterschiedlichen Szenarien für die Warenanlieferung und Warenrückführung 
+• Bestimmen, welchen Einfluss die einzelnen Systemparameter auf die Gesamtleistung haben 
+  - Leistungen der Lifte 
+  - Verfügbarkeit der Lifte 
+  - Vorlaufzeiten für den Warenrücktransport 
+  -  …

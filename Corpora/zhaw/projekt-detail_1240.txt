@@ -1,0 +1,5 @@
+In Zusammenarbeit mit der Abteilung Marketing  Kommunikation entwickelte die Fachstelle für Neues Lernen ein Tippspiel für die Fussball-EM.  
+Die Fussballeuropameisterschaft hat begonnen. Schon seit mehreren Wochen bereiten sich auch die Studierenden und Mitarbeiter der ZHAW auf das Ereignis vor. Der Sommer steht ganz im Zeichen des Fussballs: jede Woche findet an der Hochschule eine Panini-Bild-Tauschbörse statt. Während des Sommerfests am 17. Juni wird das Spiel Italien gegen Frankreich auf einer Grossbildleinwand ausgestrahlt.  
+Das CENL konzipiert in Zusammenarbeit mit der Abteilung Online-Kommunikation im Rahmen dieser Euphorie ein Tippspiel für den „SML International Blog . Wir wollen ermitteln, welche ZHAW-Angehörigen auf diesem Gebiet den besten Riecher haben.  
+Der Tippkönig durfte seinen Sieg im Break Even feiern - mit einem Getränkegutschein gesponsort von der School of Management and Law.  
+Das Tippspiel hat das CENL auf Basis der Open Source Technologien PHP und MySQL umgesetzt.

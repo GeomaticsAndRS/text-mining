@@ -1,0 +1,1 @@
+The aim of the project is to create a comprehensive data analysis of operation data of a mono-fermentation plant for animal by-products (ABP) to derive working hypotheses to optimize the operation and further development of the process chain.

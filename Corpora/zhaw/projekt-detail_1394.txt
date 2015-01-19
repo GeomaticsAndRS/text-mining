@@ -1,0 +1,4 @@
+Swissport International Ltd. Aufgrund von langfristigen Trends, sowie saisonalen, wöchentlichen, täglichen und zufälligen Schwankungen variiert der anfallende Aufwand bei der Abfertigung im Fluggeschäft stark. Eine möglichst genaue Kenntnis des zu erwartenden Volumens ist aber für Disposition, Ressourcenplanung und Budgetierung zentral.  
+Aus diesem Grund wurde im Rahmen dieses Projekts ein Prognosemodell für total 5 Kosten- und Ertragstreiber mit einen Horizont von 6-18 Monaten erstellt. Die eingesetzten Methoden erlauben nicht nur die Vorhersage für die nächste Budget-Periode, sondern auch die Abschätzung der Prognosegenauigkeit.  
+Das Vorhersagemodell gelangte beim Kunden in den Einsatz und führt dort zu einem besseren, ursächlichen Verständnis der Schwankungen in den Produktionsfaktoren. Weiter dienen die Resultate als Diskussionsgrundlage für Management-Entscheidungen im 
+Budgetierungsprozess.

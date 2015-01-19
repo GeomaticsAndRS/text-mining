@@ -1,0 +1,1 @@
+Koordinierung der Taktzeiten und Geschwindigkeiten einer Förderanlage mittels Simulation

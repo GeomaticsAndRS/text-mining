@@ -1,0 +1,27 @@
+Synthes Ausgangslage  
+STRATEC Medical ist im stark wachsenden Markt der Medizinaltechnik tätig. Statisch ermittelte Kapazitätsbedarfswerte prognostizieren Engpässe in der Fertigung. Für die Zukunft wird von den Experten ein weiteres starkes Wachstum prognostiziert. Die Prognosewerte aus SAP können im bestehenden System nur statisch auf die bestehenden Ressourcen umgerechnet werden. Zur dynamischen Kapazitätsbedarfsplanung und Optimierung bestehender und noch zu beschaffender Ressourcen soll ein Simulationsmodell erstellt werden. Das Simulationsmodell soll mit einer einfachen Kommunikationsschnittstelle auf Basis MS-Excel ergänzt werden, mit dem Ziel, den verschiedenen Entscheidungsträgern ein einfaches Werkzeug zur dynamischen Entscheidungsfindung zur Verfügung zu stellen. Den verschiedenen Bedürfnissen der Entscheidungsträgern (Fertigungssicht, Marktsicht etc. ) ist Rechnung zu tragen.  
+Zielsetzungen  
+Mittels Simulation sollen der Materialfluss, die nötigen Produktionskapazitäten und die Puffer optimal ausgelegt werden. Der Zusammenhang zwischen Mengengerüst und notwendigen Kapazitäten wird aufgezeigt und quantifiziert. Eine optimale Terminierung der Kapazitätsbeschaffung wird so unterstützt. Das Modell soll den verschiedenen Anforderungen der Markt- und Fertigungssicht gerecht werden. 
+Die folgenden Ziele sind, in Abhängigkeit des Mengengerüsts, im Detail zu erreichen: 
+ - Ermitteln der Auswirkungen verschiedener Produktionsstrategien auf die Auslastung der Anlagen, die Puffer und Mitarbeiter 
+ - Optimale Dimensionierung der Puffer im Materialfluss und in den Produktionsanlagen 
+ - Optimale Auslegung von Fertigungslinien unter Berücksichtigung unregelmässiger Fertigungszeiten 
+ - Aufzeigen von Engpässen im Materialfluss und Erarbeitung von Massnahmen zu deren Beseitigung 
+ - Anforderungen an das Lager 
+ - Auslegung und/oder Optimierung von Fertigungslinien und Organisation der Fertigung.  
+Zur Beurteilung des Systems werden folgenden Zielgrössen herangezogen: 
+ - Auslastung der Puffer während der Simulationszeit 
+ - Auslastung der Mitarbeiter 
+ - Auslastung von Anlagen im Materialfluss 
+ - Notwendige Puffer- und Lagerdimensionen 
+ - .....  
+Als Kernfunktionen soll das Simulationstool die folgenden Analysen unterstützen: 
+ - Bedarfsmengen aus Markt- und Fertigungssicht 
+ - Kapazitätsbedarf aus Markt- und Fertigungssicht 
+ - Dimensionierung von Puffer und Läger 
+ - Anforderungen an Ressourcen 
+ - Ressourcenabgleich 
+ - What-If-Analysen 
+ - Visualisierungen 
+ - Dynamische Ermittlung der Dispositionsparameter  
+Die Systemlastdaten, Parameter und Zielgrössen werden per Excel dem Simulator übergeben.

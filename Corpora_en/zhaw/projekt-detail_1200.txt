@@ -1,0 +1,1 @@
+Swissfiber AG development of bending carrier module (BTM) to the plate-disk module (PSM). Changes were made: - in production engineering - in the building - in of materialization - connection details

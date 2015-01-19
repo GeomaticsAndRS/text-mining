@@ -1,0 +1,1 @@
+In collaboration with an industrial partner, the usage is evaluated by physical and optical sensors for the online measurement of sewage. Here, sensors on the needs of the customers must be adapted and integrated into an existing process control system. Also, an intelligent evaluation of the measured data is developed, which only provides a fast and accurate control.

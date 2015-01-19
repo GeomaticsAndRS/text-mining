@@ -1,0 +1,8 @@
+Problem: Patienten mit unspezifischen unteren Rückenschmerzen haben nachgewiesenermassen oft Probleme mit der Bewegungsqualität der Lendenwirbelsäule. Dies bedeutet, dass sie Mühe haben ihre Bewegungen zu kontrollieren, genau zu timen oder zu spüren. Praktische PhysiotherapeutInnen können diese Bewegungsqualitätsprobleme nicht zuverlässig messen oder gar quantifizieren. 
+Frage: Kann ein portables System, bestehend aus Bewegungs-und Beschleunigungs-Sensoren, welche am Rücken befestigt werden, so wie einer drahtlosen PC-Schnittstelle mit entsprechender Software diese Probleme in der Bewegungsqualität erkennen und quantifizieren? 
+Methode: Entwicklung und Validierung eines portablen System in verschiedenen Arbeitsschritten mittels Quer-und Längsschnitt-Studien. 
+Erwartetes Ergebnis: ein innovatives portables System, welches zuverlässig und valide Bewegungsqualitäts-Probleme bei Patienten mit unteren Rückenschmerzen misst und die behandelnde Physiotherapeutin zur Outcome-Evaluation ihrer Interventionen unterstützt.  
+Literatur: 
+Bauer C, Baumgartner L, Schelldorfer S, Ernst M, Lawrence M. Technical validation of a new movement therapy system for treatment of low back pain. Gait  Posture. 2012;36:S40-S1.  
+Ernst M, Rast F, Bauer C, Marcar V, Kool J. Determination of thoracic and lumbar spinal processes by their percentage position between C7 and the PSIS level. BMC Research Notes. 2013;6(1):58.  
+Das Projekt wurde erfolgreich abgeschlossen.

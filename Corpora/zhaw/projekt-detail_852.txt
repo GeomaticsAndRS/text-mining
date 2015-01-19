@@ -1,0 +1,7 @@
+Im Rahmen der vom KVG vorgesehenen leistungsorientierten und pau-schalisierten Vergütung der Spitäler und Kliniken hat die ZHAW im Auftrag der ZMT UVG und von H+ ein Patientenklassifikationssystem (PCS) für leistungsabhängige Tagespauschalen in der Rehabilitation entwickelt. 
+H+ und die ZMT planen nun in Zusammenarbeit mit der ZHAW in einer Pilotphase eine probeweise Einführung des PCS in einer Reihe von Reha Kliniken. 
+Ziele dieser Pilotphase sind: 
+1.	Anwendung des PCS auf sämtliche Patienten um das PCS in die täglichen Arbeitsabläufe der Kliniken zu integrieren. 
+2.	Systematische Sammlung von Kosten- und Leistungsdaten in einem Teil der Reha Kliniken (Pilotkliniken) um das PCS zu validieren und weiter zu entwickeln. 
+3.	Teilnahme von neuen Klinken, um die Datengrundlage des PCS in der Perspektive einer landesweiten Einführung des PCS zu verbreitern. 
+4.	Überprüfung der Repräsentativität der Pilotkliniken für die Reha Kliniken der Schweiz an Hand der Daten der medizinischen Statistik der Krankenhäuser der Bundesamts für Statistik (BFS).

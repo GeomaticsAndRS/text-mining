@@ -1,0 +1,5 @@
+Ability Switzerland AG Problem: Patienten mit zentralneurologischen Erkrankungen können oft nicht selbständig gehen. Das Wiedererlernen der Gehfunktion ist oft nur mit wiederholtem und intensivem Training, welches automatisierte Gangtrainingsgeräte bieten, möglich. Die Anschaffung dieser automati-sierten Geräte durch Institutionen wie Kliniken oder Pflegeheime ist aber aufgrund hoher Kosten nicht gegeben. 
+Frage: Kann ein automatisiertes Gangtrainingsgerät entwickelt werden, welches kosteneffizient, sicher und wirksam ist? 
+Methoden: Entwicklung eines Funktions-Musters für ein primär mecha-nisches, fussplatten-gesteuertes Gangtrainingsgerät. 
+Erwartetes Ergebnis: Entwickeltes Funktionsmuster (Prototyp) eines Gangtrainers zur Behandlung von Gehfunktions-Störungen bei Patienten mit zentralneurologischen Erkrankungen.  
+Das Projekt wurde erfolgreich abgeschlossen.

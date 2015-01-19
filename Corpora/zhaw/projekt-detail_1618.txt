@@ -1,0 +1,4 @@
+n der Stadt Zürich ist geplant, ein Monitoring für die Schulsozialarbeit (SSA) einzurichten. Im Auftrag des Sozialdepartements der Stadt Zürich hat das Departement Soziale Arbeit ein  Leistungserfassungsinstrument entwickelt, das vor allem zwei Ziele verfolgt:  
+    * Das Sozialdepartement will periodisch die Leistungen der städtischen Schulsozialarbeitsstellen dokumentieren. 
+    * Das Monitoring soll auch Grundlage sein für qualitative und konzeptionelle Verbesserungen und die Weiterentwicklung der Schulsozialarbeit. Auf der Grundlage der Leistungsprofile der verschiedenen Stellen kann z.B. analysiert und diskutiert werden, unter welchen schulhausspezifischen Bedingungen welche schulsozialarbeiterischen Leistungen möglich und sinnvoll sind. 
+Das Projekt wurde im Dezember 2006 abgeschlossen.

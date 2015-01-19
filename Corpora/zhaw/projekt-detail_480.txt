@@ -1,0 +1,6 @@
+Das aktuelle Rückenmodell, welches im Bewegungslabor für kinematische Analysen des Oberkörpers verwendet wird, soll zunächst in zwei Schritten verbessert werden:  
+(I) Literatursuche / Benchmarking 
+Im Rahmen einer systematischen Literatursuche und durch Kontaktaufnahme mit anderen Institutionen sollen zunächst die bisher existierenden Modelle erfasst und auf ihre Eignung für die Anforderungen der ZHAW hin überprüft werden. Die Ergebnisse dienen als Grundlage für (II).  
+(II) Reliabilität 
+Anhand der Ergebnisse von (I) wird das bestehende Modell angepasst. Für dieses angepasste Modell wird als nächster Schritt die Intertester Reliabilität und die Test-Retest Reliabilität überprüft. Sollte die Reliabilität ungenügend sein wird das Modell erneut angepasst und überprüft.  
+Das Projekt wurde erfolgreich abgeschlossen.

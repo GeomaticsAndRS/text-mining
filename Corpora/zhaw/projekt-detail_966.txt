@@ -1,0 +1,14 @@
+Ausgangslage 
+Klinische Pfade werden in Schweizer Spitälern hauptsächlich als Unterstützung der Dokumentation bestehender Prozesse genutzt. In Deutschland und anderen Ländern hingegen werden diese verstärkt für die Messung von Effizienz und Effektivität – und auch für die Sicherstellung der Qualität der Behandlung in einem Spital genutzt. Mit Hilfe dieser Pfade lässt sich steuern, wie lange sich die Aufenthaltsdauer eines Patienten mit einer bestimmten Diagnose und mit dem medizinischen Ziel gestaltet. In der Schweiz sind es durchschnittlich 8-9 Tage – in Deutschland z.B. nur 6,7 Tage. Dort können ca. 40% der Fälle standardisiert abgebildet werden. Heute werden die klinischen Pfade in den Spitälern in den meisten Fällen getrennt pro Klink, Institut oder Departement untersucht – ein ganzheitlicher Blick fehlt. Ein ganzheitliches Pfadmanagement verspricht hier Optimierungspotenziale. Mit Hilfe eines Pfadmanagements können die Pfade individuell zusammengestellt werden. Der Patient durchläuft das Spital, je nach Diagnose, anhand vordefinierter Prozesse. Die Pfade beinhalten auch Änderungen der Verantwortlichkeiten, der Strukturen und der Prozesse.  
+Zielsetzung 
+Ansatzpunkt der Forschungsarbeit im Rahmen dieses KTI-Projekts (Förderagentur für Innovation des Bundes) ist die Frage, wie sich ein Schweizer Spital „optimal“ aufstellen muss in den Ausprägungen 
+-Organisation, 
+-Prozesse, 
+-Struktur, 
+-Führung und 
+-IT, 
+damit die Einführung Klinischer Pfade optimal funktionieren kann, um das Spital hinsichtlich der Abrechnungspflicht nach DRG (pauschalisiertes Entgeltsystem) im Jahr 2012 und des damit verbundenen Kostendrucks, optimieren zu können. Als Resultat dieser Arbeit soll ein Referenzmodell entwickelt werden, um auf der Basis von Führung, Unterstützung und Leistung eine Umsetzung Klinischer Pfade für Schweizer Spitäler möglich zu machen.  
+Zielerreichung und aktuelles Vorgehen 
+In einem ersten Schritt sollen die Auswirkungen von pauschalisierten Entgeltsystemen (international) erfasst und aufbereitet werden. Auf diese Weise verspricht man sich, Anhaltspunkte für Optimierungspotentiale in Schweizer Spitälern identifizieren zu können. Auf der Basis dieser Anhaltspunkte soll eine Vision 2015 (Szenario DRG) aufgebaut werden, mit der Beantwortung der Frage, was sich im Schweizer Spital 2015 voraussichtlich gegenüber heute ändern wird. Aus dieser allgemeinen Vision sollen gemeinsam mit Reviewspitälern mögliche Konsequenzen für Schweizer Spitäler abgeleitet werden. Dabei steht die Beantwortung der Fragen im Vordergrund, welche Themen für Schweizer Spitäler in den Fokus rücken und welche Prozessthemen besonders relevant sind (intern/extern, intersektoral).  
+Involvierte Partner 
+ZHAW Zürcher Hochschule für Angewandte Wissenschaften: Zentrum für Wirtschaftsinformatik und Winterthurer Institut für Gesundheitsökonomie; BEG  Partners AG

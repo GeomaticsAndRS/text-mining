@@ -1,0 +1,5 @@
+IDP Institut für Datenanalyse und Prozessdesign Hauptaufgabe dieses Projekts ist es, das Pilotprojekt der Erarbeitung einer KoLe-Statistik (Leistungsdaten der Krankenversicherer) aus gesundheitsökonomischer Sicht zu begleiten und beraten.  
+Das Hauptziel ist es, die KoLe-Statistik als wichtiges gesundheitspolitisches und gesundheitsökonomisches Analyseinstrument zu konzipieren und zu realisieren. Dabei geht es um Fragen der Wirksamkeit, Zweckmässigkeit, Wirtschaftlichkeit (KVG Art. 32) aber auch um Fragen der Gesundheitsversorgung.  
+- Datenbanksystem: Einbringen gesundheitsökonomischer Aspekte bei der Ist-/Soll-Analyse data-warehousing 
+- Statistische Datenanalyse: Einbringen gesundheitsökonomischer Aspekte Ist/Soll-Analyse statistische Datenanalyse 
+- Erarbeitung praxisrelevanter Fallbeispiele unter Berücksichtigung gesundheitsökonomischer Aspekte

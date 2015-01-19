@@ -1,0 +1,1 @@
+Ziel des Projektes ist, die Benutzerfreundlichkeit einer Gebrauchsanweisung für Hörsysteme eines grossen Schweizer Herstellers mit dem Fokus auf die Zielgruppe Senioren zu testen und Optimierungsemfehlungen für ein neues Dokumentationskonzept zu erarbeiten.

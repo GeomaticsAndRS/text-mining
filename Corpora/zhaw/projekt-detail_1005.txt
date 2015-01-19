@@ -1,0 +1,1 @@
+password=dummy mb_user_myGui=Gruental Mit dem WebGIS Grüental haben Studierende, Mitarbeiter und Aussenstehende die Möglichkeit sich über ein WebPortal ein Bild der Aussenanlagen des Campus Grüental zu machen und sich über Bepflanzungen usw. zu informieren.

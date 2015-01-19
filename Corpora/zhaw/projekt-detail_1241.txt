@@ -1,0 +1,7 @@
+Der Verband der Schweizer Musikschulen – und seine Mitglieder – brauchen  Kenntnis der Strukturdaten der Verbandsmitglieder, anhand derer sie organisationale und wirtschaftliche Entscheidungen treffen können (Bsp. TN-Zahlen, Kursbelegung und -kosten usw.). 
+Der Verband will dazu eine bestehende und jährlich laufende Umfrage auf eine neue technische Basis stellen. Diese soll: 
+- web-basiert sein 
+- einen ca. 100 Fragen umfassenden Katalog abbilden 
+- hinter der Befragung Berechnungen mit Werten ausführen können, die die Befragten selbst eingeben 
+- nach Abschluss der Befragung den Befragten sofort eine graphische Auswertung der Daten sowie einen Vergleich zum Umfeld der Branche / Referenzgruppe bieten.  
+Ist das Tool brauchbar und wird es gebraucht, kann langfristig eine kommerzielle Nutzung angestrebt werden. Die Zielgruppe hat nach Aussagen des Auftraggebers einen echten Bedarf.
