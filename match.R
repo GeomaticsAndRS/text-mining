@@ -10,7 +10,7 @@ score <- vector()
 	
 for(f in files) {
 	
-	candidate <- paste(scan(paste(c("Corpora", target, f),collapse="/"), what = "character", fileEncoding = "iso-8859-1"), collapse = " ")
+	candidate <- paste(scan(paste(c("Corpora_en", target, f),collapse="/"), what = "character", fileEncoding = "iso-8859-1"), collapse = " ")
 	candidate <- Corpus(VectorSource(candidate), readerControl = list(reader=readPlain))
 	
 	cost <-Corpus(DirSource("Projects/COST"), readerControl = list(reader=readPlain, language="eng"))

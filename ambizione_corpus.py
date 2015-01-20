@@ -66,7 +66,7 @@ with open("input/SNF_ambizione.csv", "r") as csvfile:
 			browser.quit()
 			continue
 		
-		outfile = open("Corpora/Ambizione/" + author.strip("") + ".txt", 'w+') 
+		outfile = open("Corpora/ambizione/" + author.strip("") + ".txt", 'w+') 
 		parser.feed(browser.page_source.encode("iso-8859-1", "replace"))
 		outfile.write(parser.get_content())
 		parser.reset_content()
