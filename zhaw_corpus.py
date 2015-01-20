@@ -37,7 +37,7 @@ class MyHTMLParser(HTMLParser):
 		if (data != "\n" and data != "" and data != ","): 
 			if "var pkBaseURL" in data:
 				self.is_over = True
-			elif "Projektbeginn" in data:
+			elif "Projektbeginn" in data or "Start date of project" in data:
 				self.start = data
 				self.assume_ok = True
 			elif "Projektleiter/in" in data or "Project leader" in data:
