@@ -2,13 +2,15 @@ from numpy import *
 from shutil import *
 
 target = "zhaw"
-min_score = 0.26
+min_score = 0.3
 min_year = 10
 
 score = recfromcsv(target + '_score.csv', delimiter=',')
 
 for i in range(size(score)):
     if int(score[i][2][2:4]) > min_year and score[i][3] > min_score:
+		
+		#~ print score[i]
 		
 		print "\n" + score[i][1]
 		
