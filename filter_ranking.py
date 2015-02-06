@@ -6,7 +6,7 @@ target = "zhaw"
 min_score = 0.33
 min_year = 10
 
-score = recfromcsv(target + '_ranking.csv', delimiter=',')
+score = recfromcsv("output/" + target + '_ranking.csv', delimiter=',')
 
 for i in range(size(score)):
 	

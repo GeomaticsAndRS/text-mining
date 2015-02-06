@@ -1,7 +1,0 @@
- Lead Lay summary In recent years, we have observed a boom in the popularity of Online Social Networks (OSNs). Facebook alone has close to 500M active users (and growing), a significant fraction of the world's online population. This is a fantastic source of data not only for social science, but also for computer science, where the OSN information can be exploited to improve the existing (and develop new) protocols and systems. 
-
-Unfortunately, any attempt to study entire OSNs is naturally handicapped by their enormous size. Often the only practical solution is to collect a small sample of the full network, and to infer the relevant information from this incomplete piece of data.  
-
-Obtaining such a sample is not an easy task. Most of known graph sampling techniques introduce a strong bias towards better connected nodes, making this inference difficult or even impossible. 
-
-Our main goal is to improve the state of the art in network sampling, especially in the context of OSNs. First, we plan to quantify the sampling bias of some classic (yet still uncharacterized) graph exploration techniques. Second, we want to develop new sampling techniques that take into account the specific features of OSNs, such as the existence of multiple relations or network partition into strong communities of very different sizes. Third, we plan to use the resulting samples to concrete applications, such as the optimization of the OSN-users-to-servers assignment, or the inference of large-scale topological information on OSNs.
