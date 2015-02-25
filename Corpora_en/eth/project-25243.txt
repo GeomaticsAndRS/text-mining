@@ -1,0 +1,1 @@
+The Multiple Access Channel with Causal State Information We study the benefit of state information that is known causally or strictlycausally to the transmitters in a multiple access network. We consider both the case of a common state that is known to each transmitter as well as the case of independent states, where each is known to one transmitter.

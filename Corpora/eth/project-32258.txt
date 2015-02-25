@@ -1,0 +1,2 @@
+  Navigation application for Motorola Mobility LLC  
+This project focuses on bringing navigation solutions (e.g. simultaneous localization and mapping) from robotics to mobile devices.

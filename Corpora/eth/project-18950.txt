@@ -1,0 +1,2 @@
+  General Equilibrium Theory and Group Formation  
+In this project, we analyze general equilibrium models with multi-member groups using three interacting mechanisms, each operating at a particular level of aggregation. Individual decisions are made to join or leave groups.

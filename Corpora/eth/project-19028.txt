@@ -1,0 +1,2 @@
+  The evolutionary ecology of the plant pathogenic fungus Rhynchosporium secalis  
+Rhynchosporium is a fungus that has recently switched from a wild host plant onto barley and rye, and has spread around the globe. In this project, we ask how genetic drift and natural selection have shaped patterns of genetic variation in phenotypically expressed traits. 

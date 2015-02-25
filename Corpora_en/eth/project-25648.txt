@@ -1,0 +1,1 @@
+Microspheres to study tumor metastasis This research project is aimed at preparing fluorescently-labeled microspheres which will be used to track metastatic cells in vivo. The microspheres will be non biodegradable, decorated with antibody fragments and internalized specifically by tumoral cells transiting via the lymph nodes.

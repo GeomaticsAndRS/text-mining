@@ -1,0 +1,1 @@
+Investigation of Nanocoils Si/SiGe nanocoils are modeled, patterned, and fabricated. Material properties and the incorporation of nanocoils into NEMS (nanoelectromechanical systems) are being considered.

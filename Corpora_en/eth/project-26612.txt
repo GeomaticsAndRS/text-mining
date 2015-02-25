@@ -1,0 +1,1 @@
+Engineering Proprioception in Computing Systems (EPiCS) The EPiCS project aims at laying the foundation for engineering the novel class of proprioceptive computing systems. Proprioceptive computing systems involve sensors to collect and maintain information about their state and progress, thereby enabling self-awareness by reasoning about their behavior.

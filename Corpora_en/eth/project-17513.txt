@@ -1,0 +1,1 @@
+Photorefractive ferroelectrics for photonics and optoelectronics In this project we investigate light-sensitive ferroelectric materials for realtime laser beam wavefront and spectral manipulation and light-induced dynamic optical switching and steering.

@@ -1,0 +1,2 @@
+  Magnetism and quantum phase transitions in single- and multi-layered ruthenates and related materials  
+(1) The physics of the spin-orbital degrees of freedom resulting from an orbital-selective Mott transition is studied in Ca(2-x)SrxRuO4. (2) The metamagnetism in Sr2RuO7 is analyzed in terms of a field-induced first-order quantum phase transition.

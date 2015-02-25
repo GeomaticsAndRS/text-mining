@@ -1,0 +1,2 @@
+  Spatial and Temporal Scales of Linkages in the Atmospheric Water Cycle (Waterscales) 
+This project contributes to a better understanding of the processes gover-  ning precipitation variability through a global Lagrangian analysis of the links between evaporation sources, atmospheric transport and precipitation processes with a focus on water vapour residence time and transport distance.

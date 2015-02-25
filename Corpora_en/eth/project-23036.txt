@@ -1,0 +1,1 @@
+Novel beta-cell targets screening and validation: siRNA and miRNA This work will study the role of gain-of function miR-375 mutations in mice on pancreatic b-cell function and survival. In addition, cell based assays will be developed for small molecule and siRNA screens that allow the identification of factors controlling miR-375 function.

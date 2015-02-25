@@ -1,0 +1,1 @@
+Uncertain Dynamical Systems This effort is aimed at automated analysis techniques for practically relevant problem classes. Our focus is on constructive formal methods for semialgebraic problems. This includes and extends many of the traditional system classes studied in traditional robust and nonlinear control theory.

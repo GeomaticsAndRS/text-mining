@@ -1,0 +1,2 @@
+  Development of Multi-temporal Change Detection Methods Using a Polarimetric-Interferometric Ground Based Radar  
+This project aims at developing and testing multitemporal interferometric and polarimetric radar processing techniques for detecting and tracking changes in the natural environment. The development will be supported by data acquired by the GPRI ground based radar.

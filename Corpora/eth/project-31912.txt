@@ -1,0 +1,2 @@
+  Mobiliar Lab for Analytics 
+The goal of this project is to investigate the potential of Big Data analytics for the domain of insurance companies.

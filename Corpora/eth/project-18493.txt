@@ -1,0 +1,2 @@
+  Oscillating Thin Film Cooling Systems: Single Layer Performance Optimization of the Concept and its Extension to Multiple Layers  
+A novel thin film cooling approach integrates a radially oscillating fluid flow in the base of a heat sink. First objective is to develop a general understanding of the heat transfer of that flow field to an array of pins. Second objective is the extension to stacked packages  and chips.

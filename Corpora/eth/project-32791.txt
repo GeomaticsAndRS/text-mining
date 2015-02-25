@@ -1,0 +1,2 @@
+  OCAD ThematicMapper - Generische Erstellung von thematischen Karten mit Wizards 
+Die Software OCAD zur Herstellung von topografischen Karten soll durch ein Modul zur Erzeugung von thematischen Karten ergänzt werden. Die Visualisierung von Kartogrammen (z. B. Diagramme) soll mit regelbasierten Assistenten (Wizards) auch Nicht-Experten  zugänglich gemacht werden.

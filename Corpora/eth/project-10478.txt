@@ -1,0 +1,2 @@
+  Perfomance Simulation Model  
+Ziel dieses Projektes ist die Entwicklung eines Bonus/Malus-Systems für die neue holländische Hochgeschwindigkeitsstrecke HSL-Zuid. Dabei soll ein Simulationskern den realen Betrieb und dessen Störungen abbilden und die Auswirkungen der Störungen einem Reportingwerkzeug melden.

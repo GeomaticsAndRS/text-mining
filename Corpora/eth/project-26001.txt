@@ -1,0 +1,2 @@
+  NCCR Robotics: Bio-mimetic sensing, actuation and mobility 
+The goal of this project is to investigate and prototype novel biomimetic sensing, actuation and mobility principles and technologies that can be comparable to the sensitivity, efficiency, and robustness of biological systems.

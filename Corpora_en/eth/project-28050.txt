@@ -1,0 +1,1 @@
+V-Charge The objective of this project is to develop a smart car system that allows for autonomous driving in designated areas and can offer advanced driver support in urban environments. The final goal in four years is the demonstration and implementation of a fully operational future car system.

@@ -1,0 +1,2 @@
+  Determinantes of Mode of Transport Choice in Switzerland  
+This project deals with the choice of the mode of transport to work in Switzerland. We apply discrete choice econometric modeling techniques to the microcensus on transportational behaviour of the BFS. The main focus of the study lies on identifying differences between different geographical regions 

@@ -1,0 +1,2 @@
+  Ligands for the modulation of microRNA biogenesis and function 
+MicroRNAs and other non-coding RNAs may represent a new class of potential drug targets. The hairpin loop of miRNA precursors will be investigated as a target site for short, high affinity, chemically-modified oligonucleotides.

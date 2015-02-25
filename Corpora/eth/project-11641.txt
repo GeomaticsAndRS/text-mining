@@ -1,0 +1,2 @@
+  Non monotonic flow of fluids near phase transition  
+Flow instabilities are observed, if macromolecular microstructures either in a bulk fluid or at interfaces form flow-induced structures supporting local phase transion. Such phenomena are observed in rheometric flows using optical means like light scattering technique and quantified. 

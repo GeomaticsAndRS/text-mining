@@ -1,0 +1,1 @@
+Diffusion weighted imaging at high and ultra-high field strengths Diffusion weighted imaging is a modality that produces in-vivo images which contain information about the local microstructure characteristics of biological tissue. DWI is very useful to diagnose e.g. vascular strokes, or to study white matter connectivity and white matter diseases of the brain.

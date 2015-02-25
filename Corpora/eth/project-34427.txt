@@ -1,0 +1,2 @@
+  Covariate adjustment  
+Under some assumptions, which can be encoded in a graph, causal effects can be estimated from observational data using covariate adjustment. Based on several different types of graphs, we develop criteria to decide whether a certain set of variables can be used for covariate adjustment or not. 

@@ -1,0 +1,1 @@
+Superconducting Quantum Networks (SuperQuNet) In this project we investigate quantum communication using superconducting circuits, an area altogether unexplored in this domain. For this purpose we will develop both hardware and experimental techniques to realize superconducting quantum networks across up meter-scale distances.

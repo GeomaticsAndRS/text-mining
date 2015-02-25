@@ -1,0 +1,2 @@
+  TOPFLOW PTS  
+During a Loss-Of-Coolant Accident, cold water is injected into the reactor causing Pressurized Thermal Shocks (PTS) on structural elements. Validation of the related CFD modeling will be performed using a 1:2.5 scaled down mock-up of one cold leg and down-comer of a Light Water Reactor.

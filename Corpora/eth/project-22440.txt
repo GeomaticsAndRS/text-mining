@@ -1,0 +1,2 @@
+  The Evolution of Beliefs in a Real Time Trust Game  
+We experimentally investigate trust-based decision making by sorting of similar player types (as defined by their earlier decisions) in repeated interactions. The mechanism of sorting players over iterations has been shown to decrease defection rates and operationalizes the idea of meritocracy. 

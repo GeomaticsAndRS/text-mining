@@ -1,0 +1,1 @@
+Strain effects in epitaxial spinel thin films We explore how epitaxial strain affects the structural, electronic, and magnetic properties of spinel ferrites and chromites (e.g. CoFe2O4, NiFe2O4, CoCr2O4), to assess the potential of these materials for future applications in spintronics and magneto-electric devices.

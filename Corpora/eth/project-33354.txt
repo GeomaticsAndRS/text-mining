@@ -1,0 +1,2 @@
+  Moody Oil - What is Driving the Price of Crude Oil? 
+We study the price dynamics after 2003 in the global crude oil market using a structural VAR model, paying particular attention to anticipative market activities. These are inferred from a time series of news items measuring the flow of publicly available information relevant for the oil market.

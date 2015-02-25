@@ -1,0 +1,2 @@
+  Enhance long-term stability in gravity driven membrane filtration through biofilm engineering 
+Membrane filtration allows to securely remove pathogens from contaminated water but is hampered by biofilms developing on the membrane surface. Rather than trying to prevent biofilm formation this project aims at influencing biofilm structure to maximize hydraulic conductivity. 

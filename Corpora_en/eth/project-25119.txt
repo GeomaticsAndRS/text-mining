@@ -1,0 +1,1 @@
+Exploration of microscale ciliary transducers This project will explore ciliary micro-transducers from device physics to fabrication of demonstrators and characterization, to assess their suitability for technical applications. The underlying sensing concept, inspired from nature, holds great promise as a building block for future applications.

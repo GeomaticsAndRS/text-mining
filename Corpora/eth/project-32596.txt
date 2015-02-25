@@ -1,0 +1,2 @@
+  Two-phase flows in flexible porous media: wicking of fluid in micro-textiles  
+The project builds upon the recent successes in the development of the Entropic lattice Boltzmann method (ELBM) as a general novel paradigm in computational fluid dynamics, and is focused on the creation, validation and application of new ELBM models for multi-phase flows in textiles. 

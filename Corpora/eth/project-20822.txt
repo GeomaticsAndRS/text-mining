@@ -1,0 +1,2 @@
+  Drug-sensing hydrogels for the inducible release of biopharmaceuticals  
+Drug-dependent dissociation or association of cellular receptors represents a potent pharmacologic mode of action for regulating cell fate and function. Transferring the knowledge of pharmacologically triggered protein-protein interactions to materials science will enable novel design concepts. 

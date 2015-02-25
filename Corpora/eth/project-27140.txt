@@ -1,0 +1,2 @@
+  CrowdDB: Integrating Human Input into Databases  
+The goal of this project is to develop a set of novel techniques that allow to integrate human resources into a database system in order to process some of the impossible queries that Google and Oracle cannot answer today and address some of the notoriously hard database research problems. 

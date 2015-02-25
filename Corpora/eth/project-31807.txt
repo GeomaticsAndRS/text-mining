@@ -1,0 +1,2 @@
+  Nonlinear optical properties of strongly correlated materials under hydrostatic pressure  
+We study the effect of hydrostatic pressure on the magnetic- and electrical properties of strongly correlated electron materials using optical second-harmonic-generation (SHG) technique. 

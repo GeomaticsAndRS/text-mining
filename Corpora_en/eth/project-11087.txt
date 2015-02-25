@@ -1,0 +1,1 @@
+Algebraic structure in optimization Engineering applications require the solution of possibly large-scale convex optimization problems. Though feasible, it is clearly convenient for practical reasons to understand the extent to which algebraic properties of the input data can be exploited for faster and more reliable computation.

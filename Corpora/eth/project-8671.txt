@@ -1,0 +1,2 @@
+  Biological functions and mechanisms of action of keratinocyte growth factor (fibroblast growth factor 7)  
+In this project we study the biological functions of keratinocyte growth factor in organ homeostasis, tissue repair and in human inflammatory disease. Using cell culture models and genetically modified mice, we determine the mechanisms of action of keratinocyte growth factor at the cellular level. 

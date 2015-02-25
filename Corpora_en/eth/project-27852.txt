@@ -1,0 +1,1 @@
+ALGOSNOW The complete title of this project is Algorithms for Snow and Land Ice Retrieval using SAR data and is supported by the European Space Agency and is coordinated by Istituto di Fisica Applicata ”Nello Carrara”-Consiglio Nazionale delle Ricerche, Florence Italy.

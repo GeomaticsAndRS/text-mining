@@ -1,0 +1,1 @@
+Variable-Angle and Switched-Angle Spinning of Biomolecules attached to Bicelles The spectroscopy of peptides and proteins associated with bicelles (as a model for bilayers, e.g. cell membranes) is an exciting new field which unifies experiments from solid-state NMR and liquid-state NMR. We dynamically reorient the liquid crystalline director by SAS.

@@ -1,0 +1,1 @@
+Finite Element Simulation of the Face Through a detailed anatomy and a realistic constitutive modeling of facial soft tissues this project aims at enhancing the understanding of the biomechanics of the face and at providing information for surgery planning.

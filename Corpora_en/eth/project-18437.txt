@@ -1,0 +1,1 @@
+Increasing sensitivity per unit time in MRI/MRS studies of small rodents Sensitivity per unit time can be increased by reducing the noise figure of the MR experiment. Strategies pursuit are the use of low-temperature detection devices and/or parallel data acquisition using multiple receivers.

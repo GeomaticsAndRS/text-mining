@@ -1,0 +1,2 @@
+  Electrodynamics and Ultimate Performance in MRI  
+The goal of this project is to elucidate the specific potential and limitations that arise from the electrodynamic nature of MRI detection. Special emphasis is put on the electrodynamic analysis of parallel MRI and on the prospects of MRI at very high field strength.

@@ -1,0 +1,2 @@
+  Mouse model to study the virulence function of the Salmonella SPI-1 Type III secretion system  
+We have stablished that streptomycin pre-treated mice offer a unique infection model which allows for the first time to use mutants of both Salmonella typhimurium and the host (mice) to study the molecular mechanisms of enteric salmonellosis. 

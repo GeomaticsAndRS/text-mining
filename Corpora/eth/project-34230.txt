@@ -1,0 +1,2 @@
+  Lifecycle Asset Allocation With Recursive Preferences  
+We study life-cycle asset allocation in an incomplete markets model with income and asset risk and survival risk. We compare Risk-Sensitive to Epstein-Zin preferences.

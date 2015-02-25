@@ -1,0 +1,1 @@
+AEDA: Advanced Engineering Design Automation The AEDA project aims to provide an integrated platform for design automation of engineering design tasks. This consists of knowledge acquisition, knowledge modeling, and generative design and optimization methods that are integrated in a software framework that will be evaluated with industry.

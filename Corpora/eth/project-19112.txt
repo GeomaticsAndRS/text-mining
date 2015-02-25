@@ -1,0 +1,2 @@
+  Buckling and flexural buckling of steel columns in fire  
+The research project aims at analyzing the fire resistance of rectangular  hollow sections and I-profiles subjected to axial compression as well as combined axial compression and uniaxial bending.

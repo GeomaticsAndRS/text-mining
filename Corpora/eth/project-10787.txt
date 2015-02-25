@@ -1,0 +1,2 @@
+  NMR structure determination of RNA, protein and protein-RNA complexes involved in pre-mRNA Editing by base deamination  
+The focus of the group is to determine atomic resolution structure of a few key protein-RNA complexes involved in controling RNA editing, namely the two editing enzyme ADAR2 and the Apobec. We are studying these complexes in solution and are using NMR spectroscopy to determine their structures 

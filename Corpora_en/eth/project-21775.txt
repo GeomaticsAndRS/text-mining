@@ -1,0 +1,1 @@
+Functional analysis of the SUMO pathway in budding yeast We exploit the powerful combination of genetic, cell biological and biochemical tools amenable in budding yeast to gain insights into the functional significance of the small ubiquitin-related protein modification, SUMO in nuclear export of mRNAs and ribosomal subunits.

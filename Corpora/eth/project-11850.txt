@@ -1,0 +1,2 @@
+  The MAP Data Center (MDC)  
+Im Rahmen des Mesoscale Alpine Program wird das Datenzentrum betrieben: Speichern der Daten (Oracle), Dokumentation, formale Verfikation, Bereitstellen von Werkzeugen für Datenextraktion und Visualisierung. Umfang ca 70 Gbyte, Zugriffe rund 2500 pro Tag, Download rund 350 MByte pro Tag.

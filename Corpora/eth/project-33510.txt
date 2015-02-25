@@ -1,0 +1,2 @@
+  Underlying energy efficiency and technological change in the Swiss household sector 
+Improving energy efficiency in Swiss homes may yield significant reductions in energy consumption and help meet energy policy goals. In this project we will estimate  econometrically the size of the potential energy saving due to an increase in energy efficiency in the residential sector.

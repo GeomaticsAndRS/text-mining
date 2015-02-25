@@ -1,0 +1,2 @@
+  Optimization and Planning of Hydro-Power Production  
+The goal of this project is a prototype software which assists power producers with an (risk-) optimal medium-term production strategy for typically Swiss hydro storage power plants. Key aspects of the software is the integration of stochasticity and consideration of  ancillary services.

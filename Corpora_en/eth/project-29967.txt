@@ -1,0 +1,1 @@
+Simulation of Many-Particle Systems with Impact and Friction A simulation software package for computing the dynamics of many rigid and/or deformable bodies under friction and impacts is intended. Parallel computing aspects as well as variational integrators are to be developed and implemented.

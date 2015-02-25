@@ -1,0 +1,2 @@
+  Erhöhung der Produktionsqualität durch intelligente Überwachung von Materialschwankungen mit Hilfe des Wirbelstromverfahrens und die adaptive Korrektur von Umformprozessen, Modul 1  
+Erhöhung der Prozessrobustheit bei rostfreien Werkstoffen durch kontrollierte Überwachung der Materialschwankungen. Modul I: Erfassen der Materialkennwerte und Training des  Wirbelstromsystems zur Erfassung der mechanischen Eigenschaften und der Korngrösse.

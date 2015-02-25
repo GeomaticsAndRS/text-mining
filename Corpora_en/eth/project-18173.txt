@@ -1,0 +1,1 @@
+Interaction between mesh implants and soft tissue Mesh implants are used in surgery to provide mechanical support to soft tissue. Investigation of their mechanical interaction is useful for the optimization of both, mesh implant properties and the corresponding surgical procedures

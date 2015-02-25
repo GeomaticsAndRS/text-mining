@@ -1,0 +1,2 @@
+  Network Perturbation Discovery under Uncertainty  
+The main problem addressed in this project is the determination of causal perturbations in biological networks, more specifically gene regulatory networks (GRNs), that lead to alterations in biological functions. 

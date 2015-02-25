@@ -1,0 +1,1 @@
+Kinematic long-term monitoring of local glacier surface deformations using single frequency GNSS Surface changes of a glacier are characterized by long-term processes like flow and ablation and by sporadic events like glacial lake outburst floods. Low-cost singlefrequency GNSS measurements can be processed to yield both types of variations for studying enand subglacial processes.

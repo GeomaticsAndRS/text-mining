@@ -1,0 +1,1 @@
+The Optimal Management of a Natural Resource under Regime Switching Behavior This paper analyzes the management of a fishery in which the dynamics of the fish stock shift between different regimes at random times. The question that is addressed is whether regime shifts actually affect the way an agency manages the fishery.

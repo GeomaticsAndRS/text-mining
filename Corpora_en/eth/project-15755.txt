@@ -1,0 +1,1 @@
+Search for the rare decay B -> mu+mu- with the CMS Experiment We search for leptonic decays of the Bd and Bs mesons with the CMS detector. These decays offer strong sensitivity to supersymmetric extensions of the standard model of particle physics with the first data at LHC. The CMS pixel detector plays a crucial role in the measurement of these decays.

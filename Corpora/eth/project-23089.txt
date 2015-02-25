@@ -1,0 +1,2 @@
+  Chemical Derivatization of Graphene  
+Graphene, a 2D form of all sp2 carbon atoms, has fascinating electrical properties and high electron/hole mobilities. We covalently attach functional groups on graphene surfaces to fine tune these electrical properties. 

@@ -1,0 +1,2 @@
+  Theory of ferro- and anti-ferromagnetism  
+We study the generation of ferro- and anti-ferromagnetic exchange interactions in tight-binding models of itinerant electrons in a periodic background. The role of the ”Weiss exchange field” in the theory of magnetic materials is emphasized. Phase transitions in anti-feroomagnets are analyzed, too. 

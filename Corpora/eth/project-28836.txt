@@ -1,0 +1,2 @@
+  Semiactive Control for Magnetor-heological (MR) dampers by combining Control Methodologies with System Identification (SI) Methods 
+The development of smart materials, intelligent structures and technolo-  gies has recently received significant attention in the field of structural engineering. It is therefore necessary to design efficient and precise monitoring systems for such structures.

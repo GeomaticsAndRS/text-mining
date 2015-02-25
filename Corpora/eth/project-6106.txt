@@ -1,0 +1,2 @@
+  Zenith Camera and Determination of Deflections of the Vertical  
+The new Digital Astro-geodetic Deflection measuring system (DIADEM)  of the Geodesy and Geodynamics Lab (GGL) is an on-line measuring system based on the CCD technique. Astronomical latitude and longitude can be determined with high accuracy in a very short time. The system operates fully automated.

@@ -1,0 +1,1 @@
+Mechanism of Chaperone-Proteases Chaperone proteases are cylindrical degradation machines that exist in all three domains of life. They are responsible for the energy-dependent breakdown of substrate proteins into small peptides. We are interested in elucidating the mechanism of action of the prokaryotic Clp chaperone proteases.

@@ -1,0 +1,2 @@
+  Development of a Bobsled Simulator Software  
+A bobsled simulator software is to be developed, which computes in realtime the bobsled dynamics during a run under steering actions for real-world tracks

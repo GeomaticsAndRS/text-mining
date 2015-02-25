@@ -1,0 +1,2 @@
+  Molecular mechanism of spindle positioning 
+Spindle positioning ensures the proper segregation of chromosomes during mitosis. We investigate the molecular events during this process. Particularly, we focus on the mechanisms of spindle asymmetry, which we showed to play a central role in spindle alignment with the division axis.

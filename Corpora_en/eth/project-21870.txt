@@ -1,0 +1,1 @@
+Statistical regularization: Structure Estimation and Graphical Modelling in High Dimensions This project develops new statistical methodology, theory and algorithms for inferring discrete structures from noisy data.

@@ -1,0 +1,1 @@
+Uncertainty quantification in computational hydraulics This project aims at introducing and developing uncertainty quantification in computational hydraulics engineering. Methods to handle the analysis of high-dimensionality, highly non-linear model responses will be investigated within the in-house developed software UQLab.

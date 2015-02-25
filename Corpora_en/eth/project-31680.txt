@@ -1,0 +1,1 @@
+Helicopter based PIV Helicopter based Particle-Image-Velocimentry measurements are performed to determine the complex flow pattern on the surface of a river bend. Image transformation tools are developed to reduce the noise level induced by the helicopter movements. Drones will be used to record the images in the future

@@ -1,0 +1,2 @@
+  Quantum phase transitions and scaling in low-dimensional and frustrated spin systems. 
+Neutron scattering, muon spin rotation spectroscopy and bulk methods are used to experimentally investigate quantum critical phenomena in disordered, low-dimensional and geometrically frustrated spin systems. Particular attention is given to quantum phase transitions induced by magnetic fields.

@@ -1,0 +1,1 @@
+Combinatorial Optimization: Efficient Algorithms and Polyhedral Methods We design and leverage modern algorithmic techniques, mostly based on polyhedral methods, to design efficient algorithms with hard guarantees.

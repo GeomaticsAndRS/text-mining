@@ -1,0 +1,1 @@
+Interactive Shape Deformation and Animation The goal of this project is to develop novel algorithms and user interfaces for digital shape deformation and animation that are simple and intuitive to use, automate difficult parts of the process and are fast enough for handling high-resolution digital shapes in real time.

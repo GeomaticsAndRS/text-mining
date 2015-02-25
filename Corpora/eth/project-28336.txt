@@ -1,0 +1,2 @@
+  Structure and mechanism of oligosaccharyltransferase  
+The enzyme oligosaccharyltransferase catalyzes N-linked protein glycosylation, the most abundant post-translational modification of proteins in the eukaryotic cell. In collaboration with Markus Aebi (Institute of Microbiology, ETH Zurich), we determine the structure and mechanism of this enzyme. 

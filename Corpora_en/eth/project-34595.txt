@@ -1,0 +1,1 @@
+Spin Hall Effect in Oxide Heterostructures Bilayers combining spin orbit coupling (Pt) and robust ferromagnetism (YIG, LSMO) are grown in UHV systems. The interfacial magnetism between the metals and the oxides are characterized using SHG and magnet-transport. The ability to use current to reverse a magnetic state is here under investigation

@@ -1,0 +1,2 @@
+  KTI 15769.1 Relevance feedback mechanisms for video surveillance ** upicto 
+The aim of this research project is to augment the upicto technology with  relevance feedback mechanisms. This will influence the learning procedure and make the system more flexible and thus applicable for more diverse scenarios.

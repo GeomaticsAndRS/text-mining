@@ -1,0 +1,1 @@
+Spatial Impulse Waves Rock falls, landslides, shore instabilities, or snow avalanches may generate large water waves in oceans, bays, lakes, or reservoirs. The spatial propagation characteristics of these so-called impulse waves are investigated within this project to derive calculation fomulae for hazard assessment.

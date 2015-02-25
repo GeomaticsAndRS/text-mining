@@ -1,0 +1,2 @@
+  Construction and functional analysis of chimeric proteins for detection and lysis of pathogenic bacteria 
+From single modules to functional proteins - this project aims to recombine functional domains isolated from viral and bacterial enzymes into hybrid proteins with the  desired properties, in terms of target specificity and enzymatic activity.

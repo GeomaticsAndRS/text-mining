@@ -1,0 +1,1 @@
+Ultrafast manipulation of structure in strongly correlated systems This proposal aims to further develop ultrafast photonics capabilities to allow specific tailoring of THz pulses for specific control tasks in strongly correlated systems.

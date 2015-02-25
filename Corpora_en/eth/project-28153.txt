@@ -1,0 +1,1 @@
+Textile integrated near-infrared spectroscopy system The aim of this project is to develop a textile integrated near-infrared spectroscopy system for monitoring oxide concentration in blood. The system is developed together with the Clinic of Neonatology of the university hospital in Zurich.

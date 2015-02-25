@@ -1,0 +1,1 @@
+Cardiac motion analysis in two and three dimensions Alterations of myocardial mechanics are linked with a variety of cardiac diseases. Advanced Magnetic resonance tagging and displacement encoding techniques are developed and applied to allow assessing the dynamics of mechanical activity in two and three dimensions in different cardiac diseases.

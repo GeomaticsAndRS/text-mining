@@ -1,0 +1,1 @@
+Interplay of strain and defect formation in perovskite materials A crystal under epitaxial strain may, depending on partial gaz pressures in it’s environment, respond to strain by spontaneous formation of point defects. This project aims to predict such defect formation energies and rationalise their behaviour in terms of the electronic structure.

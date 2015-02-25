@@ -1,0 +1,1 @@
+V-MAV DACH SNF DFG OEFG Cooperation Micro Aerical Vehicles Using Onoard Visual Sensors The overall aim of the project is to advance the capabilities of visual controlled MAVs in the areas of flight behavior and autonomy, cooperative operation, cognitive abilities and in addition to decrease the size of such an MAV.

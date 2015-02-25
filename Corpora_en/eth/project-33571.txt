@@ -1,0 +1,1 @@
+SCCER-Mobility In the project, highly efficient and compact power electronic interfaces are developed based on multi-domain models and optimisation procedures. In a final step, a prototype system is built.

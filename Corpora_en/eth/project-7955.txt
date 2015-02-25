@@ -1,0 +1,1 @@
+Identification and analysis of SPI-1 TTSS chaperones The Type III secretion mechanism requires specific chaperones. We found that the chaperone InvB is required for transport of SipA, SopE and SopE2. Therefore, effector proteins encoded within and outside of SPI-1 use the same chaperone for secretion via the SPI-1 TTSS.

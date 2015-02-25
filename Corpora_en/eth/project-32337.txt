@@ -1,0 +1,1 @@
+Simultaneous Embeddings We use the term simultaneous (geometric) embedding to refer to any kind of problem in which two or more graphs are to be embedded simultaneously, usually subject to certain constraints. One reason for the strong interest in simultaneous embeddings lies in a wealth of applications.

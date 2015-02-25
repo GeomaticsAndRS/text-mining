@@ -1,0 +1,2 @@
+  Passive Load Alleviation Morphing Airfoils for Wind Turbine Blades 
+The aim of this project is to develop morphing airfoils incorporating passive variable stiffness components to achieve alleviation of aerodynamic loads on wind turbine blades allowing for upscaling of current designs resulting in more efficient operation.

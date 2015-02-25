@@ -1,0 +1,2 @@
+  V-Charge 
+This project is based on the vision that, due to required drastic decrease  of CO2 production and energy consumption, mobility will undergo important changes in the years to come.New mobility concepts might be automatic drop-off and recovery of cars without taking care of parking or re-charging.

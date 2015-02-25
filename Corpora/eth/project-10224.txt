@@ -1,0 +1,2 @@
+  Gene-specific Transcription Regulators  
+Specificity of gene regulation in eukaryotic cells relies not only on genespecific DNA recognition by transcription factors, but also on cooperative interactions between these heterologous factors. Our current research on gene-specific regulators is on enzymes that modify the chromatin template. 

@@ -1,0 +1,1 @@
+Robot-Assisted Rehabilitation of Hand Function After Stroke This project focuses on the design and clinical evaluation of a robotic tool for rehabilitation of hand function after stroke. Novel modes of diagnostics, assessment and therapy will be investigated.

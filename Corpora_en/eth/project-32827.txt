@@ -1,0 +1,1 @@
+Nano-Tera Wearable MRI Mechanical rigidity of MRI detectors compromise sensitivity because they prevent adjustment to patients. The main goal of this project is the development of wearable, flexible detector arrays with miniature on-detector receivers and stretchable detector loops that automatically conform to patients.

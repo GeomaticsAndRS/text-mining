@@ -1,0 +1,2 @@
+  Rheology of supercooled liquids: multiscale simulations guided by nonequilibrium thermodynamics  
+Specially designed multiscale simulations are used in order to study rheological behavior of supercooled liquids. Founded on a nonequilibrium statistical thermodynamics framework, these simulations allow to establish a microscopically founded constitutive model for these systems. 

@@ -1,0 +1,1 @@
+Mechanotransduction in the extracellular matrix Experimental and computational techniques are applied to study how mechanical forces change the structure/function relation of extracellular matrix proteins and integrins. Insights are derived how forces are converted into biochemical signals, ultimately regulating cell signaling and behavior.

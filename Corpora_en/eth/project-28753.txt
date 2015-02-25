@@ -1,0 +1,1 @@
+SWARMIX - Synergistic Interactions in Swarms of Heterogenous Agents The project is about laying the foundations for the design, implementation, and adaptive control of heterogeneous multi-agent systems that are composed of humans, animals, and robots cooperating to solve distributed tasks that require a wide diversity of sensory, motor and cognitive skills.

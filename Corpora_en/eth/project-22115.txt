@@ -1,0 +1,1 @@
+Interaction and Effects of Gusts Turbulence on Wind Turbine Performance The objective of this project is to experimentally quantify the combined effects of gusts and turbulence on wind turbine performance. Many potential sites of Swiss wind farms are located in complex terrain, and wind turbines at these sites will be subjected to frequent gusts and high levels of turbu

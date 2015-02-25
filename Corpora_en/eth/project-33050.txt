@@ -1,0 +1,1 @@
+Thermomechanical Hybrid Simulation With the hybrid simulation technique, a model is substructured in numerical and physical components. Its response to simultaneous mechanical and heat loads is computed. The concept is proven using OpenSees, OpenFresco and a uniaxial compression/tension machine with a computer-controlled furnace.

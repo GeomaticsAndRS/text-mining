@@ -1,0 +1,1 @@
+Characterization of MCAK interactors at kinetochores This project aims at indentifying and characterizing new interactors of the microtubule depolymerase MCAK at human kinetochores. It is based on in vivo and in vitro purifications, mass-spectroscopy analysis and functional characterization in human tissue culture cells

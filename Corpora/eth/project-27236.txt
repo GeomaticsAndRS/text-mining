@@ -1,0 +1,2 @@
+  Hand Dynanometer 
+A high precision dynamometer has been developed to measure hand grip forces inside the MR scanner. It is made out of plastic and is based on an optical measurement principle. It can be used inside a 3 Tesla MRI scanner, without causing image artifacts and functional deficiencies.

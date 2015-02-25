@@ -1,0 +1,1 @@
+Oracle inequalities with the LASSO The LASSO is a regularization technique that does embedded feature selection. In this project, we show that the prediction error of the LASSO is up to constants as good as the one of the optimal model which discards irrelevant variables.

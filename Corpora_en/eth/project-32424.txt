@@ -1,0 +1,1 @@
+Plant-herbivore-microbe interactions in Soybean This project explores the interactions of soybean plants with insect her- bivores and microbial pathogens and mutualists; specifically, how plant associations with rhizobia and other soil microbes influences plant resistance to insect herbivores and pathogens and the cues that guide insect foraging.

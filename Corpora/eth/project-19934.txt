@@ -1,0 +1,2 @@
+  Indoor Flying Machine Arena  
+The Flying Machine Arena is a 10x10x10 m flight testing facility being constructed in ML Hall. It consists of an airspace with up to a dozen unmanned vehicles. The facility will be used to develop new algorithms for high performance autonomous flight, including formation flight and swarms.

@@ -1,0 +1,2 @@
+  Adaptation of root system architecture of cereal crops to low supply of nitrogen, phosphorus and water  
+The project aims to determine quantitative trait loci related to the response of root system architecture of cereal crops to water, nitrogen and phosphorus limitation. The project will be conducted within the EuRoot Seventh Framework Program of the European Union.

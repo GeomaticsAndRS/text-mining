@@ -1,0 +1,1 @@
+Prohl, A.: Numerics of Crystalline and Micromagnetic Microstructures Mathematical modelling of phase transitions in crystalline solids typically leads to the minimization of a non-quasiconvex functional, and (highly oscillating) infimizing sequences reveal the most important information of the physical situation.

@@ -1,0 +1,2 @@
+  Secure Architectures for Trustable Hardware in the Information and TelecommunicationTechnology 
+This project aims at identifying hardware vulnerabilities, modeling of attack scenarios and investigating formal and structural methods to sucessfully thwart attacks and enable safe authentication and integrity assurance of hardware platforms.

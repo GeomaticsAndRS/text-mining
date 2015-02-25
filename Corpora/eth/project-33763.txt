@@ -1,0 +1,2 @@
+  GIS supported mobile outdoor experiments (GISsmox)  
+The wide spread of mobile devices with integrated GPS receivers opens up novel options for collection and visualisation of spatial data in a teaching context. On field trips  students can acquire datasets in a real-time crowd-sampling approach and conduct analysis of their own dataset on site.

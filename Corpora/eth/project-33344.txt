@@ -1,0 +1,2 @@
+  Linking the CITE general equilibrium model with a bottom-up technology model for the analysis of the Swiss Energy System  
+The objective of this project is to integrate a bottom-up technology model of the Swiss energy system to the CITE general equilibrium model. This enhanced version of the CITE model allows an analysis of the technology pathways to achieve the objectives of the Swiss Energy Strategy. 

@@ -1,0 +1,1 @@
+Prohl, A.: Norm-Preserving Fully Discrete Schemes for Micromagnetics

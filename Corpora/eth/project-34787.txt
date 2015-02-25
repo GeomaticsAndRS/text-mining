@@ -1,0 +1,2 @@
+  Seismic Risk Mitigation using Structural and Financial Engineering Measures 
+Structure engineering measures, such as seismic retrofit, and financial engineering measures, such as earthquake insurance, require investments. The objective is to determine which combination of measures represents an optimal investment strategy for a community  to maximize its seismic resilience.

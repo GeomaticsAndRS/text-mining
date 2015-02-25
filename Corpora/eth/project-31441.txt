@@ -1,0 +1,2 @@
+  Monitoring and source apportionment of atmospheric mercury in Zurich and at the High Alpine Research Station Jungfraujoch  
+Gaseous elemental mercury is measured in the city center of Zurich and at the high alpine research station Jungfraujoch (3500 m a.s.l.). This data set is interpreted in terms of source regions and source strength of mercury. 

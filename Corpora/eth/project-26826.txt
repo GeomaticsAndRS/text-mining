@@ -1,0 +1,2 @@
+  Smartgrid-Polysun: Design Tool for Local Load Management 
+Integration of demand response, Distributed Generation (DG) and Energy Storage (ES) into Polysun. Models for loads, DG and ES will be developed and the operation of individual buildings will be optimized, while regional control concepts and the additional power system flexibility will be assessed.

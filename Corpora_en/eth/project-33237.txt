@@ -1,0 +1,1 @@
+Manufacturing over many scales based on block copolymer nanolithography We will achieve nearly complete coverage of nanopore patterns on a 10centimeter-diameter substrate via block copolymer nanolithography and anisotropic etching. Success of this lift-off-free nanomanufacturing can establish one avenue towards manufacturing over nano-to-macro scales.

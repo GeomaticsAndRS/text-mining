@@ -1,0 +1,2 @@
+  Asymmetric hydrogenation of olefins catalyzed by functionalized metal-organic frameworks  
+N- and P-functionalized metal-organic frameworks will be used as materials to coordinate transition-metal complexes bearing chiral ligands. Such metal-functionalized MOFs will be employed as catalysts  for the Rh-catalyzed asymmetric hydrogenation of acrylamino acids.

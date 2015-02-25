@@ -1,0 +1,2 @@
+  Accelerated perfusion imaging by exploiting spatiotemporal data correlation  
+The assessment of ischemia is an important readout in cardiac patients. In this project higly accelerated Magnetic Resonance imaging techniques based on spatiotemporal  data correlations are developed and applied in volunteers and patients together with clinical partners.

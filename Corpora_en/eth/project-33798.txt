@@ -1,0 +1,1 @@
+Example-Based Geometry Brush Investigation of a general procedural geometry generation method combined with a brush-based painting technique, as commonly known in software packages like Blender and Maya. The approach works on a wide spectrum of topologically different input exemplars, such as surfaces and discrete elements.

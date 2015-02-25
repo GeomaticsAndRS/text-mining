@@ -1,0 +1,1 @@
+Rmetris ’ Computational Finance and Financial Engineering The aim is to create an Open Source software solution for financial market analysis and valuation of financial instruments. With hundreds of functions build on modern and powerful methods Rmetrics combines explorative data analysis and statistical modeling with object oriented rapid prototyping.

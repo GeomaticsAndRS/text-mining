@@ -1,0 +1,1 @@
+The Benford Distribution as a Method to Detect Fraudulent Data In experiments with fraudulent data Benford digit tests are explored.

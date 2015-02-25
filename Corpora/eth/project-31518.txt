@@ -1,0 +1,2 @@
+  Towards generic student modelling using log file data from the software Dybuster  
+Student modelling is a key aspect of computer-based training systems. By leveraging large sets of log file data that are collected with recent training systems we aim to develop generic student models.

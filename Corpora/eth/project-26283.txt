@@ -1,0 +1,2 @@
+  Lattice QED  
+Goal of this project is to explore non-equilibrium generalizations of strongly correlated systems with coupled cavity-QED arrays.

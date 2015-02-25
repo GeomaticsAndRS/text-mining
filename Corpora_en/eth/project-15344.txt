@@ -1,0 +1,1 @@
+Development of Advanced Proteomic Technologies State-of-the-art mass spectrometry instrumentation (including (FT-MS, IT-MS, MALDI-TOF-TOF, coupled to HPLC systems) has been implemented, and was applied to solve biologically relevant problems in the area of biomarker discovery, protein post-translational modifications, and protein interactions.

@@ -1,0 +1,2 @@
+  Integrated modelling of power and transportation systems  
+Plug-In Hybrid Electric Vehicles (PHEV) are attaining much interest. They will recharge energy from the power grid to be used for propulsion. This project investigates the impact of PHEVs on the power grid by integrating power system and  transportation models while also looking at the advantages.

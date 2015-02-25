@@ -1,0 +1,1 @@
+Spatial-temporal geometry upsampling for high-quality performance capture We present a new performance capture system by combining a single high-framerate video camera with a low-framerate performance capture system to achieve both high-resolution and high-speed dynamic geometry capture.

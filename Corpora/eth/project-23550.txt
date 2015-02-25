@@ -1,0 +1,2 @@
+  Conformational spaces of biopolymers  
+Develop methods and algorithms to characterize and optimize the conformational space of proteins and other biopolymers and to quantify structural similarity 

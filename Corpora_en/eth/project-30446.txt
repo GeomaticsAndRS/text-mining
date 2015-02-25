@@ -1,0 +1,1 @@
+UQLab: the uncertainty quantification toolbox in Matlab UQLab is a Matlab platform dedicated to uncertainty quantification in engineering sciences. It provides state-of-the-art algorithms for uncertainty propagation (Monte Carlo simulation, polynomial chaos expansions, Kriging, sensitivity analysis(Sobol’ indices) to be used with any computational model.

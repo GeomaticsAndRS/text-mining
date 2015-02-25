@@ -1,0 +1,1 @@
+COTHERM-IPGT: Geologische Kalibration geophysikalischer Messmethoden zur geothermalen Reservoir-Charakterisierung The project collects geological information to calibrate geophysical measurements methods for subsurface geothermal reservoir characterization at the example of an exposed fossil geothermal system in SE Iceland.

@@ -1,0 +1,2 @@
+  On Quantifying Operational Security (SecMetrics) 
+The objective of this project is to develop a framework for quantitative security metrics as an indicator of the vulnerability and attack proneness of an IT system consisting  of stationary or mobile networked nodes.

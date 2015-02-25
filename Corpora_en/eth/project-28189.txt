@@ -1,0 +1,1 @@
+Community Sense and Respond Systems We tackle a fundamental question in cyber-physical systems: What is the ideal structure of systems that detect critical events – such as earthquakes – by using data from large numbers of sensors held and managed by ordinary people in the community?

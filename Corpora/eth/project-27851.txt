@@ -1,0 +1,2 @@
+  PolSARAP  
+The complete title of the project is Exploitation of fully polarimetric SAR data for application demonstrations and is supported by the European Space Agency and coordinated by the German Aerospace Center. The main goal is the development of a software tool and the compilation of a book. 

@@ -1,0 +1,2 @@
+  Development of bulk metallic glasses via fluxing and analysis of their structural properties  
+The use of boron oxide flux in Pd-based bulk metallic glasses generates higher glass-forming ability and better thermal and mechanical properties. This project concerns  the understanding of fluxing mechanisms and the development of new fluxes suitable for metallic glass processing.

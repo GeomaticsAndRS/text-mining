@@ -1,0 +1,2 @@
+  Prohl, A.: Mathematical image processing  
+So far, gradient flows related to total variation minimization and MumfordShaw have been studied. We now consider denoising of colored images ($-harmonic maps). Also, we study the Perona-Malik scheme (based on nonconvex, non-coercive energy) both, analytically and numerically.

@@ -1,0 +1,2 @@
+  Model development and optimization of fed-batch and continuous mammalian cell culture processes for the production of therapeutic proteins  
+On the effect of key process parameters on cell performance, metabolism and product quality in continuous mammalian cell culture.

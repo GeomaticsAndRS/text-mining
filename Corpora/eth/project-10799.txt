@@ -1,0 +1,2 @@
+  SCOOP: Dependable concurrent and distributed programming using object technology and Design by Contract (Hasler Foundation / SNF) 
+The SCOOP project develops and implements a general model, based on  sound principles of software engineering, to make concurrent and distributed applications no more difficult to program, and trust, as traditional sequential applications.

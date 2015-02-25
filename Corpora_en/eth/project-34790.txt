@@ -1,0 +1,1 @@
+Control and Modeling Strategies for Thermomechanical Hybrid Simulation Thermo-mechanical simulation involves complex interactions among the mechanical and thermal loading equipment for the physical portion of the hybrid model, the software where the numerical portion of the model is, and the model integration and control software. These interactions are investigated.

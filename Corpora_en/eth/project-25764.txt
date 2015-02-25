@@ -1,0 +1,1 @@
+HCPVT - Solar Concentrating Photovoltaic System Project aimed at developing the technology for CPV on a tracking solar parabolic dish.

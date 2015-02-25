@@ -1,0 +1,2 @@
+  Designer Single-Band Hubbard Material  
+The single-band Hubbard model is believed to encompass much of the low-energy behaviour of the high-Tc superconducting cuprates and so much effort goes into understand it. Here we take a top-down approach and design a single-band Hubbard material from  first-principles calculations.

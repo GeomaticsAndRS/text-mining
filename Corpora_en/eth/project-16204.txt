@@ -1,0 +1,1 @@
+Multifrequency scanning probe microscopy (MF-SPM) Based on an Atomic Force Microscope (AFM), we implement a multifrequency detection system operated in ambient conditions, allowing for simultaneous determination of various sample properties in a single-pass measurement.

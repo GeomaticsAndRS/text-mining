@@ -1,0 +1,1 @@
+3D Scene Flow Estimation The goal of this project is to develop an algorithm to estimate both the 3D geometry and the 3D motion of a scene, from camera images.

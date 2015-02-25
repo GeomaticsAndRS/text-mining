@@ -1,0 +1,1 @@
+DCM - The Digital Concept Model The project DCM proposes to offer electronic capture and management of sketches created in early stages of a mechanical design project. The starting point will be in conceptual design, the beginning of layout, but may also include sketches drawn in subsequent phases of the design process.

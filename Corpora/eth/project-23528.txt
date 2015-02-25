@@ -1,0 +1,2 @@
+  MAAXIMUS (More Affordable Aircraft through eXtended Integrated and Mature nUmerical Sizing)  
+The goal of this project is to design, manufacture and test C-frame components made of composite materials with integrated damping treatment. Outstanding vibration  damping and mechanical properties must be achieved with the target to minimize the weight.

@@ -1,0 +1,2 @@
+  Genomic analysis of the pathogenic wood rot fungus Armillaria ostoyae and characterisation of genes involved in host-pathogen interactions  
+Armillaria species are significant components of the mycobiota of forest ecosystems . Based on the genome sequence and gene expression profiles during saprotrophic and parasitic growth, genes potentially involved in virulence of A. ostoyae will be identified.

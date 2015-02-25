@@ -1,0 +1,2 @@
+  Development of Wind Turbines for Safe Operation in Alpine Environments  
+Many favourable sites for wind farms, particularly in the Swiss Alps, are located in cold, wet regions where ice build-up is a risk. In these regions the installation of wind turbines  is limited due to problems of ice formation. The aim of this project is to quantify and understand in detail the ef

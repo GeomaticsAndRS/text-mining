@@ -1,0 +1,1 @@
+EUROPA2 (European Robotic Pedestrian Assistant 2.0 ; FP7-610603) The goal of the EUROPA2 project, which builds on top of the results of the successfully completed FP7 project EUROPA, is to bridge this gap and to develop the foundations for robots designed to autonomously navigate in urban environments outdoors as well as in shopping malls and shops, for example,

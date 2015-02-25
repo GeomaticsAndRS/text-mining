@@ -1,0 +1,1 @@
+Implementation of magnetism in the ABINIT code

@@ -1,0 +1,2 @@
+  The Brain Cell Surface Protein Atlas  
+In this project we aim to generate a Brain Cell Surface Protein Atlas as a public resource. The Atlas contains quantitative information about the MS identified proteins via the Surface Capturing technology (CSC) technology, which are expressed and localized in the plasma membrane of neuronal cells. 

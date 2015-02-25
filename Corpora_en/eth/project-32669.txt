@@ -1,0 +1,1 @@
+A Heterogeneous Compiler Platform for Scientific Codes This project aims to develop techniques for the compilation of scientific codes on various target architectures such as GPUs, Co-Processors (e.g., Xeon Phi), and Multicore CPUs. The project will employ static and dynamic performance models and optimization strategies to identify such code pieces.

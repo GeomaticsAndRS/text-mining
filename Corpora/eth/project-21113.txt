@@ -1,0 +1,2 @@
+  Spannungsfelder für Schalen aus Stahlbeton 
+Im Rahmen dieser Arbeit soll die Möglichkeit geschaffen werden, das Verständnis vom Tragverhalten einer beliebigen Schale sich selbst zu erarbeiten und damit besser zu verstehen.

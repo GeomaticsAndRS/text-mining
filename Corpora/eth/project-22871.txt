@@ -1,0 +1,2 @@
+  Optimization of Endothelial Cell Layer Growth and Functionality by Substrate Nano-Structuring and Micro-Scale Flow Control  
+Endothelial cells (EC) regulate substance transport from blood into arterial walls. The EC layer is influenced by the local haemodynamics and the nanoscale structuring of the underlying substrate. Here we aim at quantifying the effect of these two parameters on the functionality of the EC layer.

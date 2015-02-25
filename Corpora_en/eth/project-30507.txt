@@ -1,0 +1,1 @@
+Advanced Simulation of Coupled Earthquake and Tsunami Events (ASCETE). It is a collaborative project with LMU Munich, University of Hamburg and and Stuttgart. Our main objective is to study the interaction of undersea earthquake rupture mechanisms, result ocean bottom displacements, and the corresponding sea level disturbance and subsequent potential tsunami generation

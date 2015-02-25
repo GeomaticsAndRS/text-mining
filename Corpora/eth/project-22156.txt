@@ -1,0 +1,2 @@
+  Critical (Information) Infrastructure Protection  
+This project tracks the transformation and evolution of critical infrastructures (and closely related issues of homeland security) into a security problem and analyze how practices associated with critical infrastructure protection constitute, and are an expression of, changing notions of security 

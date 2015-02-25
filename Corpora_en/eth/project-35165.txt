@@ -1,0 +1,1 @@
+Nanomechanical functional programming of cellular and synthetic systems In this NCCR project proposal we will develop and apply methods to program nanoscopic reaction compartments, nanoreactors, vesicles, nano-containers, organelles, and cells with functional molecular modules.

@@ -1,0 +1,1 @@
+NMR solution structures of non-natural oligonucleotides The solution conformation, dynamics, solvation, stacking and pairing properties of oligonucleotide single strands and duplexes built from non-natural residues are studied by NMR and, in parallel, molecular dynamics simulations.

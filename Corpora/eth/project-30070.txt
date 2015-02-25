@@ -1,0 +1,2 @@
+  A Cooperative Research on Next Generation Many-Core System Design  
+In future, a typical computer will be evolved to a many-core which contains hundreds of processors. Thus, the difficulty of system design and verification grows substantially. To cope with these challenges, we aim to build a model-based design for future many-core systems through this project.

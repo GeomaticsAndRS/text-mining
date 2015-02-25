@@ -1,0 +1,2 @@
+  Hindered diffusion of bio-molecules in porous chromatographic beads.  
+The diffusive process of bio-molecules inside porous chromatographic beads is influenced by the shrinkage of the effective pore cross-sectional area during adsorption. A model, taking into account this phenomenon, is being developed for better understanding of macromolecule diffusive behavior.

@@ -1,0 +1,2 @@
+  Amadeus DK - Temporal Crescando (ECC)  
+In this project, we investigate the integration of time varying data and temporal queries into a scan-only database system such as Crescando. 

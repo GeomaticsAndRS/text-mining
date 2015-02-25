@@ -1,0 +1,1 @@
+Simple stochastic games: Risk taking in strategic contexts. Bonuses can yield unforeseen consequences and make competing decision makers take non-optimal risks. Using formal game theory models we show how offering bonuses to interacting decision makers results in an outcome where all the players are worse off.

@@ -1,0 +1,1 @@
+Attosecond imaging of chemical dynamics The interaction of intense femtosecond laser pulses with molecules generates attosecond pulses that convey detailed information on the electronic structure and dynamics of the molecules. New methods will be developed to exploit this opportunity in a chemically relevent context.

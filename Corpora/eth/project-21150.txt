@@ -1,0 +1,2 @@
+  Library based kinase knockdown to analyze adipocyte function  
+A target gene based approach to characterize adipocyte function of deregulated genes from obese & lean patients to identify novel target genes which modulate adipocyte function App. 50 genes from these primary screens for target prediction will be included in the  high throughput screening approach.

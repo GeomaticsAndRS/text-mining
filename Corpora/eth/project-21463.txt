@@ -1,0 +1,2 @@
+  MIBA: Moisture Isotopes in Biosphere and Atmosphere  
+The MIBA project (Moisture Isotopes in Biosphere and Atmosphere) is a global network for 18O and deuterium in moisture samples from leaves, stem, soil (and water vapor) collected at existing ecosystem flux sites.

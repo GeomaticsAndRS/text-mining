@@ -1,0 +1,2 @@
+  Simulation und Kompensation des dynamischen Verhaltens  
+Simulation des statischen und dynamischen Verhaltens von Werkzeugmaschinen mit Hilfe der Methode der Finiten Elemente basierend auf CAD-Daten sowie Aufbau eines Achsbaukastens zur Simulation stark vereinfachter Maschinenmodelle auf der Stuffe Evaluation unterschiedlicher Maschinenkonzepte. 

@@ -1,0 +1,1 @@
+Constrained-Based Optimization for Shape Deformation This project investigates novel optimization methods for constrainedbased surface editing. Metric and curvature optimization is used to define intuitive shape deformation for design.

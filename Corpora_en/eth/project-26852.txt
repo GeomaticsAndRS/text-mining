@@ -1,0 +1,1 @@
+QTL mapping of virulence and other quantitative traits in the model plant pathogenic fungus Mycosphaerella graminicola We will combine QTL mapping with the genome sequence of M. grami- nicola to identify candidate genes that underlie important quantitative traits in this pathogen, including virulence, fungicide resistance, and temperature adaptation.

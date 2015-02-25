@@ -1,0 +1,2 @@
+  Experimental investigation of transport mechanisms in milli-scale reaction systems with static mixing elements 
+This study investigates the flow and mass transfer in tubular reactors with  structured packings. In a first stage the thesis focuses on the investigation of simplified geometries with optical access. In a second stage the complexity is increased and in a third we investigate multiphase flows.

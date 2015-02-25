@@ -1,0 +1,2 @@
+  Quasisgeostrophic flows in Earth’s core and data assimilation 
+We plan to compute quasigeostrophic flows in the Earth’s core that can account for the observed secular variation over the last few centuries. Such calculations can constrain the strength of the magnetic field in the core interior.

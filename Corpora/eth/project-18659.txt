@@ -1,0 +1,2 @@
+  The Development of a Fluorescence Optode Selective for Orthophosphate (H2PO4- and HPO42-) and, Alternatively, for Nitrate and Nitrite  
+A sensor selective to inorganic orthophosphate is developed from scratch.  The development is preferably focused on an optical fluorescent sensor. After developing a phosphateselective ionophore, the industrial partner was primarily interested in optimizing membranes for potentiometry.

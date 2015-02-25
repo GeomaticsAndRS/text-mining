@@ -1,0 +1,1 @@
+Population dynamical and statistical modelling of the interaction between viruses and immune responses In this project, we aim to investigate virus infections with mathematical models. In close collaboration with experimental immunologists and virologist, we investigate the replication of viruses within their hosts, and their interaction with immune responses.

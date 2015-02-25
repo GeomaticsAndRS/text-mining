@@ -1,0 +1,1 @@
+New approaches to representing cloud and boundary layer dynamics in climate models The largest contributor to uncertainties in climate change projections are low clouds and their feedback on temperature changes. This projects seeks to develop novel approaches to representing low clouds and their underlying dynamics in climate models, with the goal to reduce uncertainties.

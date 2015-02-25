@@ -1,0 +1,2 @@
+  NCCR Neuro P8 Rehabilitation Technology Matrix WP 8 Neuroscience Robotics  
+This project aims at developing robotic devices to investigate the neuroscientific and behavioral mechanisms underlying motor learning and rehabilitation of hand function and to evaluate novel motor learning and therapeutic strategies on healthy subjects and stroke patients. 

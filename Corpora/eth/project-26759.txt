@@ -1,0 +1,2 @@
+  The role of protein-impurity interaction and protein conformation in the context of protein purification 
+The chromatographic purification of recombinant proteins can be impro-  ved by understanding the effect of the impurities and the protein conformation on the adsorption and transport properties of proteins

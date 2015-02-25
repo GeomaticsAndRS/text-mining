@@ -1,0 +1,2 @@
+  DFT+DMFT investigation of epitaxially strained LaTiO3 and related materials  
+Here we investigate the effect of epitaxial strain, which occurs in thin films  due to the lattice mismatch with the substrate material, on the electronic properties of Mott insulators such as LaTiO3 and LaVO3, and explore the possibility of strain-induced metal-insulator transitions.

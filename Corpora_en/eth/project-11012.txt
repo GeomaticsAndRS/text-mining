@@ -1,0 +1,1 @@
+Fast Magic-Angle Spinning for Proteins We have shown that fast magic-angle spinning (50 kHz and above) is fea- sible and interesting for peptide and protein samples. Using fast MAS allows the implementation of more efficient polarization-transfer methods and low-power decoupling methods. Further methods development is underway.

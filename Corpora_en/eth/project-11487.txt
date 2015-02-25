@@ -1,0 +1,1 @@
+LISA - Location-based Information Systems and Applications new user interfaces for handling spatial data in mobile information systems, e.g in Augmented Reality or Wearable Computing; interface is implemented on ontologybased speech recognition and enables the user to use the system without keyboard and mouse

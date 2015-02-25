@@ -1,0 +1,2 @@
+  Scattering theory in systems with infinitely many degrees of freedom 
+We analyze the scattering operator in systems with infinitely many degrees of freedom, such as systems describing nonrelativistic nuclei and electrons interacting with the quantized electromagnetic field (Rayleigh- and Compton scattering) or with dynamical targets.

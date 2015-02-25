@@ -1,0 +1,2 @@
+  Extending a GIS-based model for the assessment and prediction of areal nutrient and trace element fluxes in agroecosystems at local to regional scales by integrating dynamic  
+Extending a GIS-based model for the assessment and prediction of areal nutrient and trace element fluxes in agroecosystems at local to regional scales by integrating dynamic  modeling of transfer processes coupled with soil erosion

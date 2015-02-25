@@ -1,0 +1,2 @@
+  Predicting growth-dependent tree mortality: a key challenge for population ecology  
+In this project, we will extend our knowledge on individual-based tree mortality using tree-ring and forest inventory data. Improved simulations of long-term forest dynamics will allow us to project the future state and fate of forest ecosystems and related ecosystem goods and services.

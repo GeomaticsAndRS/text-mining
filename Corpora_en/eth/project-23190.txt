@@ -1,0 +1,1 @@
+Computational Information Theory We use Monte-Carlo methods to compute information rates of source/channel models with a nontrivial Markov structure.

@@ -1,0 +1,2 @@
+  Adaptation in Classification  
+In this research project , we examine whether the classification methods frequently used in machine learning theory are adaptive in a mathematical statistical sense. Tools will be results on adaptive estimation using complexity penalties. 

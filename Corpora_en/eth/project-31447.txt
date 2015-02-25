@@ -1,0 +1,1 @@
+Saliency Estimation using Fiedler Vectors This paper presents an effective method for detecting salient foreground regions in images. Salient regions are identied by eigenvalue analysis of a graph Laplacian.

@@ -1,0 +1,1 @@
+Design of a high pressure and temperature micro system with in-situ analysis The scope of the project is the design of a continuous microreactor sy- stem for high-pressure CO2 hydrogenation reactions. The optical access granted by a homemade view-cell allows in-situ reaction monitoring at extreme conditions for the rational development of a more efficient catalyst.

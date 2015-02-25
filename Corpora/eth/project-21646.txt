@@ -1,0 +1,2 @@
+  Modeling of geothermal power plant  
+Developing a computational framework to model the coupled flow, mechanical and thermal processes during geothermal power exploration. 

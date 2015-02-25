@@ -1,0 +1,2 @@
+  Non-Invasive Imaging of Energy Efficiency in the Cardiovascular System  
+The proposed project aims to develop a novel approach to assessing energy efficiency of the cardiovascular system using non-invasive, highly accelerated 3D MR flow measurements. Measurement accuracy will be established relative to 3D Particle Tracking Velocimetry in a realistic aortic phantom.

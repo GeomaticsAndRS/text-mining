@@ -1,0 +1,2 @@
+  What controls biological productivity in Eastern Boundary Current systems (EBCs)?  
+Through a comparative approach we explore the leading physical processes and the environmental key factors controlling biological productivity within the four major EBCs. Our analyses are based on a series of ROMS model simulations, enhanced with advanced statistical analyses of satellite data. 

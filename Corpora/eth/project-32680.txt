@@ -1,0 +1,2 @@
+  Detailed Real-World Shape Reconstruction of Reflective Surfaces and Objects  
+The goal is to improve the geometrical understanding of the behavior of reflective surfaces, with respect to useful and practical approximations when observing. We want to focus not only on the rough shape of the object, but on the details and subtle changes in surface  normal dominating reflections.

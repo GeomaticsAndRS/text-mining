@@ -1,0 +1,1 @@
+OSPER - Open Support Platform for Environmental Research Environmental data management is at best only connected at the most basic level, getting the data from the field. The project aims to connect users to data and its context. OSPER will take components of the Swiss Experiment and combine them with new ideas from a wider community.

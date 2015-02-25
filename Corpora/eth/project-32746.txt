@@ -1,0 +1,2 @@
+  Dynamic Management of Physically Coupled Systems of Systems  
+The properties of the distributed management and control for large-scale interconnected systems of systems are investigated theoretically and validated in large-scale simulations of case studies in the fields of electric-grid optimisation and industrial production management.

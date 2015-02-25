@@ -1,0 +1,2 @@
+  MobileCoach - The Open Source Behavioral Intervention Platform  
+The MobileCoach serves as an open source platform for fully-automated behavioral interventions.

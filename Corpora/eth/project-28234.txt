@@ -1,0 +1,2 @@
+  Understanding the mechanisms of cytotoxic response to aberrantly-folded and aggregated proteins. 
+In this project we study the responses of cells to aberrant protein aggregation, by applying a combination of proteomics, phosphoproteomics and microscopy techniques. 

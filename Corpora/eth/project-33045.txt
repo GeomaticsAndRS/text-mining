@@ -1,0 +1,2 @@
+  SNF Scaffold 
+We use 3D bioprinting which is a technique to create complex biological tissues by extruding polymers and cells in a controlled fashion. We aim to print artificial cartilage implants having the zonal structure characteristic of normal articular cartilage.

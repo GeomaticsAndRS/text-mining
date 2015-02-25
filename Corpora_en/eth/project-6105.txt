@@ -1,0 +1,1 @@
+Astronomical Geodesy The scope of this project is to develop and apply easy-to-use equipments for astro-geodetic measurements of deflections of the vertical. The system consists of electronic theodolites equipped with servo motors, a GPS timing receiver, a laptop computer, a first CCD adapter, and dedicated software.

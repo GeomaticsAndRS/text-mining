@@ -1,0 +1,2 @@
+  Modeling Premixed Turbulent Combustion with a PDF Approach  
+A scale separation approach is used to model premixed turbulent combustion with a joint probability density function method. 

@@ -1,0 +1,2 @@
+  Environmentally Benign Technologies for Alcohol Oxidation  
+Despite the industrial interest, aerobic alcohol oxidation remains a difficult challenge. This project aims to understand the radical chemistry involved in alcohol oxidation.

@@ -1,0 +1,2 @@
+  Analysis of protein interaction networks by cross-linking  
+We develop bioinformatics and experimental methods to induce, purify, and identify cross-links between peptide-chains of proteins in complex samples. Identification of these cross-links supports determination of structure and topology of protein complexes.

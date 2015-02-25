@@ -1,0 +1,2 @@
+  Kepler problem, classical and Quantum  
+Relations between various regularizations of the classical Kepler problem. Solutions to the Schroedinger equation of the hydrogen atom in terms of special functions related to the classical constructions.

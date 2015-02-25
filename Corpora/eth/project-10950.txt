@@ -1,0 +1,2 @@
+  Computer-assisted 3D models of protein-protein interaction domains involved in signaling pathway proteins  
+The project aims at finding inhibitors of the Wnt transduction pathway. Such inhibitors can be used for the treatment of hyper-proliferative diseases such as cancer, in particular for the treatment of colon cancer.

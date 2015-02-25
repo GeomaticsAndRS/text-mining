@@ -1,0 +1,2 @@
+  Nonlinear dynamics of chains of repelling magnets 
+We investigate the nonlinear dynamic response of chains of repelling magnets. We study fundamental aspects of nonlinear wave dynamics (formation of solitary waves  and breathers, bifurcations) and finding practical application to this understanding, particularly in broadband energy harvesting.

@@ -1,0 +1,1 @@
+Well-conditioned Boundary Integral Equations for Scattering We develop novel second-kind single-trace boundary integral equations for acoustic and electromagnetic scattering at composite objects. They are inherently well-conditioned and allow discretization by means of discontinuous boundary elements.

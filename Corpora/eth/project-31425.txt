@@ -1,0 +1,2 @@
+  ARTS - Towards autonomic road transport support systems 
+The overall COST Action intends to unite and align groups from transport studies, computer science and engineering into a world leading research community that will develop radically new ways of designing road transportation support systems based on the ideas of  autonomic systems. Our research suppo

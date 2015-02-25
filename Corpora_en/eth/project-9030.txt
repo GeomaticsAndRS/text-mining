@@ -1,0 +1,1 @@
+Charging effects and spectroscopy of C60 films The charging properties of C60 films in FET devices are studied taking Stark effect and steps into account. The photoemission spectra of chemically doped C60 films are analyzed including the strong coupling to intra-molecule and dopant phonons.

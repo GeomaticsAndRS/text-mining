@@ -1,0 +1,2 @@
+  Topology and dynamics of a protein interaction network for the control of cell growth  
+In the proposed project we apply quantitative proteomics to determine the dynamic system of protein interactions that underlie the regulation of cell growth in higher eukaryotes upon changes in growth factor, energy and oxygen levels using Drosophila melanogaster cell lines as a model system. 

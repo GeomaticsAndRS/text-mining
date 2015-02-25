@@ -1,0 +1,1 @@
+DNA-repair in yeast kinetochores Maintaining genome integrity requires coordinated regulation of DNArepair, replication and segregation of chromosomes. This project explores the fate of UV-induced DNA-lesions in yeast kinetochores and their impact on chromosome segregation.

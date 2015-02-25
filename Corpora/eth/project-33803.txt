@@ -1,0 +1,2 @@
+  Computational Artistic Blur Photography  
+We aim to simplify the creation of high quality artistic photos with fewer requirements on the hardware in order to convey motion and depth. 

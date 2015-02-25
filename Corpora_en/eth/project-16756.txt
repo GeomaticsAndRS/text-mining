@@ -1,0 +1,1 @@
+Seismic behavior of unreinforced masonry structures The project investigates experimentally, numerically and analytically the nonlinear deformation behavior of unreinforced masonry buildings. Aim of the project is the development of guidelines and tools for the displacement based seismic design and assessment of such buildings.

@@ -1,0 +1,1 @@
+MULTIPLEX - Fundational Research on Multilevel complex networks and systems By combining mathematical analyses, modeling, and massive heterogeneous data sets, we will address several aspects of multi-level complex networks, i.e. their topology, dynamical organization and evolution. This will enable a better understanding, control, and optimization of their dynamics.

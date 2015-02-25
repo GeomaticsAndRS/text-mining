@@ -1,0 +1,1 @@
+Excluding ringleaders from leniency programs This project investigates whether the ringleader of an illegal cartel should be allowed leniency. The background of this research is that ringleader treatment in Antitrust enforcement e.g. differs between the US and EU.

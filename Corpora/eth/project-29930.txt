@@ -1,0 +1,2 @@
+  Data availability and data quality for persistent, bioaccumulative and toxic chemicals  
+The availability, consistency and accuracy of chemical property data related to the persistence, bioaccumulation and toxicity of two groups of chemicals are analyzed: brominated flame retardants (data from publicly accessible databases); former ”new” chemicals of  the EU (data from ELINCS).

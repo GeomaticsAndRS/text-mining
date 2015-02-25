@@ -1,0 +1,1 @@
+Micromanipulation with ultrasound In micro and nano technologies, the manipulation of micron-sized objects is often required; the aim of the research is to achieve this by use of ultrasonic standing waves. This forms part of a collaborative project to produce a system involving microgrippers, part manipulation and nanopositioning.

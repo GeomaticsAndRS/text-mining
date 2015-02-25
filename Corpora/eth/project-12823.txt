@@ -1,0 +1,2 @@
+  Engineered Streptomyces quorum-sensing components enable inducible siRNA-mediated translation control in mammalian cells and adjustable transcription control in mice  
+Capitalizing on well-evolved quorum-sensing regulatory networks in Streptomyces coelicolor we have designed a mammalian regulation system inducible by the non-toxic butyrolactone SCB1. 

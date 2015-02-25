@@ -1,0 +1,2 @@
+  Microwave Water Vapour Radiometer  
+The main topic of this project is to measure the water vapor content in the troposphere. To obtain this quantity in terms of path delays and precipitable water vapor GGL is developing dedicated Hard- and software solutions in collaboration with with the private company  CAPTEC, Biel, Switzerland.

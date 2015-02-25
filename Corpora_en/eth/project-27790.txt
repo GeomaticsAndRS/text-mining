@@ -1,0 +1,1 @@
+ELBM: Frontiers for multi-scale computational fluid dynamics The lattice Boltzmann method (LBM) was originally conceived to replace the conventional methods of computational fluid dynamics. With the ELBM project, the entropic lattice Boltzmann methods will become an essential part of computational fluid dynamics tool-kit.

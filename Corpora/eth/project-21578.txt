@@ -1,0 +1,2 @@
+  Integrated, automated processing of terrestrial laser and digital image data for object recognition, 3D modelling, co-registration of point clouds and image orientation 
+In this project it is attempted to orient arbitrarily taken images to a point cloud without intensities semi-automatically.

@@ -1,0 +1,2 @@
+  Visual-Inertial 3D Localization and Mapping Sensor  
+Ziel dieses Projektes ist die Entwicklung eines neuartigen Sensors zur präzisen Lokalisierung in beliebigen Umgebungen. Gleichzeitig mit der Positionsbestimmung wird eine metrisch genaue, konsistente Karte der Umgebung in Echtzeit erstellt.

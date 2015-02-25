@@ -1,0 +1,2 @@
+  SnAP reagents for N-heterocycle synthesis: an alternative to cross-couplings with saturated heterocycles 
+Unlike their aromatic counterparts, such saturated N-heterocycles cannot be easily appended to a molecule by metal-catalyzed cross-coupling reactions. We have therefore devised SnAP reagents for the one-pot conversion of aldehydes into N-unprotected, saturated Nheterocycles. 

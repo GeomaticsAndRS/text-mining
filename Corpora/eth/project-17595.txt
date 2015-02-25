@@ -1,0 +1,2 @@
+  Estimation of net embodied energy demand for Switzerland 
+This project aims at estimating the energy demand embodied in the net imports into the Swiss economy. To this end a multiregional input-output model has been constructed, that allows to calculate production and energy demand in other countries which are related to Swiss imports.

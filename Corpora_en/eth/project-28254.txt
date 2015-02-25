@@ -1,0 +1,1 @@
+Computational design and fabrication of deformable objects This project aims at developing novel physics-based algorithms to automatically design and fabricate custom deformable objects.

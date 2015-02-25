@@ -1,0 +1,1 @@
+FEM for elliptic problems with stochastic data Deterministic solution methods for stochastic partial differential equations are investigated. The project aims at reducing the apparent huge numerical complexity of such problems by sparse approximation techniques.

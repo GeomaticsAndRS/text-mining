@@ -1,0 +1,1 @@
+Automatic Visual Learning through Multi-modal Interaction People effortlessly recognize thousands of object categories, such as cars, buildings, and horses. Achieving this with an artificial system is a major goal of computer vision, but the state-of-art is still far from human-level performance.

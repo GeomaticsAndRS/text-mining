@@ -1,0 +1,1 @@
+Distribution of Hecke eigenvalues In this project, joint with Nicole Raulf, the distribution of Hecke eigenvalues of automorphic forms on the hyperbolic 3-space is investigated.

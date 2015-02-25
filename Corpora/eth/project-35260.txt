@@ -1,0 +1,2 @@
+  OMLETH: A Platform for Location-Based Mobile Learning at ETH  
+In the Innovedum project OMLETH (”Ortsbezogenes Mobiles Lernen an der ETH Zürich”), a generic platform for location-based mobile learning will be developed. The platform will enable lecturers to easily create location-based learning modules which will be accessible to students in a mobile app.

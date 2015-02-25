@@ -1,0 +1,1 @@
+Structurally-Informed Geometry Processing The goal of this project is to develop novel algorithms for shape analysis and modeling that concentrate on structural properties, combining digital geometry processing and structural engineering methods.

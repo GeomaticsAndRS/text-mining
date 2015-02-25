@@ -1,0 +1,1 @@
+Development and application of FluidFM technology for single cell adhesion and spatial manipulation experiments Spatial displacement and adhesion experiments will be conducted using force feedback control and application of controlled pressure differences for object lifting using FluidFM (fluidic force microscope) technology.

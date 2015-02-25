@@ -1,0 +1,1 @@
+Inequality Aversion in an International Permit Market We analyze how inequality aversion infuences the outcome of a non cooperative permit market like the EU ETS. Assuming that such a permit market exists, countries select the amount of permits they deem necessary infuenced by strategic considerations and the impact on inequality.

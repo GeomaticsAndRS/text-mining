@@ -1,0 +1,1 @@
+E-Price This project investigates real-time pricing mechanisms for electricity networks increasingly reliant on intermittent forms of generation, in particular wind power. Pricebased distributed control techniques and ICT infrastructure are developed to ensure that electricity needs are met in real time.

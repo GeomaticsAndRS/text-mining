@@ -1,0 +1,1 @@
+Identification via the Broadcast Channel We study the identification capacity of the broadcast channel with two outputs. Put differently, we want to know how large the number of receiving parties at each channel output can be if the encoder wants to address two receiving parties, namely one at each output, with vanishing error probability.

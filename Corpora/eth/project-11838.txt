@@ -1,0 +1,2 @@
+  Basic questions in protein folding  
+Using circularly permuted proteins and proteins under selective pressure towards very rapid folding, we investigate the mechanism of folding of several model proteins in vitro, and compare these data with folding in vivo, in particular co-translational folding. 

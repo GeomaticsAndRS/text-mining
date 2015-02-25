@@ -1,0 +1,2 @@
+  Stochastic Model Predictive Control  
+This project deals with theoretical foundations of stochastic model-predictive  or rolling-horizon control. In particular, we treat convex approximation schemes of constrained stochastic control problems, recovery strategies post state constraint violation, and decentralized MPC schemes.

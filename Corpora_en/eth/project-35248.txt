@@ -1,0 +1,1 @@
+SCCER Mobility - Spatio-temporal data acquisition analysis, monitoring devices and user communication Contribution of spatio-temporal data acquisition by integrating ICT and novel mobile sensors. Real-time spatio-temporal data analysis. Prototypical personalized mobility service and user testing

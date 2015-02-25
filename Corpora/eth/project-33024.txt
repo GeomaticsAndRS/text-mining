@@ -1,0 +1,2 @@
+  Asymptotic solution of the temperature field in stagnant lid convection simulations, effect of a pressure-dependent rheology  
+We present a new analytical formulation of the internal temperature and the Nusselt number reached in numerical simulations of mantle convection, with pressure-dependent  viscosity. We derive a new formalism for Newtonian and non-Newtonian rheologies. Numerical results match the analytical prediction

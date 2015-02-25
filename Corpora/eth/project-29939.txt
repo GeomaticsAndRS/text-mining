@@ -1,0 +1,2 @@
+  Group contests with opportunity cost 
+Standard group contests with heterogeneous valuations suffer from a ”public goods”-problem. As a result, only the member with the highest valuation contributes to the group effort. This project investigates into whether this result holds, once opportunity cost of group members are taken into account

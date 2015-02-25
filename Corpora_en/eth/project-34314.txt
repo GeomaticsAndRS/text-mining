@@ -1,0 +1,1 @@
+Geometric and Analytic Number Theory Number theory is one of the oldest branches of mathematics. Many of its unsolved problems are simple to state, but their solution requires very advanced methods. This project is devoted to developing such tools and applying them, especially in relation with harmonic analysis and algebraic geometry.

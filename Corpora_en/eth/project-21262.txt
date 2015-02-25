@@ -1,0 +1,1 @@
+Improvement of Complex Networks Robustness to Malicious Attack We develop a method that substantially improves the robustness of complex networks to malicious attack. This technique is successfully applied for different types of scale-free networks and it is also tested for a real network, the Internet at the level of autonomous system.

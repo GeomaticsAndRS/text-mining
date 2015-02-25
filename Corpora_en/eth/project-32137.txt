@@ -1,0 +1,1 @@
+Gene Expression and the Costs and Benefits of Antibiotic Resistance The aim of this project is to quantitatively analyze the costs and benefits of antibiotic resistance and how bacteria regulate the expression of resistance genes to mediate this trade-off. We will look at both population and single-cell level dynamics of gene regulation and antibiotic resistance.

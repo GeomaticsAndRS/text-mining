@@ -1,0 +1,2 @@
+  Computational Design of Elastic Materials Using Microstructures  
+The goal of this project is to investigate the potential of using microstuc-  tures to control the elastic material properties of objects fabricated using using additive manufacturing with elastic materials.

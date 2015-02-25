@@ -1,0 +1,2 @@
+  The Influence of Interaction Patterns on Success in Socio-Technical Systems: From Theory to Practice  
+Increasingly, ICT systems are used to mediate interactions and collaborations between humans. Based on a theoretical framework for the study of temporal networks developed at our chair, in this research project we will study the influence of dynamic interaction patterns in socio-technical systems. 

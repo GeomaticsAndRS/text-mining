@@ -1,0 +1,2 @@
+  EU Project BALANCE - Balance Augmentation in Locomotion, through Anticipative, Natural and Cooperative control of Exoskeletons  
+The goal of the EU STREP Project BALANCE project is to realize an exoskeletal robot that improves the balance performance of humans, targeted at users facing balance-challenging conditions or suffering from a lack of ability to walk or maintain balance during walking. 

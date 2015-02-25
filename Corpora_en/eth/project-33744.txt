@@ -1,0 +1,1 @@
+damBASE - Dam behaviour analysis software environment Statistical approaches based on regression analysis have been established as one of the key methods to analyze and predict dam behavior. Thus, the software damBASE is developed to support the integration of features and engineers working in the field of dam observation.

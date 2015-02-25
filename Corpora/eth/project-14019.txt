@@ -1,0 +1,2 @@
+  Experimental Investigation in Tip Leakage Flow of Unshrouded Gas Turbines  
+The project addresses the optimization of tip leakage losses in unshrouded gas turbine blade geometries by experimentally investigating of passive and active tip leakage control strategies. 

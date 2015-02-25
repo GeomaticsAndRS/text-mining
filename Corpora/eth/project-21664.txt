@@ -1,0 +1,2 @@
+  Haplotype inference  
+We develop statistical and computational tools for inferring the haplotype structure of a population from a set of deep sequencing reads obtained from a mixed sample.

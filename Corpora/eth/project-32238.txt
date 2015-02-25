@@ -1,0 +1,2 @@
+  Investigation of the CUT/HOMEO box protein family in development and tumorigenesis  
+Our previous work has identified Satb1 as a silencing factor for Xist in mouse lymphoma cells. Satb1 belongs to a class of homeobox proteins that also includes Satb2, Cux1, and Cux2. We aim to characterize the function of these factors in stem cells and mice by combinatorial mutations. 

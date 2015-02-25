@@ -1,0 +1,2 @@
+  IPFM (individualized parametric facade-modules with decentralized building services)  
+IPFM(individualized parametric facade-modules with decentralized building services) has the goal to investigate the production of parametric façade-modules with integrated building services in a new building model. Parametrics in planning and production enable demanding energetic requirements as wel

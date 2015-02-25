@@ -1,0 +1,2 @@
+  MetRobot 
+Entwicklung einer hochgenauen 3D-Messmaschine, welche, dank Kombination von Leichtbau, schneller Regelung und optischen Messsystemen, Objekte wesentlich schneller vermessen kann.

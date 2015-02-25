@@ -1,0 +1,1 @@
+MRM-Yeast Metabolism A systems biology approach to elucidate the yeast metabolic network.

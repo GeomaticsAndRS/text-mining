@@ -1,0 +1,2 @@
+  Non-Equilibrium Gas Flow Modeling  
+The description of nonequilibrium, e.g., small-scale processes in gases require mathematical modeling based on kinetic theory of gases. Due to large Knudsen numbers, classical relations of Navier-Stokes and Fourier for stress and heat-flux have to be replaced by a more accurate model. 

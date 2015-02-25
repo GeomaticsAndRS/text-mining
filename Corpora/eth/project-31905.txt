@@ -1,0 +1,2 @@
+  Emission Optimized Diesel Engine  
+This project is optimum opertation strategy of a passenger car diesel eingine using virtual (model based) sensors for cylinder pressure, NOx and particlate Matter (PM).

@@ -1,0 +1,1 @@
+Non-intrusive monitoring in the Mont Terri rock laboratory Seismic measurements are carried out for monitoring temporal changes in a microtunnel. In particular, effects of water saturation and gas injections are investigated. These measurements will provide key constraints for establishing non-intrusive monitoring strategies of nuclear repositories.

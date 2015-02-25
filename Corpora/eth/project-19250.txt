@@ -1,0 +1,2 @@
+  LCA4AFR Tool  
+The goal of this project is to build an Excel based tool for the environmental assessment of co-processing alternative fules and raw materials in industry. 

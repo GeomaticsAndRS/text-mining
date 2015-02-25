@@ -1,0 +1,1 @@
+Schwab, Ch. High-dimensional finite elements for elliptic problems with multiple scales Elliptic problems in a d-dimensional domain with n+1 separated scales are reduced to elliptic one-scale problems in dimension (n+1)d and discretized by a sparse finite element method which resolves all scales of the solution throughout the physical domain.

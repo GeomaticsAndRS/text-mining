@@ -1,0 +1,1 @@
+Statistics for environmental models This projects develops and applies statistical methods for the analysis of environmental models. The models considered come from diverse application areas like climate and atmospheric sciences, soil science and aquatic systems, and there is collaboration with environmental scientists.

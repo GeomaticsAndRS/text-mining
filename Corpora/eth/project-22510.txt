@@ -1,0 +1,2 @@
+  Cognimat 
+We build a new computer-guided training system (Cognimat) for interactive cognitive rehabilitation for patients with AlzheimerŠs disease

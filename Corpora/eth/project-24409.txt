@@ -1,0 +1,2 @@
+  Modular mini multiphase reaction system 
+The project focuses on research on designed porous structures (based on  metal foams) as reactors for industrial relevant reactions, especially fast and exothermic ones like hydrogenations.

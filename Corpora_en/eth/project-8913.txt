@@ -1,0 +1,1 @@
+Multi-drug resistance efflux protein P-glycoprotein The interaction of drugs with P-glycoprotein (P-gp) is studied in cell culture and with extracted membrane domains. To investigate the relationship between drug/lipid bilayer, drug/P-gp and lipid/P-gp interactions, respectively, P-gp is reconstituted in proteoliposomes of defined lipid compositions.

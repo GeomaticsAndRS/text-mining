@@ -1,0 +1,2 @@
+  Parliamentary Voting Behaviour in the German Bundestag  
+Das Forschungsprojekt hat zum Ziel, das Abstimmungsverhalten bundesdeutscher Parlamentarier seit 1949 zu untersuchen. Dafür sollen sämtliche namentlichen Abstimmungsdaten des Deutschen Bundestags aus verschiedenen Datensätzen vereint werden. 

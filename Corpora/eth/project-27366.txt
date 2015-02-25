@@ -1,0 +1,2 @@
+  Development of robust image processing algorithms for plant growth analysis 
+Image processing based algorithms are essential tools for a lot of pheno-  typing applications. Growth rates of leaves and roots are important parameters to estimate plant performance. In the course of this project, easily useable plant growth analysis tools will be developed and validated.

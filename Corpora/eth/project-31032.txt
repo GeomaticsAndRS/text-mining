@@ -1,0 +1,2 @@
+  Geoidea.ro - Geodata Openness Initiative for Development and Economic Advancement in Romania 
+The GEOIDEA.RO project proposal improves the scientific basis for open  geodata model adoption in Romania. It reviews the international strategies on open data, analyzes the impact of adopting open data access policies in test institutions, and creates a common methodology for open geodata publishing

@@ -1,0 +1,2 @@
+  Unitary representations of Gromov hyperbolic groups 
+We construct and study properties of new families of irreducible unitary representations of Gromov hyperbolic groups.

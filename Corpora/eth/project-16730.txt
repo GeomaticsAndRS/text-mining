@@ -1,0 +1,2 @@
+  Control of mitotic chromosome movements  
+Kinetochores are multi-protein complexes that assemble on chromosomes and connect to microtubules during mitosis. We will use live cell imaging, RNAi interference and biochemical purifications coupled to mass spectrometry to analyse the function and composition  of human kinetochores.

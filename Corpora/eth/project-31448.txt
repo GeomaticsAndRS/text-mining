@@ -1,0 +1,2 @@
+  Seamless High Resolution Video from Camera Arrays 
+The general research vision behind this project is to enable artifact free very high resolution video (in the order of hundreds of megapixels) from arrays of (possibly heterogeneous) cameras. In particular, we are developing solutions for parallax compensation between views and color correction.

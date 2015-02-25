@@ -1,0 +1,1 @@
+Machine Learning approaches for freight train safety monitoring The aim is to provide a method for safety monitoring of trains in the SBB network, focusing on automatically identifying wheel defects on freight trains. It is expected to provide wheel defect rankings, by extending multiple instance learning, semisupervised classification and ranking methods.

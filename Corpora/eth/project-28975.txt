@@ -1,0 +1,2 @@
+  Characterization of Land Ice Subsurface using Long-Wavelength Polarimetric SAR Interferometry  
+The main objective of this dissertation is to analyze and model PolarimetricInterferometric SAR backscattering from glaciers and land ice in order to extract physical information about their subsurface structure. 

@@ -1,0 +1,2 @@
+  Panoramic Video from Unstructured Camera Arrays  
+We describe an algorithm for generating panoramic video from unstructured camera arrays. Artifact-free panorama stitching is impeded by parallax between input views. Common strategies such as multilevel blending or minimum energy seams produce seamless results on quasi-static input.

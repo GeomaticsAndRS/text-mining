@@ -1,0 +1,2 @@
+  3D dynamics of geochemical-thermomechanical interactions between subducting slab and 
+Based on numerical modeling we aim to understand evolution of geochemical signatures Pb, Hf, Sr  and Nd in two subduction settings characteristic for intra-oceanic arcs: (1) retreating subduction with arc extension and (2) advancing subduction with arc shortening

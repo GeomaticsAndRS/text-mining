@@ -1,0 +1,1 @@
+Reduced scaling electronic structure calculations based on a versatile library for sparse matrix multiplication will provide library support to enable highly efficient large scale electronic structure calculations on modern computer architectures.

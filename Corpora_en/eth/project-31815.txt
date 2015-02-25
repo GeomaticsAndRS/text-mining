@@ -1,0 +1,1 @@
+Path to Digital Conversion The aim of this project is to generate a model that describes and predicts the ”path to digital conversion” of online customers. We will develop a markov chain based model for modeling, computing and predicting the effect of various online marketing channels of digital conversion.

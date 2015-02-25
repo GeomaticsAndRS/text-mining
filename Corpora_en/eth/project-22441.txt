@@ -1,0 +1,1 @@
+Sequential investment decisions over real options The purpose of this paper is to explore simplified real option decision problems with a set of behavioral experiments. Dynamic decision problems like this are widely encountered in venture capital investing, mineral exploration, and pharmaceutical research and development, as a few examples.

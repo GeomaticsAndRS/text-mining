@@ -1,0 +1,1 @@
+Object Recognition for the Internet of Things This is a joint project between the partners ETH Zurich and kooaba. The goal of this project is to extend the abilities of the existing Software in scalability and breath of application.

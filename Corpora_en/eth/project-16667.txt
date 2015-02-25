@@ -1,0 +1,1 @@
+Multi-objective Evolutionary Computing Many real-world problems involve simultaneous optimization of several incommensurable and often competing objectives. The goal of our research is to achieve a better theoretical understanding of existing approaches and to design new and effective optimization algorithms.

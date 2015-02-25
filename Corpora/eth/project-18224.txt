@@ -1,0 +1,2 @@
+  Development of experimental and data analysis technologies for the identification of complex PTM-profiles  
+Latest proteomics technologies including high resolution and high accuracy mass spectrometry in combination with sophisticated bioinformatics routines are applied to complex biological specimens with the aim to unravel post-translational protein modification profiles.

@@ -1,0 +1,1 @@
+New Methods for Quadrature Our main objective is to develop numerical quadrature algorithms od nonstandard type.

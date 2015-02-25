@@ -1,0 +1,2 @@
+  Law and Economics of IT Security  
+This project analyzes legal problems of IT security from a law-andeconomics perspective.

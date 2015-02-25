@@ -1,0 +1,2 @@
+  Glyco Init: The Zurich Glycomics Initiative  
+This project focuses on the investigation of proteins and peptides as well as their posttranslational modifications in-cluding glycosylations.

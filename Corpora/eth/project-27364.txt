@@ -1,0 +1,2 @@
+  Effects of suboptimal temperature and soil moisture conditions on leaf growth 
+Reduced growth is an indicator for low plant vitality. This project investi-  gates leaf growth of several plant species and genotypes as affected by low and high temperatures and soil moisture. The relative ability to maintain growth under stress conditions indicates increased tolerance.

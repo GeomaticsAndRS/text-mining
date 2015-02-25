@@ -1,0 +1,2 @@
+  Design of hierarchical zeolites for the synthesis of 4Š4Š-MDA  
+In this project, we aim to design hierarchical zeolite acid catalysts for the production of 4Š4Š- methylenedianiline from aniline and formaldehyde in order to increase the activity and selectivity to a level that allows zeolites to compete with HCl, the established homogeneous acid catalyst.

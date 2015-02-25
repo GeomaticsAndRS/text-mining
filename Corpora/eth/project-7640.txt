@@ -1,0 +1,2 @@
+  Causal Suboptimal Control Strategy for Hybrid Electric Vehicles  
+A typical problem in hybrid vehicles control is the fuel optimal command of the two power sources. In this project methods are investigated for the derivation of a suboptimal, but realizable controller.

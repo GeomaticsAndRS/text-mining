@@ -1,0 +1,2 @@
+  BodyPoweredSenSE: Wearable ICT for Zero Power medical Applications  
+Body Powered Sense will integrate energy harvesting, power management, sensor data acquisition and processing in a portable device and apply it in two demanding and extremely relevant use cases: early prediction of AlzheimerŠs Disease in the elderly and diagnosis of epilepsy in young children.

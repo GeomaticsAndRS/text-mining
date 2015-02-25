@@ -1,0 +1,1 @@
+Occlusion Handling for Free View-Point Video in Sport Scenes The goal of this project is to handle player occlusions for novel views rendered from sport scenes. At first a data driven shape completion approach is to be utilized to fill in the geometry gaps. This is then followed by a data driven texture completion method to fill in the missing texture.

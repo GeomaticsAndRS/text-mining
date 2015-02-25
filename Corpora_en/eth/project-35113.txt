@@ -1,0 +1,1 @@
+Improvement of the acoustic behavior of lightweight CFRP Automotive Structures This project targets to establish the know-how to reliably and accurately simulate the acoustic vibration behavior of lightweight CFRP vehicle structures and to design optimized lightweight damping and acoustic treatment solutions for these cars.

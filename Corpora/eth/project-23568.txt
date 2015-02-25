@@ -1,0 +1,2 @@
+  Banking Regulation and Supervision  
+This project aims at analyzing micro- and macro-prudentiel regulatory intervention in the banking and shadow banking sector from a Law & Economics perspective, focusing on topics such as regulatory scope, disclosure and risk management by financial intermediaries or supervisory architecture 

@@ -1,0 +1,2 @@
+  Persistent Object Programs  
+Many of the objects created by object-oriented programs should survive individual program executions. The POP project investigates solutions making objects persistent by default, without explicit programmer intervention, taking advantage of relational and O-O database technology. 

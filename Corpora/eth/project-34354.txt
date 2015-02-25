@@ -1,0 +1,2 @@
+  Modeling aversion towards ambiguity in terms of individual payoffs  
+This paper proposes a modification of Bommier’s (2014) dual ambiguity model. The modified model can accommodate Machina’s (2008) reflection example and is compatible with aversion toward ambiguity in terms of individual payoffs. 

@@ -1,0 +1,1 @@
+Redox-sensitive prodrugs The objective of this project is to design prodrugs of insoluble drugs that release the active compound upon thiol exchange.

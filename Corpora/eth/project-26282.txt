@@ -1,0 +1,2 @@
+  Optical Signatures of the Kondo Effect  
+The goal of this project is to study the non-equilibrium dynamics of a quantum dot spin coupled to Fermionic reservoir through optical absorption spectroscopy.

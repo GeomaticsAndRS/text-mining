@@ -1,0 +1,2 @@
+  Novel Indicators for identifying critical INFRAstructure at RISK from natural hazards (INFRARISK)  
+Goal: to develop reliable stress tests to establish the resilience of critical  European infrastructures to rare low frequency extreme events and to aid decision making in the long term regarding robust infrastructure development and protection of existing infrastructure.

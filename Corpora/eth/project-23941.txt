@@ -1,0 +1,2 @@
+  Integration of Earth rotation, geometry and gravity field using space geodetic observations  
+The determination of Earth rotation (e.g., pole coordinates, length of day, nutation, etc.) requires the combined adjustment with the EarthŠs geometry (station positions and their time variations) and the gravity field (low-degree spherical harmonic coefficients) using space geodetic observations.

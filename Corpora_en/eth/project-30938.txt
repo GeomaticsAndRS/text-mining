@@ -1,0 +1,1 @@
+Gas Separation via Molecular Sieving This project will nanofabricate molecular sieves and characterize their gas separation performances. Success of the project can greatly save energy in the costly separation processes.

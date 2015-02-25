@@ -1,0 +1,1 @@
+A New Planar Finite-Element Represetation Scheme for Helical Structures A new numerical scheme for efficiently capturing the behaviour of helical structures with planar finite elements will be developed and its potential and limits will be identified. The results of the theoretical work will be useful in biomechanics or design of electrical power transmitting cables.

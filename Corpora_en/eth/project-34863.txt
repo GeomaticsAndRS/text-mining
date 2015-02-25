@@ -1,0 +1,1 @@
+High performance, low-power carbon nanotube gas sensors This project focuses on the development of ultra-low power, suspended carbon nanotube gas sensors. The work is directed towards the development of improved device architecture as well as the characterization of the short and long-term performance of the gas sensors.

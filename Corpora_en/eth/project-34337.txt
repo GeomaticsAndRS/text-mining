@@ -1,0 +1,1 @@
+Adverse selection in the Swiss retirement market In the Swiss second retirement pillar, people can choose between a lifelong annuity and a lump-sum payment. This project shows that female annuitants face a lower ex-post mortality than the general population. The result does not extend to male annuitants.

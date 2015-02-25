@@ -1,0 +1,1 @@
+Vision-supported speech-based human machine interaction Speech-controlled machines can successfully be deployed in rather quiet locations. However, they fail in situations of high background noise and in particular in the presence of other voices. In these situations the error rate of the speech recognition component of such systems rises drastically and

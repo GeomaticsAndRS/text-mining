@@ -1,0 +1,2 @@
+  Dual-regulated myoD- and msx1-based interventions in C2C12-derived cells enable precise myogenic/osteogenic/adipogenic lineage control 
+We have combined the streptogramin (PIP)- and tetracycline (TET)responsive gene regulation systems for independent expression control of the differentiation determinants myoD and msx1 in C2C12-derived cells.

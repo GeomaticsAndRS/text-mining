@@ -1,0 +1,2 @@
+  Weak, high order approximation schemes for SPDEs with application to mathematical finance and risk management  
+In mathematical finance numerics of high-dimensional stochastic differential equations is of utmost importance. In this research project we deal with new extrapolation methods for finite and infinite dimensional SDE problems. 

@@ -1,0 +1,2 @@
+  Bio-Inspired Motor Control of Underactuated Robotic Systems 
+The goal of this project is to explore nonlinear dynamics and control problems of underactuated robotic systems by developing new actuators, sensing and planning technologies.

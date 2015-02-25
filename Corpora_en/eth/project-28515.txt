@@ -1,0 +1,1 @@
+Unsteady Flows Around Heart Valve Implants The unsteady flow around artificial heart valves is studied in a simulation facility in order to understand the influence of fluid-structure interaction on the implants, in particular also degradation effects.

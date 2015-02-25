@@ -1,0 +1,2 @@
+  Physical and Computational Discrete Modeling of 3D Masonry Vault Collapse  
+The three-dimensional mechanisms formed during large support displace-  ments of doubly curved vaulted masonry structures are investigated using experimental and computational models.

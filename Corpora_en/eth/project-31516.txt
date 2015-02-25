@@ -1,0 +1,1 @@
+Multi-Layered Light Field Displays A new concept using different display layer primitives for light field appro- ximation is presented. For each primitive, a mathematical notation for the light transport operator is defined. Based on that, a decomposition algorithm rendering a light field into a multi-layered plenoptic display is descr

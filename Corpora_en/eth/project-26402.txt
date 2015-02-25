@@ -1,0 +1,1 @@
+Development of a high precision cellular nanoinjection technology The ability to obtain information at the single-cell level is of central importance for numerous biological questions and represents a major challenge. The project aims at developing FluidFM technology as a nanoinjection instrument for single-cell injection and extraction experiments.

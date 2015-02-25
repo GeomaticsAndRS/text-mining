@@ -1,0 +1,2 @@
+  VisuLands - Visualization Tools for Public Participation in the Management of Landscape Change 
+The VisuLands project is addressing the potentials of computer based landscape visualization methods and investigating, how far these media contribute to the understanding of landscape issues and which role interactivity takes in participatory planning processes. 

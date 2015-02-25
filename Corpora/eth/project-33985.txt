@@ -1,0 +1,2 @@
+  COMET-Global: Whole-farm GHG estimation and environmental diagnostics platform 
+The aim is to develop and deploy a state-of-the-art system (web-based, free) for full greenhouse gas accounting at the farm scale. The system will use well-validated process-based models that run with site-specific soil, climate, land use and mgmt practices data,  and robust uncertainty methods.

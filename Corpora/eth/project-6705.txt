@@ -1,0 +1,2 @@
+  Multivariate Extremes in Quantitative Risk Management 
+In order to work out stress scenarios in QRM, methods are developped to describe extreme (market) risk scenarios. The resulting theory belongs to the realm of Extreme Value Theory, in particular a multivariate version of EVT.

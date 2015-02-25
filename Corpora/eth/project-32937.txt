@@ -1,0 +1,2 @@
+  Materials with local resonances to control wave propagation  
+We study the propagation of elastic waves in granular crystals with local resonances. These systems have shown the presence/tunability of band gaps in their dispersion relation. Using theory, numerical simulations and experiments we examine their nonlinear response under high amplitude excitations. 

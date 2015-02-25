@@ -1,0 +1,2 @@
+  Developement of a Soft Layer for Seismic Response Modification of Structural Masonry Walls  
+The central idea of this project is to modify the seismic response of individual structural masonry walls by changing their response mechanism to control the horizontal shear force they receive. This is achieved by placing engineered deformable layers in a masonry  structural wall.

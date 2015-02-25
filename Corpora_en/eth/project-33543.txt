@@ -1,0 +1,1 @@
+Hyperelastic Hybrid Membrane for Biomimetic Blodd Propulsion We aim at tightly coupling an endothelial cell layer with a highly deformable synthetic substrate, generating a durable bio-composite membrane able to withstand hundreds of millions of stretch cycles and shear stress from fluid flow, without loss of its main biomechanical functionalities.

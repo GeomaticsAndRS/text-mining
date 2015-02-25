@@ -1,0 +1,2 @@
+  MOGENTES  
+MOGENTES aims at significantly enhancing testing and verification of dependable embedded systems by means of automated generation of test cases relying on development of new approaches as well as innovative integration of state-of-the-art techniques.

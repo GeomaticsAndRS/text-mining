@@ -1,0 +1,2 @@
+  Purge Flow End Wall Profiling in LP Rotor Environment  
+The aim of this project is to study the effect of end wall profiling on pruge flow in a low pressure rotor environment. The effects of profiling is studied in a variety of different ways in LEC experimental axial turbine test facility. Steady state and time resolved pressure and temperature data of 

@@ -1,0 +1,2 @@
+  Optimierung der Baustellenplanung an Autobahnen (ASTRA 2006/007)  
+Die Baustellentätigkeit wird im Rahmen der Erhaltungsplanung insbesondere auf stark belasteten Autobahnen in den nächsten Jahren deutlich zunehmen. Ziel der For-  schung ist die Untersuchung und Evaluation von Verfahren des Operation Research zur koordinierten Baustellenplanung auf Autobahnen.

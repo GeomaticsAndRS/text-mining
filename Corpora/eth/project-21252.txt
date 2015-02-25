@@ -1,0 +1,2 @@
+  HIF-dependent transcriptional networks in obesity and related diseases 
+The liver is a central organ for the regulation of a variety of metabolic processes. We combine genome-wide expression (cDNA microarrays) and location analysis (ChIP-on-chip) to unravel the complex transcriptional network underlying these processes.

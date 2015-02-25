@@ -1,0 +1,1 @@
+InfectX The goal of InfectX is to identify the components of the human infectome for a set of important bacterial and viral pathogens and to develop new mathematical and computational methods with predictive power to reconstruct key signaling pathways controlling pathogen entry into human cells.

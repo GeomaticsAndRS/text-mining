@@ -1,0 +1,2 @@
+  Hardware Studies on Optimum Content Creation for Multiview Autostereoscopic Displays  
+The project focuses on methods for multiview synthesis for autostereoscopic displays from stereo video signals. A major goal is to mutually optimize algorithms and VLSI architectures for a versatile image warping processor in real-time. Protoypes are to be built with FPGAs and ASICs. 

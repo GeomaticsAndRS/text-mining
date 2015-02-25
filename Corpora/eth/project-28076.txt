@@ -1,0 +1,2 @@
+  Analog-to-Digital Conversion Using Unstable Filters  
+We investigate a new approach to analog-to-digital conversion that combines analog continuous-time filters with digital Kalman filtering. 

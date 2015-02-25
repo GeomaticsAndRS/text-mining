@@ -1,0 +1,1 @@
+Micro-structured phononic crystals We study experimentally and numerically the dynamics of microlattices fabricated using 3D-photolithography. We mimic the geometry of molecular superlattices, which show high thermal conductivity due to unusual phonon-propagation. By analogy we aim to improve elastic wave propagation properties.

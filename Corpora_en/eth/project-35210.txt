@@ -1,0 +1,1 @@
+A Dual Approach to Ambiguity Aversion We develop a decision model that makes it possible to disentangle ambiguity aversion, related to the treatment of information, and risk aversion, related to the evaluation of the equivalent unambiguous beliefs. An application shows the tractability of the framework and its intuitive appeal.

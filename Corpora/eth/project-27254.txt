@@ -1,0 +1,2 @@
+  Methodologies for biological network inference  
+In this project, we are developing new methodology for gene regulatory network inference. The method will be built based on ensemble inference strategy to take into account the underdetermined nature of the inference problem. 

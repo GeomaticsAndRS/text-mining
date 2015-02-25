@@ -1,0 +1,2 @@
+  CO2 Capture from Atmospheric Air  
+A novel solar thermochemical cycle for the capture of CO2 from air is analyzed. It encompasses 3 reactors: 1) a carbonator for capturing CO2 from air using a Ca(OH)2 aqueous solution; 2) a solar calciner for thermally decomposing CaCO3 into CaO; 3) a conventional slaker for regenerating Ca(OH)2.

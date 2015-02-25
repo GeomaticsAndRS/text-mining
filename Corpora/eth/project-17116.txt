@@ -1,0 +1,2 @@
+  Optimal Control  
+This project concentrates on the following aspects of optimal control theory: deterministic optimal control problems, open-loop / closed-loop optimal solution; stochastic optimal control problems, closed-loop optimal solution; Hamilton-Jacobi-Bellman Theory for both cases; numerical methods for HJB.

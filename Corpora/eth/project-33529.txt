@@ -1,0 +1,2 @@
+  Automatic Jumping Photos  
+A smart phone camera automatically takes a photo of a jumping person at the highest point. 

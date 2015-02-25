@@ -1,0 +1,2 @@
+  The deglacial interaction between climate and biogeochemistry  
+This project aims to understand the interactions between climate and ocean biogeochemistry during the last deglacial transition. We will use ice cores and sediment records data as well as general circulation models to constrain the possible mechanisms involved in this transition. 

@@ -1,0 +1,1 @@
+The control structure of the yeast metabolic network This pilot project is a collaboration between groups from bioinformatics, proteomics, metabolomics and metabolic modeling at ETH and University of Zurich to generate comprehensive and quantitative data sets and quantitative integration of these different data types by computer

@@ -1,0 +1,1 @@
+Co-location of Space Geodetic Techniques on Ground and in Space The main objective of this project is the development of methods to make best use of the existing and future co-locations of instruments on the ground and on-board satellites (existing and dedicated future missions) and to study the improvements in the reference frame quality to be achieved.

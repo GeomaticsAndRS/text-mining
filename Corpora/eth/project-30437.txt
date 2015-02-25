@@ -1,0 +1,2 @@
+  ˝ Methods and tools that support a fast and efficient FastETO U engineer-to-order process (ETO) for parameterized product families  
+The development of the first product and process configurators goes back to the 80s. The full potential, however, was achieved later on in the 90s by integrating the parameterization also into CAD and CAM software. 

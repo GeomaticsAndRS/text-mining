@@ -1,0 +1,1 @@
+QDaedalus, Digital Clip-on Measuring System for Total Stations The scope of this project is to continue to develop the measuring system QDaedalus for high precision industrial metrological applications. The existing system is regularly updated with a special focus on real-time high frequency synchronized 3D and multi-targets measurements.

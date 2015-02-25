@@ -1,0 +1,2 @@
+  Entwicklung und Herstellung thermoelectrischer Generatoren für die Energieversorgung intelligenter Heizungsventile und weiterer Energy Harvesting Anwendungen  
+20% des weltweiten Energiebedarfs wird fürs Heizen von Gebäuden verwendet, welche durch eine intelligente Heizungsregelung um 30% reduziert werden können. Voraussetzung dazu sind autonome, energieautarke Sensoren und Aktoren.

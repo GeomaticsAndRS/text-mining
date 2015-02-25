@@ -1,0 +1,1 @@
+Micro-level behavior and team performance: A social signal processing approach to teamwork In this interdisciplinary project, we combine social signal processing (SSP) and social-psychological team research. Our review of the literature in both areas reveals that current psychological models of team processes do not consider observable behaviors and are therefore vague.

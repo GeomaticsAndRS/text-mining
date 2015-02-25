@@ -1,0 +1,2 @@
+  A numerical simulation framework for the design, management and optimization of CO2 sequestration in subsurface formations 
+The goal is to gain a better understanding of the timescales which are  important when CO2 is injected into subsurface formations; a technology of great promise to store CO2 for a very long period. A better understanding of these timescales will allow to make qualified choices for simulation studies.

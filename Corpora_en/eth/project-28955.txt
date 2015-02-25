@@ -1,0 +1,1 @@
+Aggregation of therapeutic proteins during industrial production The stability behavior of therapeutic proteins is of great interest to the biopharmaceutical industry. The aggregation of monoclonal antibodies is investigated combining experimental characterization with mathematical models, providing insights into mechanisms and kinetics of protein aggregation.

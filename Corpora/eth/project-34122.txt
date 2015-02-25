@@ -1,0 +1,2 @@
+  Development of a mechanistic approach to modeling the bioaccumulation of per- and poly-fluorinated alkyl substances (PFASs)  
+Development of PBPK models for per- and poly-fluorinated alkyl substances (PFAS) in mammalian organisms. These models will explicitly incorporate the interactions of PFAS with important proteins such organic anion transporters that play important roles in their  uptake and elimination rates.

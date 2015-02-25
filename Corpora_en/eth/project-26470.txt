@@ -1,0 +1,1 @@
+Sehender Blindenstock This project develops a novel travel aid for the visually impaired using state of the art sensing and feedback technology.

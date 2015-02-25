@@ -1,0 +1,1 @@
+Information-theoretic methods for physics The goal of this project is to develop information theoretic methods that can be used for the analysis of complex physical systems.

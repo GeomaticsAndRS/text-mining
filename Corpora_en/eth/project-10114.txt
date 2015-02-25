@@ -1,0 +1,1 @@
+MIMO wireless laboratory The goal of this project is to develop a broadband MIMO wireless testbed with 2 base stations and 3 terminals based on a custom hardware architecture and VLSI implementations of advanced MIMO algorithms. The project is carried out in close collaboration with IIS/ETHZ.

@@ -1,0 +1,2 @@
+  Information redundancy in Magnetic Resonance Imaging  
+The aim of this project is to identify and exploit information redundancy contained in the signals acquired to significantly reduce the amount of measured data necessary  for reconstructing Magnetic Resonance images. To this end, enhanced flexibility and acquisition speed result.

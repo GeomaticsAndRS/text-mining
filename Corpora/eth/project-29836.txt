@@ -1,0 +1,2 @@
+  Adjustable Impedance Elements  
+Variable mechanical impedance is desired in various applications from rehabilitation engineering over robotics to test rigs. The goal of this project is to develop designs and the technology for low-cost and robust mechatronic machine element as a standard solution to produce mechanical impedance. 

@@ -1,0 +1,2 @@
+  KIM - Kommunikations- und Informationsmodell für die Produktentwicklung 
+Das Kommunikations- und Informationsmodell (kurz KIM) ist ein Ansatz die inner- und zwischenbetriebliche Kommunikation und Informationsverteilung in der Produktentwicklung zu bewerten, zu vergleichen und anhand fassbarer Massnahmen zu verbessern.

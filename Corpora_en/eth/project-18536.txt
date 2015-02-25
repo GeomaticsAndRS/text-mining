@@ -1,0 +1,1 @@
+Machine Learning Approaches for Computational Neuroanatomy Goal of this project is to develop image processing and machine learning methods and algorithms to detect and classify neuroanatomical structures like neurons, dendrites and synapses in transmission electron microscopy images.

@@ -1,0 +1,2 @@
+  Improvement and characterization of VECSEL mid-infrared lasers for their implementation in gas sensing units with a broad tuning range  
+This project is aimed at the improvement and optimization of mid-infrared VECSELS (Vertical external cavity surface emitting lasers) produced by phocone (ETH Spin-off) for specific gas sensing applications. Emphasis is on a broad tuning range.

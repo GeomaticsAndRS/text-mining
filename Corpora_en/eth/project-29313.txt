@@ -1,0 +1,1 @@
+Physiological control of a rotary ventricular assist device This project aims at the development of a controller for the physiological adaptation of a rotary ventricular assist device to the blood perfusion demand of the patient.

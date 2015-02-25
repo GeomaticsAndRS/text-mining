@@ -1,0 +1,2 @@
+  Discretization of generalized convection diffusion equations  
+We study stationary and transient convection diffusion equations for differential form and their Lagrangian and Eulerian discretization by means of discrete differential  forms. The goal is to obtain structure preserving schemes for electromagnetic field equations in the presence of moving media.

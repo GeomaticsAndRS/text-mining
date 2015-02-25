@@ -1,0 +1,2 @@
+  Influence of Animated Reality Mixing Techniques on User Experience  
+We investigate the influence of motion effects in the domain of mobile Augmented Reality (AR) games on user experience and task performance. The work focuses on evaluating responses to a selection of synthesized camera oriented reality mixing techniques for AR.

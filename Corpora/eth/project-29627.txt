@@ -1,0 +1,2 @@
+  Early Auto-processing of Bacterial Toxins as a Therapeutic Approach 
+This project aim at synthesizing small molecules capable of inactivating the toxins secreted by the bacteria Clostridium difficile

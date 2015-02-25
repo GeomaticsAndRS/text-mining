@@ -1,0 +1,2 @@
+  Rowing Simulator  
+We want to investigate how athletes execute and learn the complex rowing movement. Therefore, we have built a rowing simulator which is based on virtual reality technology. This simulator was required to convey the impression of realistic rowing, provide customizable, augmented feedback. 

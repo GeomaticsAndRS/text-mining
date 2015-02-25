@@ -1,0 +1,2 @@
+  Vision in car driving  
+The project consists out of several parts. Following aspects are investigated: eye movements, attention, traffic and information layout are coorrelated to driving performance and safety. Instrumentation includes a stereo driving simulator, instrum. recording physiological  and cognitive parameters.

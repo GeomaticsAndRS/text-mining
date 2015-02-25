@@ -1,0 +1,2 @@
+  Approaches for trigger-inducible viral transgene regulation in gene-based tissue engineering  
+Recent advances in mammalian transgene expression dosing have resulted in a portfolio of mutually compatible systems that can adjust therapeutic transgene levels in response to antibiotics, hormone analogues, quorum-sensing messengers and secondary metabolites. 

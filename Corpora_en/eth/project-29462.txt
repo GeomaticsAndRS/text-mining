@@ -1,0 +1,1 @@
+TOPOgraph In the TOPOgraph project our objective is to automatically map urban areas using high-resolution remote sensing data. We propose to formalize complex priors about the structure of urban environments in a probabilistic fashion, by means of a Conditional Random Field with higher order potentials.

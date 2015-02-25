@@ -1,0 +1,2 @@
+  QDaedalus in PACMAN (Particle Accelerator Components Metrology and Alignment to the Nanometer scale)  
+PACMAN is an Innovative Doctoral Program, hosted by CERN in beam instrumentationThe technical goal of the program is to develop very high accuracy metrology and alignment tools and integrate them in a single automatic test stand. It will be applied on future facilities under development at CERN.

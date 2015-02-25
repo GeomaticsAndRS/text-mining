@@ -1,0 +1,2 @@
+  Turbulent mixing of liquid flows 
+Turbulent mixing of liquid flows of different physical properties (density, concentration of dissolved components) are studied experimentally and by means of Computational Fluid Dynamics. Applications are in the fields of coolant mixing in LWRs and thermal fatigue of T-junctions.

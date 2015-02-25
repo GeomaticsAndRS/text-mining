@@ -1,0 +1,2 @@
+  Integrateable Silicon NANOWIRE SENSOR Platform  
+In this project we will develop a silicon nanowire-based field-effect transistor sensor platform which is applicable to label-free multiscale screening with full electronic processing and read-out capability due to silicon integration. 

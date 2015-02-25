@@ -1,0 +1,1 @@
+Evolutionary dynamics of cancer We study the progression of cancer using descriptive models and statistical inference. We develop exponential waiting time models that allow for estimating the temporal order of accumulating mutations and the parameters of the waiting time distribution.

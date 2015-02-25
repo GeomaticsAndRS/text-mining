@@ -1,0 +1,1 @@
+Supporting Grammar Development and Application in Computational Design Synthesis Computational design synthesis methods based on grammars have been shown successful to support the early design stages. This project aims to support the human designer to develop and apply effective grammar rules using systematic rule analysis, automated search strategies and machine learning.

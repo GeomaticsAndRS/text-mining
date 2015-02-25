@@ -1,0 +1,2 @@
+  Toward construction of a self-sustained clock-like expression system based on the mammalian circadian clock  
+Despite recent advances in circadian biology, detailed understanding of how a biological pacemaker system is assembled, maintained, and regulated continues to be a significant challenge. We have assembled and characterized a first-generation, regulatable, selfsustained clock-like expression system. 

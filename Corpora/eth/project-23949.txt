@@ -1,0 +1,2 @@
+  Model-based classification and clustering of dynamical systems 
+The goal of this project is to establish novel model-based approaches to the analysis of neuroimaging data, such as those obtained by functional magnetic resonsance imaging (fMRI). We envisage that the developed techniques will become particularly useful in clinical  applications.

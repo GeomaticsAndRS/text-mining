@@ -1,0 +1,1 @@
+Characterization of the mechanical properties of soft biological tissues Novel experimental techniques are developped for determining the mechanical behaviour of soft biological tissues. In-vivo and in-vitro measurements are performed on animal and human organs. Constitutive models are derived from the experiments using continuum mechanics theories.

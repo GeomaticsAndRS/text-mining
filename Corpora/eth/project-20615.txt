@@ -1,0 +1,2 @@
+  Experiments and instrumentation for containment flows  
+Measuring methods are developed for an extension of the instrumentation of PANDA, a large-scale facility at PSI for studies on nuclear containment thermal hydraulics. A 1:4 downscaled facility MiniPanda was constructed for the test of the instrumentation, scaling studies and CFD code valuidation.

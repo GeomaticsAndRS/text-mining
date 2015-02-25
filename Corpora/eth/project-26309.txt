@@ -1,0 +1,2 @@
+  Complexity Theoretic Foundations of Cryptography  
+What assumptions are needed in order to achieve various cryptographic tasks? Is it sufficient to assume that P differs from NP to construct signatures? Can a key-agreement scheme be based on the assumption that signature schemes exist? Such, and similar questions are the focus of this project. 

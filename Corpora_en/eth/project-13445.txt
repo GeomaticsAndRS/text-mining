@@ -1,0 +1,1 @@
+Petersen, W.P.: An Asset Pricing in Inhomogeneous Economies This is a numerical treatment for strongly inhomogenous Lucas asset pricing.

@@ -1,0 +1,2 @@
+  Fundamental thermofluidic and interfacial phenomena in fountain pen"based micro/nano-writing and curing of nanoparticle inks  
+This project studies sub-micrometer sized electronic structures by gold ˇ nanoparticle deposition using the Sfountain-pen ¸ T-setup. To achieve consistent patterning in the  nanoscale, better understanding of the thermophysical phenomena related to the stability of nanosized colloidal films is required.

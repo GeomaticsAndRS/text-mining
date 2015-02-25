@@ -1,0 +1,1 @@
+Integration of pressure sensor for a ventricular assist device Integrated in the Zurich Heart collaboration, this project aims to integrate commercial pressure sensors into a ventricular assist device to enable real-time control of the device. The key challenges are the blood compatible packaging and the reliable operation of the sensor.

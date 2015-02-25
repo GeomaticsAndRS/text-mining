@@ -1,0 +1,2 @@
+  Schneller Trennprozess für Siliziumwafer mittels Diamantdrahtsägen  
+Fast cost optimized slicing process for silicon wafers by sawing with diamond coated wire 

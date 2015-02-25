@@ -1,0 +1,2 @@
+  Security of Multi-Area Power Systems  
+The aim of this project is to recommend a definition for the safety and security of an electricity supply system consisting of several regions, and define the distribution of responsibilities and costs. 

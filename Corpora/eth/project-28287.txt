@@ -1,0 +1,2 @@
+  Future Cities Lab (FCL) - LowEx Module  
+As part of the Future Cities Lab Singapore, the Low Exergy Research Module aims to advance the research on Low Exergy building systems (cooling, distributed ventilation and dehumidification, lighting) in a highly dense urban context. 

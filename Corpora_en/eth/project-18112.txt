@@ -1,0 +1,1 @@
+Immune regulation of inflammatory bowel disease (IBD) IBD occurs when the immune system responds to harmless intestinal bacteria resulting in chronic intestinal inflammation. This project aims to define the roles of two newly identified immune cell molecules LIGHT or HVEM in promoting colitis in genetically manipulated mice lacking these genes.

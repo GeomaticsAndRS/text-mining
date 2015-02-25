@@ -1,0 +1,2 @@
+  KTI - Sistema di rilevazione e classificazione SUPSI 
+Drive on Street è una soluzione che consente di geolocalizzare i veicoli e persone, gestire le missioni, fornire una visione d’insieme dei mezzi su strada alla centrale. Il sistema DriveOnStreet viene sfruttato come mezzo di comunicazione sicuro e immediato tra centrale e  pattuglie attraverso vari c

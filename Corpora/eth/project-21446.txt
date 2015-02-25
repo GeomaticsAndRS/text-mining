@@ -1,0 +1,2 @@
+  Toward an ocean biogeochemical data assimilation system 
+My overarching goal is to implement a data assimilation system to optimize the ocean model ROMS. The first step is to show how dissolved oxygen profiles provide information about the parameters of the ROMS biogeochemical module (BEC)

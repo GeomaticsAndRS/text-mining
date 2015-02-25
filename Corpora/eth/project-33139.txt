@@ -1,0 +1,2 @@
+  Accounting for Different Uncertainties: Implications for Climate Investments?  
+In this project, I examine the consumption discount rate which plays a crucial role in climate economics. In particular, I clarify the link between changes in risk aversion and the effect on the consumption discount rate, while accounting for different types of uncertainties. 

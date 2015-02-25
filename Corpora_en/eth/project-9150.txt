@@ -1,0 +1,1 @@
+Drittmittel aus SEP-Projekten: Computer Aided Urban Design Projekt (CAUD) (2-74305-02) The goal of the project is it to improve Computer Aided Urban Design (CAUD) processes by use of new information technologies and thus extend applicability of CAUD in practice (Index terms: Artificial Life, Genetic Algorithms, Reinforcement Learning).

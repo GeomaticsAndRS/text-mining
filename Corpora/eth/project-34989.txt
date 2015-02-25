@@ -1,0 +1,2 @@
+  Vibration-Based Structural Health Monitoring for Wind Turbines  
+The present study focuses on the integration of information coming from  various structural elements of WTs, along with stochastic system identification and statistical methods for condition assessment of WTs

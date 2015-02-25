@@ -1,0 +1,2 @@
+  Multivariate extremes  
+We extend classical one-dimensional extreme value theory to arbitrary dimensions using a more geometry based approach. 

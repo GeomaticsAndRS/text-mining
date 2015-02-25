@@ -1,0 +1,1 @@
+Simulation of Dynamic Crack Propagation Focus of the project is the simulaiton of dynamic crack propagation processes in brittle, disordered media via the discrete element method.

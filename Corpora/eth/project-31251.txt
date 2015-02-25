@@ -1,0 +1,2 @@
+  Macromolecular ROS probes 
+The objective of this project is to synthesize fluorescent macromolecular probes to measure the production of ROS in living tissues/cells.

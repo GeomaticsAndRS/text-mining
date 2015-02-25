@@ -1,0 +1,2 @@
+  Large-Area Econometric Assessment of Wind Energy Projects 
+Large-area assessment of wind power potential, and modeling of ancillary (storage) and transmission grid using GIS. Identification of efficient portfolios of wind power  projects to meet investors risk-return preferences which respecting local regulatory and financial frameworks.

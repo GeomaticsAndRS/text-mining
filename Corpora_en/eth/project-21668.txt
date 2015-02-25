@@ -1,0 +1,1 @@
+Algebraic statistics in computational biology We explore computational algebraic tools for analyzing statistical models, in particular model selection and parametric inference.

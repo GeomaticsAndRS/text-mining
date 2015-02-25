@@ -1,0 +1,1 @@
+NMR studies of FimA We want to study the structure, dynamics and interactions of the protein FimA by NMR. FimA forms the pili of uropathogenic E.coli strains. These pili are large filaments consisting of about 2000 protein subunits. Based on the NMR data of FimA we will try to deduce the whole pilus rod assembly.

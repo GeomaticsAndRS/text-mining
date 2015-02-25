@@ -1,0 +1,2 @@
+  Scattering at Complex Screens  
+We study the definition and properties of boundary integral equations for  acoustic and electromagnetic scattering problems at screens with junctions, their boundary element Galerkin discretization and preconditioning.

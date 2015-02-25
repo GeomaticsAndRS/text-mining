@@ -1,0 +1,2 @@
+  Hydrothermal Flame for Spallation 
+The main focus of this research project is the development of an engineering tool for the design of a downhole assembly in the spallation drilling process. This model  (CFD) should be able to describe hydrothermal rock spallation physically in a supercritical environment of water.

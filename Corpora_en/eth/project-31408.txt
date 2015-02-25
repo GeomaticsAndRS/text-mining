@@ -1,0 +1,1 @@
+Experimental and Modeling Study of Acrylamide-FA1Quat Copolymerization The free-radical aqueous copolymerization of Acrylamide and FA1Quat is investigated with the aim of developing a kinetic model for the system. An experimental study primarily based on in-situ NMR and SEC analysis is carried out to shed light on the kinetics involved and to estimate rate parameters.

@@ -1,0 +1,1 @@
+Theoretical investigation of magnetic and multiferroic properties of YBaCuFeO5 We use ab initio calculations to investigate the order of Cu and Fe ions an magnetic interactions in YBaCuFeO5. The main aim is to understand the origin of the incommensurate spin state of this compound and the way in which it couples to electric polarization.

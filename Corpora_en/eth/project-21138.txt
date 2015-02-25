@@ -1,0 +1,1 @@
+Energy Infrastrusture as a Target This project examines the targeting of enery infrastructure by non-state armed groups and the effects such attacks can have in the 21st century energy security environment. The Energy Infrastructure Attack Database (EIAD) will be developed and used to track and analyze attacks and regional trends.

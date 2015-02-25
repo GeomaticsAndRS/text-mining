@@ -1,0 +1,2 @@
+  Mantle convection and thermo-chemical evolution of extrasolar super-Earths  
+Super-Earths are planets around other stars that are Earth-like but larger than Earth. Here we are applying modelling techniques designed for Earth, to predict their internal structure and evolution, including the possibility of plate tectonics. 

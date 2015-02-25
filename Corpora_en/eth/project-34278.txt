@@ -1,0 +1,1 @@
+Computational Magneto-Hydrodynamics with Discrete Differential Forms Discrete differential forms will be investigated as a structure preserving way to discretize the equations of magneto-hydrodynamics.

@@ -1,0 +1,1 @@
+Computational Science for the Metrology of Nanostructures Efficient algorithms are developed in a high-performance and parallel computing environment for Monte Carlo simulation of secondary electron generation and tracking in electromagnetic fields.

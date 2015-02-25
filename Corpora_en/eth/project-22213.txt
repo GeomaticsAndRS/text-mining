@@ -1,0 +1,1 @@
+OneLab2: An Open Federated Laboratory Supporting Network Research for the Future Internet Experimentally driven research is key to success in todayŠs Internet. The OneLab2 project will leverage the original OneLab projectŠs PlanetLab Europe test bed and its international visibility to make this facility a reality.

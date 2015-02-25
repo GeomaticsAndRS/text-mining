@@ -1,0 +1,2 @@
+  Environmental Justice in der Schweiz. Verknüpfung der SonBase mit den Daten der Volkszählung 2000  
+Im Zentrum der steht die Frage, welche sozialen Schichten in der Schweiz am meisten durch Lärm und Luft belastet sind. Diese soll durch die räumliche Verknüpfung der Volkszählungsdaten mit entsprechenden Belastungskarten in GIS beantwortet werden. 

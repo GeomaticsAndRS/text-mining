@@ -1,0 +1,1 @@
+Frequency- and time-resolved spin polarized scanning tunneling microscopy The main objective of this proposal is to develop a microscope which combines the atomic resolution of scanning tunneling microscopy (STM) with the single-spin sensitivity and the high-temporal resolution required to investigate the fast dynamics of spin relaxation.

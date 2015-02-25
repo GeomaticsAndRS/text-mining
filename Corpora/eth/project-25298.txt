@@ -1,0 +1,2 @@
+  Single-image 3D object detection and reconstruction with adaptive 3D shape models  
+The project aims to detect objects in signle images and infer their 3D pose by exploiting prior knowledge about the shape and variability of the objects’ category. 

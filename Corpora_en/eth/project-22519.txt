@@ -1,0 +1,1 @@
+Lightweight RF Power Cables with High Phase Stability The objective of this activity is to design, manufacture and test radiofrequency (RF) cables for space applications with excellent phase stability and with a significant reduction in the overall weight compared to current cables. This will become critical in the new generation of telecom cables.

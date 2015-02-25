@@ -1,0 +1,1 @@
+Total self navigation in Magnetic Resonance Imaging Cardiac and respiratory motion require dedicated compensation schemes in conventional Magnetic Resonance often compromising robustness, flexibility and scan efficiency. This work attempts to address these issues by incorporating data self referencing to optimally control data acquisition.

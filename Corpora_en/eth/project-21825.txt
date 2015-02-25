@@ -1,0 +1,1 @@
+Solar Receiver Development for an Electricity Generation System Project aimed at the design, fabrication, testing, modeling & validation, and optimization of a solar receiver coupled with ALEŠs trough concentrator, for a Rankine-based electricity generation system.

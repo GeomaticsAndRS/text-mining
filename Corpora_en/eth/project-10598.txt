@@ -1,0 +1,1 @@
+Numerical simulations of lattice field theories We use extensive computer simulations to address questions in the theory of elementary particles where an analytic approach is not available. Foremost are the nature and properties of quark confinement in Quantum Chromo Dynamics (QCD), and its disappearance at high temperature or density.

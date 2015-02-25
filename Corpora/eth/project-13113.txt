@@ -1,0 +1,2 @@
+  tensor categories and low-dimensional QFT  
+This project represents joint work with Juergen Fuchs, Ingo Runkel and Christoph Schweigert. Our aim is to understand the structure of super-selection sectors and of boundary conditions in 2D conformal field theories using mathematical tools from the theory of tensor categories. 

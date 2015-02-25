@@ -1,0 +1,2 @@
+  Nanoarchitecture for Large Scale, Economic Surface Enhanced Raman Spectroscopy  
+Probing warefare materials, chem-bio agents and toxic chemicals requires sensors of a high detection limit and sensitivity. By studying the local electric field enhancement in the nanoscale geometry, we will design and manufacture large scale substrates for surface enhanced Raman spectroscopy. 

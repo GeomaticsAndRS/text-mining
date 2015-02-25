@@ -1,0 +1,1 @@
+Systems Biology of Infection In this project a systematic analysis of host genes involved in the infectious entry of viruses is performed, using RNA interference, high-throughput screening, and high-content image analysis.

@@ -1,0 +1,2 @@
+  Core field models from 21st century satellite observations  
+Inversion for time-dependent core field evolution in past 8 years derived from CHAMP, Oersted and SAC-C satellite data. 

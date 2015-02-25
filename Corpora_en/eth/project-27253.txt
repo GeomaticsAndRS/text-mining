@@ -1,0 +1,1 @@
+Elucidating the mechanisms of mitochondrial DNA deletions In this project, we analyze the distribution of direct repeats and stem loops in the mtDNA of human, rhesus monkey, mouse and rat, to establish the significance of finding such motifs nearby deletion breakpoints. We will also study the stability of DNA hybridization around pairs of breakpoints ..

@@ -1,0 +1,2 @@
+  Infrared Pyrometry for Atmospheric Reentry Vehicles 
+An imaging infrared pyrometer is being developed to measure the surface temperature distribution on the control flaps of a reentry research vehicle of the European Space Agency ESA.

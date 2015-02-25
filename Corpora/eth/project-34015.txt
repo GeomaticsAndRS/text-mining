@@ -1,0 +1,2 @@
+  Quantifying effects of latent heating on midlatitude cyclones under different climate conditions  
+In this project, new diagnostic metrics based upon potential vorticity will be developed for quantifying the impact of latent heating on midlatitude cyclones. Subsequently,  the metrics will be applied to idealized GCM simulations to investigate the latent heating impact in different climates.

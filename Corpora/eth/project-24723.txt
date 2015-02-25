@@ -1,0 +1,2 @@
+  Coupling various processes to groundwater models  
+The project is part of the EU project ”Groundwater and dependent ecosystems: New scientific and technical basis insight and technical basis for assessing climate change and land-use impact on groundwater systems”, Grant no. 226536 GENESIS CP-IP. It concentrates on coupling various processes.

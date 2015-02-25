@@ -1,0 +1,2 @@
+  Giant Component and Vacant Set for Random Walk on a Discrete Torus  
+Joint with Itai Benjamini, Weizmann Institute, Rehovot, Israel. We investigate some of the percolative properties of the vacant set left by a random walk running for times comparable to the number of sites in a large discrete torus.

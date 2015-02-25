@@ -1,0 +1,2 @@
+  Polarisation reversal with magnetic field in Mn2GeO4  
+Mn2GeO4 is an unusual multiferroic materials, exhibiting both a finite  polarisation as well as a magnetisation. Here the strong correlation between electric and magnetic domains under the magnetic-field-induced polarisation reversal is investigated.

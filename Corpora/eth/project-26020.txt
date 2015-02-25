@@ -1,0 +1,2 @@
+  Development of a modular, dynamic modelling tool for long-term planning of urban drainage infrastructure 
+The longevity of urban drainage systems, high investment and rehabilitation needs as well as altering future conditions and demands call for a long-term planning approach. The project contributes with planning instruments being capable to cope with the challenges induced by a long planning horizon. 

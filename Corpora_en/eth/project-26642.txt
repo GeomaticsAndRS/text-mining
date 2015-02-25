@@ -1,0 +1,1 @@
+Measuring Social Preferences This project develops a new measure of social preferences that has several advantages over existent methods.

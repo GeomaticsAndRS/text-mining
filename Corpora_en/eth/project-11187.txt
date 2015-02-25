@@ -1,0 +1,1 @@
+Prohl, A.: Analysis and numerics of polymeric liquid crystals Polymeric liquid crystals show rich geometry of defects (e.g., points, lines). The goal is the analysis, numerical analysis and simulations for the doubly-degenerate gradient flow of the Ericksen flow to study its dynamical richness.

@@ -1,0 +1,1 @@
+Estimating 3-D induction effects from polar electrojets We investigate 3-D (ocean) induction effects in magnetic signals due to realistic models of polar electrojets

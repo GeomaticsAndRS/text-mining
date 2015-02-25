@@ -1,0 +1,2 @@
+  Energy Management for the Monte Rosa Hut  
+This research project aims at developing new algorithms and software and hardware solutions for the optimal management of energy and waste flows in buildings. The new Monte Rosa hut is used as a benchmark and demonstrator object. The main goal is to achieve a high energy autarchy. 

@@ -1,0 +1,2 @@
+  Autonomous Robotic Scanning of Complex Environments  
+Goal of this project is to automatize the data collection process for 3D  reconstruction of complex and convoluted structures by means such as laser scanning and photogrammetry.

@@ -1,0 +1,2 @@
+  PEBS 
+The Positron-Electron-Balloon-Spectrometer (PEBS) is a proposal for an experiment to measure the positron component in the cosmic rays with high precision, up to very high momenta. A small particle-physics detector will be brought to about 40km height with a balloon.

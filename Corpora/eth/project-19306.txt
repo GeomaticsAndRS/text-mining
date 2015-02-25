@@ -1,0 +1,2 @@
+  SmartShunt - The Hydrocephalus Project  
+The multidisciplinary research project aims at conducting the basic research necessary for the subsequent development of a smart cerebrospinal fluid (CSF) shunt for normal pressure hydrocephalus (NPH).

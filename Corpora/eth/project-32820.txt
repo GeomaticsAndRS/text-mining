@@ -1,0 +1,2 @@
+  Exploiting Semantic Information for Image-Based Localization  
+The main goal of this project is to investigate how semantic information about the content of an image can be used to improve image-based localization approaches that  aim to determine the position and orientation from which the image was taken.

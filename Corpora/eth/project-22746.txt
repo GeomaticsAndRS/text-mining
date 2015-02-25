@@ -1,0 +1,2 @@
+  Mechanism of Aerobic Oxidations: Insights in the Chemistry of Radical Species  
+Aerobic oxidations proceeding via a radical chain mechanism are industrially used on a large scale. However the fundamental understanding is oftern missing. In this project we study the homolytic activation of alkyl hydroperoxides with Fenton active metal ions such as cobalt(II). 

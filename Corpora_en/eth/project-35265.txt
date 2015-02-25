@@ -1,0 +1,1 @@
+Existence of Equilibria in Exhaustible Resource Markets with Economies of Scale and Inventories The paper proves the existence of equilibrium in nonrenewable resource markets when extraction costs are non-convex and resource storage is possible. Market equilibrium becomes then possible, contradicting previous claims from Eswaran, Lewis and Heaps (1983).

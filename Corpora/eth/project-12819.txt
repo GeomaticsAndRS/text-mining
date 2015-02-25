@@ -1,0 +1,2 @@
+  CellMAC: a novel technology for encapsulation of mammalian cells in cellulose sulfate/pDADMAC capsules assembled on a transient alginate/Ca2+ scaffold  
+Microencapsulation of desired mammalian cell phenotypes in biocompatible polymer matrices represents a powerful technology for cell-based therapies and biopharmaceutical manufacturing of protein therapeutics. We have pioneered a novel jet break-up-compatible  process for encapsulation.

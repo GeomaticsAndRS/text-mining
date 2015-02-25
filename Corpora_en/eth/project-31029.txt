@@ -1,0 +1,1 @@
+Rockfall protection system design and optimization with FEM: Rockfall impact on flexible UHS steel wire nets In collaboration with Geobrugg AG and WSL, we implement an advanced FEM scheme which allows for a better description of the physics involved in impact problems related to rockfall. The model accounts for several complex physical processes.

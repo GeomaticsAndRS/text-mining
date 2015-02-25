@@ -1,0 +1,2 @@
+  Heavy Flavor Physics with the BABAR Detector  
+At the BABAR B-factory, located at SLAC (Stanford University), we study rare leptonic (B->l+l-) and semi-leptonic B meson decays (|Vub|). These measurements constrain the Standard Model description of CP violation and test extensions of the Standard Model.

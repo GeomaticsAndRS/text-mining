@@ -1,0 +1,2 @@
+  Modelling permeability and stimulation processes for deep heat mining  
+IN this NFP70 project, three groups at ETHZ, UniNE, and USI use numerical simulation to quantify permeability enhancement in deep geothermal reservoirs during hydraulic stimulation, its evolution during reservoir development, and the seismicity-related processes of fault slip during stimulation. 

@@ -1,0 +1,1 @@
+Particle transport in turbulent flows The influence of fully developed turbulence on the mixing properties of a granular medium is currently not well understood. The goal of the project is to investigate particle transport in turbulent flows by a variety of different approaches to turbulence modeling.

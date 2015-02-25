@@ -1,0 +1,2 @@
+  HCPVT- Solar Concentrating Photovoltaic System 
+The goal of the project is to realize a cost-competitive innovative High  Concentration PhotoVoltaic Thermal (HCPVT) system able to convert 80% of the collected solar energy into useful electrical and thermal output at a Levelized Cost of Energy (LCOE) between 0.07 and 0.1 $/KW.

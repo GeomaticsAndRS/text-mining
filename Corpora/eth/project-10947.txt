@@ -1,0 +1,2 @@
+  Structural characterization of epitopes of allergenic proteins responsible for IgE-mediated cross reactivity 
+Based on the hypothesis that the allergic reactions are due to molecular mimicry between conserved T and B cell epitopes, the aim of this study is to evaluate the putative epitopes involved in IgE-mediated cross-reactivity using homology modeling supported by crystallographic experiments

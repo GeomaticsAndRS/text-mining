@@ -1,0 +1,2 @@
+  Robotische Aggregation von Material mit unbekannter Geometrie 
+Die Verwendung von Baumaterial mit irregulären Geometrien, beispielsweise Bruchstein oder rezyklierter Betonschutt, stellt eine neue Herausforderung für die digitale  Fabrikation dar.

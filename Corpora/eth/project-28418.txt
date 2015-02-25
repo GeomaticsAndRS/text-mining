@@ -1,0 +1,2 @@
+  Digital Geometry Processing of Scanned 3D Data  
+This project explores digital geometry processing techniques for scanned 3D data, in the spirit of traditional signal processing but applied to irregularly sampled geometric data. We seek robust and efficient methods for filtering, parametrization, remeshing and other geometry processing operations.

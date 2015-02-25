@@ -1,0 +1,2 @@
+  blue-c-II  
+blue-c II ist ein Gemeinschaftsprojekt der Professuren CAAD, CGL, CVG, IWF und ZPE der ETH. Der Focus dieses Projektes liegt im zwei-dimensionalen und dreidimensionalen erfassen von Räumen, Personen und Objekten sowie in der Weiterverarbeitung und  im Nutzen der erfassten Daten.

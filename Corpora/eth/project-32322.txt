@@ -1,0 +1,2 @@
+  Discrete optimisation and spin glasses  
+Development of novel algorithms and solvers for disordered systems with applications ranging from spin glasses to real world optimisation problems

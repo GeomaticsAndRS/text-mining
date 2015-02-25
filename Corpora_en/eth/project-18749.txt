@@ -1,0 +1,1 @@
+PPM : An open source Parallel Particle-Mesh Library for simulations of complex systems PPM is a software framework for the transparent and portable parallelization of simulations using particle-mesh methods. The project is geared towards resource and problem aware software developments

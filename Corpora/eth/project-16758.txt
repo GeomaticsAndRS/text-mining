@@ -1,0 +1,2 @@
+  Seismic Behavior of U-shaped Reinforced Concrete Walls 
+Although U-shaped walls are very popular bracing elements in RC buildings, experimental results on their behaviour under seismic loading are very sparse and codes do not provide detailed guidelines for their design when a ductile behaviour is aimed for. The project will help to fill these voids.

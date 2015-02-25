@@ -1,0 +1,1 @@
+Illustrative Flow Visualization The key objective of the proposed research is to transfer the expressiveness of traditional illustrations to computer generated visualizations. Our vision is to fundamentally simplify understanding and communication of CFD results.

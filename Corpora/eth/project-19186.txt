@@ -1,0 +1,2 @@
+  New developments of efficient geophysical tomography algorithms for exploring near-surface structures  
+New tomographic inversion algorithms for two- and three-dimensional imaging of near-surface structures are developed. Particular emphasis is put on the computational efficiency of the algorithms. This is achieved with wavelet-based parameterizations in the data and model space. 

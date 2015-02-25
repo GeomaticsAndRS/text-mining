@@ -1,0 +1,1 @@
+Tumor Tracking with Treatment Table Improvement of Radiotherapy by compensating the tumor motion of the patient using the treatment table, which moves in the opposite direction. This allows avoiding irradiation of healthy tissue, which in turn allows higher irradiation of tumors.

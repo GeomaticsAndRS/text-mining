@@ -1,0 +1,1 @@
+Interplay between mismatch repair and other pathways of DNA metabolism The mismatch repair (MMR) system ensures that our genomic material is faithfully copied and transmitted to the new generation of cells free of errors. Malfunction of this system leads to cancer of the colon, endometrium and other organs. We study the link between MMR malfunction and cancer.

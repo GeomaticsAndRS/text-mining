@@ -1,0 +1,2 @@
+  Measuring decision processes in the context of risky choice 
+We use a set of well defined gambles and measure in real time both decision processes and choices in an effort to build more psychologically realistic models of human decision making under risk.

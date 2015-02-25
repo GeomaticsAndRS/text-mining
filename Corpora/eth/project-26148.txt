@@ -1,0 +1,2 @@
+  Synthetic biology: Synchronized bacterial clocks  
+By synchronizing clocks, humans make more efficient use of their time and orchestrate their activities in different places. Bacteria have now been engineered that similarly coordinate their molecular timepieces.

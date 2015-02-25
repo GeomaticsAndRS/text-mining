@@ -1,0 +1,1 @@
+Intronically encoded siRNAs improve dynamic range of mammalian gene regulation systems and toggle switch Applications of conditional gene expression, whether for therapeutic or basic research purposes, are increasingly requiring mammalian gene control systems that exhibit far tighter control properties.

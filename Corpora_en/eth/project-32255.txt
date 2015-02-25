@@ -1,0 +1,1 @@
+Fokus Projekt Beachtbot Creating a mobile robot that can autonomously create a design in sand on a beach, by using a localization system to determine its own location, and by using interchangeable drawing modules to draw in the sand.

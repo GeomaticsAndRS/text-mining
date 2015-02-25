@@ -1,0 +1,2 @@
+  L2-Lefschetz Numbers (with Indira Chatterji) 
+We study Lefschetz numbers in the context of L2-cohomology. As applications we have in mind certain computations of complete Euler characteristics of groups.

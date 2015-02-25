@@ -1,0 +1,2 @@
+  Mutation analysis to identify functionally important amino acids of SopE  
+We demonstrate that G-nucleotide exchange by SopE involves catalytic elements unique to the SopE family (i.e. 166GAGA169-loop, Asp103SopE) and amino acid contacts resembling those of Dbl-like guanine nucleotide exchange factors. These residues are also  conserved in BopE from Burkholderia.

@@ -1,0 +1,2 @@
+  Suitability of IBM/Sony CELL processors for scientific work 
+This computational science project test the suitability of IBM/Sony CELL processors for scientific work. Begun in late 2006 it is a collaboration of ETH Zurich, the University of Zurich, and the company qubits (see http://cluster.qubits.ch/ ). 

@@ -1,0 +1,2 @@
+  EureTile: European Reference Tiled Architecture Experiment  
+EURETILE investigates and implements brain-inspired foundational innovations to the system architecture of massively parallel tiled computer architectures and the corresponding programming paradigm. The execution  target is a many-tile HW platform, equipped with a many-tile simulator.

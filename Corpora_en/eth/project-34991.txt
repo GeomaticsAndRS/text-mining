@@ -1,0 +1,1 @@
+Design of seismic metamaterials for earthquake hazard mitigation This project investigates the implementation of locally resonant metamaterials in seismic isolation applications, by exploring their potential feasibility in the 0.5-5Hz frequency band.

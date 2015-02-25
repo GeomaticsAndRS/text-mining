@@ -1,0 +1,2 @@
+  Estimating the sizes of causal effects from observational data  
+We aim to estimate the effect of novel interventions to a system, based on observational data from the system. For example, we may predict the effect of a gene-knockout(s) from observational gene expression data. The results can be used to determine which knock-out experiments are most promising. 

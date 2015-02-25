@@ -1,0 +1,2 @@
+  TEMPO (Training in Embedded Predictive Control and Optimization) 
+TEMPO (Training in Embedded Predictive Control and Optimization) is an international PhD program in predictive control and real-time optimization, with a focus on application to embedded systems. The network is funded by the European Commission as a Marie Curie Initial Training Networks (ITN).

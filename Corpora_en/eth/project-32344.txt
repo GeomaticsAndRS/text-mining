@@ -1,0 +1,1 @@
+Investigation of dosage compensation in tumorigenesis Loss of dosage compensation has been implicated in tumorigenesis and certain cases of human tumors lack the inactive X chromosome(Xi). Using a conditional mutation of Xist in mice we aim to identify cells that reactivate the Xi in development and study their relevance for tumors.

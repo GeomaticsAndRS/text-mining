@@ -1,0 +1,1 @@
+Embedded Web Services for Constrained Devices The development of networked embedded systems is costly and does not scale with the software requirements of an Internet of Things. A Web-like application layer and programming model for the constrained devices can remedy the situation by involving developers with different backgrounds.

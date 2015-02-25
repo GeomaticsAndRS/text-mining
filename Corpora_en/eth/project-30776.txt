@@ -1,0 +1,1 @@
+Developing a Neuroimaging System of Risk Attitudes and Human Choice Behavior This project aims to develop a multi part measurement and neuroimaging system for assessing risk attitudes in humans while engaged in dynamic risky and strategic choice contexts. It is done in coordination with the University of Zurich Hospital.

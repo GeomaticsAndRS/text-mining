@@ -1,0 +1,2 @@
+  Neurobiology of large-scale spatial cognition  
+The goal is to identify brain systems involved in navigation. Current activities focus on the tracking of pigeon homing paths by means of miniaturized GPS loggers and the development of miniature neurologgers for simultaneous recording of flight path and neuronal  activity in freely flying pigeons.

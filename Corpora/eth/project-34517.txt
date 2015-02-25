@@ -1,0 +1,2 @@
+  ˝ Automated Heating Control for reduced Energy Consumption AHC U in Buildings  
+This project prepares the market entry of a userfriendly, easy to integrate product to reduce thermal energy consumption of buildings. It contents the development of a retrofit solution, an automated heating valve control, and the business development for this product.

@@ -1,0 +1,2 @@
+  Thin-disk laser for muonic atoms spectroscopy  
+The main goal of this project is the development of a thin-disk laser suited for the measurements of several 2S-2P transitions in muonic helium. The laser must have >150 mJ pulse energy (20 ns pulse width), delay after trigger less than 400 ns, random triggerable to repetition rates up to 1kHz. 

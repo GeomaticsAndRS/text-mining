@@ -1,0 +1,1 @@
+Structure and mechanism of membrane proteins catalyzing electron transfer reactions The aim of the project is the structural and biophysical chartacterization of two electron transport catalysts from the inner E. coli membrane, DsbB and DsbD. Both membrane proteins rely on disulfide exchange chemistry to fullfil their unique functions.

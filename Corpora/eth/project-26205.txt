@@ -1,0 +1,2 @@
+  Controlled Synthesis of Carbon Nanotubes  
+This project aims at the controlled synthesis of vertically aligned carbon nanotube arrays. To achieve the goal, we especially focus on the control of (1) narrow distribution of CNT diameters and (2) uniformity in CNT lengths. The as-synthesized CNTs are characterized by Raman spectroscopy and TEM. 

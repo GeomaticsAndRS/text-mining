@@ -1,0 +1,2 @@
+  Vacant set of random interlacements and percolation 
+We introduce a Poisson cloud on the space of doubly infinite trajectories on Zˆd modulo time shift (d>2). A parameter u multiplies the intensity. We show that for large u the vacant set left by the trajectories has no infinite components and when d>6 for small u an infinite component always exists.

@@ -1,0 +1,1 @@
+KTI Solar Gas Turbine This project is aimed at the engineering development of the solar receiver technology for heating compressed air to the entrance conditions of a gas turbine, at a design-point ˝ 30 bars and a solar receiver outlet temperature in the range 800 operation pressure in the range 5 U ˝ 1200 ˇrC. U

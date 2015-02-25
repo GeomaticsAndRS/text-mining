@@ -1,0 +1,2 @@
+  Algebraic group actions and boundaries  
+We study algebraic group actions in a variety of settings, making use of a crucial aspect of non-reductive group actions – namely, there are canonically attached boundary loci in quotients. This has applications in many areas of mathematics, and now in physics and computer science. 

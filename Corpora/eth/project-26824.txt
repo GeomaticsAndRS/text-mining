@@ -1,0 +1,2 @@
+  Computational optimization of tube drawing processes  
+The cold drawing of the steel tube will be simulated with numerical method. The material properties and the tribological condition are determined by the experiments. The geometrical parameters as well as the thermal conditions will be investigated to achieve an optimal process. 

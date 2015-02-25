@@ -1,0 +1,2 @@
+  GeoVITe - Geodata Visualisation and Interactive Training Environment  
+Development of a geodata portal for ETH Zurich and its affiliated research  institutions.

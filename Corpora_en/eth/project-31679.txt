@@ -1,0 +1,1 @@
+Physical model experiments on the Sihl River culverts at Zurich main station Physical scale model tests are performed to determine the discharge capacity at the Zurich main station. The model is approximately 25 m long and 8 m wide. It allows to reproduce flow and transport phenomena during flood events in detail, to finally improve flood safety of the city of Zurich.

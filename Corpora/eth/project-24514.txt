@@ -1,0 +1,2 @@
+  Virtual Packaging System for Pharma and Food Applications 
+A virtual system based on the FEM simulation for packaging industry has been further developed. The tool allows an resource-efficient layout of pharma packaging systems as well as the selection of the optimal blister materials for the specific applications.

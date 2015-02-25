@@ -1,0 +1,1 @@
+Characterization of Snow Properties using Interferometric Synthetic Aperture Radar (SAR) Systems TerraSAR-X and TanDEM-X SAR acquisitions at 9.65 GHz are evaluated for their potential in snow property characterization using Interferometric approaches like the Random Volume over Ground model and D-InSAR.

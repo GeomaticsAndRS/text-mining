@@ -1,0 +1,2 @@
+  EU-Project NAVOLCHI  
+The NAVOLCHI project explores, develops and demonstrates a novel nano-scale plasmonic chip-to-chip and system-in-package interconnection platform to overcome the bandwidth, foot-print and power consumption limitations of todays electrical and optical interconnect solutions. 

@@ -1,0 +1,1 @@
+Investigation of current-induced torques in spin-orbit coupled materials Spin-based electronics (spintronics) takes advantage of the spin degree of freedom to store and process information. This project aims at finding new methods and materials to control the magnetization in nanometer-scale devices using electric currents and spin torques.

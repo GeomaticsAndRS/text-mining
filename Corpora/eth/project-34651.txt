@@ -1,0 +1,2 @@
+  ARGOS Challenge  
+ARGOS Challenge - A challenge to foster the development of autonomous mobile robots for the inspection of oil and gas sites. 

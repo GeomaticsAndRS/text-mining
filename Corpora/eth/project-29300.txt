@@ -1,0 +1,2 @@
+  Coating Nanocomposites  
+This project aims to develop a method to fabricate inorganic-organic hybrid nanoparticles, then introduce the particles into specific matrix according to different application purposes. The main task is to understand the principle behind dispersion behavior of the hybrid nanoparticles.

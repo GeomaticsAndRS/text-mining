@@ -1,0 +1,1 @@
+Diffusion tensor imaging and brain fiber tracking The development of diffusion tensor imaging (DTI) offers the possibility to go beyond anatomical imaging and to probe the tissue micro-structure at a sub-voxel level for applications such as the delineation of white-matter neuronal tracts.

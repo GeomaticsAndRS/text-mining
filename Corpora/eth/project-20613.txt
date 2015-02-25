@@ -1,0 +1,2 @@
+  Coolant flow in nuclear fuel elements  
+The flow in fuel rod bundles of nuclear reactors (LWRs) is investigated in two adiabatic test rids. Wire-mesh sensors, liquid film thickness sensors and tomography with cold neutrons provide high-resolution data on the coolant flow structure. The effect of funtional spacer grids is studied.

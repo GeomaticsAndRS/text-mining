@@ -1,0 +1,1 @@
+Turbulence and particles in environmental fluid mechanics The aim of our research is to study feedback mechanisms between fluid flow and transported particles for the case where particles are active, i.e. they react back to the flow due to inertia or motility.

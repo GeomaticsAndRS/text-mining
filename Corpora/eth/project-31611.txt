@@ -1,0 +1,2 @@
+  Low-temperature physics of thallium-doped PbTe from first principles  
+The goal is to explain the appearance of superconductivity at rather high temperatures in thallium-doped PbTe from first principles. Recent theoretical and numerical studies attribute this behavior to a charge Kondo effect arising from the valence skipping nature of  thallium.

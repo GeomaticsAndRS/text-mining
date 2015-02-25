@@ -1,0 +1,2 @@
+  Energy Management of Hybrid Electric Vehicles  
+The goal of this project is to derive novel methods for the development of energy management strategies for hybrid electric vehicles.

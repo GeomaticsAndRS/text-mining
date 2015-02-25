@@ -1,0 +1,2 @@
+  Friction and Impact Models within the Dynamics of Nonlinear Continua 
+The aim of this project is to embed models for friction, contact, and impact in the equations of nonlinear continuum mechanics for various sub-classes like strings, beams, shells, and others.

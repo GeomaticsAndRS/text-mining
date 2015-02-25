@@ -1,0 +1,2 @@
+  Implementation of Wireless Sensor Networks for Monitoring of Large Civil Structures  
+Wireless Sensor Networks technology (WSN) provides a promising candidate technology for enabling structural health monitoring of civil structures.This project aims to  enhance the currently limited long-term applicability of currently available WSN systems.

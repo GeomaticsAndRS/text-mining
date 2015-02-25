@@ -1,0 +1,1 @@
+Shelf Stable Foam The main goal of this project is to understand how lamellar phase forming surfactants are stabilizing interfaces between air and water. In aqueous solutions these surfactants can be present in various self assembly structures.The focus is on understanding how these structures change in processing.

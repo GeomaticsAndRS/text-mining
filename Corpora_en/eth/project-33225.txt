@@ -1,0 +1,1 @@
+High-Quality Spatio-Temporal Eye Reconstruction We tackle the problem of capturing realistic eyes. This project will com- plement our current facial performance capture pipeline by fitting a novel eye model to captured images. We aim to capture the eye in as much detail as possible including temporal effects such as pupil dilation.

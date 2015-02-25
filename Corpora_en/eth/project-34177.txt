@@ -1,0 +1,1 @@
+A mathematical theory of deep learning We develop a mathematical theory of deep learning neural networks based on continuous frame theory.

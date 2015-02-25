@@ -1,0 +1,2 @@
+  Multi-body Dynamics of Polygonised 3D Objects with Unilateral Frictional Contact: Application to Rockfall  
+Numerical methods as well as a software code for the simulation of the three-dimensional motion of polygonised objects with frictional unilateral contacts are developed. These methods will be tailored for and applied to the simulation of runout lengths of rockfall in hazardous areas in Switzerland. 

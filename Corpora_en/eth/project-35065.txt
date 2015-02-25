@@ -1,0 +1,1 @@
+Nonlinear Energy Harvesting This projects concerns the theoretical and experimental study of a device that converts mechanical energy into electrical energy. Through appropriate material design and by leveraging resonances and nonlinear effects we aim to efficiently transport and trap energy.

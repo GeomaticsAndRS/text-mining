@@ -1,0 +1,1 @@
+Kinase Data Integration Integrate MS data with structure data and use bioinformatics approaches to understand kinase regulation from a structural point of view.

@@ -1,0 +1,1 @@
+Cancer Kinome The main goal of this project is to use systems biology methods to characterize and decipher the cancer linked kinase signalling networks at a molecular and quantitative level to provide the basis for predictive mathematical models for cancer onset.

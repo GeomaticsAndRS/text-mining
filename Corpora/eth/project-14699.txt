@@ -1,0 +1,2 @@
+  COST 273: Towards Mobile Broadband Multimedia Networks  
+Adaptive OFDM and generalized multicarrier transmission schemes

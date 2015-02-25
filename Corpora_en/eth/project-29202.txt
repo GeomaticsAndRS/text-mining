@@ -1,0 +1,1 @@
+Seismology with GPS: Mapping the EarthŠs interiors with geodetic observations We will 1) build a database of GPS waveforms that will be made available and merged with existing seismic datasets, 2) complete a global tomography using GPS records based on nonlinear waveform inversion.

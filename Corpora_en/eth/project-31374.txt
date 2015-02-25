@@ -1,0 +1,1 @@
+High-order entropy stable schemes for systems of conservation laws http://www.sam.math.ethz.ch/sam_projects/mishra/high_order_entropy.php

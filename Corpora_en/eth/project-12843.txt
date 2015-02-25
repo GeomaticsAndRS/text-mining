@@ -1,0 +1,1 @@
+Diffusions in Random Environment and Ballistic Behavior (Part of Thesis Tom Schmitz) The ballistic behavior of diffusions in random environment is investigated and analogues of the so-called conditions (T) and (T’) of the discrete setting are introduced. In particular this work enables the construction of new examples of diffusions with ballistic behavior.

@@ -1,0 +1,2 @@
+  ERC Parquery  
+we are developing a vision-based smart parking system for monitoring on street parking occupancy. A camera network monitors parking spots troughout the city and sends images to centralized servers where the images are then processed with computer vision algorithms to determine parking availability. 

@@ -1,0 +1,1 @@
+Development of tools for reverse genetics in Coprinopsis cinerea In the light of the recently released C. cinerea genome sequence (see: Fungal Genome Initiative) we are developing genetic tools for this organism such as expression cassettes for homologous and heterologous genes and procedures for tagged insertion mutagenesis and gene targeting.

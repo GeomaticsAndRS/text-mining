@@ -1,0 +1,1 @@
+Building systems integrated photovoltaics (BSIPV) and DC Networks in Buildings This research will focus on the development of novel approaches, toolsets and applications in the field of building systems integrated photovoltaics (BSIPV) using high-efficiency thin-film CIGS PV in conjunction with building-scale DC power grids and storage technologies.

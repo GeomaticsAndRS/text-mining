@@ -1,0 +1,2 @@
+  Processing of magneto-responsive bio-microstructure (EU-NANOBIOMAG)  
+Magnetic field effects on biological molecules are rarly observed, due to the small diamagnetic susceptibility of individual molecules. In self-assembly systems, such as phospholipid bilayers, where the molecules are aggregated parallel to each other, the anisotropy of  the diamagnetic susceptibility

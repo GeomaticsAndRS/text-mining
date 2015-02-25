@@ -1,0 +1,1 @@
+A lower bound on the disconnection time of a discrete cylinder We derive a lower bound on T_N the disconnection time by a random walk of a discrete cylinder with base a d-dimensional discrete torus of size N, when the dimension d is large enough. We show that the laws of Nˆ2d / T_N are tight.

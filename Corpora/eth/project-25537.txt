@@ -1,0 +1,2 @@
+  Nanoscale Imaging of Ultrafast Magnetization Dynamics with Coherent X-rays  
+The dynamics of ultrafast demagnetization processes is measured by coherent x-ray scattering with free electron laser radiation. This approach allows for single shot imaging of fluctuations. The pump-probe measurements show the length scale of laser-induced magnetic  fluctuations.

@@ -1,0 +1,1 @@
+SCCER Mobility: Energy savings in freight train operations This study address the specific topic of optimizing energy consumption of freight trains on the operational level. Main purposes are to fill a gap of knowledge in freight rail by analyzing and defining the operating condition that allow saving energy.

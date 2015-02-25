@@ -1,0 +1,2 @@
+  Composition of He, Ne, and Ar in different solar wind regimes  
+We measure He, Ne, and Ar concentrations and isotopic compositions in targets exposed to different solar wind ”regimes” on NASA’s Genesis mission, to test for fractionation effects in the solar wind 

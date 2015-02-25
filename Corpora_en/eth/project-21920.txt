@@ -1,0 +1,1 @@
+Sensei Realization of an ambient intelligence in a future network and service environment. Sensei creates an open, business driven architecture. It provides necessary network and information management services to enable reliable and accurate context information etc.

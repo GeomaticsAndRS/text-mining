@@ -1,0 +1,2 @@
+  Diffusion Imaging of the Spinal Cord 
+Magnetic resonance diffusion imaging is a non-invasive in-vivo method to asses the integrity of tissue microstructure. It is expected to improve our understanding of the nature and evolution of structural damage in several clinical situations in the spinal cord.

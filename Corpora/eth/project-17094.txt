@@ -1,0 +1,2 @@
+  Fault Tolerant Flight Control Systems for UAVs 
+This project focuses on designing techniques to detect and isolate faults among sensors and actuators aboard an aircraft, and methods to appropriately reconfigure control laws and vehicle trajectory. Real time and modularity are two main concerns for the design of algorithms.

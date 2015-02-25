@@ -1,0 +1,1 @@
+MAREDAT - Marine Ecosystem Data A global database of phytoplankton abundance is compiled and analyzed. These data are based mainly on microscopic counts and were then converted into biomass assuming species specific conversion factors.

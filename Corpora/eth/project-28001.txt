@@ -1,0 +1,2 @@
+  Paraglacial Rock Slope Mechanics 
+This project aims to clarify the role of rock and fracture mechanical attributes together with changes in effective stress in controlling the rock slope response (fracturing, damage, landsliding) to deglaciation in central Swiss alpine valleys.

@@ -1,0 +1,2 @@
+  Adsorption Equilibria of Proteins in Ion-Exchange Chromatography 
+The effect of the pH and of the salt concentration on the protein adsorption equilibrium is studied and a model is developed to offer novel process design and characterization tools for ion-exchange chromatography, in particular in the purification of monoclonal antibodies.

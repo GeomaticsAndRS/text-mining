@@ -1,0 +1,2 @@
+  Modeling deviations of distances in short-range terrestrial laserscanning  
+We develop methods for the assessment of systematic deviations of terrestrial laser scanners associated with the scanner-to-object distance and the reflectivity of the object surface. The goal is to predict the accuracy of point clouds realistically based on prior experimental results.

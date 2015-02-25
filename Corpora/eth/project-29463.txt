@@ -1,0 +1,2 @@
+  Libraries for Model- Based Mechatronic Concept Design in SysML  
+This project focuses on providing computer-based support for the conceptual model-based design of mechatronic systems. To support this concept design, it targets the combination of multi-disciplinary design libraries in SysML, for functions and basic components,  with semi-automated methods.

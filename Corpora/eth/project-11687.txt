@@ -1,0 +1,2 @@
+  Contract extraction in component libraries  
+Examine component libraries in languages other than Eiffel, not supporting Design by Contract, to identify and extract implicit contracts.

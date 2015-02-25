@@ -1,0 +1,2 @@
+  Semilinear stochastic heat equations with additive space-time white noise in two and more space dimensions  
+The aim of this project is to analyze existence, uniqueness and regularity of solutions of semilinear stochastic heat quations in two and more space dimensions. Many of  those semilinear stochastic heat equations are stochastic quantization equations associated to models from quantum field theory.

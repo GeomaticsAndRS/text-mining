@@ -1,0 +1,1 @@
+Metamaterials for acoustic imaging We investigate the transmission properties of metamaterials composed of irregular waveguides. These materials present resonances leading to unconventional transmission properties, which can be exploited to improve current imaging technologies, namely in terms of transmission efficiency & resolution.

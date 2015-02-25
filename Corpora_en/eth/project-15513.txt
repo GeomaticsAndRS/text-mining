@@ -1,0 +1,1 @@
+Evolution in the test tube The project includes a pilot-study for the evaluation of a novel protein engineering technology based on the principle of Darwinian evolution. The goal is the construction of a genetic element that is reproduced in a growing cell independently from the genome of the host

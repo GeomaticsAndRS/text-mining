@@ -1,0 +1,2 @@
+  Modeling and Control of the Interaction Between the Human Cardiovascular System and Mechanical Circulatory Support  
+This project aims at improving the monitoring and control of mechanical circulatory support. Criteria for optimal unloading of failing hearts are to be defined for assisting reverse remodeling.

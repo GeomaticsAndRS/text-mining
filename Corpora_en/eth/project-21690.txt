@@ -1,0 +1,1 @@
+PhosphoNetX: Phosphorylation-Modulated Informational Networks of the Cells PhosphoNetX will creat an initial map of phosphorylation-modulated informational networks in human cells by carrying out large-scale phenotypic screens and measuring protein interaction networks centered around kinases and phosphatases to connect each enzym to its sensor and signaling systems.

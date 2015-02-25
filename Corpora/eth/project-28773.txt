@@ -1,0 +1,2 @@
+  Modeling other regarding preferences 
+We measure other regarding preferences with incentivized human subjects using the new SVO slider measure and fit a variety of different models to these social preference data. Comparative results are reported.

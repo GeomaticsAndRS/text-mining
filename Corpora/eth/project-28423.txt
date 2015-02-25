@@ -1,0 +1,2 @@
+  Resonant Lossy electromagnetic structures  
+We investigate numerical algorithms to compute electromagnetic modes to model resonant electromagnetic cavity structures, e.g., the X-ray FEL at PSI. We extend our current FE model by loss mechanisms (lossy dielectric/magnetic materials, apertures in the boundary, finite conductivity walls). 

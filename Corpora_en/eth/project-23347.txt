@@ -1,0 +1,1 @@
+Lead chalcogenide mid-IR VECSEL The first mid-infrared VECSELs (Vertical External Cavity Surface Emitting Laser) operating up to above RT is developed.It is optically pumped with a 1.5um laser diode.A resonant design with a 1 wavelength optical thickness of the PbSe or PbTe active layer,which may contain quantum wells,is used.

@@ -1,0 +1,2 @@
+  Non-Parametric Learning of Behaviours  
+This project researches how to implement non-parametric Bayesian learning of robot behaviours from demonstration. It aims at minimizing the amount of information required from the end user, beside the demonstration themselves. 

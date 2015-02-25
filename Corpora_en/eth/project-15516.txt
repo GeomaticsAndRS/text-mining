@@ -1,0 +1,1 @@
+On the Disconnection of a Discrete Cylinder by a Random Walk We investigate the asymptotics of the time it takes a random walk on a discrete cylinder with base a d-dimensional discrete torus of size N to disconnect the cylinder.

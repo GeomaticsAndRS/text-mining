@@ -1,0 +1,1 @@
+Monte Carlo algorithms for lattice field theories We devise and test more efficient algorithms for the numerical simulation of field theories discretized on a lattice, with a particular interest in theories containing fermions.

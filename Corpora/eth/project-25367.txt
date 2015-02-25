@@ -1,0 +1,2 @@
+  TANGO: Emotional Interaction grounded in realistic context 
+TANGO will investigate interactions in real life contexts showing agents in daily situations such as navigation and affective communication. A central goal of the project is the development of a mathematical theory of emotional communicative behaviour.

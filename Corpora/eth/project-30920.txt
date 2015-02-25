@@ -1,0 +1,2 @@
+  Maxon  
+High performance sensorless control of small and micro brushless DC motors. The project will focus on optimal model based control and estimation techniques and algorithms and will deliver a hardware and software engineering prototype. 

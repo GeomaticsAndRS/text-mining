@@ -1,0 +1,2 @@
+  An in vivo analysis of the impact of cellular stress on growth  
+Cellular stresses such as nutrient deprivation impose a growth barrier on proliferating cells. However, tumor cells have evolved ways to cope with cellular stress. We use the model organism Drosophila to explore the behavior of populations of cells lacking tumor suppressors under stress conditions. 

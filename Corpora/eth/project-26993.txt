@@ -1,0 +1,2 @@
+  Microscopic Mechanisms for Linear Magnetoelectric Effects in LiMPO4 (M=Mn,Fe,Ni,Co)  
+By combining symmetry analysis, ab-initio calculations and Monte Carlo simulations we identify the couplings between magnetic moments and electric polarization in the LiMPO4 (M=Mn,Fe,Co,Ni) family, calculate their strengths and obtain the temperature evolution  of linear magnetoelectric effects.

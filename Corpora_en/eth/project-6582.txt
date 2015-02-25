@@ -1,0 +1,1 @@
+A Language Approach for Multicore and Distributed Programming (Zonnon project) In this project we investigate programming models to explore locality in concurrent object-oriented programs. In the examined approach we view a single application as a constellation of communicating active objects and in practice we target distributed environments and many core processors.

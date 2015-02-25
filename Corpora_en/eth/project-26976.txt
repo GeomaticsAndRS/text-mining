@@ -1,0 +1,1 @@
+Lattice Dynamics near the ferroelectric Instability in PbTe Recent experimental investigations have shown that PbTe and PbS are compounds which retain a high symmetry structure at all temperatures, while dipole formation would be expected at low temperature. A theoretical explanation of the phenomenon with first principles calculations is attempted

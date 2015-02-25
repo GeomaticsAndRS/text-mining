@@ -1,0 +1,1 @@
+Tipping points in public opinion. A Multi-Agent System simulating shifts from indifferent and ambivalent to polarized opinions. (SNF) The project investigates formation and development of opinions about a planned repository for radioactive waste in Switzerland that is highly contested. The methods are questionnaire, interviews and agent-based modeling.

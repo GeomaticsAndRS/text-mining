@@ -1,0 +1,2 @@
+  The value of air quality in Chinese cities: Evidence from wages and rents differentials  
+This paper uses the hedonic model of Roback (1982) to estimate the marginal value of air quality in Chinese cities.

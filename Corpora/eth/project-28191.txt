@@ -1,0 +1,2 @@
+  Submodular Optimization in Machine Learning  
+Similarly to convexity, submodularity allows one to efficiently find provably (near-) optimal solutions in many domains. We are studying submodularity and its implications for challenging sparse representation, inference, learning and decision problems.

@@ -1,0 +1,1 @@
+Precession-driven flows in spheres and spherical shells Numerical calculations were done on precession-driven flows in spheres and spherical shells, and show that even a small inner core can affect the detailed bifurcation sequence of increasingly complex flows. Comparisons were also done between different numerical codes, with excellent agreement.

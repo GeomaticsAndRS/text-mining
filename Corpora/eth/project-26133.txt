@@ -1,0 +1,2 @@
+  Munc18b regulates core SNARE complex assembly and constitutive exocytosis by interaction with the N-peptide and the closed-conformation C-terminus of syntaxin 3  
+The interaction between SM (Sec1/Munc18) and SNARE (soluble Nethylmaleimide-sensitive factor-attachment receptor) proteins constitutes the core eukaryotic membrane fusion machinery which manages exocytosis by mediating fusion of constitutively exocytic  vesicles with the plasma membrane. [...]

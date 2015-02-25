@@ -1,0 +1,1 @@
+PIO-03 11-2 Large Microphone Array Humans are able, to a certain extent, to determine the location of a sound source and to use this information to focus on a person speech while ignoring the ambient noise. Similarly, microphones arrays enable to locate sounds and filter them depending of their incoming direction.

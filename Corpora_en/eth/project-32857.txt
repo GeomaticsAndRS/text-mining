@@ -1,0 +1,1 @@
+Quadrilateral surface meshing Quadrilateral meshing is widely used in computer graphics and geometric modeling for the generation of high-quality surfaces for animation and product design. In this project, we investigate techniques to create quad meshes from irregular triangle meshes that are the common output of 3D scanning.

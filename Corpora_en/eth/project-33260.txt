@@ -1,0 +1,1 @@
+TaPE - Transformers and Power Electronics More controllable assests are expected in the future grid. The transformer possesses only limited control capabilities today. In this project conventional transformers enhanced with power electronics are investigated to enable functionalities like voltage control and power routing.

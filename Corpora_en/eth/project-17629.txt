@@ -1,0 +1,1 @@
+The Function of Small RNAs in Mammals The goal of this project is to characterize the collective role of miRNAs and to develop technologies to silence or overexpress miRNAs in vivo and to identify and validate natural targets of miRNAs.

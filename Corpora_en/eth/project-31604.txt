@@ -1,0 +1,1 @@
+First-principles simulation of magnetocaloric and electrocaloric effects in nanostructured films In this project we use first principles-based simulations to explore the potential of electro- and combined electro-magneto-caloric effects as environmentally-friendly alternative for future applications in refrigeration and cooling techologies.

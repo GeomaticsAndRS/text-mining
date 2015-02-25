@@ -1,0 +1,2 @@
+  Flow Structure of Non-Newtonian Fluids in Elastic Tubes  
+The aim of the present work is to investigate both the steady and unsteady laminar flow characteristics of essentially non/Newtonian fluids in collapsible elastic tubes under  the influence of compressive transmural (internal minus external) pressures

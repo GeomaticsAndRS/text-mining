@@ -1,0 +1,2 @@
+  Micro-sphere (swarm) wireless networks for joint communication, localization, and enforced movement  
+We consider a dense network of very many sub-mm size sensors/actors. These tags have very low complexity and are powered wirelessly (similar to RFID tags). The nodes comprise some electronics of limited complexity. The network is asymmetric, there may be external high complexity nodes (readers). 

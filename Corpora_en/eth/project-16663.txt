@@ -1,0 +1,1 @@
+Non-Axisymmetric Endwall Profiling in an Axial Flow Turbine The aim of this project is to study the flow phenomena related to the loss reduction by non-axisymmetric endwall profiling.

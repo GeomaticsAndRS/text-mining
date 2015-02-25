@@ -1,0 +1,2 @@
+  Automated reduction of detailed reaction mechanisms and use in muti-dimensional combustion simulations 
+The project aim is to further develop and implement the automated model  reduction of detailed reaction mechanisms in a highly-scalable parallel code for the simulation of low Mach number combustion. The code will be used to study hydrocarbon flames.

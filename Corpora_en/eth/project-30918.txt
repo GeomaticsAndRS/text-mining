@@ -1,0 +1,1 @@
+Wind Resource Measurements Using LECŠs Mobile Lab A mobile laboratory is developed to measure wind speed, direction and turbulence over large areas (10’s of squared kMs), and within wind farms using a long range 3D scanning LIDAR. The measurements improve our knowledge of atmospheric flows for many app- lications including wind energy.

@@ -1,0 +1,1 @@
+Proteomic analysis of DNA repair pathways in the chicken DT40 B lymphocyte line We wish to characterise the interactomes of DNA repair pathways. Because human cell lines with defined gene mutations are difficult to find, we decided to make use of the chicken DT40 B lymphocyte line, which displays high levels of recombination and which is thus amenable to genetic manipulation.

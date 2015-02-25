@@ -1,0 +1,1 @@
+Vision at Work a fully computerized vision screening device enabling self-testing In order to cope with time constraints and with lack of reliability of data, a computerized method enabling self-testing of visual functions is developed by means of usability engineering methods. The system shall be used in occupational screenings, demonstrations, health campaigns etc.

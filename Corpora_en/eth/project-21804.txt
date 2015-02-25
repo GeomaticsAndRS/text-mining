@@ -1,0 +1,1 @@
+A new strategy for protein biomarker discovery in ovarian cancer The overall aim is to find a signature of proteins in serum that allow the detection of ovarian cancer. Protein biomarker candidates are quantified by a targeted mass spectrometric approach in serum samples of ovarian cancer patients and healthy controls.

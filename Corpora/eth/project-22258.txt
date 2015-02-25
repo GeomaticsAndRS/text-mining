@@ -1,0 +1,2 @@
+  Analysis and modelling framework for sediment production and yield in mountain basins under climate change  
+The objective in this project is to develop an analysis and modelling framework to study the impacts of climate change on sediment dynamics in mountain basins on the  basis of data collected at the individual SedyMONT study sites. This project is part of the ESF Eurocores Programme TOPO-EUROPE.

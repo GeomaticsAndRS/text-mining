@@ -1,0 +1,2 @@
+  The MAGIC Telescope 
+The MAGIC Telescope Collaboration has built a large atmospheric imaging Cherenkov telescope at the Roche de los Muchachos in La Palma. With this device it will be possible to detect cosmic gamma-rays at an energy threshold lower than any existing or planned terrestrial gamma-ray telescope.

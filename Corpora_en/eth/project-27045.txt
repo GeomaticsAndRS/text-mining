@@ -1,0 +1,1 @@
+Understanding and Predicting Iron-based Superconductivity from First Principles The newest class of superconducting materials, the iron pnictides, display a unique coupling between structural, magnetism and superconductivity. We use Density Functional Theory to look at these relationships with the aim of understanding and predicting new Fe-pnictide-type materials.

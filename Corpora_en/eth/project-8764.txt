@@ -1,0 +1,1 @@
+Near-infrared laser cavity ringdown spectroscopy for trace gas sensing in petro-chemistry Development of a novel detection scheme for the accurate monitoring of the acetylene concentration at the ppm-level in an ethylene production process. The system to be implemented is based on a tunable near-infrared laser source and cavity ringdown spectroscopy.

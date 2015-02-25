@@ -1,0 +1,1 @@
+The Gaussian MAC with Conferencing Encoders We derive the capacity region of the Gaussian MAC with conferencing encoders. To this end we propose a novel technique to show the optimiality of Gaussian input distributions under a Markov condition.

@@ -1,0 +1,1 @@
+What Predisposes a Hip to Fracture: Novel Experimental and Computational Methods for Identifying at-Risk Individuals In order to improve predictions of hip fracture risk, this project will elucidate with simulation models the energy flow through the femur / pelvis system during dynamic fall events.

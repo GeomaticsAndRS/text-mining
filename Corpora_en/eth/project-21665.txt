@@ -1,0 +1,1 @@
+Reconstructing signaling pathways from RNAi screens We develop computational and probabilistic methods for signaling network reconstruction from perturbation data, such as RNA interference knock-downs.

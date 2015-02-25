@@ -1,0 +1,2 @@
+  ˝ Profitable Electricity Storage through Intelligent Operation Arling U Management of Distributed Storage Units  
+This project allows Ampard to improve the operational strategy of distributed energy storage systems. The algorithms developed within this project dynamically identify the value-optimized operations strategy for each unit within a swarm of geographically distributed assets of different technologies.

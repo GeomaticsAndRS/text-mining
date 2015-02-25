@@ -1,0 +1,2 @@
+  Measuring the Information Content of Online Problems  
+We aim for a deeper analysis of the hardness of online problems in the  framework of advice complexity. This may lead to the design of new online algorithms. The study of the relative power of advice bits and random bits in online computations can deepen our knowledge about the power of randomness.

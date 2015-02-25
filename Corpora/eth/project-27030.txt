@@ -1,0 +1,2 @@
+  Gasoline Demand in Switzerland - A Spatial Econometrics Approach  
+The goal of this project is to analyze gasoline demand in Swiss municipalities using a data set consisting in observations of 547 municipalities over 8 years. The novelty is that the topic is analyzed under the possible presence of spatial spillovers.

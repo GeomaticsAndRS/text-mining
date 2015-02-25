@@ -1,0 +1,2 @@
+  Terrain Analysis, Feature Extraction and Model Deformation for Cartographic Generalisation and Visualisation 
+This project brings together cartography and computer graphics to deve-  lop new visualisation methods drawing on design expertise of cartography, and algorithmic and mathematical know-how of computer graphics. New digital methods for cartographic terrain visualisation in 2D and 3D will be developed.

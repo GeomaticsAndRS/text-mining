@@ -1,0 +1,2 @@
+  The Andre-Oort Conjecture for Drinfeld Moduli Spaces  
+The graduate student Patrik Hubschmid attempts to prove the analog of the Andre-Oort Conjecture for Drinfeld Moduli Spaces.

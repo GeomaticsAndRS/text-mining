@@ -1,0 +1,1 @@
+Location-Aware Mobile Eye Tracking for Tourist Assistance The project will pioneer gaze-based interaction techniques for tourists in outdoor environments. It envisions mobile assistance systems that trigger information services based on the user’s gaze.

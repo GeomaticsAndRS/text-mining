@@ -1,0 +1,2 @@
+  Highly reactive flows in LCM processes  
+For LCM with thermosetting resins, the injection and curing are separated steps, but starting the curing reaction during impregnation could potentially reduce cycle time. The characterization and modeling of highly reactive injections is the main objective of this research project. 

@@ -1,0 +1,2 @@
+  OPERA (Oscillation Project with Emulsion-tRacking Apparatus)  
+The OPERA project is a long-baseline neutrino oscillation experiment. The detector in the Gran Sasso underground laboratory near Rome is designed to detect the appearance of tau neutrinos in the beam of muon neutrinos from CERN, near Geneva.

@@ -1,0 +1,1 @@
+SPHERE, VLT Planet Finder The SPHERE, VLT Planet Finder instrument is a 2nd generation instrument for the VLT, aimed at the direct detection and characterization of extra-solar planets. SPHERE should become in 2011 the most sensitive ground-based instrument for the direct imaging of extra-solar planets.

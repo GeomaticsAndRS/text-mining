@@ -1,0 +1,2 @@
+  Computer-Assisted Shadowing in Non-Uniformly Hyperbolic Systems  
+Using shadowing techniques and tools from interval arithmetic in connection with judiciously chosen numerically computed orbits we rigorously establish complicated dynamical behaviour for various dynamical systems including the restricted problem of three bodies. 

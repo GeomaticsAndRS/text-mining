@@ -1,0 +1,2 @@
+  Quantum computing with superconducting structures  
+We develop novel designs for solid-state implementations of quantum  computing based on superconducting structures.

@@ -1,0 +1,2 @@
+  Boundary Thermodynamics 
+A general thermodynamic framework should provide time evolution equations for bulk and boundary variables in terms of thermodynamic building blocks, such as energy and entropy.

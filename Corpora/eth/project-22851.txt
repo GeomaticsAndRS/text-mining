@@ -1,0 +1,2 @@
+  Systems Biology of Endocytosis  
+In this project, systematic RNAi screens are performed to allow for a comparative analysis of endocytic routes. The goal is to reveal the cellular control mechanisms that specify the diversity of endocytic routes in mammalian cells.

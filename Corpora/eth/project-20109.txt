@@ -1,0 +1,2 @@
+  Human Childbirth Simulator  
+This project is about studying and modeling human physiology in connection with the childbirth process. The first goal is to create a simulator of childbirth that provides a multimodal feedback as available at real births. Secondly mathematical models of human physiology shall improve the simulator. 

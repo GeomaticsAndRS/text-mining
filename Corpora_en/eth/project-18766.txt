@@ -1,0 +1,1 @@
+Spatial dynamics and modelling of viral infections in three dimensional human organoids In this project we exploit a synergy of simulation and single plane illumination microscopy (SPIM) experiments to investigate the behavior of cells grown in a three dimensional organoid in the presence of an ongoing viral infection.

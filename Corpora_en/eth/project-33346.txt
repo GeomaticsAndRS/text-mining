@@ -1,0 +1,1 @@
+Growth effects of knowledge spillover in CGE model with endogenous growth The project develops a new version of the CITE model with inclusion of knowledge spillover from four channels. The model simulates how knowledge spreads across regions and helps the firms to innovate, finally fosters the growth of regional economy.

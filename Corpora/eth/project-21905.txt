@@ -1,0 +1,2 @@
+  Label-Free Quantification  
+To generate quantitative proteomics data from large-scale LC-MS experiments, computational methods for label-free quantification will be improved. Specifically, a new alignment approach will be implemented. Among other applications quantitative data will be used to predict cell regulatory networks. 

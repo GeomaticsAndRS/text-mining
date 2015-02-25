@@ -1,0 +1,2 @@
+  Baustrategien für Roboter auf der Baustelle  
+Das Ziel ist die Entwicklung einer übergreifenden Programmierplattform  für Industrieroboter im Kontext der digitalen Fabrikation in der Architektur.

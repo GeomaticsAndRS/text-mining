@@ -1,0 +1,2 @@
+  Numerical simulation of hydrothermal fluid flow  
+The Development of equations of state for salt - water systems up to magmatic temperatures is combined with finite -element / finite-volume computation, to simulate single- and two phase fluid flow in oceanic (’black smoker’) and magmatic-hydrothermal systems  generating Cu, Au and Mo deposits.

@@ -1,0 +1,2 @@
+  Monitoring based Assessment of Offshore Wind Energy Converters  
+For the online assessment of Offshore Wind Energy Converters classical and structural reliability methods as well as Bayesian networks are integrally applied. The project  aims at condition information and decision support for inspection and maintenance planning.

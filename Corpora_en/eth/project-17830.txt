@@ -1,0 +1,1 @@
+Modular Performance Analysis of Distributed Embedded Real-Time Systems In this project we investigate several extensions of our previous results in the field of formal system level performance analysis. The main goal is to improve the completeness, the accuracy and the embedding into the industrial design flow of the developed framework for modular performance analysis

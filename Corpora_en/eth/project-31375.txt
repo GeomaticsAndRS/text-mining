@@ -1,0 +1,1 @@
+Stable numerical schemes for the Hall-MHD equations http://www.sam.math.ethz.ch/sam_projects/mishra/SNS.php

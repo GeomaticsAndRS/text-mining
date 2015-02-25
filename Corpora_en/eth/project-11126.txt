@@ -1,0 +1,1 @@
+An environmental model of early stress in the mouse This project aims at establishing a mouse model of early trauma and investigating the mechanisms by which chronic stress perturbs behavior. Mouse pups are subjected to repeated and unpredictable maternal separation and their behavioral responses are examined in adulthood. Our results indicate that c

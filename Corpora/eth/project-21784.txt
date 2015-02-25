@@ -1,0 +1,2 @@
+  Balancing Cube  
+The Balancing Cube can balance on any one of its edges or corners. The  passive structure of the cube owes its ability to a series of six mechanisms (located on each face of the cube) that rotate in concert to keep the overall system balanced.

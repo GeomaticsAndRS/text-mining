@@ -1,0 +1,1 @@
+Defect engineering in granular materials We study materials that contain defects made of resonant attachments to the host lattice. The presence of properly engineered resonant defects can result in extreme material properties, such as negative or infinite stiffness, and can be used to create materials that absorb or trap impact energy.

@@ -1,0 +1,2 @@
+  COMponent-Based Embedded Systems design Techniques  
+COMBEST will provide a formal framework for component based design of complex embedded systems. See also http://www.combest.eu/home/ .

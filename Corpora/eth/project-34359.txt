@@ -1,0 +1,2 @@
+  Asset Prices and Social Security with Stochastic Demographic Change  
+According to the asset meltdown hypothesis, the retirement of the baby boomers will induce a drop in asset prices. This project quantitatively evaluates this hypothesis when agents are rational and demographic change follows stochastic processes. 

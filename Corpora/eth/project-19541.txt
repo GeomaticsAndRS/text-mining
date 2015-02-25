@@ -1,0 +1,2 @@
+  Improving the Detection Limit of Potentiometric Sensors  
+Development of miniaturized potentiometric sensors in order to achieve good detection limits in confined spaces. Development of novel highly sensitive biosensors with potentiometric transduction.

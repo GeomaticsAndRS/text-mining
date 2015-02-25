@@ -1,0 +1,1 @@
+Law and Economics of Intellectual Property This project analyzes current problems of intellectual property law from a law-and-economics perspective. Methodologies used range from modeling to experimental and empirical research.

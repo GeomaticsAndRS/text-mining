@@ -1,0 +1,1 @@
+Large scale dynamic ice production technology for thermoelectric energy storage This project aims to develop an efficient and scalable ice production technology to resolve the issues on the cold side of a bulk energy storage system. Materials innovation and thermal characterization will be employed to engineer icephobic surfaces, allowing scalable ice-forming heat exchangers.

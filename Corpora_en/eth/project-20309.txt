@@ -1,0 +1,1 @@
+Development of BioConductor libraries to analyze high content microarray data The goal is to develop new algorithms to analyze Afymetrix microarray data and annotations. These methods will be encapsulated as freely available open source packages in the BioConductor repository.

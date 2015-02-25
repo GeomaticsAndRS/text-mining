@@ -1,0 +1,1 @@
+Scattering Amplitudes and Wilson Loops in Gauge and String Theory Calculational techniques and symmetries for scattering amplitudes, Wil- son loops and correlation functions of local operators in gauge theory, string theory and the AdS/CFT correspondence are investigated.

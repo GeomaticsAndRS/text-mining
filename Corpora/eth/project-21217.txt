@@ -1,0 +1,2 @@
+  Improvement of the Kinematic Model of Switzerland (Swiss 4D-II)  
+The geodetic deformations characteristics of the Swisstopo GNSS fundamental Networks will be analysed and the methods for generating kinematic models will be improved. This leads to a better kinematic model of the geodynamic processes for Switzerland.

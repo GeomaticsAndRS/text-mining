@@ -1,0 +1,1 @@
+Hybrid platinum nanocatalyst for the hydrogenation of functionalized nitroaromatics: from ensemble design to flow chemistry This project investigates the structure and performance of ligand-modified platinum catalysts in the continuous-flow three-phase hydrogenation of nitroaromatic compounds.

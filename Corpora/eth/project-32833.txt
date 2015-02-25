@@ -1,0 +1,2 @@
+  3D Large Scale Integration of Sensors into Smart Textile  
+The goal of this project, 3D Sens-Tex, is to address the aforementioned problem by developing electronics on long fibers with cylindrical shape. EPFL and ETHZ, the research centre CSEM, and the industrial partner SEFAR, bring together all the competences necessary. 

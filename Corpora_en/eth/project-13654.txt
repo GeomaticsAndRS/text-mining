@@ -1,0 +1,1 @@
+Fatigue Testing of Resonating Microstructures Very small crack growth rates will quickly lead to fatigue failure of dynamically loaded small-scale structures. Thus a high resolution in crack length measurements down to below 10 nm is necessary to monitor the crack propagation.

@@ -1,0 +1,2 @@
+  Numerical simulation of spalling behavior of high and ultrahigh performance concrete  
+Experimental tests and analysis on explosive spalling of HPC and UHPC shows that high pore pressure, pore size and low permeability are the key factors. Numerical calculations in addition to the comparison will permit the development of a simulation strategy for spalling behavior of HPC and UHPC. 

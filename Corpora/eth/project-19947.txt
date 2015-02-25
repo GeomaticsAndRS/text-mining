@@ -1,0 +1,2 @@
+  Technical, economic and environmental assessment of chemical processes by applying a systematic retrofit method  
+This project aims at the development of a systematic retrofit framework for chemical processes considering technical, economical and environmental objectives expressed by appropriate indicators. The indicators relative importance is determined and heuristical retrofit actions are evaluated.

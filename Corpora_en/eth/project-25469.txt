@@ -1,0 +1,1 @@
+Dynamic nuclear polarization for characterizing water accessibility of protein sites Established techniques for quantifying water accessibility of spin labels in proteins are either indirect or require measurements in the solid state. By using dynamic nuclear polarization of water such measurements can be performed under physiological conditions at ambient temperature.

@@ -1,0 +1,2 @@
+  European Network of Coinflict Research 
+This COST Action builds a new network that brings together conflict researchers in more than a dozen European countries. The aim of the action is to coordinate and accelerate the construction and maintenance of conflict datasets with the help of an integrated online portal called GROWup.

@@ -1,0 +1,2 @@
+  Modeling of branched and crosslinked polymerization 
+The aim of the project is to analyze both experimentally and by suitable models the evolution of branched/crosslinked architectures of polymers produced by the freeradical mechanism. 

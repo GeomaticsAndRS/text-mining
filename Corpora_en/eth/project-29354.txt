@@ -1,0 +1,1 @@
+Libration-driven flows in spherical shells Numerical calculations are ongoing on flows induced in spherical shells by librating either the inner or the outer boundary. Comparisons are also done with experimental results. Issues to be explored further include the possibility of resonance peaks at certain frequencies.

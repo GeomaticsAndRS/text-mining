@@ -1,0 +1,1 @@
+Uncertainty assessment of transport in porous media A problem of great relevance for flow and transport in porous media is the uncertainty assessment of the solution as a result of uncertain input data. A PDF methodology has been developed to compute this uncertainty.

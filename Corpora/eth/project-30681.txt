@@ -1,0 +1,2 @@
+  Life Cycle Management of wood in Switzerland: methods, tools and environ-mental decision support 
+The goal of this project is to identify environmental strategies for sustaina-  ble management of wood resources in Switzerland. In order to reach this goal, we will assess the current and future wood-based value chains by combining a dynamic (temporal) and regional specific MFA and LCA.

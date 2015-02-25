@@ -1,0 +1,1 @@
+Development of a new modular 3-D MT and CSEM inverse solution We are developing a new modular 3-D MT and CSEM inverse solver enabling to to recover 3-D conductivity distribution in the Earth. The 3-D solver will be able to solve for tensor-valued and complex-valued conductivities and to work with any type of the responses.

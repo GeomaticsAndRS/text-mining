@@ -1,0 +1,2 @@
+  Achsquerkräfte bei Eisenbahnen  
+Der internationale Eisenbahn Verband (UIC) schreibt Prüfverfahren zum Nachweis des Nichtüberschreitens festgelegter Grenzwerte der Achslagerkräfte vor. Da diese Prüfverfahren aufwändig sind, wird in diesem Forschungsvorhaben an einem Verfahren zur Simulation dieser Prüfverfahren gearbeitet.

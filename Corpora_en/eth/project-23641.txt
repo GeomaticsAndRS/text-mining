@@ -1,0 +1,1 @@
+Stability and aggregation behaviour of proteins under stagnant and shear conditions Aggregation of proteins is relevant to many human diseases and can be induced by various factors. This project is to investigate effect of electrolytes, pH, and particularly shear stress and interface state on the protein aggregation behavior.

@@ -1,0 +1,1 @@
+Atmospheric Model Intercomparison Project (AMIP) diagnostics project No. 32: surface and atmospheric radiative fluxes

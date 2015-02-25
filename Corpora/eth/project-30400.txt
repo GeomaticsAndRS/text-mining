@@ -1,0 +1,2 @@
+  Photothermal Diffuse Reflectance Spectroscopy 
+A novel method named Photothermal Diffuse Reflectance (PTDR) Spectroscopy is developed to characterize strongly scattering samples like biological tissue. The high spectral selectivity and absorption in the mid-infrared is combined with the high detection sensitivity available in the near-infrared.

@@ -1,0 +1,1 @@
+Evaporation from porous media - microscale study of dynamics and morphology of drying fronts Evaporation from porous media involves complex interplay of mass and energy exchanges. The project links porous media properties with drying front morphology and flux dynamics and provides means to predict evaporative losses and remotely estimate evaporation fluxes from thermal signatures

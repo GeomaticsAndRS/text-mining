@@ -1,0 +1,2 @@
+  NCCR IM2 SA 
+Scene Analysis for the detection of regular patterns. In particular, symmetric structures are found in images, also under perspective imaging conditions. A unifying, geometric framework has been developed, based on planar homologies.

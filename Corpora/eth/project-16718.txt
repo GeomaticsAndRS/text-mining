@@ -1,0 +1,2 @@
+  2-groupoids and stacky groupoids  
+Stacky groupoids come from the study of Lie algebroids which could be roughly understood as bundles of Lie algebras. 2-groupoids come from studying of simplicial manifolds. They are both higher generalization of Lie groupoids. We build 1-1 correspondence of them. 

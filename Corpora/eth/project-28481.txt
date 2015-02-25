@@ -1,0 +1,2 @@
+  Affine processes on general state spaces - existence, numerics and applications  
+We aim to show that affine processes provide a rich, flexible enough and tractable class of stochastic processes for purposes of finance to overcome current modelling difficulties in the industry. 

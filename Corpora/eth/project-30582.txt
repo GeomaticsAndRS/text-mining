@@ -1,0 +1,2 @@
+  Multivariate storm analysis based on copulas and their application in mountain regions (MUSTANG) 
+Research of summer storm event properties - rainfall duration, peak and mean intensity, total depth - in Switzerland. Focus is on the selection of extreme events of a convective nature accompanied by lighntning strikes. Collaboration with Slovak University of Technology. 

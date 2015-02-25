@@ -1,0 +1,2 @@
+  Diffusion tensor imaging of the heart  
+New MRI examination procedures are developed for the assessment of diffusion tensors and muscle fiber structures of the human heart.

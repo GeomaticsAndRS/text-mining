@@ -1,0 +1,1 @@
+Optical near-field visualization of light confinment in photonic crystals We use scanning near-field optical microscopy and spectroscopy to study the propagation and confinement of light in photonic crystals. The information obtained allows us to identify slight deviations of the structure under study from its nominal fabrication parameters.

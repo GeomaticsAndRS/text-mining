@@ -1,0 +1,2 @@
+  Linear Stability Analysis of BWRs (NACUSP Project)  
+An analytical linear stability analysis tool is developed. This frequencydomain tool uses a 3D neutronics, a 1D thermohydraulic description for each bundle based on state-of-the-art thermohydraulic models, and full local coupling between thermohydraulics and neutronics.

@@ -1,0 +1,1 @@
+Dynamics of electromagnetic control in induced multiferroics This project investigates the role of electromagnons in induced multiferroics using a compination of different methods, including coherent stimulation of electromagnons and their subsequent observation using time-resolved x-ray methods.

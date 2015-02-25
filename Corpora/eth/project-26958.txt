@@ -1,0 +1,2 @@
+  Suspended Sediment monitoring and wear of Pelton turbines  
+Suspended sediment, turbine wear and efficiency are monitored at a Swiss high-head hydropower plant (Fieschertal). An in-situ laser diffractometer is used to measure particle concentration and size distribution in real-time. The project contributes to improved monitoring and forcasting capability.

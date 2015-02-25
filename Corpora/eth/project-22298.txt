@@ -1,0 +1,2 @@
+  A Stochastic Model for Rarefied Gas Motion  
+Rarefied gases can not be described by classical fluid dynamic equations due to strong non-equilibrium. This project develops a simulation technique for non-equilibrium gases based on stochastic differential equations. 

@@ -1,0 +1,2 @@
+  Investigation of sub-daily and episodic variations of Earth rotation observed by GPS, VLBI and ring laser gyroscopes  
+The objectives of this project are to determine high-quality Earth rotation parameter (ERP) series with a time resolution of one hour or less derived from various modern space geodetic techniques, namely GNSS, VLBI, and ring laser gyroscopes, and to provide a concise interpretation of the series.

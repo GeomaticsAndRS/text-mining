@@ -1,0 +1,2 @@
+  Design for Multi-Material Additive Manufacturing  
+Material-process-structure interactions are investigated for additive manufacturing with the aim to provide quantitative models for different printing techniques. The design space is extended to multi-materials and its potential for (bio-inspired) lightweight and  time-dependent structures explored.

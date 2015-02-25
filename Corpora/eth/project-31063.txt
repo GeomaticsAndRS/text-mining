@@ -1,0 +1,2 @@
+  Plasma-Enhanced Surface Coating for Advanced Graphite Negative Electrode Materials 
+Surface-coated graphite powders are nowadays used in almost all Li-ion  batteries as negative-electrode active material. In this CTI project,a cost competitive and environmentally friendly alternative coating method based on plasma-enhanced chemical vapor deposition (PECVD) will be developed.

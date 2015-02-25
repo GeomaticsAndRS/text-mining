@@ -1,0 +1,1 @@
+Multimodal biomechanical imaging of human trabecular bone This project aims to develop a novel multimodal biomechanical imaging method for integral assessment of bone microstructure and material properties and for better prediction of bone failure using multiscale modeling.

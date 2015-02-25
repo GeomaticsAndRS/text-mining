@@ -1,0 +1,2 @@
+  A Parallel Space-Time Solver for the Navier-Stokes Equations With Periodic Forcing.  
+Projektziel: Entwicklung eines hochparallelen Lösers für period. Strömungsprobleme, der nicht nur im Raum sondern auch in der Zeit parallelisiert. Damit soll ein Hindernis bei traditionellen Zeitschrittverfahren beseitigt und die Skalierbarkeit des Lösungunsverfahrens entscheidend verbessert werden. 

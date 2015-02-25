@@ -1,0 +1,2 @@
+  Laser-photoacoustic studies on glucose in tissue 
+The project is aimed at the development of a non-invasive technique for non-invasive measurements of glucose levels in human tissue.

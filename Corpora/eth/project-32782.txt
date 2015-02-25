@@ -1,0 +1,2 @@
+  INFRARISK - Novel indicators for identifying critical INFRAstructure at RISK from natural hazards 
+Within the INFRARISK project, reliable stress tests to establish the resilience of critical European infrastructures to rare low frequency extreme events will be developed. It  aids decision making in the long term regarding robust infrastructure development and protection of existing infrastructure.

@@ -1,0 +1,2 @@
+  Lubin-Tate group schemes  
+The graduate student Hadi Hedayatzadeh is studying Lubin-Tate group schemes with the help of the multilinear theory of group schemes developed by his advisor Richard Pink

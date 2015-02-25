@@ -1,0 +1,2 @@
+  Atomic arrangements in (bulk) metallic glasses  
+The aim of the project is to achieve model-free quantitative information on  the atomic arrangements of Zr-Cu and Zr-Ni (bulk) metallic glasses. To achieve this, synchrotron XRD, EXAFS, and TEM measurements are performed in conjunction with inverse Monte Carlo and molecular-dynamics simulations.

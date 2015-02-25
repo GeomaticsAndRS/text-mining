@@ -1,0 +1,1 @@
+Plane Wave Discontinuous Galerkin Methods Trefftz-type discontinuos Galerkin methods are analyzed for the Helmholtz equation. Local spaces are spanned by plane waves.

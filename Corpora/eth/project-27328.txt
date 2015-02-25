@@ -1,0 +1,2 @@
+  Fluid-mechanical modelling of vestibular responses to sound  
+The vestibular system of the ear hosts the balance sense whose operation  is closely related to the dynamics of two lymphatic fluids contained in the inner ear. We investigate a conditions known as Tullio’s phenomenon which leads to a sensory crosstalk, i.e. acoustic stimulations lead to vertigo.

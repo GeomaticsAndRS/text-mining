@@ -1,0 +1,2 @@
+  Nanoindentation of Soft Materials and Biological Tissue 
+In collaboration with CSEM and CSM Instruments a novel set-up is realized for characterization of soft materials using indentation. Numerical models are used to interpret the data and detrmine constitutive model parameters for non-linear viscoelastic behavior.

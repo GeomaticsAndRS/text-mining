@@ -1,0 +1,1 @@
+Performance Analysis of Fano Coding A rigorous performance analysis of Fano coding is provided, resulting in an upper bound on the average codeword length of binary and ternary Fano codes for an arbitrary discrete memoryless source. Also a novel general lower bound on Shannon entropy is derived in terms of variational distance.

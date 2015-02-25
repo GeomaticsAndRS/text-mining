@@ -1,0 +1,2 @@
+  Movement analysis in running with body-worn sensors 
+We investigate monitoring of kinematics in running using ETHOS devices. ETHOS comprises the ETH Orientation Sensor, an inertial measurement unit (IMU) for unconstrained monitoring of human movement. Sensor data is used for movement analysis considering technique, skill level, and injury risk.

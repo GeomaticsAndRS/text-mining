@@ -1,0 +1,1 @@
+Metamaterials for Magnetic Field Shielding Development on metamaterials for shielding magnetic fields at very low frequencies. These metamaterials are based on arrays of LC circuits with optimized parameters.

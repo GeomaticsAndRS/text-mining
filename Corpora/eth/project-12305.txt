@@ -1,0 +1,2 @@
+  Biomaterial-based drug and antigen delivery systems  
+Composite biomaterials are studied for drug and antigen microencapsulation to improve biodegradation characteristics with less pH-changes, stricter control of release kinetics, and the possibility to functionalize the surface of the particulates for targeting to specific cells. 

@@ -1,0 +1,2 @@
+  MRI-Compatible Arm Manipulandum  
+We developed an MRI-compatible arm manipulandum, used this manipulandum with fMRI to study cortical correlates of rehabilitation-induced recovery, and proposed effective arm rehabilitation strategies. 

@@ -1,0 +1,2 @@
+  VarCity (ERC Grant)  
+VarCity aims to drastically innovate 3D city modelling, moving it away from the traditional, bottom-up Lidar or structure-from-motion pipelines. Not only will large-scale city modelling be automated, but the results will look more realistic, will be more compact and will be semantically structured. 

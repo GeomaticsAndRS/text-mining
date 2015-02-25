@@ -1,0 +1,2 @@
+  Site-specific polymer conjugation of proteins  
+This project is aimed at evaluating approaches for systematically and predictably tuning the thiol-disulfide exchange characteristics of linkers used in redox-sensitive biomaterials and drug delivery systems. 

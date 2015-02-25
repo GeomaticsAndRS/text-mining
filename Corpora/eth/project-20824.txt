@@ -1,0 +1,2 @@
+  A synthetic mammalian gene circuit reveals antituberculosis compounds  
+Synthetic biology provides insight into natural gene-network dynamics and enables assembly of engineered transcription circuitries for production of difficult-to-access therapeutic molecules. In Mycobacterium tuberculosis EthR binds to a specific operator (O(ethR)) thereby repressing ethA. 

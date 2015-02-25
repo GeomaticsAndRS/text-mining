@@ -1,0 +1,2 @@
+  SoilTrec: Soil transformations in European Catchments 
+SoilTrEC proposes to develop an integrated model of soil processes that quantifies key soil functions. We will quantify soil stocks, their formation, loss and function within the context of the EarthŠs Critical Zone.

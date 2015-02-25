@@ -1,0 +1,2 @@
+  AgileIS: Supporting Agile Development in Large-Scale Information Systems  
+We are investigating how agile development methods can be extended to include data management by looking at ways in which model-driven approaches can be coupled with object databases to support continuous evolution. Both developer knowledge and database profiling will be used to support the process. 

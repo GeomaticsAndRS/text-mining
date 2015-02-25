@@ -1,0 +1,1 @@
+Development of spin-orbit coupling metallic magnets This project aims to develop spin-orbit-coupling metallic materials with large magnetic moments and strong anisotropy. In this context, we synthesize new metallic compounds in polycrystalline and single-crystalline form, and study in detail their microstructure and magnetic properties.

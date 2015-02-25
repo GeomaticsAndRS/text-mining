@@ -1,0 +1,1 @@
+Simulation of Bose-Einstein condensates Using quantum Monte Carlo simulations we investigate ultra-cold atoms both in continuous space and in the presence of an optical lattice. The focus is on properties of the phases, such as Bose Einstein condensates, and the influence of magneto-optical traps on the behavior of these systems.

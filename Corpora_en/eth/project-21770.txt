@@ -1,0 +1,1 @@
+One-shot Classical Capacity of Quantum Channels We consider the problem of transmitting information through a single use of a quantum channel, subject to some certain requirement on the probability of a decoding error. Upper and lower bounds on the maximum amount of information that can be transmitted are derived.

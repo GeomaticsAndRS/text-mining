@@ -1,0 +1,1 @@
+Mid-infrared laser spectroscopy for isotopic ratio measurements in gases This project is aimed at the development of a mid-infrared laser-based system for high-precision isotope-ratio measurements of 15N and 14N in N2O, as well as of carbon and oxygen isotopes in CO2 and CO at trace gas levels. Several innovative concepts are addressed.

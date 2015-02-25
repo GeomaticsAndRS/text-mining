@@ -1,0 +1,1 @@
+Understanding Nanocrystal-based Solids Semiconductor nanocrystal (NC) solids are viewed as promising materials for next generation lighting and photovoltaic applications. We develop and implement analytical methods to study these NC solids.

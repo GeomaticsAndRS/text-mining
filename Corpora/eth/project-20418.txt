@@ -1,0 +1,2 @@
+  On the role of eddies in Eastern Boundary Currents  
+Mesoscale eddies are ubiquitous in the ocean, yet there role for biological productivity and lateral transport remains ill understood. In this project, we use the Regional Ocean Modeling System as well as observational analyses to determine the role of such eddies for these  two processes.

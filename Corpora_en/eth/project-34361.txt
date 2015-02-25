@@ -1,0 +1,1 @@
+Saving Policies When Consumers Can Default on Their Unsecured Loans This project considers the full discharge of unsecured consumer debt in the form of chapter 7 of the US bankruptcy code and analyzes how the optimal savings policy depends on the default punishment.

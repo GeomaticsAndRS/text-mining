@@ -1,0 +1,2 @@
+  Tracking in the Wild SNF  
+La détection et le suivi de personnes est un traitement automatique fondamental sous-jacent à de nombreuses applications de la vision par ordinateur.

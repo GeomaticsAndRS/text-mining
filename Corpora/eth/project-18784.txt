@@ -1,0 +1,2 @@
+  Spectroscopy Processing and Viewing Tool  
+This project aims the combination and extension of existing MRS / MRSI postprocessing, viewing and quantification routines to one tool that enables all necessary analysis steps for physiological studies based on proton, multi-nuclear and 2D MRS / MRSI. Its supposed  to be an open source distribution.

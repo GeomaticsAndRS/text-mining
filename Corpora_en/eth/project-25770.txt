@@ -1,0 +1,1 @@
+Autonomous Navigation and Enhanced Remote Control of a Mobile Robot in Rough Terrain This project is a collaboration between ETH Zurich and RUAG. The goal is to develop techniques for localization, mapping and navigation of a mobile robot in rough terrain. The project includes building up a robotic platform equipped with various sensors to test the developed algorithms.

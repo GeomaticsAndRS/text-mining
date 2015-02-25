@@ -1,0 +1,1 @@
+Sample-Based Shape Analysis This project investigates new methods for sample-based 3D shape analysis. The goal is to define new data structures and algorithms for efficient database retrieval, segmentation, feature extraction, and shape classification.

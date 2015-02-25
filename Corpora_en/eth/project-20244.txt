@@ -1,0 +1,1 @@
+Localization, Mott Transition and Colossal Magnetoresistance We have started a theoretical study of Anderson localization, a Mott transition, magnetic ordering and colossal negative magnetoresistance in Eu_x Ca_1-x B_6. Our analysis is based on experimental results established in the groups of Ott and Fisk. Our study is analytical.

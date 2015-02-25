@@ -1,0 +1,2 @@
+  The role of caveosomes in regulating cell adhesion 
+The activity of caveolae/raft-mediated endocytosis and the dis-/assembly of focal adhesions in individual cells are studied. By a multilinear tensor model the extent of coupling between the two processes can be studied, and genes involved in this coupling can be identified with RNAi

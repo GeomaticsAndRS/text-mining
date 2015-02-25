@@ -1,0 +1,2 @@
+  Emission relevant modeling and control of an automotive TWC  
+The goal of this project is to develop a 1-dimensional dynamic model of a  three-way catalyst. This model then will serve as basis for the design and evaluation of new control strategies, which can lower the number of NOx peaks, while avoiding higher CO emissions.

@@ -1,0 +1,2 @@
+  Visual Media Retargeting  
+Visual media retargeting concerns adapting images and video for display on devices with different resolution, aspect ratio or dynamic range, often different from originally intended format. The goal is to develop retargeting methods that preserve the media content as much as possible.

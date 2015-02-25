@@ -1,0 +1,1 @@
+Development and Validation of a Virtual Reality Simulator including Haptics and Walking for Studies in Consumer Behavior Research The goal of the proposed project is to realize a new dimension of consumer behavior studies by the use and further development of a VR simulator.

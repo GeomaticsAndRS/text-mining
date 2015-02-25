@@ -1,0 +1,2 @@
+  FarmBird: a companion modelling approach to tackle biodiversity issues in the Marais Poitevin wetlands 
+The projects aims to implement a companion modelling approach with lo-  cal stakeholders (farmers, bird conservations, politicians, NGO) to explore alternative scenarios of water levels management in order to protect bird population while maintaining farming acrtivities (pastures and crop production).

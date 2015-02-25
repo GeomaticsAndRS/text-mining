@@ -1,0 +1,1 @@
+Numerical studies of disordered and complex systems The aim of this project is to obtain a deeper understanding of the physics of complex and glassy systems, such as spin glasses, structural glasses, vortex glasses, quantum glasses, and topologically-protected quantum computing implementations.

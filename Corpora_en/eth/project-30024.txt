@@ -1,0 +1,1 @@
+Global HPLC-based biogeography of phytoplankton functional types A global database of >37,000 pigment records is used to extract distributions of the major phytoplankton functional types in the ocean. Spatial and temporal patterns are investigated, with results validated against archival microscopic data as well as new satellite based algorithms.

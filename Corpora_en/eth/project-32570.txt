@@ -1,0 +1,1 @@
+Directed Evolution of Computer Designed Enzymes Using Droplet-Based Microfluidics In this project, we are exploring the feasibility of optimizing computationally designed enzyme catalysts by combining the latest advances in droplet-based microfluidics technology with the methods of directed evolution.

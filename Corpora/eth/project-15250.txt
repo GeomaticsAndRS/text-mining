@@ -1,0 +1,2 @@
+  Mapping the yeast metabolic regulation network  
+By exploiting our methods for high-throughput flux profiling, we systematically test functional interactions between transcriptional regulation mechanisms and metabolism. This work will generate the first comprehensive and functional interaction map of metabolic control for any organism. 

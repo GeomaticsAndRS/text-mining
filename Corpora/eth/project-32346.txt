@@ -1,0 +1,2 @@
+  NT-UltraSoundToGo 
+UltrasoundToGo intends to develop a high-performance, low-power signal processing platform for ultrasound imaging applications, targeting future 3D portable ultrasound systems. Battery operation and high quality 3D imaging leads to much easier use also by nonspecifically-trained personnel. 

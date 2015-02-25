@@ -1,0 +1,2 @@
+  Parallel and Dynamic MRI - Acquisition and Reconstruction Strategies  
+The goal of this project is to enhance MRI in terms of spatial resolution, speed, and artifact suppression. To this end, novel strategies are developed for data acquisition and image reconstruction, using parallel detection, adaptive spatiotemporal filtering, and advanced numerics.

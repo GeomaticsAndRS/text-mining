@@ -1,0 +1,1 @@
+Numerical Simulation of Particle-laden Flows In order to study fundamental mechanisms of particle suspensions, an initially spherical suspension drop settling in a fluid under gravity is investigated by direct numerical simulations. A second configuration concerns an initially random suspension of particles in homogeneous turbulence.

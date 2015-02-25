@@ -1,0 +1,2 @@
+  Debris-flows: Scenarios/Modelling/Protection measures  
+Development of a numeric simulation program to model debris-flows and risks using the numerical 2-D model RAMMS. Data of flow path and deposition zone information of reconstructed debris-flow events derived from dendrogeomorphological analysis covering are used to determine the input variables. 

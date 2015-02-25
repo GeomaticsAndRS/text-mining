@@ -1,0 +1,1 @@
+Distributed Load Management Building on prior work at the ETHZ, we aim at using themostatically controlled loads to even out energy infeeds of renewbale energy sources and to provide ancillary services to the grid. We take into account both limitations imposed by available communication channels and existing infrastructure.

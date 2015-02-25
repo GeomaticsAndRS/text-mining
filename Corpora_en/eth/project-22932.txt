@@ -1,0 +1,1 @@
+Design for Predictability and Efficiency PREDATOR is concerned with embedded systems that are characterised by efficiency requirements on the one hand and critical constraints on the other. This combination of requirements typically occurs in application domains such as automotive, aeronautics, multimedia and industrial automation.

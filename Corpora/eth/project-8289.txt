@@ -1,0 +1,2 @@
+  Development of an Assessment System for Biogas Plants - ’Quality Certificate Biogas’  
+This project aims at developing an assessment system for biogas production from energy crops, which is based on detailed plant data for Austria and the use of efficient production frontier benchmarking (here: using Data Envelopment Analysis; DEA). The goal is to develop a quality label biogas.

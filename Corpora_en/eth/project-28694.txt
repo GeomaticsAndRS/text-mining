@@ -1,0 +1,1 @@
+Profitable contracts in competitive insurance markets with asymmetric information This projects investigates whether failure of single-crossing in competitive insurance markets with asymmetric information can lead to sustainability of profit-making allocations.

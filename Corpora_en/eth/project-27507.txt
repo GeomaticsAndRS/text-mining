@@ -1,0 +1,1 @@
+MM-DocTable: Multimedia Document Engineering Workflows on Tabletop Devices We are investigating the use of pen-and-touch interaction on digital tables to support document engineering tasks. This includes the creation of multimedia documents where there is a seamless integration with a range of search services over collections of templates, images, cliparts and videos.

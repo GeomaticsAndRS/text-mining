@@ -1,0 +1,1 @@
+The CIP Method: Component- and Model-Based Construction of Embedded Systems

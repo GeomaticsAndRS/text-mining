@@ -1,0 +1,1 @@
+Self-sufficient control of urate homeostasis in mice by a synthetic circuit Synthetic biology has shown that the metabolic behavior of mammalian cells can be altered by genetic devices such as epigenetic and hysteretic switches, timers and oscillators, biocomputers, hormone systems and heterologous metabolic shunts. To explore the potential of such devices for therapeutic..

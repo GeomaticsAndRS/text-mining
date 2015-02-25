@@ -1,0 +1,1 @@
+3D permeability patterns in fractured crystalline rocks Predicting local permeability structures and magnitudes in crystalline rocks is far from trivial. This project aims at improving our predictive capabilities based on unique 3D data sets from ore mines in Saxony.

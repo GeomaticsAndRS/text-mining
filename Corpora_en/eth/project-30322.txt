@@ -1,0 +1,1 @@
+Ultra-wideband EPR spectroscopy Sensitivity of EPR spectroscopy is limited by the excitation bandwidth. By applying a very fast arbitrary waveform generator and correcting for bandwidth limitations of the spectrometer, we increase the number of spins participating in the EPR experiment and thus sensitivity.

@@ -1,0 +1,1 @@
+3D tissue-engineered model of bone adaptation The project assumes that only through the setup of an in vitro co-culture it will be possible to mimic natural bone adaptation. Successful implementation of the project goals will allow studying the effects of different drugs in vitro in a de novo bone organ culture mimicking human physiology.

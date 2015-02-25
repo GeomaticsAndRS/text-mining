@@ -1,0 +1,2 @@
+  Dynamic Parameters of Plant Phenotyping 
+Quantitative analysis of plant growth, photosynthesis and overall performance (phenotyping) is crucial for progress in agricultural research and plant breeding. Dynamic traits changing with plant development will be assessed via tools such as color image segmentation, thermal and spectral imaging. 

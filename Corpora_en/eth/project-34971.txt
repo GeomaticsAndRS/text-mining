@@ -1,0 +1,1 @@
+Sensitivity analysis in computational hydrogeology Sensitivity analysis is conducted for a groundwater flow and mass transport model. Hydrogeological parameters with significant contributions to the variance of the response are identified by means of SobolŠ indices. Methods for sensitivity analysis with mutually dependent variables are investigated.

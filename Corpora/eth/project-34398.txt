@@ -1,0 +1,2 @@
+  Interlacing Magnetic Resonance  
+With the present project we aspire to integrate magnetic resonance (MR) velocity encoding and computational flow dynamics (CFD) to enable accurate quantification of wall shear stresses in-vivo. The work addresses the limited resolution of MR velocity encoding in shear layers.

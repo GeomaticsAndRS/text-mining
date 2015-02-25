@@ -1,0 +1,2 @@
+  CRONE 16 - Software Tool zur Auslegung und Berechnung von Kronenradgetrieben  
+Durch ein spezielles Software-tool wird die Auslegung, Berechnung, Fertigung und Kontrolle von Kronenrädern unterstützt und somit die erweiterte Anwendung von Kronenrädern ermöglicht.

@@ -1,0 +1,1 @@
+Thermoplastic forming of bulk metallic glasses This project aims to develop innovative molding processes using bulk metallic glasses (BMGs). It includes the production of BMG molds for polymer injection molding, and the production and characterization of structured BMG surfaces. The biological response on surface topography will also be studied.

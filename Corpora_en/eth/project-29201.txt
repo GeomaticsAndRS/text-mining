@@ -1,0 +1,1 @@
+Learning through collaborative comparison A series of experimental studies with the aims of (a) developing an online learning environment for learning basic probability theory in high school mathematics, and (b) testing hypotheses on effective collaborative learning and learning through comparison.

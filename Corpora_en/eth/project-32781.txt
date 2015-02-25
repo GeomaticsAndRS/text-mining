@@ -1,0 +1,1 @@
+Local4Global System of systems is a collection of simple systems that together create a more complex system offering more functionality and performance than the constituent systems. The objective of Local4Global is to develop efficient solution methods for this class of problems and solve practical problems.

@@ -1,0 +1,2 @@
+  Integrating U-series and petrology to constrain the time scales of arc magmatism.  
+This project integrates the full spectrum of U-series nuclides measured in volcanic rocks with in depth mineralogical studies. The aims are to constrain the dynamics of subvocanic magmatic systems, the fluxes of melts and fluids through these systems, and the controls this exercise on eruption style 

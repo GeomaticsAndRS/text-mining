@@ -1,0 +1,1 @@
+Coffee Roasting Technology Change of coffee bean structure and generation of aroma during roasting are investigated. Volume expansion and porosity of bean depend on gas evolution (driving forces) and transformation of cell wall polysaccharides (resistance forces). State transition diagrams are applied for process design.

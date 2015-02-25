@@ -1,0 +1,1 @@
+Behavioral Law and Economics of Intellectual Property Law This project employs behavioral law and economics insights to questions of intellectual property law. In particular, it uses experimental methodologies.

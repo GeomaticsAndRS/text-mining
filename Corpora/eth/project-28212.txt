@@ -1,0 +1,2 @@
+  Tailored matrix systems for highly fatigue loaded glass fiber reinforced polymer structures  
+The mechanical properties of dynamically high-loaded structures out of glass-fiber-reinforced polymers shall be optimized through an aimed modification of the matrix  flexibility, which shall lead to a more efficient utilisation of the load capacity of the fibers that lie in the main load direction.

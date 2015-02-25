@@ -1,0 +1,1 @@
+Turbulent entrainment in a gravity current Gravity currents are responsible for transporting material into the deep sea. The mixing properties with the surrounding water is governed by the small scale turbulence across the interface. Understanding the density currents is of importance for ocean circulation modelling.

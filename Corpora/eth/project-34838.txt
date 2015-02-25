@@ -1,0 +1,2 @@
+  Dorsal Horn Neuronal Circuits Processing Itch  
+Chronic itch is a severely disabling disease. In this project, we investigate the neuronal circuits which process itch signals in the spinal cord.

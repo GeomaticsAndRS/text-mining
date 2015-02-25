@@ -1,0 +1,1 @@
+Lattice QCD at finite density The interactions among quarks, described by QCD, are believed to undergo qualitative changes as their temperature and/or their density is increased. Such new states of matter are the object of experimental heavy-ion collision programs. Here we study this regime of QCD by computer simulations.

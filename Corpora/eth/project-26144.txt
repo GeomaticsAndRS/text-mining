@@ -1,0 +1,2 @@
+  The NoRC complex mediates the heterochromatin formation and stability of silent rRNA genes and centromeric repeats  
+Maintenance of specific heterochromatic domains is crucial for genome stability. In eukaryotic cells, a fraction of the tandem-repeated ribosomal RNA (rRNA) genes is organized in the heterochromatic structures. The principal determinant of rDNA silencing is the  nucleolar remodelling complex, NoRC..

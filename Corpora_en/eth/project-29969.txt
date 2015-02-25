@@ -1,0 +1,1 @@
+Synchronization of Dynamical Systems with Impulsive Motion Synchronization results for non-smooth dynamical systems will be developed. These results will be used to design state observers for mechanical systems with impact and friction which reconstruct the full system state based on input-output measurements.

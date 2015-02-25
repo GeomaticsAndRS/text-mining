@@ -1,0 +1,2 @@
+  Electricity Storage via Adiabatic Air Compression  
+This project provides an integrated investigation along a value chain of advanced adiabatic compressed air energy storage (AA-CAES) for large-scale energy storage of electricity. The project develops the science and technology, and examines the environmental and economic impacts.

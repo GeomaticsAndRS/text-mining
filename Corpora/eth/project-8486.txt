@@ -1,0 +1,2 @@
+  ALPS: Open Source Software for Quantum Lattice Models  
+The ALPS project (Algorithms and Libraries in Physics Simulations) is an open source effort aiming at simplifying the development of simulation codes for quantum many body systems. It provides libraries for the simulation of classical and quantum models and stateof-the-art application programs.

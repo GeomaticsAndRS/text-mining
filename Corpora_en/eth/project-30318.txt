@@ -1,0 +1,1 @@
+Robotic Monitoring of corrosion A specific lightweight sensor for the climbing robot (Autonomous Systems Lab, ASL) has been developed by IfB to take potential readings while moving on the concrete surface. Half-cell potential mapping can be performed on any concrete surface greatly improving condition assessment of structures.

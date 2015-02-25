@@ -1,0 +1,2 @@
+  Retrieval of agricultural crop structure by means of multi-baseline polarimetric SAR interferometry  
+The project deals with the estimation of topography, canopy height and structure of agricultural crops by means of microwave radar remote sensing, using Pol-InSAR coherences for different polarisations as main observables. 

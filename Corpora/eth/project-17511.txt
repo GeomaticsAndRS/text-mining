@@ -1,0 +1,2 @@
+  Nonlinear optical and electro-optical properties of molecular crystals  
+In this project we study novel classes and functionalities of organic nonlinear optical materials and their potential for active photonics devices and THz wave generation.

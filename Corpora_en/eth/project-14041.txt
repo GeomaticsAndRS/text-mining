@@ -1,0 +1,1 @@
+Aggregation of risk measures We study in this project the calculation of bounds on risk measures for aggregated risk positions, and this in the presence of incomple marginal risk information.

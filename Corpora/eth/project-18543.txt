@@ -1,0 +1,2 @@
+  Three-dimensional (3-D) integral equation analysis of the global Schumann resonance  
+We investigate the applicability of the integral equation approach for the modelling of Schumann resonances in spherical Earth-ionosphere cavity with 3-D conductivity distribution. 

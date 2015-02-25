@@ -1,0 +1,2 @@
+  iModel: Intelligent Shape Modeling  
+We investigate user-friendly, intelligent modeling of 3D shapes on a computer, with the goal of making 3D modeling efficient for professionals and accessible to the general public, much like 2D paint programs today.

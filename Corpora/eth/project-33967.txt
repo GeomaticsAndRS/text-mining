@@ -1,0 +1,2 @@
+  Design of rotor and bearing concepts for a ventricular assist device 
+Integrated in the Zurich Heart collaboration, this project aims at the design of an implantable rotary pump with contactless bearing. An additional focus is the conception of suitable test cases and the coordination of testing activities.

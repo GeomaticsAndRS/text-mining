@@ -1,0 +1,1 @@
+Direct Search for dark matter in the universe The ArDM (Argon Dark Matter) is a liquid argon detector to search for signals from WIMPs (Weakly Interacting Massive Particles), which are candidates for the Dark Matter in the universe. The detector is designed to observe the recoiling argon nucleus after a WIMP-nucleus elastic scattering process.

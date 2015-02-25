@@ -1,0 +1,1 @@
+Sliding mechanism in RC shear walls considering the interaction of bending and shear The research focuses on understanding the sliding response mechanism considering its interaction with the shear and flexure response of reinforced concrete structural walls, how it degrades under cyclic loading, and how to model it using the strut-and-tie and the finite element approaches.

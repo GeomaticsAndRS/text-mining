@@ -1,0 +1,2 @@
+  Design, operating strategies and potential of a biogenic CHP swarm 
+An increasing share of fluctuating renewable electricity production requires more flexibility in stabilising the electricity grid. Decentralised biogenic combined heat and power plants could play a significant role. The potential of this approach is analysed by spatialtemporal based modelling.

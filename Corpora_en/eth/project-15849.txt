@@ -1,0 +1,1 @@
+Spin-photon quantum interface The spin of a single electron trapped in a quantum dot or the singlet-triplet states of two-electron quantum dot molecules could be used to represent an elementary unit of quantum information. Our goal is to use the spin-photon entaglement to generate entanglement between distant spins.

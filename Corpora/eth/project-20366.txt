@@ -1,0 +1,2 @@
+  Uncertainties in global temperature and sea level changes for large ensembles of an intermediate complexity model  
+The project quantifies uncertainties in global temperature change and sea  level rise for climate changes scenarios and derives PDFs of climate system parameters constrained by the observed surface warming and ocean heat uptake. It quantifies allowed carbon emissions for stabilization scenarios.

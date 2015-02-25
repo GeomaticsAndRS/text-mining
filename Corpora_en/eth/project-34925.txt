@@ -1,0 +1,1 @@
+Mechanisms of nuclear envelope compartmentalization during yeast mitosis During budding yeast mitosis, a diffusion barrier compartmentalises the yeast ER and outer nuclear membrane allowing the generation of rejuvenated and naive daughter cells. The aim of this project is to gain a functional understanding of how this barrier is formed and how it is regulated.

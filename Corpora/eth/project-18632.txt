@@ -1,0 +1,2 @@
+  Development / implementation of fMRI methods to visualize neuronal activity in awake animals  
+Mn2+ is taken up by active neurons via voltage-gated Ca2+ channels. Accumulation of Mn2+ in brain can therefore be considered a readout of neuronal activity. Mnenhanced MRI shall be compared with conventional fMRI readouts and its suitability to visualize  brain function in awake animals tested.

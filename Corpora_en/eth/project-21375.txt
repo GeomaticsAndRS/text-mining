@@ -1,0 +1,1 @@
+Strongly interacting photons The goal of this project is the realization of non-equilibrium many-body states of light. To this end, we investigate scalable systems where a)on-site photon-photon interaction dominates over dissipation rates, and b) artificial gauge fields for photons can be effected.

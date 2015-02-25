@@ -1,0 +1,1 @@
+Risk Resilience In recent years, the concept of resilience has become a key (or probably buzz) word in the security domain. We approach the concept and phenomenon of resilience from different viewpoints and on different levels of analysis, looking at resilience concepts, resilience impact, and resilience tools.

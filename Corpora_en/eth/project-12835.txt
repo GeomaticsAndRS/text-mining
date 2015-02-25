@@ -1,0 +1,1 @@
+Modeling the quorum sensing regulatory network of human-pathogenic Pseudomonas aeruginosa We present a qualitative model of the P. aeruginosa quorum-sensing network including interactions between the las and rhl modules, the signaling molecule PQS and the regulatory proteins Mvfr and VfR.

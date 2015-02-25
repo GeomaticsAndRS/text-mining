@@ -1,0 +1,1 @@
+Context recognition for hearing instruments using additional sensor modalities The goal of this project is to achieve an improved hearing target detection for a new generation of hearing instruments by taking into account additional sensor modalities. The exploration of these sensor modalities takes place in experiments with practical application scenarios.

@@ -1,0 +1,1 @@
+Energy Demand and Energy Efficiency: A Stochastic Demand Frontier Approach In this project a relatively new method to estimate the level of energy efficiency based on the econometric estimation of an aggregate energy demand frontier is developed, discussed and applied.

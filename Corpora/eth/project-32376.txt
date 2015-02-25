@@ -1,0 +1,2 @@
+  TRADR (Long-Term Human-Robot Teaming for Robot-Assisted Disaster Response, FP7-609763)  
+TRADR develops novel S&T for human-robot teams to assist in disaster response efforts, over multiple missions

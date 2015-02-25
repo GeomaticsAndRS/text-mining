@@ -1,0 +1,1 @@
+VisAsim - Visual-Acoustic Simulation for landscape impact assessment of wind farms This projects aims at the development of a visual-acoustic simulation tool, which integrates the realistic soundscape of wind turbine noise into GIS-based 3D landscape visualizations of alternative wind farm scenarios for valuing their impact on the landscape quality.

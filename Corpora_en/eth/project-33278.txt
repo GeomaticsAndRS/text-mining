@@ -1,0 +1,1 @@
+Data-driven tools for accelarating pharmaceutical development The objective is to show the versatile applicability of data-driven tools at different stages of the pharmaceutical development. The advantages of their implementation shall be proved starting from designing optimal screening experiments to multivariate model-based process control and scale-up.

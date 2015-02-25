@@ -1,0 +1,2 @@
+  Upper ocean carbon cycle and air-sea CO2 balance in Eastern Boundary Current systems  
+We investigate the upper ocean carbon cycle and related elemental cycles in the California and Canary Current Systems using the eddy-resolving, physical-biogeochemical Regional Oceanic Modeling System (ROMS). Our focus is on the air-sea CO2 balance and the role  of coastal regions on atmospheric CO2.

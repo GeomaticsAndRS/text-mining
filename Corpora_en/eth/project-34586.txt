@@ -1,0 +1,1 @@
+Phylodynamic models for the analysis of fast evolving viruses striving for a better understanding of viral epidemics We model the interaction between the evolution of viruses and the epidemiological dynamics of their host population. With the resulting phylodynamic methods, evolutionary history and epidemiological parameters can be inferred simultaneously.

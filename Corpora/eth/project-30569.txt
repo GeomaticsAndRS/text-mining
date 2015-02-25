@@ -1,0 +1,2 @@
+  Identification of selective inhibitors for breast cancer stem cells by cell based-screening  
+We plan to identify inhibitors that can inhibit breast cancer stem cells or  melanoma stem cells selectively by using commercially available chemical libraries and to study the mechanisms underlying the effects.

@@ -1,0 +1,2 @@
+  Optimal sizing and control of balancing power in the future European power system including transmission system constraints  
+The goal is to address power balancing issues in a future European power system with substantial shares of fluctuating renewable power sources. Therefore different provision methods are assessed, control methods are developed and applied in case studies. 

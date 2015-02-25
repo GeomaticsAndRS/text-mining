@@ -1,0 +1,2 @@
+  Additive Manufacturing of Complex-Shaped Parts with Locally Tunable Materials  
+The objective of this seed project is to investigate the potential of additive manufacturing (AM) in creating end-use parts with functional properties emerging from both  material and shape (topology and geometry) gradients. The combination of local change in the composition and distribution of the m

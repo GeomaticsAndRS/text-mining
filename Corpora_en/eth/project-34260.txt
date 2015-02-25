@@ -1,0 +1,1 @@
+SCCER - Storage of Thermal Energy The storage of thermal energy for electricity generation is based on the concept of advanced adiabatic compressed air energy storage. The heat contained in compressed air can be stored and subsequently expanded in a turbine to drive a generator during periods of high demand.

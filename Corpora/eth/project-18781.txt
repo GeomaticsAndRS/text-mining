@@ -1,0 +1,2 @@
+  High field MRSI localization and accelerated acquisition 
+MR spectroscopic imaging provides insight into the spatial distribution of metabolites in human tissue. Aiming the extension of its applicability localization methods based on advanced RF pulses and accelerated acquisition sequences as SENSE-MRSI and EPSI are applied at high field strength (3T, 7T). 

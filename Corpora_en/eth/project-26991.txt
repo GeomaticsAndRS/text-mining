@@ -1,0 +1,1 @@
+Climate Risk Adaptation and Micro Insurance in the Caribbean This project implements a randomized control trial experiment to investigate whether providing micro-insurance to low-income people helps them lessening the depth of shock from weather related events, and whether it gives incentives to start more profitable activities.

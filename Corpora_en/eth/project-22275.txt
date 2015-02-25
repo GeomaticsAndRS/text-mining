@@ -1,0 +1,1 @@
+A Mott Insulator of fermionic atoms in an optical lattice We investigate the cross-over from a metallic to a Mott insulating phase in a repulsively interacting two-component Fermi gas in an optical lattice.

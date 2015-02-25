@@ -1,0 +1,2 @@
+  Air transport in chute aerators  
+Chutes are protected against cavitation damage by chute aerators. Despite the gross effects were developed two decades ago, the detailed air entrainment processes at an aerator along with downstream air detrainment are largely unknown. This project adds to the optimization of aerator geometry. 

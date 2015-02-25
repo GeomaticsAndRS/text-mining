@@ -1,0 +1,1 @@
+Oversampled one-bit quantization for the Gaussian channel Although information-lossy, one-bit quantizers are attractive because they are cheap and simply to implement. In this project we seek to compensate for this loss by over sampling. We study the achievable rates over the Gaussian channel with such quantizers and estimate the loss in capacity.

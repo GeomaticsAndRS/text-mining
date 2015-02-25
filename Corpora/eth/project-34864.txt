@@ -1,0 +1,2 @@
+  Ultra-low-power CMOS integrated readout circuits for carbon nanotube sensors 
+This project will develop ultra-low-power CMOS circuits to interface carbon nanotube gas sensors, and to be also integrated with a data wireless transmission system and  energy harvesters in order to show the first prototype of an autonomous sensor node.

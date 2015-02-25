@@ -1,0 +1,2 @@
+  Comparative statics of risk aversion in the presence of ambiguity 
+This paper suggests a characterization of increases in risk aversion within the smooth ambiguity model.

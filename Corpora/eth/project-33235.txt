@@ -1,0 +1,2 @@
+  Spectral Content of Induced Seismicity and Effects on Unreinforced Masonry Buildings in Switzerland  
+Spectral content of induced earthquakes, resulting from Enhanced Geothermal System projects, is investigated. Because unreinforced masonry is a common choice of material for Swiss residential buildings, the effect of induced seismicity on these short period structures may be particularly relevant. 

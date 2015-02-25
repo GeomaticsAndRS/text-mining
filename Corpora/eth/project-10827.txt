@@ -1,0 +1,2 @@
+  Classes proved correct  
+This project investigates uncompromising techniques aimed at ensuring the correctness of a particular kind of components, classes of an object-oriented library, using full mathematical proofs, supported by automatic proof tools. 

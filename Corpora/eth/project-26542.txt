@@ -1,0 +1,2 @@
+  Vector Bundles on Some Nearly Rational Varieties  
+Representation theory and modern algebraic homotopy combine to study moduli of algebraic vector bundles from a topological point of view. Auxillary questions include variations on and aspects of the branching problem in representation theory.

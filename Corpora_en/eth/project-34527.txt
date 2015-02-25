@@ -1,0 +1,1 @@
+SCCER: Future Energy Efficient Buildings Districts (FEEBD): Active Building Management Advanced predictive control will be used to develop strategies for improving building efficiency while maintaining occupant comfort. Cooperative optimisation methods will be used to manage energy (via electrical, gas and hot water grids) in collection of buildings - referred to as an Energy Hub

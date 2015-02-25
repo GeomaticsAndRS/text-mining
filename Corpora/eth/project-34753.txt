@@ -1,0 +1,2 @@
+  Development and validation of a virtual reality simulator including haptics and walking for studies in consumer behavior research  
+This project aims to develop a simulator enabling to run consumer behavior studies in a virtual reality environment. Users of the simulator will experience navigation by natural walking and haptic feedbacks. Developed simulator is validated against a typical consumer  behavior study run in a real env

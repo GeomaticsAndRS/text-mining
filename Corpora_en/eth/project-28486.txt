@@ -1,0 +1,1 @@
+The Pup-Proteasome System In mycobacteria, substrates are recruited to proteasomes by a ubiquitinlike pathway termed pupylation, wherein the small protein Pup (prokaryotic ubiquitin-like protein) is conjugated to lysine residues of protein substrates. This project addresses the mechanism of this modification pathway.

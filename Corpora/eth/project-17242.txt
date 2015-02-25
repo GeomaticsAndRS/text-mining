@@ -1,0 +1,2 @@
+  Reliability of the Swiss Road Network  
+The aim of this project is to develop a method for the assessment of direct and indirect consequences of different adverse events on the road network. The envisaged method should be based on recent scientific developments in the field of risk based decision making.

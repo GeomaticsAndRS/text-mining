@@ -1,0 +1,1 @@
+Automated matching of SAR and optical images for GCP point transfer This project will focus on automatically finding a sufficient number of identical points in such images.

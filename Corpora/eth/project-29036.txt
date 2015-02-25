@@ -1,0 +1,2 @@
+  VISCERAL VISual Concept Extraction challenge in RAdioLogy  
+VISCERAL is a support action that will organize two competitions on information extraction and retrieval involving medical image data and associated text that will benchmark the state of the art and define the next big challenges in large scale data processing in medical image analysis.

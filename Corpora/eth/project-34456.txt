@@ -1,0 +1,2 @@
+  Safety of Nanosized Material Supplements: Gastrointestinal exposure to nanoscale iron compounds in foods: absorptive pathways and potential toxicity  
+This project has three aims: - Explore the relationship between NP size and composition to toxicity in cell assays.  - Assess absorptive pathway of iron nanoparticles in a targeted duodenal KO DMT1 mouse model. - Characterize in-vivo toxicity of nanosized iron in the gut.

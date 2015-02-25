@@ -1,0 +1,2 @@
+  ˝ Estimating WeightULength Relationships without Individual Weight Data An application to the American lobster (Homarus americanus) fishery of Long Island Sound  
+in this paper I develop a simple methodology that allows me to estimate a ˝ weightUlength relationship when only aggregate weight data are available.To show its usefulness, the methodology is applied to the American lobster (Homarus americanus) population of Long Island Sound. 

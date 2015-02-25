@@ -1,0 +1,1 @@
+Physically-Based Animation This project researches physical or physically plausible simulation methods for computer animation, as well as other issues relevant to computer animation for feature films and computer games, such as rendering.

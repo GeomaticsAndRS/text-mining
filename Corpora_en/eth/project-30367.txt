@@ -1,0 +1,1 @@
+Intelligentsampling of hydrological events (ISHE) Stream water sampling during hydrological events is challenging, because water chemistry can vary largely during events and the number of samples which can be taken is limited due to practical constrains. This project better observations of water chemistry by intelligent sampling strategies.

@@ -1,0 +1,2 @@
+  Network optimization for genomic data analysis and wireless system design  
+The project focuses on the development of novel concepts and algorithms  for the optimization of large-scale network problems arising in two application domains, namely the study of gene regulation in living cells and the design of embedded systems based on wireless communication.

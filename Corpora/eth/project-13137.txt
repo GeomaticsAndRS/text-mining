@@ -1,0 +1,2 @@
+  CMS pixel detector online software and barrel module testing  
+The CMS pixel detector, currently being built at PSI, will play a central role in the measurement of b quarks at the Large Hadron Collider. In this project, the full testing and characterization of the ca 800 modules as well as the online software for calibration and monitoring is developed.

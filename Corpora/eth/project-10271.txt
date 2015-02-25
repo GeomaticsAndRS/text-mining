@@ -1,0 +1,2 @@
+  Elastodynamic wave propagation in Functionally Graded Material (FGM)  
+The project focuses on the analysis of phenomena that occur when elastodynamic (mechanical) waves interact with areas of gradually varying mechanical properties within  a structure.

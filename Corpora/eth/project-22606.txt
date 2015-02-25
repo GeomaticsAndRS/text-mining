@@ -1,0 +1,2 @@
+  A Fresh Look at the Complexity of Pivoting in Linear Complementarity 
+We study both linear and convex quadratic programming in a more general setting: by examining the linear complementarity problem with sufficient matrices. Besides  providing a unifying framework for the two problems, linear complementarity also has many direct applications.

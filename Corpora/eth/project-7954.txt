@@ -1,0 +1,2 @@
+  Bacteriophages in Salmonella enterica  
+Many Salmonella Typhimurium strains carry prophages within their genome. These prophages often encode virulence factors. We are studying the role of these prophages in the evolution of epidemic Salmonella Typhimurium strains. 

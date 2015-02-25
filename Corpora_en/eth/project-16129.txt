@@ -1,0 +1,1 @@
+Feature selection Our aim is to extend the feature selection of the LASSO to the nonGaussian case. We formulate a notion of ”irrelevance” of variables, and show that the LASSO will not select these variables with large probability.

@@ -1,0 +1,2 @@
+  Colloidal vesicles for biodetoxification  
+This project is aimed at testing nanovesicles in different models of drug intoxication. The nanovesicles act as antidotes by extracting the distributed toxic compounds or by degrading it. 

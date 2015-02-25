@@ -1,0 +1,2 @@
+  Kinematic GPS and Precise Navigation  
+Algorithms are developed to determine the GPS positions of moving objects at highest possible precision. GPS is also used to determine the attitude of a vehicle. The  developed tools have been tested and used in many applications (aero geophysics, ropeway survey, hydrometrics, etc.).

@@ -1,0 +1,1 @@
+Search for a light Higgs Boson at the Large Hadron Collider The Higgs boson is the conjectured field quantum of a scalar field permeating the universe and responsible for generating elementary particle masses. Experimental evidence and theoretical expectations estimate its mass to be light. This project focuses on its measurement with the CMS pixel detector.

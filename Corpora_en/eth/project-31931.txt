@@ -1,0 +1,1 @@
+A mathematical theory of signal separation The aim of this project is to develop a mathematical theory of signal separation, based on concepts from dynamical system theory and the theory of fractals.

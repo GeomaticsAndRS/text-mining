@@ -1,0 +1,1 @@
+Targeting the Lin28/pre-let-7 interaction in cancer The LIN28/let-7 axis has an important role in the origin and maintenance of cancer cells. In this project we are investigating means to elevate expression of let-7 miRNAs by targeting the interaction between the pre-let-7 and its negative regulator LIN28 in order to restore let-7 biogenesis.

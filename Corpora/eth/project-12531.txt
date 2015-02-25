@@ -1,0 +1,2 @@
+  Production rates of cosmogenic nuclides on the surface of the Earth  
+The dependence of production rates of cosmogenic nuclides on altitude and latidude will be studied by exposing artifical targets (quartz and water) at different locations  and measure the cosmogenic He and Ne. This is a CRONUS-EU project.

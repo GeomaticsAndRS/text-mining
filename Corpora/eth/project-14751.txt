@@ -1,0 +1,2 @@
+  LichtBlick  
+Es wird das Blickverhalten von Personen am Bildschirmarbeitsplatz untersucht und mit der Leuchtdichteverteilung im Gesichtsfeld, dem Tageslichtzustand und der jeweiligen Aktivität in Zusammenhang gebracht. 

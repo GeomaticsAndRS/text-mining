@@ -1,0 +1,2 @@
+  Systems Biology of Notch Signaling 
+In animals, the Notch signaling pathway plays a decisive role for the development from an egg to the adult, and miss-regulation leads to different diseases and cancer. It is the aim of the project to deepen our understanding of the pathway by systematically applying proteomic and genetic approaches.

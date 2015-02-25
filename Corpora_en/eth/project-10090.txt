@@ -1,0 +1,1 @@
+Sequencing and functional analysis of bacteriophages for Listeria monocytogenes Several bacteriophages specific for Listeria monocytogenes are being sequenced and their genomes bioinformatically analysed. We also identify their specific integration sequences in the bacterial genomes, and study the effects of lysogeny on the bacterial phenotype.

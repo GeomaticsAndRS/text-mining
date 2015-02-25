@@ -1,0 +1,2 @@
+  A High Fidelity Computational Model of the Uterus  
+The construction of a computer based training simulator for hysteroscopy requires models of the uterus that run in real-time. Significant simplifications with respect to the mechanical formulation are however necessary to meet this requirement with presently available computer hardware. Therefore, a

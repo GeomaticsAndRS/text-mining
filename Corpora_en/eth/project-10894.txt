@@ -1,0 +1,1 @@
+Credit Risk Modelling for Portfolios We study the mathematical modelling of the risk and return of credit portfolios. A special emphasis lies on the questions of: Modelling dependency structures, modelling of price and credit-spread dynamics, modelling of risk premia and the distinction of systematic and diversifyable risk.

@@ -1,0 +1,2 @@
+  Uncertainty quantification techniques in the context of imprecise/mixed probability modelling  
+Uncertainty quantification techniques are developed in the context of imprecise/mixed probability (aleatory and epistemic) and applied for solving uncertainty propagation  problems (e.g. structural reliability and robust design optimization).

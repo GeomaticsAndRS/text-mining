@@ -1,0 +1,1 @@
+Ion Microprobe by Capillary Focusing This project investigates the focusing of MeV ion beams by a capillary to a diameter less than a micrometer. The microbeam can be used for analysis and modification of materials.

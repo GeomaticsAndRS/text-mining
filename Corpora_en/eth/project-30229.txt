@@ -1,0 +1,1 @@
+Catwalk: A Quick Development Path for Performance Models Performance modeling is a very important technique to understand resource consumption and performance of parallel applications. This project aims at developing tools and techniques for performance modeling of scientific applications and to make those available to a wider audience of researchers.

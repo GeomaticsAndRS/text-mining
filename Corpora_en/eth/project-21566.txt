@@ -1,0 +1,1 @@
+hybrid fluorescence molecular tomography Development of hybrid fluorescence molecular tomography -MRI or x-ray CT system for rodents. Such system allow combining molecular with structural and physiological information

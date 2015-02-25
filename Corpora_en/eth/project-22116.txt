@@ -1,0 +1,1 @@
+Experimental Study of a Laser Plasma Extreme Ultraviolet Light Source Laser-produced plasmas generate extreme ultraviolet (EUV) light, enabling large scale nano-scale manufacturing to become affordable in a lithography system. Here, we experimentally study and control the radiation and debris generation of our in-house light source to increase its performance.

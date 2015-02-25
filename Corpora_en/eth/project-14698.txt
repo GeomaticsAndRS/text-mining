@@ -1,0 +1,1 @@
+My personal Adaptive Global NET (MAGNET) In the MAGNET project, CTL investigates new adaptive air interface schemes for OFDM transmission based on channel state information at the transmitter. The schemes include power and bit loading schemes with/without MIMO transmission and adaptive coding.

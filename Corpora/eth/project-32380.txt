@@ -1,0 +1,2 @@
+  P-SOCRATES (Parallel Software Framework for Time-Critical Many-core Systems)  
+P-SOCRATES will allow current and future applications with high-performance and real-time requirements to fully exploit the huge performance opportunities brought by the most  advanced many-core processors, whilst ensuring a predictable performance.

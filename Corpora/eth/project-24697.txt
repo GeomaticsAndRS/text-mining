@@ -1,0 +1,2 @@
+  Simulation of strongly correlated systems with tensor network algorithms 
+We develop and apply tensor network algorithms (e.g. MPS, PEPS, MERA) for the efficient simulation of strongly correlated systems in one and two spatial dimensions.

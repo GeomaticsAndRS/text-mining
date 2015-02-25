@@ -1,0 +1,1 @@
+Mismatch repair interactome and mutagenesis In this project, we are attempting to characterise a newly-discovered mutagenic process, which we named non-canonical mismatch repair (MMR). Under normal circumstances, MMR guards against mutations, yet, in its non-canonical mode, it is subverted for extensive mutagenesis.

@@ -1,0 +1,2 @@
+  Cytochrome c maturation in Escherichia coli: a heme delivery pathway  
+Genetic and biochemical analysis of the E. coli cytochrome c maturation factors CcmC and CcmF that are involved in the specific transfer of heme to and from the heme chaperone CcmE, and of an ABC transporter required for heme export and/or incorporation into apocytochrome c.

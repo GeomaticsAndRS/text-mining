@@ -1,0 +1,2 @@
+  Innovative Services based on Smart Meters  
+This project aims at exploring potential uses of smart meter data. Employing methods from machine learning and data mining it investigates which services can be offered ˝ also addressing privacy constraints of such sensitive information. to end customers U 

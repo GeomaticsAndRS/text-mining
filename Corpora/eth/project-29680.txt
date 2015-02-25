@@ -1,0 +1,2 @@
+  Large-scale Adaptive Sensing, Learning and Decision Making: Theory and Applications (SCADAPT) 
+How can one act effectively while facing a deluge of data? We seek to advance large-scale adaptive decision making under uncertainty, by grounding it in the novel computational framework of adaptive submodular optimization. We develop novel algorithms and apply  them in several challenging domains.

@@ -1,0 +1,2 @@
+  Functional and evolutionary analysis of trans-AT polyketide synthases  
+Trans-AT polyketide synthases is a little-understood family of biosynthetic enzymes that produce many bioactive metabolites in bacteria. Aim of this project is to obtain insights into their enzymology and evolution as basis for drug discovery and metabolic engineering. 

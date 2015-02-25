@@ -1,0 +1,2 @@
+  A hierarchical Bayesian model of social learning 
+This project uses fMRI and a hierarchical Bayesian model of social learning to examine, in healthy volunteers, the neuronal and computational mechanisms by which we infer on the (time-varying) intentions of others.

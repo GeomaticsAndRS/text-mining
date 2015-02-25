@@ -1,0 +1,2 @@
+  precoR Project SHG  
+This project aims at the on-chip generation of signals by means of second harmonic generation, difference frequency generation and sum frequency generation employing a novel thin nonlinear polymer/monomer materials incorporated into a strong-confinement low-loss plasmonic waveguide structures.

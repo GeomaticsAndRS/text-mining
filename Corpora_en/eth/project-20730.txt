@@ -1,0 +1,1 @@
+Modeling and Control of a SCR System Model-based control strategies of a selective catalytic reduction system (SCR) are investigated. NOx conversion is to be maximized while preventing NH3 peaks at the outlet.

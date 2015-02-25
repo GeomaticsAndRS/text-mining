@@ -1,0 +1,2 @@
+  MODEL: Mechanics Of Deformation of the Earth’s Lithosphere  
+We develop new numerical techniques and apply them to study geological processes on both a lithospheric and crustal scale.

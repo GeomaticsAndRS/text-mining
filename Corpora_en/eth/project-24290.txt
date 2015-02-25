@@ -1,0 +1,1 @@
+Discrete and Logic Models for Biological and Medical Applications From the discovery of associations in measurement data to Boolean models for cellular signaling networks: Discrete mathematics is an indispensable tool to increase understanding of the complex cellular signaling. We develop the mathematical foundations, algorithms and tools necessary.

@@ -1,0 +1,2 @@
+  Bringing Internet Access to Disconnected Populations of Developing Countries with Smartphones and Opportunistic Communications  
+This project aims at studying the fundamental trade-offs a hybrid communication architecture combining opportunistic and broadband networking for smartphones. The goal is to bring modern communication services to populations in remote communities with sparse  and patchy communication infrastructure.

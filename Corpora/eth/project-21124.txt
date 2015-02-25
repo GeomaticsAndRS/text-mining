@@ -1,0 +1,2 @@
+  AX-PET  
+The goal of this project is to build a demonstrator for an Axial PET Camera with wavelength-shifting (WLS) Strips and Geiger-Mode Avalanche Photo-Diode (G-APD) Readout. More info at https://twiki.cern.ch/twiki/bin/view/AXIALPET/WebHome

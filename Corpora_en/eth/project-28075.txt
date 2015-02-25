@@ -1,0 +1,1 @@
+Digital Processing of Continuous-Time Signals with Factor Graphs The project extends the factor-graph approach to continuous-time linear Gaussian models with discrete-time observations. Continuous-time signals (that need not be bandlimited) thus become computational objects that can be handled with arbitrary temporal resolution.

@@ -1,0 +1,1 @@
+Parameter Optimization of Hybrid Drive Trains Structure, component dimensioning and control strategy are the key factors that determine the efficiency of every hybrid drive train for passenger cars. The goal of this project is the simultaneous optimization of these factors with respect to several optimization objectives.

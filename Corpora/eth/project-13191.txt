@@ -1,0 +1,2 @@
+  Sustainable Development of Constructed Switzerland 
+We investigate the long term development of the Swiss residential building stock and its effects on energy consumption and CO2 emissions. Of special interests are the long-term saving potentials and the capital which has to be provided to reach them. For this, a simulation model was developed.

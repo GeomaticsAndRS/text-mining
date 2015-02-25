@@ -1,0 +1,2 @@
+  SNF 2000211 57101/13DImageU nderstandingf orU rbanScenes 
+The topic of the proposed project is automatic generation of 3D city models, starting from aerial and terrestrial image data.

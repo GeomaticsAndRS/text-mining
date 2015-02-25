@@ -1,0 +1,2 @@
+  Temperature Fluctuations in Fluid and Pipe Walls induced by Turbulent Mixing  
+Mixing of fluids with different temperatures result in temperature fluctuations in walls of components of power plants that cause thermal fatigue. The ability of Reynolds Stress Models coupled with a Temperature Fluctuation Transport Model to predict the amplitude of the fluctuations is explored.

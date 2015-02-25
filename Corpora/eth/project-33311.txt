@@ -1,0 +1,2 @@
+  Physical model investigation of the bottom outlets of the GERD HEP  
+In Ethiopia, the hydro power plant GERD (Grand Ethiopian Renaissance  Dam) is currently under construction. The two bottom outlets are investigated in a hydraulic model at VAW. Special focus is laid on the flow pattern, pressure distribution and cavitation hazard and scour formation in the d/s basin.

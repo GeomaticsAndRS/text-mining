@@ -1,0 +1,2 @@
+  Energy and Endogenous Mark-ups  
+We analyze the effect of energy policy on the long-run performence of an economy within a stylized dynamic general equilibrium model. Endogenous mark-ups over production costs generate multiple equilibria, such that equilibrium selction may depend on expectations and initial conditions. 

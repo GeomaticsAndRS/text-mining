@@ -1,0 +1,1 @@
+Systems Biology of the Cancer Kinome This project aims to identify and decipher the phosphorylation mediated informational networks (ie. signaling networks) of the 120 protein kinases genetically linked to the onset of human cancer.

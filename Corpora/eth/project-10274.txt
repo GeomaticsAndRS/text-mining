@@ -1,0 +1,2 @@
+  Rheology and Thermodynamics (GENERIC) 
+When aiming at the formulation of a complete system of balance and constitutive equations one is immediately faced with fundamental issues of nonequilibrium thermodynamics.

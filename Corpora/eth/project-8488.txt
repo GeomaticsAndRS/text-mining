@@ -1,0 +1,2 @@
+  Quantitative Modeling of Quantum Magnets  
+Modern numerical algorithm, such as quantum Monte Carlo simulations, enable the precise determination of properties of quantum magnets. Simulations on models, combined with comparisons to experimental measurements allow the determination of the microscopic couplings.

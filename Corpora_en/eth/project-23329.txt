@@ -1,0 +1,1 @@
+Extra-dimensional field theory on the lattice We study the physics of field theories defined in more dimensions than the ordinary (3+1)-dimensional spacetime, by numerical Monte Carlo simulations on a lattice. The non-perturbative results can be compared with the corresponding continuum string theory.

@@ -1,0 +1,1 @@
+Subglobal climate agreement and the aluminium industry Using aluminium data, we estimate price elasticities from a dynamic panel data model with random coefficient to calibrate behavioral parameters of a plant-level spatial equilibrium model.

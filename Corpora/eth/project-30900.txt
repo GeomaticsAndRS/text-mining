@@ -1,0 +1,2 @@
+  inUse: Increasing Usability of Sensor Generated Data 
+Exploitability of sensor generated data often remains low, as it requires  reliable data, phenomenon models and domain knowledge. inUse will demonstrate the usability of air pollution data currently being gathered by a network of mobile measurement stations fixed on top of trams in Zurich.

@@ -1,0 +1,2 @@
+  HeatReserves - Demand Response for Ancillary Services: Thermal Storage Control  
+To account for the expected increase in renewable energy sources, we propose to use thermal loads as additional means for ancillary services. To achieve this, we will develop appropriate demand response schemes for the thermal loads.

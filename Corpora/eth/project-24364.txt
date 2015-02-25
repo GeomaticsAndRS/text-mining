@@ -1,0 +1,2 @@
+  Nanoparticle - light interaction 
+This project investigates the fabrication and use of nanoparticles for nanocomposites with a focus on sun light - particle interactions.

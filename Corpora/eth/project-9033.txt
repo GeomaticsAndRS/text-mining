@@ -1,0 +1,2 @@
+  In vivo proteomics  
+We have established an in vivo proteomic technology for the discovery of tissue specific targets accessible from circulation. Our approach is based on the terminal perfusion of rodents with reactive biotin derivatives. Biotinylated proteins can be purified and submitted to a proteomic analysis. 

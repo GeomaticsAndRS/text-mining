@@ -1,0 +1,2 @@
+  Redundancy in Linear and Neuromuscular Systems  
+Understanding and removing redundancy in a given data to improve computational efficiency or discover its fundamental structure is a universal problem in science and engineering, as the data or the mathematical model to be analyzed in any realistic situation often  contains redundant information.

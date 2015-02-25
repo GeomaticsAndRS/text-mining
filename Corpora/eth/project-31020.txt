@@ -1,0 +1,2 @@
+  Handling Uncertainty in Structural System Modeling 
+The main goal of this work is the treatment of uncertainties related to structural response by reduced oprder models enhanced with a probablistic framework for the description of uncertainty propagation.

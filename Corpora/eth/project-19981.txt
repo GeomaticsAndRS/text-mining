@@ -1,0 +1,2 @@
+  Micro-Finite Element Analysis of Human Bone Structures  
+Using micro-finite element models generated directly from computer reconstructions of trabecular bone (osteoporosis) it is possible to simulate a mechanical test in great  detail. In this project a highly scalable computer code is developed for solving the above memory intensive microFE problems.

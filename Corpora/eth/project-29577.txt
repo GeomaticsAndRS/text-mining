@@ -1,0 +1,2 @@
+  Adaptation and introgression: habitat adaption and the acquisition of adaptive traits via introgression in an Arabidopsis lyrata-arenosa introgression zone  
+This project focuses on the genetic basis of edaphic adaptation in outcrossing Arabidopsis species. Massive parallel DNA sequencing will be used to identify genomic regions associated with edaphic adaptation in diploid populations of A. lyrata and A. arenosa.

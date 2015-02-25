@@ -1,0 +1,2 @@
+  GNSS for Deformation and Geohazard Monitoring  
+By providing continuous observations of surface motion, permanent monitoring based on GNSS techniques help to strengthen the understanding of geological processes like landslides, rockfalls and permafrost-related slope instabilities, and can produce precious information for early-warning systems. 

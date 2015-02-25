@@ -1,0 +1,2 @@
+  A system view on the differential activities of human type I interferons (IFNaction)  
+Type I interferons form a restricted network of highly related immune cytokines that elicit differential biological responses through a single cell surface receptor. The project employs a systems biology approach to identify the molecular and cellular mechanisms  responsible for these responses.

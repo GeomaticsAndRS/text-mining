@@ -1,0 +1,2 @@
+  A nanoparticulate matrix for the development of gas-selective sensors  
+Transparent nanoparticulate ink-jet paper is an excellent matrix to create optical gas-selective sensors. Specific organometallic compounds are added by spin-coating and react with a change in the electromagnetic spectrum to the partial pressure of the target gas. The  features are surprising.

@@ -1,0 +1,2 @@
+  Low-cost sensors for single use Bioreactors (LoCoSens)  
+The continuous control of nutrients in small scale bioreactors is of high importance. Based on investigations of miniaturized screen-printed amperometric electrodes for ß-D-glucose and L-lactate, CCS focused on immobilization of oxidases and on chemical modification of the matrix.

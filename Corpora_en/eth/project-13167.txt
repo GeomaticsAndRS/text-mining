@@ -1,0 +1,1 @@
+NCCR IM2: Interactive Multimodal Information Management - Scene Analysis The project develops novel algorithms and technologies for multi-modal interfaces. It for instance brings together speech processing with computer vision. One of the focal points of the project is a smart meeting room, that increases the efficiency of meetings. Retrieval assistance also serves MM.

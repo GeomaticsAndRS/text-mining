@@ -1,0 +1,2 @@
+  Hochdynamische Stromsensoren  
+This new current probe can measure currents of high amplitude (up to kA) from DC to frequencies of more than 20 MHz. This probe is based on a PCB Rogowski coil and on the HOKA principle, both developed at and patented by EEK. Furthermore the probe is electrically insulated from the current to be mea

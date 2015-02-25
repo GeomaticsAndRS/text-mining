@@ -1,0 +1,1 @@
+Experimental investigation of unsteady inlet cavity flows in an axial steam turbine The objective of the project is to experimentally investigate the impact of different inlet cavity geometries on shrouded steam turbine performance focusing on the flow physics of the interaction zone between cavity and main flow an the caviy flow itself.

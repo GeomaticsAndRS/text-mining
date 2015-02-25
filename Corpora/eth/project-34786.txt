@@ -1,0 +1,2 @@
+  Development of Stress Test Methodology for Civil Infrastructure Systems 
+A stress test is a rational method to inform the community and the owners of an infrastructure facility about how the facility will perform in ”black swan” events, the extremely strong but extremely unlikely natural hazards that may occur alone or in cascades, and how  likely is it to fail.

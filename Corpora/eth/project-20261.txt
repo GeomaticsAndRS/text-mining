@@ -1,0 +1,2 @@
+  The pre-log of Gaussian broadcast with feedback can be two 
+We give an example of a two-user Gaussian broadcast channel with a single antenna at the transmitter and at both receivers where perfect feedback allows to achieve pre-log 2. The result can also be extended to a two-user Gaussian interference channel.

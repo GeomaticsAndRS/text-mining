@@ -1,0 +1,2 @@
+  Bioavailability of soil organic P and microbial P cycling in agricultural soils  
+This project aims to elucidate the biological processes of soil organic P mineralization by quantifying organic P substrate availability, enzymatic activity, microbial P immobilization and turnover, identifying key microbial players at a molecular level, and modeling gross P transformations.

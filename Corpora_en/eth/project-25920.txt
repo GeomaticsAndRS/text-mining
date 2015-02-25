@@ -1,0 +1,1 @@
+Chromatin Genomics and Proteomics The basic mechanisms of epigenetic gene control are studied through genome-wide profiling of PcG/TrxG activities by high throughput sequencing methods, the role of non-coding RNAs in epigenetic gene control and proteomic analyses of PcG/TrxG complexes.

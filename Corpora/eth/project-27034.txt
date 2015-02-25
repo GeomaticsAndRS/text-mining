@@ -1,0 +1,2 @@
+  Scaling behavior of topologically protected ferroelectric vortices in hexagonal manganites 
+We investigate the scaling behavior of topologically protected ferroelectric  vortices in hexagonal manganites by performing annealing experiments and subsequent ferroelectric domain imaging by piezoresponse force microscopy.

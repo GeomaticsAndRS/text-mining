@@ -1,0 +1,2 @@
+  PEGylation chemistry, PEGamers purification and PEGylated protein isomers characterisation  
+The PEGylation of therapeutic proteins is of great interest to increase the circulation half-life of bio-molecules in the organism. A model is being developed to better understand the chemical reaction of PEGylation and the adsorption process during the downstream  chromatographic separation step.

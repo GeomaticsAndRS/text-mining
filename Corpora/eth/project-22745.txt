@@ -1,0 +1,2 @@
+  Oxidation of Renewable Substrates and their Potential in Fine Chemical Synthesis 
+In this project, we study the oxidation of renewable olefins with molecular oxygen. Substrates of interest are for instance limonene and pinene. Understanding the ongoing chemistry is one of the most important objectives, besides the development of catalytic systems.

@@ -1,0 +1,2 @@
+  Recombination and DNA Damage Processing  
+The mismatch repair (MMR) system is a key guardian of genomic integrity. In this project, we plan to analyse the involvement of MMR proteins in recombination.

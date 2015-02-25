@@ -1,0 +1,2 @@
+  Smart Meter Data Analytics für Massenmarkttaugliche Energiedienstleistungen 
+Projektziel ist es, Verfahren des machinellen Lernens zu entwickeln, um relevante Haushaltscharakteristika automatisiert aus Lastprofilen abzuleiten. Die gewonnenen Informationen dienen Energieversorgern als Grundlage für Energieberatungsleistungen und zur Optimierung der Vertriebsaktivitäten. 

@@ -1,0 +1,2 @@
+  Towards identifying the flux sensor triggering Hxk2-mediated glucose repression in Saccharomyces cerevisiae. 
+Using systems biology methods as well as classical biological methods, we aim at unraveling how the hexokinase 2 system in the yeast can sense the glucose signal and how it transmits this signal to the downstream regulatory system.

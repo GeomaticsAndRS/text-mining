@@ -1,0 +1,2 @@
+  N-Linked Glycosylation of Proteins in the Endoplasmic Reticulum of Saccharomyces cerevisiae 
+N-linked protein glycosylation is a highly conserved pathway in all eukaryotic cells. We utilize the yeast system to establish the basic principles of the pathway.

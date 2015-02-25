@@ -1,0 +1,1 @@
+Electromagnetic characterisation of materials for industrial applications up to microwave frequencies The project will provide models for the tip-sample interaction and for the impedance matching network in the NSMM. These separate models allow the use of a single calibration substrate for different application modes and they account for losses and non-flat sample sufaces.

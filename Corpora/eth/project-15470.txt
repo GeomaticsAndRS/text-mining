@@ -1,0 +1,2 @@
+  Improvement, characterization and application of CYP153 enzymes 
+We aim to develop CYP153 P450 enzyme systems with higher activity, stability and/or specificity towards selected substrates, to produce alcohols, epoxides, & carboxylic acids using 3-D structure determination, in vivo selection of optimal electron transfer chains, & directed evolution of the P450s

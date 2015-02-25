@@ -1,0 +1,2 @@
+  Pressure pulse dewatering of porous media  
+Pressure pulses are applied to compressible porous media like filter cakes consisting of a packed bed of particles. In the case of dewatering and drying of such porous systems the pressure pulse induced formation of microcracks and micro convection flow improve mass transfer and related dewatering k 

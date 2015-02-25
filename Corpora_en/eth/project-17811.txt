@@ -1,0 +1,1 @@
+Efficiency in Secure Multi-Party Computations The topic of this project is secure cooperation in a distributed environment among parties that neither trust each other nor have a common party they all trust. Secure multi-party comptation (MPC) is a crucial technique in this context as it allows the simulation of a trusted party.

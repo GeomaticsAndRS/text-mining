@@ -1,0 +1,1 @@
+Developmental engineering of endochondral ossification from mesenchymal stem cells We are developing a mathematical model for the processes that govern endochondral ossification during embryogenesis. With the help of the model we seek to help the in vitro engineering of bone.

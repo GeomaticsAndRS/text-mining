@@ -1,0 +1,1 @@
+Genome mining for new bioactive natural products Many bacterial genomes contain a large number of gene clusters involved in the production of bioactive metabolites that have not been discovered under standard cultivation conditions. Aim of this project is to develop and apply methods for the identification of these cryptic compounds.

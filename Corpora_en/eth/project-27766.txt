@@ -1,0 +1,1 @@
+VIGOR++ VIGOR++ is an European research project that aims to create a personalised gastrointestinal tract model. This model is designed to facilitate accurate detection and grading of CrohnŠs disease, so that the treatment of the disease becomes personalized, patient friendly, and effective.

@@ -1,0 +1,1 @@
+Population-based analysis of tractography data The functional repertoire of a cortical area is closely related to its anatomi- cal connections. A segregated cortical area may therefore be characterized by a coherent connectivity pattern. The aim of this project is to study the consistency and heterogeneity of connectivity patterns across subjects.

@@ -1,0 +1,2 @@
+  OPTIMAL MAPPING OF APPLICATIONS ONTO MULTI-CORE SYSTEMS UNDER THERMAL CONSTRAINTS 
+High performance embedded systems need to combine predictability and efficiency. High performance and low power expenditure need to be provided, with guarantees on worst case timing and temperatures. Our research will explore promising application and research  domains based on the Intel SCC platform

@@ -1,0 +1,1 @@
+Coupled and competing instabilities in perovskite materials This project aims at elucidating the coupling and competition of instabilities in bulk perovskites as well as oxygen-rich LaTiO(3+x) layered perovskite materials by means of density functional theory calculations with the ultimate goal of designing new multiferroic materials.

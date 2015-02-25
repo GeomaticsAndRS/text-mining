@@ -1,0 +1,1 @@
+Cosmological Probe Integration Development of an integrated treatment of the cosmological probes through three interlinked sub-projects: Development of theoretical framework for the integrated treatments of the probes; performance of a re-analysis of the COSMOS survey and integration of galaxy clustering and CMB probes.

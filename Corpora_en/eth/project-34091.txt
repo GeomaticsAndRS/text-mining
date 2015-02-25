@@ -1,0 +1,1 @@
+Multi-Disciplinary Lattice Generation and Optimization for Additive Manufacture This project focuses on generating alternative lattice structures considering structural requirements, geometric constraints and constraints for additive manufacturing processes. It will consider large-scale, truss and beam structures and optimize these structures for multiple objectives.

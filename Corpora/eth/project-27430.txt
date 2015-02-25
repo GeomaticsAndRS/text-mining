@@ -1,0 +1,2 @@
+  Algebraic Foundations of Integrability in the Planar Gauge/String Duality  
+In this project we establish and develop further the mathematical structures of Quantum Algebra that underlie integrability and related novel efficient computational tools within the context of the AdS/CFT correspondence.

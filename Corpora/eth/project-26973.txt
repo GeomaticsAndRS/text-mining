@@ -1,0 +1,2 @@
+  On the lattice engineering of magnetoelectric coupling  
+Magnetoelectric responses (ME) – that is the electric polarization created by an applied magnetic field – are small. Here we investigate, by first principle methods, the lattice contributions to the ME to find new routes for engineering materials with enhanced couplings. 

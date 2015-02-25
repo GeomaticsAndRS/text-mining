@@ -1,0 +1,2 @@
+  General Insurance Risk Processes 
+Risk processes are becoming increasingly important in applications in insurance and finance. In this project we investigate risk processes where the intensity is driven by economic factors. The loss distributions are assumed to be heavytailed.

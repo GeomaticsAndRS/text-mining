@@ -1,0 +1,2 @@
+  Metabolomics of Shigella-infected Hela cells  
+The infection of Hela cells by the pathogenic bacterium Shigella will be investigated towards a comprehensive understanding of infectious diseases and as a rational basis to develop control strategies. We develop and apply LC-HRMS methods for metabolite detection, identification, and quantification. 

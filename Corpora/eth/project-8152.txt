@@ -1,0 +1,2 @@
+  Molecular Recognition in Chemistry and Biology  
+Multi-dimens. approach to understand molecular recognition in chemistry and biology. Includes: complexation stud. with proteins and synthetic receptors, data base mining in Cambridge Structural Database (CSD) and Protein Data Bank (PDB), comput. stud. (collab.), protein & small molecule crystallogr.

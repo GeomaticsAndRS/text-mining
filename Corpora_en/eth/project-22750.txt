@@ -1,0 +1,1 @@
+Design of Selective Epoxidation Catalysts Epoxidations of olefins with H2O2 as oxygen donor are the topic of intense research. However, the nature of the selectivity determining intermediates is not yet fully known. This projects aims at a structure-activity-relationship between various model catalysts.

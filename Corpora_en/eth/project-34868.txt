@@ -1,0 +1,1 @@
+Operando studies on the role of CO2 in the conversion of syngas to methanol over industrial catalysts This project aims at elucidating the promotional effect by CO2 in metha- nol synthesis in terms of metal structure and environment as well as of surface intermediates over a commercial Cu-ZnO-Al2O3 catalyst by operando XAS and DRIFTS studies.

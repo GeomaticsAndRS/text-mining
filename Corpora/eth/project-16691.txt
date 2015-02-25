@@ -1,0 +1,2 @@
+  Nanostructured materials from nanoparticles  
+The project investigates the use of nanoparticles as a source for the fabrication of nanocomposites with a focus on fuel cells, filtration and functional polymers. 

@@ -1,0 +1,2 @@
+  In-cylinder combustion research for the determination of turbocharging requirements for future large diesel engines with Miller valve timing, exhaust gas recirculation and multiple injections  
+This project aims to provide an understanding of the phenomena which lead to problems with Scold ¸ Tˇ combustion, as well as provide solutions which will allow the application of Miller valve timing for increased NOx reduction and offer guidelines which will help  with future turbocharger system design.

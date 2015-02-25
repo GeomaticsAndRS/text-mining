@@ -1,0 +1,2 @@
+  NA61/SHINE studies hadron production in hadron-nucleus collisions at the CERN SPS  
+The experiment provides hadron production reference measurements for neutrino (T2K) and cosmic-ray (Pierre Auger Observatory) and KASCADE experiments.

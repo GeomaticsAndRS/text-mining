@@ -1,0 +1,2 @@
+  M3 Lab - Multi-Modal Motion Synthesis Laboratory  
+The goal of the M3 Lab is the investigation of the neurological and biomechanical principles of human motor learning and motor control. The Lab is intended to be applied for motor learning, movement optimization, rehabilitation, sports simulation and motivation studies 

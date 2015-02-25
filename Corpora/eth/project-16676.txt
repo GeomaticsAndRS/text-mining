@@ -1,0 +1,2 @@
+  2D/3D Registration of Medical Images  
+A task which occurs frequently in the operating theater consists of matching a 3D-computed tomography (CT) scan of a patient taken previously for diagnostic purposes with a 2D X-ray projection acquired in situ during the operation. Accordingly, 2D/3D patient-toCT registration is a method to determi

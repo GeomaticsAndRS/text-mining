@@ -1,0 +1,2 @@
+  Upgrade of the CMS Barrel Pixel Detector for LHC phase 1  
+The Barrel Pixel Detector of the Compact Muon Solenoid experiment will be upgraded for the Phase 1 data taking period of the Large Hadron Collider (LHC) at CERN. The  IPP group of ETH Zurich participates in the context of the Swiss Consortium, consisting of ETHZ, PSI and UZH.

@@ -1,0 +1,2 @@
+  Genetic screening in haploid mouse stem cells for silencing factors involved in X inactivation  
+In mammals, one of the two X chromosomes is transcriptionally inactivated early in female embryos. To understand the mechanism of chromosome-wide gene silencing and identify new epigenetic regulators a forward genetic screen is performed based on haploid embryonic stem cells. 

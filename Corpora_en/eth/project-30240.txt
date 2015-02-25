@@ -1,0 +1,1 @@
+Agile and Robust Locomotion with Compliant Quadrupeds The primary goal of this project is to design, build, and control a quadrupedal robot that is able to perform life-like, versatile and agile locomotion.

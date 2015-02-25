@@ -1,0 +1,2 @@
+  Evaluation of CFD software for modeling of flow and sedimentation processes in desilting facilities of alpine hydropower plants 
+Three numerical software packages are evaluated regarding the capabili-  ties to simulate 3D flow and settling processes in desilting facilities of alpine hydropower plants. Among others, field data was used for comparison. The primary objective is the optimization of existing and planned facilities.

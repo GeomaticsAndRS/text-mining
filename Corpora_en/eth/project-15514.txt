@@ -1,0 +1,1 @@
+The gamma gerbe The elliptic gamma function is a generalization of the Euler gamma function. It obeys a set of identities of modular type for the group SL(3,Z)xZˆ3, generalizing the modular properties of the Jacobi theta functions. The underlying geometric object is a gerbe on the universal triptic curve.

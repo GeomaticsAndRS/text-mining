@@ -1,0 +1,1 @@
+Direct and Large-Eddy Simulation of Compressible Swirling Flows The development of a high-fidelity numerical code for the simulation of compressible flows in cylindrical geometry has been completed. For code validation simulations of a tripole vortex formation have been performed.... ( See also http://www.ifd.mavt.ethz.ch )

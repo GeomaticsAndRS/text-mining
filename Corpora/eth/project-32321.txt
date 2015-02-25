@@ -1,0 +1,2 @@
+  Testinstallation Entwicklungsmuster eines vorfabrizierten, grossflächigen Dachmodulsystems mit hybridisierter Photovoltaik 
+Projektziel ist die Umsetzung der Konzeptentwicklung eines neuartigen System-Bauelements in einer Testanlage. Das Bauelement erfüllt alle Funktionen der Gebäudehülle: Die äusserste Schicht ist als integrierte Strom- und Wärmeerzeugung in Form von PV/T Kollektoren ausgebildet. 

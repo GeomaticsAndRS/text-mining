@@ -1,0 +1,2 @@
+  Cheap, textile based whole body sensor sensing system for interaction, physiological monitoring and activity recognition  
+New approach for creating smart textiles and functional garments. The basic idea is to separate sensing textile production, garment manufacturing, the hardware platform, and the software implementation by well-defined abstractions and interfaces. 

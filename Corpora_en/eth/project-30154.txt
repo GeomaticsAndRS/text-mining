@@ -1,0 +1,1 @@
+CERTAINTY: Certification of Real Time Applications Designed for Mixed Criticality CERTAINTY will introduce a disruptive methodology for the design of complex critical applications allowing safety and time criticality aspects composition, taking into account disturbances as elements of the problem space, identifying analysis methods and techniques supporting this new approach.

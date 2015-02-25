@@ -1,0 +1,2 @@
+  Game theoretic representation of cultural clustering  
+We use a dynamic game to explain the evolution of stable social clusters with diverging norms. Over several generations, members can move their normative stance to maximize the probability of beneficial interaction. In contrast to earlier work in this area, the normative space is n-dimensional. 

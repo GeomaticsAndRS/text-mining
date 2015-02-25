@@ -1,0 +1,1 @@
+New tribo-cone-test for detection of tribo coefficients under bulk metal forming conditions In the bulk metal forming processes usualy a complex shear friction behavior occurs. For the measurement of the tribo-model-parameters a new measurment method - the Tribo-Cone-Test - was developped. The test allows a free selection of load, velocity and thermal conditions.

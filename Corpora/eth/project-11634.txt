@@ -1,0 +1,2 @@
+  Influence of particle shape on the extrusion behaviour and microstructuring of concentrated suspensions through cylindrical dies 
+The rheology of suspensions/emulsions with shaped particles is quantified and implemented into the mixed shear / elongation flow fields of a conical extruder entrance region. Expe-  rimental studies, numerical simulation and modelling will be done in parallel and results compared.

@@ -1,0 +1,2 @@
+  SOSTOOLS: a sum of squares optimization toolbox  
+A free MATLAB toolbox for formulating and solving sums of squares (SOS) optimization programs. SOSTOOLS can be used to specify and solve sum of squares polynomial problems using a very simple, flexible, and intuitive high-level notation.

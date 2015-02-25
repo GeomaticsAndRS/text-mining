@@ -1,0 +1,2 @@
+  Multi-trace Boundary Integral Equations 
+In the spirit of domain decomposition we develop boundary integral equations for electromagnetic and acoustic scattering that comprise decoupled local problems on subdomains occupied by a single material. The lend themselves to local operator preconditioning. 

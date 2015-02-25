@@ -1,0 +1,2 @@
+  Role of long lipid chains in the formation of diffusion barriers in the ER 
+The membrane of the endoplasmic reticulum of eukaryotic cells is compartmentalized by a diffusion barrier in the future plane of cleavage. We are dissecting the role of specialized lipids, particularly ceramides, in the formation of this barrier and in the underlying biophysics of the membrane.

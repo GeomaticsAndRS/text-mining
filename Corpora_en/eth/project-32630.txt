@@ -1,0 +1,1 @@
+Gas-liquid transport phenomena in a structured pipe reactor Gas-liquid two-phase flows in porous structures are investigated by optical measurement techniques. Optical access is provided by index matching of the liquid phase and the structure material. Shadowgraphy, PTV and PIV are applied to determine bubble size and velocity.

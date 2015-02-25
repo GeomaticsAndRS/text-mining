@@ -1,0 +1,1 @@
+A Synthetic Biology Approach to Engineering of Bacterial Methylotrophy Within this project we will apply Synthetic Biology principles for cell factory development in order to harness methanol as a general feedstock for chemical production.

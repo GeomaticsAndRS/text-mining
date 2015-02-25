@@ -1,0 +1,2 @@
+  Direct numerical simulation of flow, heat transfer, and autoignition in engine-like geometries  
+This project aims at performing large scale direct numerical simulations in engine-like geometries employing a highly scalable and effiecient parallel, spectral element low  Mach number code to shed light into the complex interactions between flow and thermochemistry in unsteady engine flows.

@@ -1,0 +1,2 @@
+  Detection of single nanoparticles covered by infrared emitting quantum dots 
+Here we study nanoscopic source of emission in the near-infrared region. We apply confocal microscopy and fluorescence lifetime measurements to characterize the photophysics of these particles. We are interested in coupling these particles to photonic crystals.

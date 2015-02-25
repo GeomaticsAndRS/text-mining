@@ -1,0 +1,1 @@
+Development of gold nanoparticles as biological optical labels We have developed an interferometric technique for detection of single gold nanoparticles down to a diameter of 5nm. Furthermore, we apply white-light confocal microscopy to record plasmon spectra from single nanoparticles.

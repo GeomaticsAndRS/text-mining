@@ -1,0 +1,1 @@
+Magnetohydrodynamics for Discharge Plasmas The flow of plasma in interaction with a magnetic field is described by the equations of magnetohydrodynamics (MHD). This project investigates the modeling and numerical simulation of industrial discharge plasmas, like in circuit breakers, based on variants of MHD.

@@ -1,0 +1,2 @@
+  Magnetostrophic Flow in Experiments and the Earth’s Core (MFECE) 
+This is an analogue experimental investigation of fluid mechanics in a rapidly rotating environment, with or without the presence of magnetic fields. A variety of electrically conducting and non-conducting fluids will be used.

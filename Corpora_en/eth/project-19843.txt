@@ -1,0 +1,1 @@
+Zeeman deceleration of radicals Multistage Zeeman deceleration of atoms and molecules is developed as a means to generate samples of cold atoms and molecules at rest in the laboratory frame starting from supersonic jet expansions.

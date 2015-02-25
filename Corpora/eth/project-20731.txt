@@ -1,0 +1,2 @@
+  Model-based Control of Three-way Catalytic Converters  
+Model-based control strategies of a three-way catalytic converters (TWC) are investigated. The focus lies on high conversion efficiencies during transients and optimal oxygen depletion after drag phases. 

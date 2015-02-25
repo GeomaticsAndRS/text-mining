@@ -1,0 +1,2 @@
+  Erhöhung des Leichtbaupotentials von Al-Werkstoffen im Fahrzeugbau für komplexe Strukturteile durch Einsatz neuartiger funktionaler Al-Fusion-Laminate  
+Das Ziel des Projektes ist sowohl die Weiterentwicklung der neuartigen Al-Fusion-Werkstoffe als auch die Bereitstellung entsprechender mathematischer Fliess- und Versagensmodelle, um sie der virtuellen Planung der Fertigungsprozesse zugänglich zu machen.

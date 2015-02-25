@@ -1,0 +1,1 @@
+Flexible Electronics Oxide semiconductors like InGaZnO, and ZnO are used to fabricate thinfilm transistors and circuits on flexible plastic substrates. The influence of mechanical strain on the electrical performance of these structures is evaluated to enable the production of flexible and rollable electronic devices.

@@ -1,0 +1,1 @@
+MERCO - Mediated Effective Remote Collaboration The outcome of this project will be a collaboration system in hard- and software, which can be deployed by the partners to improve net-based collaboration

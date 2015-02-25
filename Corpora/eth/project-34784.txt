@@ -1,0 +1,2 @@
+  Natural Hazard Resilience of Interacting Civil Infrastructure Systems  
+Civil infrastructure systems are robust, but depend on each other to function. Damage in one system my induce disruptions in another. The objective is to model the infrastructure system interdependency and to investigate the resilience of the system of systems under various natural hazards. 

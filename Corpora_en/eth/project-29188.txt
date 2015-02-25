@@ -1,0 +1,1 @@
+Enzymatic reactions of polar steryl conjugates This project aims to identify the enzymes that are responsible for sterol conjugation and sterol conjugate hydrolysis, define the optimal conditions for each of the reactions, and characterize the properties of the steryl conjugates as functional food ingredients.

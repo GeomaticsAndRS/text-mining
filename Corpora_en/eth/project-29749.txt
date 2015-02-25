@@ -1,0 +1,1 @@
+SwissSIMS: A request for a Swiss National Dynamic Secondary Ion Probe Facility This project aims at building a state of the art analytical laboratory for solid materials. The facility is conceived as a Swiss National research facility, designed to resolve analytical questions with respect to geo-science materials and solid material in general.

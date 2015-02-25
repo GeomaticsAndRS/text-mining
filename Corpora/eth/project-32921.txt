@@ -1,0 +1,2 @@
+  Nonlinear acoustic lenses  
+We developed a new way to focus pulses of sound for nondestructive evaluation of materials, taking advantage of the unique properties of wave propagation in an array of columns of steel spheres. We are now testing this device on different media to answer basic physics questions behind its operation. 

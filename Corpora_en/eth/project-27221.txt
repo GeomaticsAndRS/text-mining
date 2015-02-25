@@ -1,0 +1,1 @@
+Uncertainty in CGE models The aim of this project is to push forward the representation and application of uncertainty in CGE models. A primal application of the technique will be a simulation of a nuclear phase-out in Switzerland.

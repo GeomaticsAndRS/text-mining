@@ -1,0 +1,1 @@
+HiQLab: High Frequency MEMS Simulation The development of next generation MEMS filters and sensors will require high quality design simulation software. This project focuses on the development of open sourse software for the efficient accurate simulation of high-frequency MEMS resonators.

@@ -1,0 +1,2 @@
+  Prohl, A.: Numerical Analysis of Power-Law Fluids  
+n order to model building of polymeric chains in electrorheological fluids or orgainization of particels (i.e., macro aggregates or roleaux) in blood flows, so called power-law ansatzes are often in use to describe some characteristic nonnewtonian behavior of the fluid flow.

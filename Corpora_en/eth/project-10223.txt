@@ -1,0 +1,1 @@
+Gene-general transcription Factor TFIID TFIID is the factor determining exactly where RNA pol II will begin transcribing a gene. Currently, we are assembling the 12-14 subunit TFIID complex recombinantly by coexpression using MultiBac, a baculovirus system we developed.

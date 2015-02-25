@@ -1,0 +1,1 @@
+Thermal hydraulics of solar thermal plants The thermal hydraulics of low temperature solar thermal plants are investigated by computer simulations as well as experimental means. The main focus is placed on two phase flow operations during stagnation and/or in the presence of non condensable gases.

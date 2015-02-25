@@ -1,0 +1,1 @@
+Nonparametric Representations for Integrated Inference, Control and Sensing The project addresses basic research challenges in obtaining representations for multi-modal sensor data which enable integrated probabilistic reasoning and control of sensing resources.

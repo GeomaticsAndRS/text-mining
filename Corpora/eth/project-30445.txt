@@ -1,0 +1,2 @@
+  COTHERM - COmbined hydrological, geochemical and geophysical modelling of geotTHERMal systems 
+COTHERM aims at a better understanding of subsurface processes in natural high-temperature geothermal systems. COTHERM combines cutting-edge hydrological, geochemical and geophysical modeling techniques with case studies on two Icelandic geothermal systems.

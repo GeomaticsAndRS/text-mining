@@ -1,0 +1,1 @@
+SCCER-Furies In the project, hybrid circuit breakers for DC distribution & transmission grids (MV and HV) and test current sources (10kV/30kA) for DC breakers with arbitrary current shape are investigated.

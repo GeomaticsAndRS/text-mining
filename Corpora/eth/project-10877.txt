@@ -1,0 +1,2 @@
+  Structure of polymers and heterogeneous materials at the molecular level by NMR 
+NMR is well suited to characterize the structure of disordered materials (characterized by distributions of distances and torsion angles. We aim at developping twodimensional correlation experiments to further improve the method. 

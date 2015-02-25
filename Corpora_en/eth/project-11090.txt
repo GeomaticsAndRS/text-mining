@@ -1,0 +1,1 @@
+Quantum entanglement and convex optimization In collaboration with colleagues from the IQI at Caltech, we study computationally efficient solutions to the problem of recognizing and certifying when bipartite quantum states possess the entanglement property.

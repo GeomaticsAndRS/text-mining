@@ -1,0 +1,1 @@
+Age-hardening behavior of Al alloys This project deals with early-stage precipitation processes in aluminum alloys. A focus is on the control of excess vacancy motion by the addition of trace elements to develop materials showing significantly improved properties together with a more efficient and sustainable production process.

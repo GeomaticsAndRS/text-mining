@@ -1,0 +1,1 @@
+Full waveform density tomography We develop and apply a novel technique for seismic tomography that better constrains density variations in the EarthŠs upper mantle. In contrast to the classically estimated velocity variations, density remains largely unknown due to data and methodological limitations.

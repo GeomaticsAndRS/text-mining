@@ -1,0 +1,2 @@
+  (photo-)electochemisty beyond GGA DFT  
+The project goal is to establish advanced electronic structure methods such as RPA and MP2 for aqueous electrochemistry and ultimately solid/liquid interfaces.

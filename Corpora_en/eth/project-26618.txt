@@ -1,0 +1,1 @@
+Digital Stereotomy This research is developing a method for tessellating free-form masonrylike vaults, which is influenced by the general shape of the surface (design intent), its visual appearance (tectonics), the structural analysis (force flow) and fabrication as well as material constraints.

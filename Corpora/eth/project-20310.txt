@@ -1,0 +1,2 @@
+  ˝ Using the Next Generation Proteomics Data Analysis Strategies U Power of Multiple Search Strategies  
+Development of new strategies and algorithms for the combination of database search results with the goal of achieving confident protein identification based on mass spectrometry data. 

@@ -1,0 +1,1 @@
+Distributed Flight Array The Distributed Flight Array consists of individual vehicles that are capa- ble of assembling, coordinating, and taking flight. The vehicles will hover in the air until they run out of power. At which point, they will break apart and fall back to the ground before beginning the process all over again.

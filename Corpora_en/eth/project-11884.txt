@@ -1,0 +1,1 @@
+Cluster-and cloud-supported high throughput MS/MS data analysis Development of high performance computational workflows for the analysis of high content mass spectrometry data - application of cluster computing.

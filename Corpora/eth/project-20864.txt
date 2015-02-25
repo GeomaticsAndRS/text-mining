@@ -1,0 +1,2 @@
+  Spinal and Cortical Representation (fMRI) of Gait in Chronic Cord Injury  
+This project evaluates the rehabilitative training of spinal cord injured patients by measuring brain activity during functional magnetic resonance imaging (fMRI). During fMRI, a newly developed MR-compatible stepper provides gait-like movements (rotations in hip and knee joints, foot loading). 

@@ -1,0 +1,2 @@
+  Current Balancing in High-Current Density All - Silicon Carbide Power Modules for High Reliability and Low Cost  
+The scope of this project is to achieve current balance among chips assembled in a all Silicon Carbide power module by the use of simulation tools. 

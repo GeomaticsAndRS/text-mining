@@ -1,0 +1,2 @@
+  SBaeyer-Villigerase ¸ clone libraries for biocatalysisTˇ  
+We are investigating various (cyclo)aliphatic compounds degraders as a source of Baeyer-Villiger Oxygenases. Heterologous expression and characterization of the different BVMO genes isolated using a degenerate PCR approach will result in a clone library as a valuable tool for biocatalysis. 

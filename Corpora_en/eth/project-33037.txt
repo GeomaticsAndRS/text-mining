@@ -1,0 +1,1 @@
+CABMM Start-up We develop shRNA vectors which knock-down the NF-kB pathway and real-time monitoring of chondrogenic promoter activity. Transcription of shRNA will be driven by either a constitutive active promoter or a promoter that is known to be activated in chondrocytes under inflammatory conditions (MMP-13).

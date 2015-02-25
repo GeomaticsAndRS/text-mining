@@ -1,0 +1,1 @@
+A Web-based Infrastructure for the Internet of Things This project investigates approaches to provide a management architecture for the integration, description, discovery, and lookup of smart devices. Based on such an infrastructure, clients will be able to find and utilize services and to integrate device functionality within physical mashups.

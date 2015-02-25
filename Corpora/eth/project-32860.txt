@@ -1,0 +1,2 @@
+  CubETH  
+CubETH is a Swiss nano-satellite project. ETH is responsible for the science payload of the satellite, which will be equipped with single-frequency GNSS receivers. Science goals are precise orbit determination, attitude determination, GNSS comparison/combination and some experimental measurements.

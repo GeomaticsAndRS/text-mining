@@ -1,0 +1,1 @@
+OpenSense II: Crowdsourcing High-Resolution Air Quality Sensing OpenSense II is a follow up project of the Nano-Tera.ch project OpenSense. By adding the dimension of crowdsourcing OpenSense II studies possibilities to incentivize users to make available pollution monitoring data measured in their homes or by their cars.

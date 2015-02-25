@@ -1,0 +1,2 @@
+  Galaxy Evolution with the Dark Energy Survey 
+We use the few hundred million galaxies provided by the Dark Energy Survey (DES) to study the evolution of galactic populations with redshift and environment.

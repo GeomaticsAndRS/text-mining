@@ -1,0 +1,2 @@
+  Complex chemical reactions  
+We develop and apply a combination of ab-initio MD and methadynamics to explore complex chemical reactions which include reactions in solution and in the presence of surfaces. Examples of applications are prebiotic reactions and catalytic processes of industrial relevance. 

@@ -1,0 +1,2 @@
+  Development of a high sensitivity mass spectrometry source for geological applications  
+In this project, we will develop and optimize a new ion source for thermal ionisation mass spectrometry with superior ionization efficiency and transmission. This project is done in collaboration with CEA (Commissariat à l’Energie Atomique, France). 

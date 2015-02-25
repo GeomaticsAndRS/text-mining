@@ -1,0 +1,1 @@
+Theory and Algorithms for Modular Network Analysis We propose to develop new conceptual and technical approaches to study large-scale dynamic models with a focus on biochemical signaling networks. A focus will be on the class of monotone systems, which has intriguing dynamic properties and is yet characterized by purely qualitative features.

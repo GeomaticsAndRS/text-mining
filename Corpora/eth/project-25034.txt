@@ -1,0 +1,2 @@
+  Protein and gene model inference based on statistical modeling  
+One of the major goals of proteomics is the comprehensive and accurate description of a proteome. We present Markovian Inference of Proteins and Gene Models (MIPGEM), a statistical model based on clearly stated assumptions to address the problem of protein and gene model inference 

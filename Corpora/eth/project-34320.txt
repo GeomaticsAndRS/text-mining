@@ -1,0 +1,2 @@
+  Extending the Ramsey Equation further: Discounting under Mutually Utility Independent and Recursive Preferences 
+I revisit the consumption discount rate for a mutually utility independent decision maker with Kreps-Porteus recursive preferences.

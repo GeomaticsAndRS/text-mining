@@ -1,0 +1,2 @@
+  Direct Re-use of Waste Heat from Liquid-Cooled Supercomputers: Towards Low Power, High Performance, Zero-Emission Computing and Datacenters 
+A liquid-cooled supercomputer will be connected to the ETH heating system to re-use the waste heat in order to reduce carbon emissions. The analysis includes modelling  of the heat sink and exergy analysis for optimisation purposes.

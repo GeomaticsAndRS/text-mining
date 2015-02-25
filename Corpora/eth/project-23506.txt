@@ -1,0 +1,2 @@
+  Reliable and Efficient Concurrent Object-Oriented Programs 
+Concurrency is the obligatory road to the future of programming. We have developed the SCOOP mechanism for concurrent computation; in this project we develop it further, generalize it, study the formal underpinnings, and apply it to many important concurrent examples.

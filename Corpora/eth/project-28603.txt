@@ -1,0 +1,2 @@
+  Analysis of Data taken with the Compact Muon Solenoid (CMS) Experiment at the LHC. 
+The project exploits data being taken by the Compact Muon Solenoid (CMS) Detector operating at the Large Hadron Collider at CERN. Aim of the project is the discovery of the Higgs boson (if it exists) and of Physics beyond the Standard Model (SM) as well as  precision measurements of SM parameters.

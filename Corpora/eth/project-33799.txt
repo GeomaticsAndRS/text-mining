@@ -1,0 +1,2 @@
+  Interactive Modeling and Animation of Realistic Digital Human Faces  
+Modeling and animation of digital human faces have been major challenges for a diverse set of fields. In this project, we develop novel interactive tools, metaphors, algorithmic techniques, and representations for intuitive synthesis and modification of realistic facial models.

@@ -1,0 +1,1 @@
+Jet-Powered Wingsuit A multidisciplinary, pioneering research project to explore the potential of true human flight, by developing a fly-by-wire control system to increase the manoeuvrability, stability, range, and safety of a jet-powered wingsuit.

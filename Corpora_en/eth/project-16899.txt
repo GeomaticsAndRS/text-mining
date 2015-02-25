@@ -1,0 +1,1 @@
+Knowledge Based Dynamic Landscape Analysis and Simulation for Alpine Environments Based on contributions from the disciplines of landscape visualizati- on/virtual reality, modeling theory/theoretical systems ecology, and geographic information science, a system is designed and developed to jointly model, analyze and visualize landscape dynamics at various scales

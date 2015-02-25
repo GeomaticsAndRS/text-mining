@@ -1,0 +1,2 @@
+  Collective multi-mode effects in Cavity QED  
+The goal of this project is to investigate the control of spontaneous emission of single quantum emitters in complex multi-mode cavities.

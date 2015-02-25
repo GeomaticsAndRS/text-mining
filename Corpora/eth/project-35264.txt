@@ -1,0 +1,2 @@
+  Hyperelastic Hybride Membrane For Biomimetic Blood Propulsion  
+Project is dealing with the development of an implantable single-ventricular pump based on a hyperelastic hybrid membrane.

@@ -1,0 +1,2 @@
+  Mathematical Methods in Financial Management (NCCR-Proposal: Financial Valuation and Risk Management  
+We research quantitative aspects of Financial Risk Management, especially the applications of Extreme Value Theory and Copula modelling. Special attention is given to the modelling of Operational Risk in the context of Basel II (for banking) and Solvency 2 (for insurance). 

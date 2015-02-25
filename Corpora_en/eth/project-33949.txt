@@ -1,0 +1,1 @@
+Defects, domains and domain walls in InMnO3 A collaboration with the group of S.W. Cheong in Rutgers to investigate various domain and domain-wall formation in multiferroic hexagonal InMnO3. Density functional theory and symmetry analysis are carried out to describe the observed domain patterns.

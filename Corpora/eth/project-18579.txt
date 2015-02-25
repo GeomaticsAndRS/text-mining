@@ -1,0 +1,2 @@
+  Incorporating 3-D EM induction into geomagnetic field modelling  
+We attempt to include 3-D EM induction in the oceans into a new generation of Comprehensive Model 

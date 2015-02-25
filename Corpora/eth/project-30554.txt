@@ -1,0 +1,2 @@
+  Robust risk aversion  
+We investigate whether the set of Kreps and Porteus (1978) preferences include classes of preferences that are stationary, monotonic and well ordered in terms of risk aversion. We prove that the class of preferences introduced by Hansen and Sargent (1995) is the only one fulfilling these properties 

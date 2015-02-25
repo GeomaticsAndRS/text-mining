@@ -1,0 +1,2 @@
+  Polytopes, Matroids and Polynomial Systems – Studies through the fusion of geometric, combinatorial and algebraic algorithms  
+This project concerns research themes that interlink four domains: combinatorics, algebra, geometry and optimization. We study I. Classifications of Oriented Matroids II. State Polytopes of Polynomial Ideals  III. Minkowski Addition of Polytopes IV. Solving Polynomial Systems and SDPs

@@ -1,0 +1,1 @@
+Computational Nano-Optics: Shape calculus and Inverse Problems Based on mathematical tools from shape calculus and numerical methods for wave propagation we tackle the following task for optical nano-structures: (i) shape sensitivity analysis, (ii) shape optimization, (iii) inverse problem for SNOMs, (iv) shape uncertainty quantification.

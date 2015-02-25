@@ -1,0 +1,1 @@
+Postponing Aggregate Risk with a PAYG Social Security System If households discount the future and are sufficiently asset rich then a PAYG system can increase welfare even if the correlation of aggregate wage and return risk is positive. This is so because the correlated aggregate risk is postponed to the future which is discounted.

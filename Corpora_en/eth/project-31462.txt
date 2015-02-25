@@ -1,0 +1,1 @@
+Evaluating Climate Policies in the Electricity Sector with a Hybrid Top-Down/Bottom-Up Model This project analyses the impact of climate policies on electricity generation within a general equilibrium framework.

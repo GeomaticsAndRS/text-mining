@@ -1,0 +1,1 @@
+Practical Synthesis for Concurrent Systems The goal of this project is to develop new scalable tools and techniques that can automatically synthesize difficult and critical aspects of concurrent programs and even synthesize entire realistic concurrent algorithms.

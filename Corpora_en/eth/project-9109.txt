@@ -1,0 +1,1 @@
+Pressure and Oxygen Sensing Using Fluorescent Paints Fluorescence quenching is an optical effect which can be used to detect changes in oxygen concentration and thus also air pressure. Starting from applications in aerospace measurement the technology is be ported to other industrial environments requiring remote and wireless gas sensing.

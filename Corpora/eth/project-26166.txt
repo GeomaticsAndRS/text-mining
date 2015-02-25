@@ -1,0 +1,2 @@
+  Shear-band dynamics in bulk metallic glasses and their mechanical and structural origins  
+The aim of the project is to study the dynamics of shear operations which occur during inhomogeneous deformation of bulk metallic glasses. It is also the aim to study the shear-band structure at the nanometer and atomic levels by 3D atom probe techniques and TEM, using an in situ deformation stage.

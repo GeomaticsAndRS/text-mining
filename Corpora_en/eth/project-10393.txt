@@ -1,0 +1,1 @@
+Small monotopic membrane proteins: chaperones for complex assembly? Computational analysis of genes encoding this class of proteins from various completely sequenced bacteria. Structural analysis of CcmD involved in the assembly and/or stability of the heme chaperone CcmE in the membrane. (Collaboration with K. Pervushin). Functional analysis of E. coli CcmD.

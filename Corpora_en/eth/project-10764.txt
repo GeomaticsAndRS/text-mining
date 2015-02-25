@@ -1,0 +1,1 @@
+Accurate prediction of target ligand affinities After a preliminary computational screening of ligand libraries the leads need to be optimized by more accurate computations. We develop an accurate and efficient metadynamicsbased method for the computation of target ligand affinities, a crucial step for fully automated lead screening.

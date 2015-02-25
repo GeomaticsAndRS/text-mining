@@ -1,0 +1,2 @@
+  Diagrammatic Monte Carlo methods for fermions 
+The purpose of this project is to develop new or improved algorithms for the simulation of fermionic systems. These new methods are based on a stochastic sampling of Feynman diagrams and will be useful for the study of correlation effects in quantum dots and transition metal / rare earth compounds.

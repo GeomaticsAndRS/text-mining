@@ -1,0 +1,2 @@
+  Discrete FD  
+The project ’discrete FD’ develops and tests new computer aided forms of risk management & optimization in the field of real estate development and facility management. This will be achieved through an event based simulation for the operation and utilization as well  as the efficiency of facilities.

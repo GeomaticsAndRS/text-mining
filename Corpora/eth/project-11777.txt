@@ -1,0 +1,2 @@
+  COST720: Integrated ground-based remote-sensing stations for atmospheric profiling 
+Windprofiler sind spezielle Doppler-Radar, die vertikale Windprofile mit hoher zeitlicher Auflösung liefern. Die sehr schwachen rückgestreuten Signale erfordern eine aufwändige Datenverabreitung. Zur Zeit werden neuronale Netzte zu Eliminierung von Bodenechos und Störsignalen von Vögeln entwickelt.

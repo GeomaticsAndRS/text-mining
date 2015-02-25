@@ -1,0 +1,1 @@
+Toyota - 3D reconstruction The Toyota project focuses on passive 3D reconstruction from a stereo vi- deo sequence. Special focus lies on the 3D reconstruction of poorly textured indoor environments.

@@ -1,0 +1,2 @@
+  GAMMA Software Module for Spaceborne SAR Tomography  
+The project consists of research & development, implementation, and testing of a dedicated software package that employs innovative synthetic aperture radar (SAR) tomography algorithms for spaceborne repeat-pass SAR data. This joint academic-industry project  is funded by the Swiss Space Office, SER.

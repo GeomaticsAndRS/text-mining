@@ -1,0 +1,2 @@
+  Comparative and population genomics of the Rhynchosporium fungal plant pathogens  
+The fungal plant pathogen Rhynchosporium commune causes one of the most destructive diseases of barley. We use comparative genomics to understand the emergence of  the pathogen and population resequencing to identify ongoing selection pressures and phenotypegenotype associations.

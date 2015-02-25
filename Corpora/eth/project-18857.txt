@@ -1,0 +1,2 @@
+  High-precision monitoring of magnetic fields 
+The goal of this project is the design and use of NMR-based probes and  probe arrays for monitoring magnetic fields with high accuracy (nanotesla scale) and temporal resolution (microsecond scale). The key application of such probe systems is monitoring the performance of MRI instrumentation.

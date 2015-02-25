@@ -1,0 +1,2 @@
+  Long term management of Building Stocks in a (cultural) resource conservation perspective - A case study on the city of Zurich  
+Die Analyse von Gebäudebeständen als Massenphänomen kann nur interdisziplinär erfolgen. Neben klassischen Methoden der Bauaufnahme integriert das Projekt solche des Data Minings und des GISciene. Ziel ist es, ein vertieftes Verständnis über den Zürcher Gebäudebestand zu erhalten. 

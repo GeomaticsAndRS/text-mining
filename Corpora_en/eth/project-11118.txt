@@ -1,0 +1,1 @@
+Phosphoproteomic analyses in learning and memory The aim of this project is to identify the substrates of the protein phosphatase 1 (PP1) during learning and memory. We are establishing a method to selectively enrich Ser/Thr phospho peptides from brain tissue and identify these peptides by mass spectrometry. This project is run at the Functional G

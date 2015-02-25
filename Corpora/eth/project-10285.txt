@@ -1,0 +1,2 @@
+  Statistical Physics of Complex Fluids 
+Nonequilibrium molecular dynamics and Brownian dynamics computer simulations are involved to solve the equations of motion for diluted or concentrated polymeric systems modeled by simple microscopic models such as ensembles of multibead chains.

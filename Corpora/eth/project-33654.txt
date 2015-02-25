@@ -1,0 +1,2 @@
+  MODisc - Development of a novel tissue culture model for degenerative disc disease  
+The aim of this project is to establish a novel degenerative disc disease model based on a bovine nucleus pulposus (NP) tissue culture with artificial annulus fibrosus (AF). The model will include daily physiological loading, signs of degeneration and an inflammatory environment. 

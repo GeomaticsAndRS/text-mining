@@ -1,0 +1,2 @@
+  Regionalization in life cycle assessment  
+This projects will examine the spatially explicit modeling of impacts within Life Cycle Assessment

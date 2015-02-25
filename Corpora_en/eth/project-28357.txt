@@ -1,0 +1,1 @@
+Smart bed information and communication system for an advanced health care A modular measurement and communication system is developed to monitor movement patterns and vital data with a bed integrated sensor system. Application areas comprise hospitals, residential care homes for the elderly and private households.

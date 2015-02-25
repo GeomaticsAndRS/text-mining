@@ -1,0 +1,1 @@
+CoenoSense The CoenoSense platform allows to aquire context, activity and location information from potentially hundres of mobile devices simultaneously. The platform can be used for real-time human behavior studies, large-scale urban space monitoring and helps to gain novel insight into social dynamics.

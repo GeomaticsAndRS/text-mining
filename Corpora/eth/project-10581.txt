@@ -1,0 +1,2 @@
+  Metabolic and structural imaging of the heart  
+This project concerns the development of techniques to probe the metabolism and the mictrostructure of the in-vivo heart. To this end, motion compensation schemes are developed to reduce respiration and cardiac motion related artifacts along with dedicated pulse sequence. 

@@ -1,0 +1,1 @@
+Ambiguity Resolution Using Multi-frequency Data from Multi-GNSS This project attempts to develop efficient phase ambiguity resolution algorithms base on multi-frequency data from multi-GNSS.Various combinations of observations, not only geometry-free but also geometry-based, is investigated. The algorithms are evaluated with real data and modified Bernese 5.2.

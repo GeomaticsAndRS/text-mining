@@ -1,0 +1,1 @@
+Q-Factor Enhancement in Resonating CNTs This project will explore the fabrication and operation of suspended carbon nanotube resonators in ambient conditions, and investigate damping and fluctuation mechanism of SWNT mechanical resonance. To achieve sustained resonance at ambient conditions, the SWNTs are subjected to tensile loading.

@@ -1,0 +1,2 @@
+  Exploration of Negative Capacitance Ferroelectric Device Concepts and Technologies  
+Silicon compatible ferroelectrics could enable the fabrication of potentially low power devices as described in the proposal, but could also have an impact in the area of flexible electronics. 

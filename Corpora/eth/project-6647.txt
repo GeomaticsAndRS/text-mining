@@ -1,0 +1,2 @@
+  Multiresolution Particle Methods  
+Wavelet based particle methods for the simulation of continuum systems. 

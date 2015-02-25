@@ -1,0 +1,1 @@
+Mixed Integer Cutting Plane Theory This research topic aims at developing an algorithmic theory for solving mixed integer linear optimization problems by means of cutting plane methods. This theory establishes a link to the study of maximally lattice point free convex sets.

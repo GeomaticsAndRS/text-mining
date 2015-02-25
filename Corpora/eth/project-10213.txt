@@ -1,0 +1,2 @@
+  Nucleosome  
+The nucleosome is the fundamental repeating unit of chromatin. Its structure is paramount to our understanding of how DNA functions in the nucleus. Our aim is to determine many high-resolution X-ray structures of the nucleosome core, each containing a different genomic DNA sequence. 

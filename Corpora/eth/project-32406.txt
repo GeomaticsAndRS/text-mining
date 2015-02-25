@@ -1,0 +1,2 @@
+  XSENSE2 - MEMS acoustic detectors for natural hazard warning systems  
+Understanding, controlling and minimizing the risk associated with changes in our natural environment is of major societal interest. X-Sense2 contributes to the reduction of this growing gap between supply and demand by technological development and scientific advance.

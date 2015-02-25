@@ -1,0 +1,1 @@
+Amadeus DK - Rule Engine (ECC) In this project we look at problems that arise in such engines and which indexing strategies are applicable in this environment.

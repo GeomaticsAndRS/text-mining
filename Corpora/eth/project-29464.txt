@@ -1,0 +1,2 @@
+  Magnetoelectric effect in pyroxenes  
+We study the microscopic interactions leading to the linear magnetoelectric effect in pyroxenes. The investigation is pursued using ab initio calculations and phenomenological models. 

@@ -1,0 +1,2 @@
+  Active Knee Prosthetics  
+Our focus lies on the interface and the control of an active knee prosthesis. Though having in mind that a final solution has to be self-contained, meaning that energy supply, actuator and control architecture have to be integrated in the prosthesis, we perform research on  cable-bound prototypes.

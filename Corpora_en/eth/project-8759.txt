@@ -1,0 +1,1 @@
+Mid-infrared laser spectroscopy for isotopic ratio measurements in gases The development of a laser spectrometer with photoacoustic (PA) and cavity ring-down (CRD) trace gas detection is proposed. Fundamental and application-oriented aspects as well as the implementation of several innovative concepts are addressed.

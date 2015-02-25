@@ -1,0 +1,1 @@
+ImarisCell: A software to quantitatively analyze intracellular processes in living cells In this project a software add-on to Imaris is developed to allow for automated cell segmentation and feature extraction. Images with automated microscopes are generated, algorithms developed and implemented in Imaris, and used for cell segmentation

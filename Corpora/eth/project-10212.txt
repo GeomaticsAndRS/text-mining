@@ -1,0 +1,2 @@
+  Identification of novel genes required for degradation of misfolded protein 
+In yeast we have performed a genetic screen for novel genes involved in degradation of misfolded secretory and membrane protein. We are now genetically and biochemically characterizing these newly identified genes.

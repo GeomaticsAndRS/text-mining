@@ -1,0 +1,1 @@
+Advanced Detection in MRI - Hardware Aspects The goal of this project is the design of advanced detector hardware for MRI. The main emphasis is on equipment for parallel and massively-parallel MRI at field strengths ranging from 1.5 to 7 Tesla. To this end, a specialized laboratory for MR radiofrequency electronics is established.

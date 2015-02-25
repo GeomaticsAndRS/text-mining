@@ -1,0 +1,1 @@
+Directed evolution of proteins The project SDirected Evolution of ProteinsŠ deals with the development of a novel technology for the random design of proteins. In contrast to current methods, diversity on gene level is generated within a living cell, which allows the concomitant synthesis of the corresponding proteins.

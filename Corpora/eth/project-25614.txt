@@ -1,0 +1,2 @@
+  Biocompatible, Low-cost Polymer-based Artificial Bacterial Flagella  
+We will develop new processes for fabricating low-cost ABFs from biocompatible polymer materials. The controllable fabrication of these polymer-based ABFs is the first goal of this project, and is based on hot embossing and deep ultraviolet (DUV) induced modification of a polymer film.

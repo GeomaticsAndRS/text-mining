@@ -1,0 +1,2 @@
+  Modern Monte Carlo methods 
+This project develops and studies Monte Carlo algorithms to analyse, filter and estimate parameters in Markovian models with possibly hidden states. Techniques include Markov chain Monte Carlo, particle filtering and smoothing, ensemble Kalman filtering and importance splitting.

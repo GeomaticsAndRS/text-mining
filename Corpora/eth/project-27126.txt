@@ -1,0 +1,2 @@
+  Partial Differential Equations of Classical Physics 
+The evolution of shocks in 3-dimensional fluids. Static elasticity in the presence of dislocations. A simplified version of my monograph on the formation of shocks, focused on the non-relativistic case. Studying the boundary of the region of trapped surfaces in general relativity.

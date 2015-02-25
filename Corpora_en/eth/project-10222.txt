@@ -1,0 +1,1 @@
+Chromatin Remodeling Factors Nucleosomes are not typically static entities fixed along genomic DNA, but are capable of sliding along DNA, affecting the accessibility of regulatory sites and genecoding regions. We are also pursuing cryo-electron microscopy and X-ray crystallography of these factors bound to nucleosomes.

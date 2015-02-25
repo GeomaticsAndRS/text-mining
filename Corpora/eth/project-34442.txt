@@ -1,0 +1,2 @@
+  STARR Foundation  
+This project will measure the concentration of microRNAs (miRNAs) in milk of lactating mice and investigate absorption of these RNAs across the intestinal epithelium. Furthermore, the role of miRNAs in regulating gene expression in the gut epithelium and in the liver will be studied. 

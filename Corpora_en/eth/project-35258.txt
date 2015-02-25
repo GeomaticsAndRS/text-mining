@@ -1,0 +1,1 @@
+GoEco! A community based eco-feedback approach to promote sustainable personal mobility styles GoEco! analyzes social processes and framework conditions that can lead to sustainable mobility behavior. In particular, a living lab experiment will (1) track people’s activities and behavior and (2) use planning algorithms and (personalized) eco-feedback to foster behavior change.

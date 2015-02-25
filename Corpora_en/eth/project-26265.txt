@@ -1,0 +1,1 @@
+The geomagnetic field over the last few thousand years: Measurements, models and mechanisms We analyse Holocene behaviour of the magnetic field from archaeomagnetic samples. These are used in a data assimilation approach to modelling the 3-D magnetic field evolution.

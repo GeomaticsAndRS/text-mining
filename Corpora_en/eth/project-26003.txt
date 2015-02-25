@@ -1,0 +1,1 @@
+Fokker Planck Model for Rarefied Gas Flow A stochastic model and a solution algorithm to simulate the ow of gases, which are not in thermodynamic equilibrium was developed. For the interaction of a particle with others, statistical moments of the local ensemble have to be evaluated.

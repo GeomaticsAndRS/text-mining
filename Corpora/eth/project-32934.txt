@@ -1,0 +1,2 @@
+  Economic growth, population dynamics, and global land use: An integrated assessment 
+We study the issue of population and income growth from the perspective of food production and natural land conversion. We formulate a model of economic growth with endogenous technological progress, population dynamics, and agricultural production.

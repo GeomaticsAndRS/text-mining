@@ -1,0 +1,2 @@
+  SCOVIS: Self -configurable COgnitiveVIdeo Supervision 
+SCOVIS will significantly improve the versatility and the performance of the current monitoring systems for security purposes and workflow control in critical infrastructures.

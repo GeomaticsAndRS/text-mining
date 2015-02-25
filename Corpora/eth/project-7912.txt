@@ -1,0 +1,2 @@
+  Algorithms for the simulation of classical and quantum many body problems  
+We develop new numerical techniques that allow to simulate efficiently large quantum systems. Amongst others, we work on Quantum Monte Carlo, DMRG and Series Expansion methods. For testing new algorithms, we also examine their performances on simpler classical problems.

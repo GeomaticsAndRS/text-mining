@@ -1,0 +1,2 @@
+  Liouville’s Theorem for Systems with Impact 
+This project aims at proving Liouville’s theorem of constant phase space volume for conservative Lagrangian systems with perfect impacts, for which variational formulations of various classes of impact laws are required.

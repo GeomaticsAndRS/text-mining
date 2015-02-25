@@ -1,0 +1,2 @@
+  NCCR Robotics - Variable Impedance Joints  
+This project will investigate, design and characterize novel variable impedance joint mechanisms consisting of conventional active and passive electromechanical elements arranged in a way to physically match the impedance/force range of human joints. 

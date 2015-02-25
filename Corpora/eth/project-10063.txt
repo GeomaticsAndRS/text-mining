@@ -1,0 +1,2 @@
+  Lineage-specific roles of Wnt/beta-Catenin signaling in neural stem cells  
+Wnt/beta-catenin regulates fate decisions in neural crest stem cells while it controls cell cycle progression in other stem cell types.

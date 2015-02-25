@@ -1,0 +1,2 @@
+  Modeling of precipitation co-polymerization of acrylic acid and vinylpyrrolidone in organic solvent  
+The precipitation co-polymerization of poly(acrylic acid-co-vinylpyrrolidone) in organic solvent is a promising alternative to the conventional process in solution. The elucidation of the main mechanisms regulating this system will allow the control of the particulate material properties.

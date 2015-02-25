@@ -1,0 +1,1 @@
+A technology for absolute quantitative analysis of microbial proteomes In this project we will develop a three step mass spectrometric method that provides estimated protein copy numbers per cell for whole microbial genomes. The project includes full proteome characterization, absolute protein quantification and inclusion list MS1 based quantification.

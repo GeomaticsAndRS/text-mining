@@ -1,0 +1,2 @@
+  Practical aspects of regression analysis  
+Regression methods play a central role in applied statistics. Computer programs provide numerical output and graphics for residual analysis. Several aspects of these results leave room for improvements that render data analysis more efficient.

@@ -1,0 +1,1 @@
+3D Scan Completion This project addresses the problem of obtaining a complete and consistent digital 3D model representation from incomplete surface scans using a database of existing geometric models

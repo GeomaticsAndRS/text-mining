@@ -1,0 +1,1 @@
+Light trapping enhanced mesoscopic solar cells We develop software for the simulation, analysis, and optimization of nano-structured solar cells with improved efficiency.

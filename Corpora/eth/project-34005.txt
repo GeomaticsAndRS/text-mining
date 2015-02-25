@@ -1,0 +1,2 @@
+  GNSS Remote Sensing of Snow Coverage on Ground and Glacier Surfaces  
+The main objectives of this project are a) the thorough investigation of the contribution of geodetic and low-cost GNSS remote sensing techniques to mountainous snow and glacier applications and b) the further development of available techniques in terms of software and hardware. 

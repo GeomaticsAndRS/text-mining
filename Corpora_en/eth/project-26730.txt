@@ -1,0 +1,1 @@
+Combined Approaches for LCM Processes The research investigates novel approaches, considering combination of experimental and numerical methods, to monitor LCM processes and provide information about the quality of composite parts. The purpose is to contribute to improve efficiency, robustness and reliability of composite flow process

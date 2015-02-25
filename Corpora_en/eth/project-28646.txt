@@ -1,0 +1,1 @@
+GNSS Instrumentation in the Valais (COGEAR) The permanet GNSS network (AGNES) has three sites located in the canton Valais. In order to obtain a better coverage in the Valais area new permanent GNSS sites have been installed. This new sites will allow to observe the deformation within the covered area.

@@ -1,0 +1,1 @@
+Orientifolds Orientifolds are used to describe unorientable world-sheets in string theory. In this project, we develop techniques in rational conformal field theory and in Landau-Ginzburg models to construct orientifolds. We furthermore study tadpole cancellation conditions and low energy spectra.

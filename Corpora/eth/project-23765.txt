@@ -1,0 +1,2 @@
+  fMRI of pain processing in rodents  
+fMRI paradigms will be developed to assess pain processing in mice using sensory, thermal or chemical stimulation 

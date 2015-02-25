@@ -1,0 +1,2 @@
+  Herschel Space Observatory, hardware, software, science  
+We produced the Qualification and Flight Models of the cryogenic frontend including some microwave electronics (amplifiers) for HIFI, the Heterodyne Instrument for the Far Infrared on the Herschel Space Observatory. We are currently working on the software development and prepare for observations.

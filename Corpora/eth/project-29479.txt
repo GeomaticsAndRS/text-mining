@@ -1,0 +1,2 @@
+  Antiferromagnetic Domain Statistics (with SHG) 
+The project aims at the understanding of how antiferromagnetic domains form and how their distribution can be quantified by optical second harmonic generation.

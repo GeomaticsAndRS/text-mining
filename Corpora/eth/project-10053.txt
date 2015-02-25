@@ -1,0 +1,2 @@
+  Software tools for modeling, analysis and control of linear and hybrid systems. 
+This project aims at developing efficient software tools for modeling, analysis and optimal control synthesis for constrained linear and hybrid systems. 

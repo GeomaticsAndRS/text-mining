@@ -1,0 +1,1 @@
+Social Security in an Analytically Tractable Overlapping Generations Model with Aggregate and Idiosyncratic Risk When markets are incomplete, social security can partially insure against idiosyncratic and aggregate risks. We incorporate both risks into an analytically tractable model with two overlapping generations and demonstrate that they interact over the life-cycle.

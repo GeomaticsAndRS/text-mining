@@ -1,0 +1,1 @@
+SNF Forkhead This project will perform a detailed biochemical characterization of posttranslational modifications in FoxA1 and FoxA2. And study the role of specific Foxa2-PTMs in pancreatic b-cells, liver, and hypothalamus in vivo.

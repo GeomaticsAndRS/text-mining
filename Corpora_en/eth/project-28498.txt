@@ -1,0 +1,1 @@
+Natural Hazard Resilience of the Built Infrastructure The built environment and the civil infrastructure systems are complex assemblies of individual engineered components. The objective is to develop a framework to compute the seismic resilience of this system of systems to natural hazards, such as earthquakes, using a compositional approach.

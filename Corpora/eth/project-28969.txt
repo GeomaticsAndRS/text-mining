@@ -1,0 +1,2 @@
+  Purification of Proteins from Human Blood Plasma with MCSGP  
+In order to find a more convenient way to purify proteins from human blood plasma for therapeutical applications, the possible use of multicolumn solvent gradient purification (MCSGP) in this field is investigated.

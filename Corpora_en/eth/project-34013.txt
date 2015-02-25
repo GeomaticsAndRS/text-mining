@@ -1,0 +1,1 @@
+MOSS - Mobile Sensing and Support for People with Depression The objective of the MOSS project is to design and evaluate a mental health information system that harnesses ubiquitous sensor information for depression screening and tailored interventions.

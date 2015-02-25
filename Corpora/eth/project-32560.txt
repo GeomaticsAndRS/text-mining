@@ -1,0 +1,2 @@
+  Time Series Analysis of PolSAR Data for Determination of Growth Stages of Rice  
+This project tries to explain the phenological changes during of paddy rice by using polarimetric SAR time-series data. Main aim is to determine the growth stage and growth related parameters by using dual-polarimetric data. 

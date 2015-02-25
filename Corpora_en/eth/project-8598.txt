@@ -1,0 +1,1 @@
+Numerical investigation of frustrated magnets Frustrated magnets, show rich and complex phase diagrams due to competing interactions. The physics causing this interesting behavior makes analytic approaches difficult and numerical methods are essential.

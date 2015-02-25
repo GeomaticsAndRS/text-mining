@@ -1,0 +1,2 @@
+  Bits to Energy Lab 
+The Bits to Energy Lab aims at improving the resource- and energy effi-  ciency in both industrial and home environments using IT and especially Ubiquitous Computing technologies.

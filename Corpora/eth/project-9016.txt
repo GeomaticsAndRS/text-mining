@@ -1,0 +1,2 @@
+  Structural and mechanistic studies of ABC transporter proteins  
+ABC transporters are membrane proteins that facilitate unidirectional substrate translocation across the lipid bilayer. To understand their mechanisms, atomic structures of bacterial homologs are determined using X-ray crystallography, and the activity is investigated in  vitro.

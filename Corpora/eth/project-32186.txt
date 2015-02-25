@@ -1,0 +1,2 @@
+  Magnetic properties of orthorhombic perovskite manganites 
+We use ab initio calculation to investigate the magnetic properties of orthorhombic perovskite manganites. We find that Heisenberg model can not accurately describe  the magnetism in these compounds and higher order interactions (biquadratic and four-body spin couplings) should be taken into account.

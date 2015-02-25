@@ -1,0 +1,2 @@
+  Non-classical secretion in Saccharomyces cerevisiae  
+There is evidence for a ER/Golgi-independent secretory pathway for proteins in the yeast Saccharomyces cerevisiae. The project aims at the molecular identification and characterization of components as well as endogenous substrates of this non-classical secretory pathway. 

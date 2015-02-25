@@ -1,0 +1,1 @@
+Combination of feature-based and geometric positioning The location of mobile objects is typically determined by measuring distances or angles and exploiting geometric relations. Location can also be derived by comparing measurements of spatially varying phenomena to a corresponding model. Fusion of both approaches yields high accuracy and availability.

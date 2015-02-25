@@ -1,0 +1,1 @@
+Long-term stable embeddable reference electrode for concrete The present project aims at developing an embeddable electrode system that is able to provide a long-term stable reference potential in concrete. In contrast to existing solutions, this system will not be affected by changes in pH or chloride concentration over time.

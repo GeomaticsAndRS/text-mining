@@ -1,0 +1,1 @@
+Physiological adaptation of ventricular assist devices The aim of this project is the development of control systems that adjust the operational mode of a ventricular assist device based on the physiological requirements of the patient.

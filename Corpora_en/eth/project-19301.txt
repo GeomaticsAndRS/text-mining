@@ -1,0 +1,1 @@
+Solar Lunar Spectrometer for Atmospheric Research (SOLUSAR) Many microwave based geodetic and radioastronomic remote sensing techniques are in need of reliable information on the local tropospheric water vapor abundance. SOLUSAR is a prototype spectroscopic instrument to accurately determine the water vapor content by analyzing absorption in sun/moon light.

@@ -1,0 +1,2 @@
+  Mobile Robotic Tiling  
+In diesem Projekt entwickeln wir eine kompakte mobile Robotereinheit für den Einsatz auf der Baustelle. Ziel ist es bei gleichbleibend hoher Qualität die Geschwindigkeit des Fliesenlegens mindestens zu verdoppeln.

@@ -1,0 +1,1 @@
+Power System Performance Enhancement by Use of Voltage Source Converter Based HVDCin the ETNSO-E RG Central Europe System The aim of this project will be to systematically investigate the possibilities to use VSC-HVDC in meshed networks, such as the ENTSO-E grid, in order to increase system transmission capacity and security.

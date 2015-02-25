@@ -1,0 +1,2 @@
+  Nonequilibrium Thermodynamics of Dissipative Quantum Systems  
+In solid state-based quantum information processing, external control in quantum optics, quantum transport through meso- and nanoscale structures, quantum tunneling in macroscopic systems, quantum Brownian motors, and biological reactions, for example, quantum dissipation is an import subject. 

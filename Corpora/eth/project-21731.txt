@@ -1,0 +1,2 @@
+  MARine Ecosystem Intercomparison Project (MAREMIP) 
+MAREMIP seeks to improve our understanding of the interactions of marine ecosystems with climate and climate change. Several models simulating plankton functional  types (PFTs) are compared among themselves and with in situ and satellite data.

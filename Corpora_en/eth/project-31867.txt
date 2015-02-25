@@ -1,0 +1,1 @@
+Diabatic processes in North Atlantic weather systems This project contributes to an improved understanding of the role of diabatic processes for the evolution and prediction of (high-impact) weather systems in the extratropics by using complementary tools (idealised model simulations, case studies, field experiments, climatologies with reanalyses).

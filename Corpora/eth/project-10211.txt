@@ -1,0 +1,2 @@
+  Degradation of mutant secretory and membrane protein 
+We are investigating protein degradation of misfolded secretory and membrane proteins. We are studying the role of Htm1 protein that potentially binds N-linked oligosaccharides. We are also working on the Ste24 protein, an ER membrane protease to understand its function in protein degradation.

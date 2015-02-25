@@ -1,0 +1,2 @@
+  Nonlinear Discrete Optimization  
+We classify nonlinear discrete problems according to their computational complexity. Special emphasis is on optimizing convex functions over lattice points in polyhedra. This establishes a link to Hilbert basis theory and N-fold systems. 

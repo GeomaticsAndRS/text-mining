@@ -1,0 +1,2 @@
+  Actions on CAT(0) cube complexes 
+We investigate, by means of bounded cohomology, rigidity phenomena for actions on CAT(0) cube complexes.

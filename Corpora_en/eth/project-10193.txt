@@ -1,0 +1,1 @@
+Optical detection of single fluorecent label molecules for biological applications In this project we apply methods of single molecule detection and high resolution optical microscopy to investigate the function of chaperone proteins. chaperone and substrate proteins are labelled by single fluorescent molecules and their interaction is monitored.

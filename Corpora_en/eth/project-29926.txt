@@ -1,0 +1,1 @@
+Correction of Ionospheric Effect on Synthetic Aperture Radar Due to the refractive nature of the ionospheric media on the propagation of the microwaves, the synthetic aperture radar imagery acquired through them cannot provide geo/biophysical parameters useful for environmental monitoring. A systematic correction methods are studied, applied and assessed.

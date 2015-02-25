@@ -1,0 +1,2 @@
+  ALPSCAPE: Linking land use, resource and economic models to simulate the development of Alpine Regions  
+ALPSCAPE befasst sich mit der Problematik der Auswirkung politischer und wirtschaftlicher Entscheidungen auf die Landnutzung, den Stoffhaushalt und die Wirtschafts-  struktur alpiner Regionen (Fallstudienregion: Landschaft Davos). Im Fokus steht die Verknüpfung von räumlich expliziten und räumlich nich

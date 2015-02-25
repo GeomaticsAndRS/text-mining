@@ -1,0 +1,1 @@
+Transition to turbulence in wall-bounded shear flows The transition from laminar to turbulent boundary layer flows is a phenomenon of high relevance in many technical applications. The exact mechanisms which lead to transition are still not fully understood. In this project, we investigate transition with the help of numerical simulations.

@@ -1,0 +1,2 @@
+  Malaria 
+This project explores malaria-induced changes in host odors, the implications of such changes for vector-borne malaria transmission, and the potential for using olfactory cues as biomarkers for disease diagnosis.

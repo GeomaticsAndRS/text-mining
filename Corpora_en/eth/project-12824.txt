@@ -1,0 +1,1 @@
+Gas-inducible transgene expression in mammalian cells and mice We describe the design and detailed characterization of a gas-inducible transgene control system functional in different mammalian cells, mice and prototype biopharmaceutical manufacturing.

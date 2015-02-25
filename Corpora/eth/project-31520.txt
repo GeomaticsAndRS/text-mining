@@ -1,0 +1,2 @@
+  Scene Reconstruction from High Spatio-Angular Resolution Light Fields  
+The project addresses the problem of image-based scene reconstruction of complex, detailed environments from densely sampled light fields.

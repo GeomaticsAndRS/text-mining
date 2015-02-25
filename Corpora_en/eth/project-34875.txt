@@ -1,0 +1,1 @@
+Catalytic pyrolysis of biobased feedstocks over taylored zeolites This project focuses on the generation of a biocrude featuring reduced oxygen content and enhanced thermal stability, thus enabling to minimize the use of H2 within pyrolysis or in the subsequent hydrodeoxygenation. Co-generation of chemicals will be also applied where possible.

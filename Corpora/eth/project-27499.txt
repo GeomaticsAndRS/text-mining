@@ -1,0 +1,2 @@
+  PIM Light: User Driven Approach to Pesonal Information Management 
+We are investigating how paradigms behind successful tools for supporting photographer workflow could be applied to other forms of complex information tasks. At the same time, we are looking at how to adapt information interaction to novel devices, in particular those with touch-based interaction.

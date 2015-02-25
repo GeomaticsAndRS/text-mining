@@ -1,0 +1,1 @@
+Bulk metallic glass composites This project studies bulk metallic glass composites with a crystalline phase which undergoes martensitic transformation followed by twinning upon loading. Shear-band initiation and multiplication will be investigated via electron microscopy to understand the resultant formability and flow behavior.

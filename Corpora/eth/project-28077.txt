@@ -1,0 +1,2 @@
+  Detection and Classification Problems in Signal Processing  
+We study detection and classification problems accross a wide area of applications, often upon requests from industry or from other research groups. Our main tools are likelihood filters based on factor-graph models.

@@ -1,0 +1,2 @@
+  On the Computational Security of Distributed Storage Systems  
+We study the secrecy of distributed storage systems for passwords. Assuming that the encoder describes a password using several hints, which she stores in different  locations, we quantify how hard it is for a legitimate receiver and an eavesdropper to reconstruct the password.

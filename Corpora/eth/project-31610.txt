@@ -1,0 +1,2 @@
+  First-principles study of local dipole emergence in lead chalcogenides on warming  
+The goal is to explain the unusual structural behaviour recently observed in diffraction experiments by means of first-principles calculations. On warming, a local off-centering  of lead atoms with respect to high symmetry positions accompanied by a local symmetry lowering was reported.

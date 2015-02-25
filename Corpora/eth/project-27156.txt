@@ -1,0 +1,2 @@
+  Targeted Proteomic Analysis of the DosR Regulon in Mycobacteria  
+We set out to generate protein abundance for the 48 genes in the DosR regulon that are induced by hypoxia and during dormancy. Forty out of the 48 proteins were strongly induced during dormancy and hypoxia, with the fold induction reaching as high as three orders of magnitude. 

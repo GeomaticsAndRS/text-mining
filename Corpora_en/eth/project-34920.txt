@@ -1,0 +1,1 @@
+Role of asymmetric cell division in the controle of aging Ageing of the organism is in part due to the progressive decay of the stem cells, limiting tissue regeneration. To counteract this decay, stem cells divide asymmetrically to generate one ageing and one renewed cell. We use budding yeast as a model to dissect this process.

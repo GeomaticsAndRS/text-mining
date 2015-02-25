@@ -1,0 +1,2 @@
+  Cell-based sensing microsystem - LiveSense"(Nano-tera.ch)  
+To study and develop an autonomous sensing platform that is based on  the use of living cells. This autonomous, hand-held, platform will be designed for environmental monitoring applications with emphasis on monitoring of toxicant and viruses in air.

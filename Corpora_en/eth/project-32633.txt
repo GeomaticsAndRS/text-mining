@@ -1,0 +1,1 @@
+GeoScale We develop the computational framework for multi-scale seismic waveform modelling and inversion. This is intended to (i) position Swiss computational geosciences in the emerging exascale era, (ii) to shed light onto the fine-scale structure, dynamics and evolution of the Earth, and (iii)

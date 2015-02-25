@@ -1,0 +1,2 @@
+  Risk preferences in an intertemporal setting: Experimental evidence on correlation aversion 
+We design an experiment consisting of binary lottery choices to jointly identify the discount rate, intertemporal utility of substitution, (static) risk aversion, and correlation aversion.

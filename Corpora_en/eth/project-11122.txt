@@ -1,0 +1,1 @@
+Study of the role of protein phosphatase 1 in nuclear processes This project aims at investigating the importance of the protein phosphatase 1 (PP1) in gene transcription based on our previous finding that PP1 constrains protein synthesis-dependent long-term memory. We are generating transgenic mice expressing a specific nuclear inhibitor of PP1 in neurons induc

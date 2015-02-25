@@ -1,0 +1,2 @@
+  The role of protein aggregates and the mechanisms of their segregation during aging  
+This project aims to elucidate conserved aspects underlying cellular aging. We use budding yeast and advanced microscopy to investigate how protein aggregates contribute to fate determination and aim to reveal the mechanistic basis underlying their asymmetric segregation during cell division. 

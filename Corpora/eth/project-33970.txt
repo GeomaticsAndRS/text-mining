@@ -1,0 +1,2 @@
+  Automated Design Synthesis and Optimization of Soft Robots  
+This research focuses on the automation of the design of soft robots and their optimization to produce novel solutions that can be fabricated via additive manufacturing. 

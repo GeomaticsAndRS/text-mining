@@ -1,0 +1,2 @@
+  Entwicklung eines experimentellen Verfahrens zur Untersuchung des Verschleisses beim Al-Strangpressen  
+Auf Basis des für Reibuntersuchungen entwickelten Tribo-Torsion-Tests soll ein Aufbau für Langzeit-Verschleiss-Tests entwickelt werden. Damit soll der Verschleiss unter strangpressähnlichen Bedingungen experimentell untersucht und ein Verschleissmodell abgeleitet werden. 

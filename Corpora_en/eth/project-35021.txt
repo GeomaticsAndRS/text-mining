@@ -1,0 +1,1 @@
+Mechanical biocompatibility of electrospun scaffolds for intervertebral disc repair The goal of this project is to develop nanofibrous scaffolds for the repair of annulus fibrosus (disc) defects, based on the electrospinning method. Fibre-network predictive models will be used to characterise native AF tissue properties and predict optimal scaffold properties.

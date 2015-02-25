@@ -1,0 +1,1 @@
+Atomistic simulation of model bulk metallic glasses: structure and deformation properties The phenomenological concept of Shear Transformation Zones (STZs) is investigated by potential energy landscape exploration algorithms, such as the ARTn technique. This analysis will help to understand the fundamentals of structural and deformation properties of bulk metallic glasses.

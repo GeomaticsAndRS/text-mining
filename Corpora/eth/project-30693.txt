@@ -1,0 +1,2 @@
+  Methods of seismic response modification based on rocking of structures  
+Objects that uplift without overturning often experience minimal damage during earthquakes. This research project aims to develop the dynamics theory and the analysis  tools able to describe the uplifting and rocking phenomena in structures made using deformable structural elements.

@@ -1,0 +1,1 @@
+IR-Sensoren Arrays Project to fabricate infrared sensor arrays for industrial on-line inspection applying time-dependet IR-emission see www.tfp.ethz.ch

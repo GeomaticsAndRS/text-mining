@@ -1,0 +1,2 @@
+  Design of polymer hydrogels with a gradient in mechanical properties, used as support materials for the cultivation and the differentiation of stem cells  
+We study the effect of different operating parameters, including the composition of the polymerization solution and the reaction conditions, on the mechanical properties (e.g. Young modulus) of hydrogel slabs, and on the subsequent differentiation of stem cells grown on these substrates.

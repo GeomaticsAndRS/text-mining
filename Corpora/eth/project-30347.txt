@@ -1,0 +1,2 @@
+  Aseba/Thymio 
+This project aims at making robot programming easier and more accessible. It is composed of Aseba, a software architecture and set of tools; and Thymio II, an affordable educational robot that implements this architecture.

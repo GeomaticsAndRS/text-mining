@@ -1,0 +1,2 @@
+  COST715: Basel Urban Boundary Layer Experiment  
+Im Basel Urban Boundary Layer Experiment wurde die Grenzschicht mit verschiedenen Systemen (Turm, Lidar, Windprofiler, etc.) beobachtet. Ausgehend von diesen Daten wird versucht, die Grenzschicht allgemeine zu definieren, ihre Dynamik zu beschreiben und diese physikalisch zu modellieren.

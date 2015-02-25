@@ -1,0 +1,2 @@
+  Development and application of a technology and platform for high throughput quantitative plasma proteome profiling  
+Protein biomarkers will play an increasing role in medicine and drug discovery/development. We propose a technology platform for isolation and analysis of information-rich protein classes based on solid-phase extraction of glycoproteins, quantification and identification by tandem mass spectrometry. 

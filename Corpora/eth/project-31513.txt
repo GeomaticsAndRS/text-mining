@@ -1,0 +1,2 @@
+  Vitra AG 
+The sitting behavior on office chairs will be analyzed. MRI and pressure sensor measurement allow the quantification of the position and the loading on the human body. Furthermore the sitting behavior in a stand / sitting position with a high table will be

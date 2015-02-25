@@ -1,0 +1,2 @@
+  Regulation of nucleus formation and the ubiquitin-dependent chaperone p97/Cdc48  
+During division of metazoan cells, the nucleus disassembles to allow chromosome segregation, and then reforms in each daughter cell. We want to understand how p97/Cdc48 regulates nucleus formation and how it coordinates it with exit from mitosis.

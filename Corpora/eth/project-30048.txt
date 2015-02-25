@@ -1,0 +1,2 @@
+  Smart Dynamic Casting  
+Die Zielsetzung des Forschungsprojekts liegt darin, das architektonische Potenzial roboterbasierten Fabrikationsmethoden zur Herstellung nicht-standardisierter Betonelemente zu untersuchen.

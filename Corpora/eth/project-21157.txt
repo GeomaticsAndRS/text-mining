@@ -1,0 +1,2 @@
+  How focal adhesion kinase (FAK) controls membrane partitioning endocytosis of cell adhesion components in normal in cancer cells  
+The aim of this project is to unravel the molecular wiring underlying the activation of Focal adhesion kinase and its impact on raft lipid biosynthesis, membrane organization and trafficking, as well as its deregulation in invasive cancer cells using phosphoproteomics and RNAi screening approaches. 

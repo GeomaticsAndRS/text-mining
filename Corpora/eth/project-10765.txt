@@ -1,0 +1,2 @@
+  Pressure-induced transformations 
+We extend the metadynamics method to the study of pressure-induced crystal structure transformations. We apply the method to the study of such varied chemical compounds as Si, zeolytes and benzene. We plan to use this approach for the ab-initio determination  of crystal structures.

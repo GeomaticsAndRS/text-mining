@@ -1,0 +1,1 @@
+Microstructure, phase evolution and mechanical properties of high-entropy alloys This project deals with the development of high-entropy or compositional- ly complex alloys with improved mechanical properties. These properties are correlated with the specific microstructure and phase evolution upon heat treatment, which are investigated via XRD, TEM, and APT.

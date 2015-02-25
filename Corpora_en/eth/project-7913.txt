@@ -1,0 +1,1 @@
+Generic algorithms for physics simulations In this project we develop generic high performance algorithms for numerics and physics simulations in C++. Examples include iterative sparse eigensolvers, random number tests, or Monte Carlo simulations.

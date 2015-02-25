@@ -1,0 +1,1 @@
+Absolute Quantification of Magnetic Resonance Spectroscopic Data using ERETIC Absolute MRS quantification enables non-invasive, unambigeous observation of metabolite concentrations and its changes in vivo. The aim of this work is to extend its applicability to multi-nuclear and 2D-resolved MRS, MRSI and complex disorders using an external electric reference signal (ERETIC).

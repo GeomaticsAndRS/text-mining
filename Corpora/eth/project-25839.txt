@@ -1,0 +1,2 @@
+  A Modeling Framework to Explore the Environmental Fate and Health Impacts of Persistent Organic Chemicals in the Madeira River Basin  
+Developing models for the environmental distribution, bioaccumulation, and human exposure to DDT and other persistent chemicals in the Madeira River basin, in collaboration with the Federal University of Rio de Janeiro, Brazil. 

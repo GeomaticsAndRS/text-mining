@@ -1,0 +1,2 @@
+  Fire behaviour of cross-laminated solid timber panels  
+Objective of the research project is the development of a calculation model for the fire resistance of cross-laminated solid timber panels taking into account the behaviour of the bonding adhesive at high temperature. 

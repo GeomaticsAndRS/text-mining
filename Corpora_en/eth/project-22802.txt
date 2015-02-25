@@ -1,0 +1,1 @@
+Structure and Mechanics of Protein Stabilized Interfaces We have adapted a protein system composed of six recombinant, sizeconsecutive individuals, which share a structure only differing in an integer amount of a helixloop-helix motive. Their modular structure allows comparison between differently sized proteins by maintaining the same fold. We are inve

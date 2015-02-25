@@ -1,0 +1,2 @@
+  Dorsal Horn Interneurons in Spinal Sensory Processing  
+This proposal aims at a comprehensive characterization of the dorsal horn neuronal network under normal conditions and in chronic pain states with a focus on excitatory and inhibitory interneurons through expression profiling, ablation of defined interneuron populations, and through optogenetics. 

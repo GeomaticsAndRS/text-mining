@@ -1,0 +1,1 @@
+SIWIS: Spoken Interaction with Interpretation in Switzerland The SIWIS project is about speech to speech translation. It will allow a person to speak to a machine in their native language and have it automatically recognized, translated and spoken in a different language, but with the voice characteristics of the original speaker.

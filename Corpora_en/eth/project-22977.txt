@@ -1,0 +1,1 @@
+MRI-Compatible Stepper MARCOS This project is to investigate the cortical activity, and its changes, of spinal cord injured patients during a mobilization training similar to a training with a Lokomat. Therefore, a new MRI-compatible stepping device is being developed that generates periodic leg movements.

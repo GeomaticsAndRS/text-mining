@@ -1,0 +1,2 @@
+  One-carbon metabolism of Methylobacterium extorquens  
+Methylotrophic bacteria are able to use reduced one-carbon compounds such as methanol as growth substrate. We analyse reactions involved in methanol conversion and aim to understand the mode of functioning of appropriate one-carbon unit partitioning into assimilatory and dissimilatory metabolism. 

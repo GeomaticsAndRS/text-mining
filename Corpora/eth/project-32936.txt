@@ -1,0 +1,2 @@
+  Microstructured scaffolds for tissue engineering 
+We fabricate periodic lattice structures in the micro- and nanoscale using photolithography. These lattices are then functionalized with a variety of different coatings. We study their dynamic behavior and the potential integration into biomimetic propulsion systems.

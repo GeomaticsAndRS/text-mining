@@ -1,0 +1,1 @@
+BETL - A Generic Boundary Element Template Library We develop a modular, efficient, versatile boundary element code both for rapid prototyping and high-performance simulation. Implementation is done in C++ and heavily relies on generic programming principles.

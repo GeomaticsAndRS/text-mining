@@ -1,0 +1,1 @@
+RoboEarth RoboEarth is a World Wide Web for robots: a giant data repository where robots can share information and learn from each other about their behavior and their environment.

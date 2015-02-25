@@ -1,0 +1,2 @@
+  River Morphology and Vegetation  
+The actual morphology of gravel-bed rivers is formed by many factors.  Among them, the interplay between herbaceous vegetation or woody plants and morphodynamics plays a fundamental role. This aspect is investigated using a numerical modeling approach.

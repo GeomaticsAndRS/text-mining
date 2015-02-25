@@ -1,0 +1,2 @@
+  Resilience of electric power supply network under natural hazards  
+This project investigates the resilience of the electric power grid infrastructure exposed to natural hazard by investigation the vulnerability and recoverability of its principal components: the transmission systems, the substations (switches and the transformers), and the  power generation stations

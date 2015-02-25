@@ -1,0 +1,2 @@
+  Prodrug platform for rare colonic diseases 
+This project is aimed at developing oral formulations of nucleic acids for delivery to the colon.

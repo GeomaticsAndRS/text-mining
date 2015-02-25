@@ -1,0 +1,2 @@
+  X-ray Structure-based de novo Design of Nonpeptidic Enzyme Inhibitors: Molecular Recognition Studies with Biological Receptors and New Leads for Medicinal Chemistry  
+Projects that were successfully pursued over the last years: inhibitors of thrombin (key serine protease in the blood coagulation cascade), catechol-O-methyltransferase (cf. Parkinson’s disease), t-RNA guanine transglycosylase (cf. bacillary dysentary), and plasmepsin II (malarial aspartic protease)

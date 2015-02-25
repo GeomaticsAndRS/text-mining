@@ -1,0 +1,2 @@
+  TRAMM 2 - follow up project 
+To improve predictability of hydrologically-induced rapid mass movements hampered by limited observability of dynamic patterns driving a system to a mechanically critical state, we develop physically based triggering models and quantification schemes of precursor events preceding failure. 

@@ -1,0 +1,1 @@
+Customized Hybrid Powertrains Derive a methodology to find the optimal hybrid electric vehicle for a specific driving cycle, including the topographic profile and availability of electric power for recharging the battery at certain points of the trip.

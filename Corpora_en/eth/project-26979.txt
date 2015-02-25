@@ -1,0 +1,1 @@
+Theoretical study of point defects in multiferroic hexagonal yttrium manganite The effect of point defects due to non-stoichiometry in YMnO3 is studied by density functional theory calculations. The aim is to quantify the effect of defects on the structure and functional properties, and search for new and enhanced functionalities enabled by intentional non-stoichiometry.

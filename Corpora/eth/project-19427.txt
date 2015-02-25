@@ -1,0 +1,2 @@
+  Vacuum solutions of the Einstein equations Vacuum solutions of the Einstein equations 
+We plan to study vacuum solutions of the Einstein equations that arise as small deformations of the Schwarzschild/Kerr family of spacetimes. We are guided and driven by the methodology and technique that we developed in our investigation of many particle system 

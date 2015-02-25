@@ -1,0 +1,1 @@
+ReMeDi The ReMeDi project addresses telediagnostics in clinical environments. A successful medical treatment depends on a timely and correct diagnosis. In the ReMeDi project we develop a multifuntional robotic device, which will allow performing a real remote physical and ultrasonographic (USG) examination

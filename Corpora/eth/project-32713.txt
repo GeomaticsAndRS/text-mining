@@ -1,0 +1,2 @@
+  Integrated 3D urban modeling and scene understanding  
+The aim of the project is the automatic generation of virtual 3D city  models. We will develop computer vision techniques able to jointly solve 3D reconstruction and semantic labelling, leading to more complete and accurate, interpreted 3D models.

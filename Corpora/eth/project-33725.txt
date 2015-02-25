@@ -1,0 +1,2 @@
+  Development and application of an automated fish tracking software (Part II) 
+Within the first part of this project a fish tracking software has been deve-  loped, which evaluates the migratory behavior of fish directly from videos. This software now will be further optimized and applied to a larger data set obtained from live-fish experiments carried out at VAW of ETH Zurich.

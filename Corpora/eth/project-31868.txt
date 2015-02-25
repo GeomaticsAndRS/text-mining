@@ -1,0 +1,2 @@
+  Network-Creation and Network-Design Games.  
+The Internet is not created by a central authority. Instead, it is locally created by autonomous systems. We study how such locally created networks compare to hypothetical, centrally created networks: in terms of some well-define cost function. We use methods from both game theory and graph theory. 

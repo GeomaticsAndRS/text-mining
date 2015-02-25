@@ -1,0 +1,2 @@
+  Decision Making and Optimization in Computational Sustainability  
+Many problems in computational sustainability require decisions under massive uncertainty and partial observability. We show that many such problems satisfy submodularity, which allows us to solve large problems efficiently and near-optimally. We focus on a case study in conservation management.

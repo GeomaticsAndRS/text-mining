@@ -1,0 +1,1 @@
+Design and control of hybrid pulsatile ventricular assist devices The project will investigate configuration and design approaches of pulsatile ventricular assist devices which are used in case of a patient partial or full heart failure. In addition suitable control algorithms will be developed to adapt the pump to the respective patient’s needs.

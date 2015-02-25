@@ -1,0 +1,1 @@
+Time-resolved high-harmonic spectroscopy of chemical reactions High-harmonic generation will be employed as a probe to characterize the evolution of the electronic structure of a molecule undergoing a photochemical reaction initiated by a femtosecond pump pulse.

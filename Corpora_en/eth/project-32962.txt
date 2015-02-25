@@ -1,0 +1,1 @@
+TCAD and Compact Models for the Reliability of SiC and GaN Power Devices SiC and GaN FETs show superior basic electrical properties, high critical voltages and low ON-resistance as equivalent silicon devices. In this project, the reliability issues related to instabilities effects are modeled and simulated.

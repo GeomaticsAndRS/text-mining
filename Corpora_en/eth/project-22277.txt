@@ -1,0 +1,1 @@
+Cavity Optomechanics with a Bose-Einstein condensate We report on a cavity optomechanical system in which a collective density excitation of a Bose-Einstein condensate serves as the mechanical oscillator coupled to the cavity field.

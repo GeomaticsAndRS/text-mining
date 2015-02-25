@@ -1,0 +1,2 @@
+  Gene mining to combat drought stress and phosphorous deficiency in rice  
+Drought is one of the most significant stresses in global agriculture and is closely linked with problem soils, especially phosphorus deficient soils. We apply transcriptome  sequencing to identify novel genes that are specifically expressed in roots of tolerant rice varieties.

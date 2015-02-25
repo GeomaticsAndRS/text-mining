@@ -1,0 +1,1 @@
+Design space for the twin-column MCSGP process The concept of design space is an important tool for QbD implementation. For the twin-column MCSGP process the combination of properties of the biomolecules, column characteristics and process parameters define a subregion in which the separation task is achieved.

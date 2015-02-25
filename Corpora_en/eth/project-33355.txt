@@ -1,0 +1,1 @@
+Stock Performance and Economic Growth: The Japanese Case This paper relates the standard factor pricing models to growth expectations for the Japanese economy by testing for structural instability and by linking the profitability of the standard return-based risk factors (HML, SMB and WML) to economic growth.

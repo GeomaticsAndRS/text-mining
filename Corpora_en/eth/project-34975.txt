@@ -1,0 +1,1 @@
+Towards the use of Pd-Zn catalysts in structured form for alkyne semi-hydrogenation This project aims at designing structured catalysts based on Pd-Zn for the three-phase semi-hydrogenation of acetylenic compounds in continuous mode.

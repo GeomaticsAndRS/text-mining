@@ -1,0 +1,1 @@
+On the local buckling behaviour of unstiffened elements subjected to fire The collaborative research project at Materials and Structures Laboratory, Tokyo Institute of Technology and Institute of Structural Engineering, ETH Zurich aims at experimentally and numerically analyzing the local buckling behavior of unstiffened elements and crux profiles subjected to fire.

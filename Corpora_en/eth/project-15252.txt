@@ -1,0 +1,1 @@
+Yeast systems biology of metabolism Combining quantitative experimental and computational methods, we investigate yeast metabolism as an intact system; e. g. elucidation of the function of duplicate genes, predicting the network behavior to genetic perturbations, and global properties such as robustness and flexibility.

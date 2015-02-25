@@ -1,0 +1,2 @@
+  Cost Estimation of Repairing an Earthquake-affected area 
+Up to now, all of the cost estimation studies are based on the tables giving dollar amounts due to damage percentage of the specified structural type and occupancy class, which needs a complete analysis of the structures and a huge amount of inventory data and is time consuming. But here, with the h

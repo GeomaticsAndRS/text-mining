@@ -1,0 +1,1 @@
+Dispatching after Producing Reserves: The Supply of Non-Renewable Resources Surprisingly, there exists no formal treatment of non-renewable resource supply, systematically deriving quantity as function of price. With Pierre, we establish instantaneous restricted (fixed reserves) and unrestricted resource supply functions and we study their properties.

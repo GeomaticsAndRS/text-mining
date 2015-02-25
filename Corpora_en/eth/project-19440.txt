@@ -1,0 +1,1 @@
+Special examples of diffusions in random environment (part of Thesis of Ivan Del Tenno) Suprising examples of diffusions in random environment showing that the average drift does not control wheher the motion is diffusive or ballistic are constructed.

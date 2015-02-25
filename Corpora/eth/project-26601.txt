@@ -1,0 +1,2 @@
+  Geometry of stochastic differential Equations  
+We analyse the geometric, analytic and numerical properties of stochastic  differential equations in finite and infinite dimension with a view towards applications in mathematical finance. A particular focus is set on affine models and their applications to mathematical finance.

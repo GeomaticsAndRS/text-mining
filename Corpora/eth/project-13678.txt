@@ -1,0 +1,2 @@
+  Rapidly Oscillating Solutions of Stiff Delay Differential Equations  
+The goal is to establish and investigate rapidly oscillating solutions for stiff delay differential equations. The nonlinearity models either positive or negative feedback.

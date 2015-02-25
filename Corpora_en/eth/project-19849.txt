@@ -1,0 +1,1 @@
+Inference in robust linear regression Inference for linear regression models is commonly based on Least Squares. Robust estimators have been introduced to cope with outliers and long-tailed error distributions. Corresponding tests and confidence regions are still a matter of research.

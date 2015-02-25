@@ -1,0 +1,1 @@
+Autonomous Airborne Wind Energy (A2WE) A consortium from EPFL (Jones), ETH (Smith) and FHNW (Burtscher) will develop and demonstrate autonomously controlled kites. These technologies will find application in the use of autonomous kites for large-scale electrical energy generation.

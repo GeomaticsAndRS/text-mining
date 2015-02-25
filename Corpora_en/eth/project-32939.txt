@@ -1,0 +1,1 @@
+Nonlinear effects in granular media We examine the nonlinear dynamics and the effects of finite size in granular crystals. Using phenomena from bifurcations, stability, and spectral theory, we design structures for applications, including amplitude dependent damping, filtering, and energy harvesting.

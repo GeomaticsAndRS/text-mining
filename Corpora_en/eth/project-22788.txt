@@ -1,0 +1,1 @@
+Model-based Diesel engine control This project focuses on the application of model-based control to a stateof-the-art heavy-duty Diesel engine. The goal is the reduction of the pollutant emissions, the fuel consumption, and the complexity of the engine control systems.

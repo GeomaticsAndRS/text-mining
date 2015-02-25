@@ -1,0 +1,1 @@
+Molecular mechanism of p97/Cdc48 and Ufd1-Npl4 function during spindle disassembly The AAA ATPase p97/Cdc48, together with its adapter Ufd1-Npl4, mobilizes regulatory factors from the mitotic spindle and thereby induces its breakdown at the end of mitosis. We will carry out biochemical experiments to understand how p97/Cdc48 applapplies force on the target molecules.

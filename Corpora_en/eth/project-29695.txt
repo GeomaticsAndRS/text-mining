@@ -1,0 +1,1 @@
+CCEM Redox Cycles This project is aimed at developing the science and technology required to efficiently produce liquid hydrocarbon fuels from H2O, CO2, and solar energy. A 2-step H2O/CO2-splitting thermochemical cycle is investigated based on non-stoichiometric ceria redox reactions.

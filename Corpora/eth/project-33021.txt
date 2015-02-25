@@ -1,0 +1,2 @@
+  Mapping athlete dynamics using coordinate-based techniques  
+Speed, acceleration and actual path are crucial factors in many sports disciplines. We investigate methods to derive these parameters from measurements of low-cost and lightweight sensors, in particular GNSS, to visualize them and to relate them to images, videos and topography.

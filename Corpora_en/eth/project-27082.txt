@@ -1,0 +1,1 @@
+Fire behaviour of timber connections The objective of the project is the development of advanced and simplified calculation models for the fire design of timber connections.

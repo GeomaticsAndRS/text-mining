@@ -1,0 +1,1 @@
+Nonlinear dynamic analysis of Composite Structures using Hysteretic Multiscale Finite Elements Composite materials are extensively used in industrial and engineering practice due to their enhanced mechanical and physical properties. Advanced methods however are required for the proper simulation of the behavior of such complex materials.

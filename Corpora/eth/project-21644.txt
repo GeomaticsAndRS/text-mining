@@ -1,0 +1,2 @@
+  Mixing models for reactive scalars in turbulent flows  
+The mixing of reactive scalars in turbulent reactive flows is statistically modeled. Therefore, the recently developed parametrized scalar profile mixing model is generalized. 

@@ -1,0 +1,2 @@
+  Growth and Mitigation Policies with Uncertain Climate Damage  
+We analyze an endogenously growing economy in which production process generates greenhouse gas emissions. Global warming causes stochastic climate shocks which destroy part of the economy’s capital stock. A fraction of output may be devoted to emissions abatement. 

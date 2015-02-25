@@ -1,0 +1,2 @@
+  Development of a computable general equilibrium model for Europe with energy sector detail  
+The objective of this project is to develop a state-of-the-art computable general equilibrium model for Europe with energy sector detail. The will Switerland and other major European countries and regions. 

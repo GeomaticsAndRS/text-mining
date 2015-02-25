@@ -1,0 +1,2 @@
+  Credit Derivatives: Pricing and Hedging 
+Development and testing of mathematical models of the credit risk of obligors for the pricing and hedging of credit derivatives. Analysis of resulting stochastic price processes for simple credit derivatives and empirical testing. Pricing of complex basket- and portfolio credit derivatives.

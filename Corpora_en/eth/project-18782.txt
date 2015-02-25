@@ -1,0 +1,1 @@
+Amide proton detection MRS non-invasively gives insight into the human metabolism, but its applicability is limited by the number of detectable metabolites. This work aims at accessing the complementary information content of amide protons and protons bound to aromatic compounds using adopted acquisition methods at 7T.

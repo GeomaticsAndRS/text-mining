@@ -1,0 +1,2 @@
+  Coevolutionary dynamics in a conservation genetic framework: local adaptation and inbreeding in a plant-herbivore-parasitoid interaction  
+We investigate how the effects of inbreeding, levels and distribution of genetic variation, and third trophic-level interactions influence plant-herbivore co-evolution using a study system with naturally highly fragmented distributions of the interacting species.

@@ -1,0 +1,2 @@
+  Model-based estimates of dopaminergic and cholinergic influences on synaptic plasticity during sensory and reinforcement learning  
+In this project we use fMRI, hierarchical Bayesian models and dynamic causal models of neuronal populations to infer dopaminergic and cholinergic influences on synaptic plasticity during sensory and reinforcement learning. 

@@ -1,0 +1,1 @@
+Multiview and multiframe analysis of video footage New products taking advantage of a virtual video sequence, or instant replays for multiple sports bear a big potential in the broadcast market. The research focus lies on consistent and temporally coherent multi-cam and multi-frame processing.Multi-camera object cutout/segmentation over time .

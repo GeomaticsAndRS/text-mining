@@ -1,0 +1,1 @@
+Dependence modelling in finance and insurance This project is about the modelling of dependence beyond linear correlation in insurance and finance. Special emphasis is given to applications in quantitative risk management (including Basel II and Solvency 2).

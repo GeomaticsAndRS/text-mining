@@ -1,0 +1,2 @@
+  YeastX: Coping with Uncertainty: Towards an Integrated Understanding of Nutrient Signaling, Regulation and Metabolic Operation  
+YeastX will identify how glucose and nitrogen signals are sensed and quantitatively translated by a highly interconnected information and regulation network that controls metabolism as one of the most basic cellular functions. Model organism: Sacharomyces cerevisiae.

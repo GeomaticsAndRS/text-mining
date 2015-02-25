@@ -1,0 +1,2 @@
+  A Retrospective FE Hip Fracture Study Based on the AGES-RS Data  
+The aim of this project is to address a key topic in osteoporosis research i.e.; what predisposes a hip to fracture? A large part of the effort is devoted to developing improved methods for experimental testing and in-silico simulations and validate them against retrospective cohort data. 

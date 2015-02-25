@@ -1,0 +1,2 @@
+  Drittmittel aus ETH World-Projekten: Integrated Building Services: The integration of pervasive technology into HIL building  
+This project proposes the retrofitting of networked building and information services into the lecture halls within the ETH HIL building. This proposal fulfills the mandate of ETH World.

@@ -1,0 +1,1 @@
+EU Network of Excellence in Embedded System Design ARTIST2/ARTISTDesign The main objective of Artist NoE is to become a virtual Center of Excellence in Embedded Systems Design. ETHZ is basically involved in the Platforms and MPSoC Design cluster, which has as main purpose the integration of different view points and approaches in MPSoC design and programming.

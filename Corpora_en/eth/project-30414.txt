@@ -1,0 +1,1 @@
+Experimental and numerical analyses of the hydro-mechanical behaviour of Opalinus Clay This project was initiated to systematically analyze the hydro-mechanical behavior of Opalinus Clay in the short- and long-term. A series of consolidated drained and undrained triaxial tests will be conducted to establish the undrained and drained strength, and stress-strain behavior.

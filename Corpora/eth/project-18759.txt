@@ -1,0 +1,2 @@
+  2D Resolved Magnetic Resonance Spectroscopy at 7T  
+In-vivo proton MR spectra are characterized by substantially overlapping  resonance lines, complicating their interpretation and quantification. The combination of high field strength and 2D resolved MR spectroscopy techniques allows for significant increase of the number of quantifiable metabolites.

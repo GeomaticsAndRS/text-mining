@@ -1,0 +1,2 @@
+  Analysis of lattice structures  
+The aim of the project is to investigate the mechanical properties and the fracture mechanism of regular lattice structures which are used for numerical simulations of fracture processes in concrete where the failure mode in compression should get improved. 

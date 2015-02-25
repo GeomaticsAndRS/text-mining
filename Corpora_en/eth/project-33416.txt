@@ -1,0 +1,1 @@
+Knowledge, managment, and industry performance This project investigates Chinese provincial industry performance by employing stochastic frontier approaches and decomposition method. The analyses focuses on the effects of knowledge and management issues in the period of 2000-2012.

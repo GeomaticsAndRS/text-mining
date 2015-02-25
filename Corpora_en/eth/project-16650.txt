@@ -1,0 +1,1 @@
+Dynamic 3D Shapes This project investigates efficient representations and algorithms for dynamic 3D shapes, i.e., digital 3D objects that undergo frequent changes of shape or appearance.

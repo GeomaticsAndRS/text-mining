@@ -1,0 +1,2 @@
+  ONEBAT Sinergia 
+The final aim of this project is developing a micro-SOFC system which can be used as battery replacement for small portable electronic equipment. Our focus is the design and optimization of catalyst based fuel reforming and micro-combustion, before and after the micro-SOFC, respectively.

@@ -1,0 +1,2 @@
+  Homogenization by high order FEM  
+Composites and perforated materials are widely used in many practical applications, such as aircraft, civil engineering, electrotechnics, etc. High order generalized Finite Element Methods (gFEM) are developed to solve numerically partial differential equations (PDEs) on such periodic structures. 

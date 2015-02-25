@@ -1,0 +1,1 @@
+Constraint-Driven Computational Design Synthesis using Graph Grammars This research focuses on topologic and parametric computational synthesis for engineering design problems defined through requirements. Object-oriented graph grammars are combined with Boolean satisfiability, constraint solving and simulation to automatically generate and explore solution spaces.

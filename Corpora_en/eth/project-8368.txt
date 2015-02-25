@@ -1,0 +1,1 @@
+SNew ¸ approaches for the in-vivo selection of biocatalystsTˇ The objective of this project is to develop in-vivo selection systems for new biocatalysts that couple intracellular product recognition by engineered proteins to vital cellular processes such as catalysis of an essential biochemical reaction or expression of an essential protein.

@@ -1,0 +1,1 @@
+Development of a model-predictive, closed-loop controller for the MCSGP-process The MCSGP-process is a continuous chromatographic process for the pu- rification of therapeutic proteins and peptides. In order to ensure a stable operation over long time periods, relaible analytics and control concepts are needed.

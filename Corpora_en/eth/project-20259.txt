@@ -1,0 +1,1 @@
+On Cognitive Interference Networks We study general interference networks with cognitive transmitters. More precisely, we assume that each transmitter besides its own message knows a subset of other transmitters’ messages. For such a scenario we study the high SNR asymptotics of the maximum achievable throughput.

@@ -1,0 +1,2 @@
+  Engineering Nonribosomal SS-Synthetases  
+The goal of this project is to harness the nonribosomal peptide synthesis machinery of bacteria for the fermentative production of ß-peptides. Rational design and novel  tools for laboratory evolution of such mega synthetases will be used to engineer ß-specificity.

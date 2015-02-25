@@ -1,0 +1,2 @@
+  Advanced Distributed Learning (ADL)  
+The ADL project fosters the development of e-learning. The research focus lies on self-paced learning, without a real-life tutor, in pure computer-to-learner situations, any time and anywhere. This project has a special focus on the international SCORM standard, learning paths, and authoring issues.

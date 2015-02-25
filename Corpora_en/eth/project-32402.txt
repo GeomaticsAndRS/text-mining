@@ -1,0 +1,1 @@
+Automatic pre-processing/analysis/information extraction from big sensor data by advanced signal processing The research project has the objective to survey the state of the art on advanced processing algorithms, architectures and circuits for high-resolution and high-bandwidth Sgeneralized ¸ imagingTˇ sensors.

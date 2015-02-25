@@ -1,0 +1,1 @@
+Ultra low dissipation quantum cascade lasers for spectroscopy In this project research is intended to improve the Quantum Cascade Laser performance with the ultimate goal of an ultralow power dissipation device offering a high tunability as well as a high output power.

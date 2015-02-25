@@ -1,0 +1,2 @@
+  Forschungsprojekt DISCRETE-FD  
+Entwicklung von Discrete Event Simulationen für verbesserte Risikoabschätzung im Bereich Immobilien und Facilities Development (FD)

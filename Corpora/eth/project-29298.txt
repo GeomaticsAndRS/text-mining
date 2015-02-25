@@ -1,0 +1,2 @@
+  Modeling of L-L systems in stirred tanks with constant and variable viscosity  
+Modeling and experiments are used for description of heterophse stirred  tanks. Hydrodynamic interactions are obtained from CFD and droplet size distribution is described by population balances. Suspension polymerization is chosen as a representative system with variable viscosity and surface tens

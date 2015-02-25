@@ -1,0 +1,1 @@
+Small-scale steel frames developed for earthquake engineering education purposes A family of small-scale steel frames is designed and constructed for educational earthquake engineering experiments.Based on a three-story moment frame prototype, variants featuring base isolation devices, braces and dampers are developed. Realistic vibration characteristics are achieved.

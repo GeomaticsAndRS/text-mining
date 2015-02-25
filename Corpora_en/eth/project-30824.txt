@@ -1,0 +1,1 @@
+Confined masonry Seismur structural wall element The objective of this project is to experimentally investigate the lateral load bearing capacity, the deformation capacity, and the seismic performance of the Stahlton prestressed reinforced concrete wall elements coupled with unreinforced masonry wall elements.

@@ -1,0 +1,2 @@
+  Automated model construction and genome annotation for large-scale metabolic networks (MetaNetX)  
+Mathematical models of metabolic networks can be constructed and analyzed at a whole-genome level. The MetaNetX RTD project aims at developing integrated computational methods and tools for the automated reconstruction of genome-scale metabolic networks, including prediction of novel pathways.

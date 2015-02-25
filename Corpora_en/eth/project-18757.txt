@@ -1,0 +1,1 @@
+Detection of Neural Currents (alpha waves) by EEG-MRI. We investigate the feasibility of detecting neural currents, specifically alpha waves, in the human brain by simultaneous EEG & MRI experiments.

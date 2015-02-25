@@ -1,0 +1,2 @@
+  Pacemaker safety 
+Continuous efforts have been put into the investigation of pacemaker sa-  fety in the MRI environment. Different interactions have to be evaluated. The goal of this project is an MR compatible pacemaker.

@@ -1,0 +1,2 @@
+  Robust Estimation of Dynamical Biological Models 
+Robust estimation techniques are developed to estimate and identify dynamical models in biology, e.g. metabolic or regulatory network models. Sensitivityanalysis of submodules is performed to provide feedback for experimental validation and experimental design. 

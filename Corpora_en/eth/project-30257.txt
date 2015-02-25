@@ -1,0 +1,1 @@
+Single molecule real time interaction analysis Development of methodologies and data analysis systems for the kinetic analysis of single molecule interactions using a modified third generation DNA sequencing device.

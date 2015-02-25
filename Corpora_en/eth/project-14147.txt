@@ -1,0 +1,1 @@
+Spin physics in nanostructures Spin resonance and the manipulation of spin states in quantum dots is important in view of spin-based quantum-information processing-schemes. We will develop a microwave set-up, which allows to achieve large magnetic field components of the GHz signal at the location of the quantum dot.

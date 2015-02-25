@@ -1,0 +1,2 @@
+  Context Sensitive Information: Robust Optimization by Information Theoretic Regularization  
+In this project, we study possible approaches to address an uncertainty in the data provided for optimization (continuous and combinatorial) problems. Under this uncertainty, we reformulate the informativeness-robustness trade-off in terms of information theory and regularize the cost function.

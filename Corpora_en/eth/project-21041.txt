@@ -1,0 +1,1 @@
+Efficient 3D tooth surface integration In our project we provide the knowledge and algorithms that allow stitching of teeth scans into one coherent mesh at interactive rates. In particular the individual scans are registered using fast Iterative Closest Point and integrated into a consistent

@@ -1,0 +1,1 @@
+DELIS - Dynamically Evolving Large-Scale Information Systems Information systems like the Internet have reached a level that puts them beyond our ability to deploy them and keep them functioning correctly by traditional techniques. The goal of this project is to develop techniques and tools to cope with the challenges imposed by such systems.

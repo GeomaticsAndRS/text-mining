@@ -1,0 +1,2 @@
+  Determination of High Precision Geoid  
+GPS users working in cadastral and industrial surveying are working with two height systems: Orthometric heights in classical methods, and ellipsoidal heights in GPS. The projects amis at the determination of a highly accurate geoid for Switzerland thus providing the link between these two systems.

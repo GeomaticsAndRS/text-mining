@@ -1,0 +1,2 @@
+  Optimization of the detection of Listeria spp and Listeria monocytogenes  
+We evaluate the usefulness of two novel detection and separation technologies on the basis of (i) luciferase-transducing bacteriophage assays in a microplate format, and  (ii) magnetic separation technologies with the aid of high-affinity cell wall binding polypeptide domains from phage encoded hydro

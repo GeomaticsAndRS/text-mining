@@ -1,0 +1,2 @@
+  High-Rate GNSS for Seismology  
+It is the goal of this project to thoroughly study the applicability of highrate GNSS (up to 100 Hz) for seismology, and to assess its contribution to the characterization and quantification of earthquake parameters and, thus, its impact on earthquake monitoring and tsunami early warning systems

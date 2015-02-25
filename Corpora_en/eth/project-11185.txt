@@ -1,0 +1,1 @@
+Prohl, A.: Numerics of crystalline and micromagnetic microstructures Nonconvex side-constraints lead to severe problems in developing consistent, stable numerical schemes. In this project, analytical and numerical studies are preformed for new schemes which are consistent and stable.

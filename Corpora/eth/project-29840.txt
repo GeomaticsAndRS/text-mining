@@ -1,0 +1,2 @@
+  Validating sparse models 
+We are investigating information theoretic approaches to validating sparse subspace clustering with applications to fMRI data analysis for neuroimaging.

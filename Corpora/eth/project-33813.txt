@@ -1,0 +1,2 @@
+  Development of self-centering systems with geometry-controlled stiffness for earthquake hazard mitigation  
+The goal of this research project is to conduct an analytical, numerical and experimental study of the dynamic response of rocking self-centering structural systems with  geometry-controlled stiffness.

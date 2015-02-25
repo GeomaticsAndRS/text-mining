@@ -1,0 +1,1 @@
+Point-based animation This research project investigates physically based modeling using points both as physical particles and as surface primitives. On the basis of this model we will simulate different materials such as elastic, plastic and viscous objects, as well as fluids.

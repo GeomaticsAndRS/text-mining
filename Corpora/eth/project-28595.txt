@@ -1,0 +1,2 @@
+  Computing Multi-Particle Production Processes at the LHC  
+With new CERN LHC proton-proton collider, particle physics research enters into a new era of discovery. In the present project, we evaluate hard scattering observables for multi-particle production processes for the LHC, which will provide viable information for the interpetation of future data. 

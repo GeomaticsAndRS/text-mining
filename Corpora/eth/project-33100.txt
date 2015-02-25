@@ -1,0 +1,2 @@
+  Aerial Cavity Mapping  
+ETH-ASL will adapt its UAV platform for operation in AGAs deep gold mines in South Africa. The goal is to be able to fly in a ore pass and acquire a 3D map.

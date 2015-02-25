@@ -1,0 +1,1 @@
+Doping Effects in Antiferromagnetic Domain Structures In this project we investigate the effects chemical doping has on the antiferromagnetic domain structures in hexagonal Manganites.

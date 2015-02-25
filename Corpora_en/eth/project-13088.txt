@@ -1,0 +1,1 @@
+Solar Radio Astronomy The project focuses on the development of a broadband Fast-Fourier- Transform radio spectrometer using fast digital samplers and large FPGA chips in collaboration with Acqiris SA, Genf. The spectrometers can be used both for high-sensitivity solar and star formation research.

@@ -1,0 +1,2 @@
+  Toward potentiometric single-molecule detection: Optimizing ion sensors for small sample quantities  
+Development of ion-selective electrodes capable of measuring nanomolar to picomolar ion activities in samples of very small volumes. By labeling biomolecules with metal nanoparticle tags and dissolving the metals in such small sample volumes, the novel sensors may lead to single molecule detection. 

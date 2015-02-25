@@ -1,0 +1,2 @@
+  Robotic fabrication of concrete columns with variable cross section 
+This project covers the use of chemical admixtures in cement and insulating plasters to control relevant properties necessary for adaptation of these materials to a digital fabrication process.

@@ -1,0 +1,2 @@
+  Optomechanics using quantum dots and polaritons 
+The principal goal of this project is to combine deformation potential or piezoelectric electron-phonon coupling with favourable optical properties of quantum dots to achieve coherent spin-phonon coupling.

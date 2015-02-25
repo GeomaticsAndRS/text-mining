@@ -1,0 +1,1 @@
+Rockslide Characterization and Location with Regional Seismic Networks This project aims to create a comprehensive remote monitoring package to identify and classify rock slope failures in continuous seismic data within minutes after occurrence. This will facilitate creation of a centralized rockslide database in Switzerland.

@@ -1,0 +1,2 @@
+  High magnetic field multiphase system processing  
+High magnetic fields (> 3T) are applied to fluid systems containing molecules and/or particles which can be oriented and initiated to build superstructures. Laminar flow fields are superimposed inorder to support such structure formation. Experiments are carried out in a superconductor magnet (3.5 T 

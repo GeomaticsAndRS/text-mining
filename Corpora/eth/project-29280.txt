@@ -1,0 +1,2 @@
+  Development of a bottom-up electricity model for Switzerland and neighbouring countries  
+This project develops a bottom-up load dispatch and capacity expansion model for the electricity sector. The model will represent Switzerland and neighbouring countries and will be ultimately coupled with a computable general equilibrium model. 

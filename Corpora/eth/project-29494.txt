@@ -1,0 +1,2 @@
+  Multifunctional Trilayer Heterostructures 
+We investigate reversible symmetry tuning in functional thin-film (A/B/A) oxides. Such ”trilayers” feature a model system to exploit and control symmetry related functionalities as (e.g. magnetoelectric effects) in heterostructure devices. 

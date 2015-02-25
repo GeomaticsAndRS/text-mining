@@ -1,0 +1,2 @@
+  Proteusins, a new natural product class: biosynthesis, discovery, and synthetic biology  
+Proteusins are a recently discovered class of modified peptide natural products from bacteria. Aim is to study biosynthetic enzymes catalyzing unusual peptide modifications and to characterize the biosynthetic end products of proteusin pathways with unknown function. 

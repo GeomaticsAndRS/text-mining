@@ -1,0 +1,1 @@
+Linear Time Kernel Methods and Matrix Factorizations Study of fast approximation algorithms for kernel methods, and for approximate matrix factorizations and semi-definite programs. Building on the coreset paradigm, we try to contribute to the understanding of sparsity and algorithmic perfperformance on large scale problems of this form

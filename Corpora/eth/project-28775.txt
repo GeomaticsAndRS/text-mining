@@ -1,0 +1,2 @@
+  Measuring preferences and beliefs to predict cooperative decisions  
+Using empirical measures of both preferences and beliefs, we develop simple models to predict peoples’ potentially cooperative decisions in a social dilemma context.

@@ -1,0 +1,1 @@
+Skisprung To quantify the trainings performance of ski jumpers, an instrumented vehicle will be developed and tested. The vehicle will be equipped with force sensors and accelerometers. The Swiss national team of ski jumpers will use the vehicle.

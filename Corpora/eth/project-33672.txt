@@ -1,0 +1,2 @@
+  Improvement of GNSS kinematic positioning with low-cost receiver clocks 
+This project tries to access the benefits in GNSS pseudorange kinematic positioning by connecting low-cost high-quality receiver clocks with low-cost GNSS receivers and applying appropriate receiver clock models. Field experiments are going to be performed on a moving platform.

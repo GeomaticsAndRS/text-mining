@@ -1,0 +1,2 @@
+  Kennwerte zur ökologischen Beurteilung von Gebäuden  
+In Analogie zur Baukostenplanung werden in diesem Projekt Kennwerten für die ökologische Beurteilung von Gebäuden entwickelt, die auf Erfahrungswerten basieren,  und auf verschiedenen Ebenen der Elementkostengliederung bereitgestellt. Grundlage der Untersuchung sind Daten des Baukosteninformationszen

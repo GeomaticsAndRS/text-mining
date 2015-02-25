@@ -1,0 +1,1 @@
+EU-HITECO Project aimed at the development of the solar parabolic trough technology for concentrated solar power (CSP) generation.

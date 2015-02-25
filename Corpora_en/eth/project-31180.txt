@@ -1,0 +1,1 @@
+Adaptive designs for uncertainty quantification in computational dosimetry This project aims at developing uncertainty quantification in computational dosimetry. Active learning methods for an adaptive construction of the experimental design (ED) are investigated, together with local error estimates, which help refine the ED for specific tasks, e.g. computing quantiles.

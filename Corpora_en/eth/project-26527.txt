@@ -1,0 +1,1 @@
+Real-time Simulation and Control of Physical Systems Based on State Quantization The project shall establish an interface between OpenModelica and PowerDEVS, an asynchronous (real-time) simulation environment based on state quantization. PowerDEVS enables more efficient (real-time) simulation and control of physical systems. Our work emphasizes power electronics.

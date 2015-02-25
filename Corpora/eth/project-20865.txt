@@ -1,0 +1,2 @@
+  A novel system for trigger-controlled drug release from polymer capsules 
+Technologies currently available for the controlled release of protein therapeutics involve either continuous or tissue-specific discharge from implants or engineered extracellular matrix mimetics.

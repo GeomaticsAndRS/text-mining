@@ -1,0 +1,1 @@
+Analysis of the Geometric Accuracy of Satellite-Based Products of GCOS Switzerland This project aims at analyzing the geometric accuracies of three common- ly used meteorological satellite sensors: SEVIRI, MODIS, and AVHRR. It is carried out under the GCOS (Global Climate Observing System) program in an agreement with the Swiss GCOS Office at MeteoSwiss.

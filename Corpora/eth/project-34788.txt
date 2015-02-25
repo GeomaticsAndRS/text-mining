@@ -1,0 +1,2 @@
+  Development of a Multi-DOF Hybrid Simulation Facility  
+A facility to enable simulation of the seismic response of a hybrid model,  comprising numerical and physical portions, is designed and implemented in the ETH IBK Structural Testing Laboratory. Full scale structural elements, such as walls, columns and connections, are tested under realistic loads.

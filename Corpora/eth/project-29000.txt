@@ -1,0 +1,2 @@
+  The Body-on-a-Chip (BOC) 
+The central idea of this project is to develop a versatile and reconfigurable pharmaceutical screening technology platform that relies on organotypic three-dimensional spherical microtissues.

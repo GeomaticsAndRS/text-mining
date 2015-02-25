@@ -1,0 +1,1 @@
+Development of discretisations and solvers for 3D two-phase flow dynamics We will develop three-dimensional models of two-phase flow which will be used to study the percolation of reacting fluid and/or melt through the deforming subduction interface. The research entails both the development of appropriate spatial discretisations and preconditioners.

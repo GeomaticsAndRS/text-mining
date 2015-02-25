@@ -1,0 +1,2 @@
+  Geodata4SwissEDU: Geodata for Swiss Education: nutzerfokussierter Service für das Auffinden, den Zugriff, die Präsentation, den Download und die Verarbeitung von Geoinformationen für Ausbildung und Forschung an den Schweizer Hochschulen und Fachhochschulen  
+Geodata4SwissEDU ist ein nutzerfokussierter Service für das Auffinden, den Zugriff, die Präsentation, den Download und die Verarbeitung von Geoinformationen für Ausbildung und Forschung an den Schweizer Hochschulen und Fachhochschulen.

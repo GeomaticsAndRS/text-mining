@@ -1,0 +1,2 @@
+  Indoor positioning using an optical TDOA approach 
+An optical positioning system using time-difference of arrival measurements based on spread-spectrum modulation of an infrared carrier is developed, along with tools  for the optimization of sensor placement. The goal is to achieve mm-level accuracy in indoor environments.

@@ -1,0 +1,1 @@
+Thermal modeling of shape memory alloys Theoretical and numerical modeling of thermomechanical cycling of shape memory alloys.

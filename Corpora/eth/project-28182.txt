@@ -1,0 +1,2 @@
+  Self aligned transistors  
+Self alignment lithography techniques are developed to enable the reliable fabrication of TFTs on flexible Substrates. The channel length and the gate-drain overlap will be reduced to values below 2 ¸tm and 0.5 ¸tm, respectively. This should enable transistor operation above 200 MHz. 

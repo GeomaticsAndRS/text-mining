@@ -1,0 +1,2 @@
+  Structure and Function of a Primase  
+We aim here at elucidating the structure and dynamics of the reactions steps of a primase during initiation (dinucleotide formation) and elongation. To this end we use as a model enzyme the thermophilic plasmidal archaeoeukaryotic primase ORF904.

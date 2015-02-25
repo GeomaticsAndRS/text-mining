@@ -1,0 +1,1 @@
+BioLogic gates enable logical transcription control in mammalian cells The architecture of gene regulatory networks is reminiscent of electronic circuits. Modular building blocks that respond in a logical way to one or several inputs are connected to perform a variety of complex tasks. We have pioneered the construction of artificial gene regulatory networks.

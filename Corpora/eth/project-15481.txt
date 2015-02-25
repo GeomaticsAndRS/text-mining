@@ -1,0 +1,2 @@
+  Glycosylation engineering of plants for the production of novel glycoengineered antibodies 
+An obstacle for production of therapeutic proteins in plants is the formation of non-human N-glycans. By expression of human glycosyltransferases the plant N-glycosylation is altered to allow production of antibodies, lacking immunogenic sugars & possessing increased half-life & biological activit

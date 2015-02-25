@@ -1,0 +1,1 @@
+Climate and Stratospheric Ozone during the 20th century (CASTRO) The project aims at investigating interannual-to-decadal variability of stratospheric circulation and ozone during the 20th century in relation to climate variability. Transient simulations will be performed with a state-of-the-art chemical climate model and compared with observations.

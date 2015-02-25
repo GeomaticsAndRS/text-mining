@@ -1,0 +1,2 @@
+  Towards a science in music  
+In this project several wearable and pervasive sensor technologies for musical instruments and for motion, gesture and pressure recognition are developed and evaluated. These can be integrated into every-day performing and exercising to receive reliable data from beginners to professional musicians. 

@@ -1,0 +1,2 @@
+  Processing of metallic glass-forming liquids monitored via high-speed thermography  
+This project aims to obtain detailed information on how the cooling rate affects melt flow during casting. The flow and cooling behavior of bulk metallic glass-forming  melts during copper mold casting is therefore monitored simultaneously via high-speed infrared thermography.

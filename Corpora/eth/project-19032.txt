@@ -1,0 +1,2 @@
+  From nanoscale simulation to process engineering: Bridging length scales in flows of polymeric fluids  
+Development of (i) prototype network, connected virtually through a primary server/distribution site dedicated to the project (ii) simulation/experimental-based approach to multiscale model building and refining (iii) understanding of the dynamics and structure of entangled polymeric systems

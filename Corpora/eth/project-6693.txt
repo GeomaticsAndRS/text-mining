@@ -1,0 +1,2 @@
+  Multivariate Linear Unmixing Models, with Application to Data from Ambient Air Monitoring Stations 
+Linear mixing models describe multivariate data as convex linear combinations of a few fixed vectors (source profiles) plus random error – similarly to factor analysis. Statistical methods allow to estimate both these fixed vectors and the mixing coefficients on the basis of a dataset.

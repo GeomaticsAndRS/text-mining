@@ -1,0 +1,1 @@
+Gutknecht, M.: Block Krylov Space Methods for Indefinite Hermitian Linear Systems Block versions for large sparse Hermitian indefinite linear systems with multiple right-hand sides of the MINRES and SYMMLQ algorithms are proposed and investigated, in particular with respect to deflation and loss of orthogonality.

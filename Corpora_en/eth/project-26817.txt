@@ -1,0 +1,1 @@
+On-Board Diagnosis for Automotive Systems On-board diagnosis (OBD) is the continuous monitoring of all emissionrelevant sensors and actuators of an engine system. The goal of this project is to develop and improve algorithms to accurately monitor the static and dynamic properties of these sensors and actuators over the whole lifetime.

@@ -1,0 +1,2 @@
+  Estimation of a linear demand system for Switzerland  
+Econometric estimation of the linear demand system for use in computable general equilibrium models for Switzerland

@@ -1,0 +1,1 @@
+Applications and Extensions for the Relativistic Lattice Boltzmann Model

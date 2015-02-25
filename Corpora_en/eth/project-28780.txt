@@ -1,0 +1,1 @@
+I-SUR: Intelligent Surgical Robotics This project addresses a very complex problem that can be expressed in a very simple form: is it possible to automate surgery? The contribution of ETHZ focuses on the development of a dextrous robotic platform capable of performing surgical tasks such as puncturing autonomously.

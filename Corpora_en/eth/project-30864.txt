@@ -1,0 +1,1 @@
+Modeling of catalysis in porous media for automotive applications Experimental studies have shown that ceramic foam based catalysts can be more efficient than conventional honeycomb catalysts typically used for automotive applications. The goal of this project is to model heat and mass transfer phenomena including heterogeneous chemical reactions in ceramic foams.

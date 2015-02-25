@@ -1,0 +1,1 @@
+Integrated geodynamics: Reconciling geophysics and geochemistry In collaboration with the team of Prof. Trampert at Utrecht University, we perform integrated modelling of the physical and chemical evolution of Earth’s interior, using neural networks to infer parameters that are consistent with a broad suite of observations.

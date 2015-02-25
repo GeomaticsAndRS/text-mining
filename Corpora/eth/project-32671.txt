@@ -1,0 +1,2 @@
+  Modelling toxic responses in case studies for predictive human safety assessment  
+Development of integrative in silico tools for predicting human liver and heart toxicity via the establishment of an integrated modeling framework based on molecular and functional data across multiple scales. 

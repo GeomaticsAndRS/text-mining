@@ -1,0 +1,2 @@
+  Multidisciplinary Structural Analysis and Optimization for Morphing Aerofoils  
+This research program focuses on adaptive structural systems with the goal of applying shape adaptation techniques to an aircraft aerofoil. Overall performance and efficiency  is improved and, using embedded actuators, there is the potential of reducing the complexity compared to existing solutions.

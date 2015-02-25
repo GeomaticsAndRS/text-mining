@@ -1,0 +1,1 @@
+Preconditioned Methods for Large-Scale Model Reduction Model reduction is an efficient way of reducing the complexity of a mathematical model while retaining the essentials of the input-output behavior of this model. The purpose of this project is to develop and analyse numerical methods for performing model reduction.

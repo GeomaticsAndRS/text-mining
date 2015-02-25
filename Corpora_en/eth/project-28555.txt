@@ -1,0 +1,1 @@
+OpenSense: Open Sensor Network for Air Quality Monitoring OpenSense aims at investigating community-based sensing using wireless sensor network technology to monitor air pollution. We are working on solving technical challenges in the context of the communication and information systems infrastructure, to scale up to an open and scalable infrastructure.

@@ -1,0 +1,2 @@
+  NCCR IM2 WP Facexpress  
+Recognition of Spontaneous Facial Expressions in a Meeting Room Environment. The emphasis of the project is on the monocular analysis of facial emotions. This project is part of the Swiss SNF NCCR IM2 

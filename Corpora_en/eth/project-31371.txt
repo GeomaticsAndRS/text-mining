@@ -1,0 +1,1 @@
+Large scale simulations of forced MHD turbulence http://www.sam.math.ethz.ch/sam_projects/mishra/MHDT.php

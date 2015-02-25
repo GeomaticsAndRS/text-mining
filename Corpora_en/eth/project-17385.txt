@@ -1,0 +1,1 @@
+Microstructured heterojunction devices based on aligned organic semiconductors Aim of this project is to grow ordered organic semiconducting materials on amorphous substrates and pattern them into structures using optical lithography in order to realize heterojunction devices that make best use of the electronic properties of the organic semiconducting thin films.

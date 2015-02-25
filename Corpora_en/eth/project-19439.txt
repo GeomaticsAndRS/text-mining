@@ -1,0 +1,1 @@
+Logarithmic components of the vacant set for random walk on a discrete torus (part of Thesis of David Windisch) the typical presence of components of logarithmic size outside the giant component left in the vacant set left by random walk on a dicrete torus of size n in dimension d run for times of order unˆd, with u small, is proved.

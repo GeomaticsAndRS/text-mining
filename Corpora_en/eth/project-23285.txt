@@ -1,0 +1,1 @@
+Flows and instabilities in spherical Couette flow We calculate the fluid dynamics that result from the differential rotation of two nested spheres, and examine the stability.

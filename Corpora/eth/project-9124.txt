@@ -1,0 +1,2 @@
+  Foundations of thermodynamics in statistical mechanics 
+In this project, we attempt to derive most of the fundamental laws of thermodynamics from principles of quantum statistical mechanics. Included is a discussion of thermodynamic processes out of, but close to thermal equilibrium and of Onsager relations. 

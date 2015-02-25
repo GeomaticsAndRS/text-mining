@@ -1,0 +1,1 @@
+The mutual interaction of individual weather systems and weather regimes In this project the mutual interaction of weather systems and weather regimes in the Atlantic-European region will be revisited with the aim to reveal the governing physical and dynamical processes and to reduce error of their representation in numerical weather prediction models.

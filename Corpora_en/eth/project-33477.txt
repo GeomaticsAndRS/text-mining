@@ -1,0 +1,1 @@
+Intelligent Point-of-Care Monitoring: A Swiss Army Knife Approach to mHealth The goal of this project is to increase our ability to diagnose, monitor and treat major global health burdens by developing personalized methods, devices and efficient systems that can be used at the point-of-care, be it a remote community, home-care for the elderly, or the hospital setting.

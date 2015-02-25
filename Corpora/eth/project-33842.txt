@@ -1,0 +1,2 @@
+  Induced multipolar order in magnetoelectrics  
+The linear magnetoelectric effect couples magnetic and electric excitations within a material. By using MaxwellŠs equations we explore how this coupling can cause a monopolar magnetic field if a charge is placed in inside or in the vicinity of a magnetoelectric. 

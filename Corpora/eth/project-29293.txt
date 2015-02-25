@@ -1,0 +1,2 @@
+  Oracle Rapid 1 
+Hardware acceleration of relational databases

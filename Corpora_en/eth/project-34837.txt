@@ -1,0 +1,1 @@
+KTI 17136.1 Geometric and Semantic Structuring of 3D point clouds The topic of the proposed project is the automation of point cloud interpretation for terrestrial surveying applications.

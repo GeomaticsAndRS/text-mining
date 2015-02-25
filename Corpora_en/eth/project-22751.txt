@@ -1,0 +1,1 @@
+AHEAD - Advanced Hybrid Electric Autobus Design This project aims at improving efficiency, lifetime and cost of a new generation of hybrid electric public transit busses of Carrosserie Hess AG. Using systematic, model based optimization techniques the optimal component sizing is found and the optimal control strategy is developed.

@@ -1,0 +1,2 @@
+  Image analysis based on physical models and optimal observers 
+We are developing image analysis algorithms for many different biological  applications. Image processing is based on the optimal reconstruction of the system states using methods of Sequential Monte Carlo, Kalman Filtering, or Particle Filtering.

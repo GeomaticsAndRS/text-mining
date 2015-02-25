@@ -1,0 +1,2 @@
+  iStress - residual stresses in thin films 
+Residual stresses of thin films are analyzed by ion beam induced patterning in the framework of an EU project iStress. The task of the laboratory for nanometallurgy is to determine the materials limits in resolution of this technique by the investigation of ion damage.

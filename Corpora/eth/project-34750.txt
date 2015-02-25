@@ -1,0 +1,2 @@
+  Optimal Finite Blocklength Coding on Binary Erasure Channel  
+The exact value of the average error probability of an arbitrary code (linear or nonlinear) using maximum likelihood decoding is studied on binary erasure channels with arbitrary erasure probability. Optimal codes are derived for codes with a small number of codewords. 

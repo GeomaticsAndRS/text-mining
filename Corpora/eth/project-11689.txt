@@ -1,0 +1,2 @@
+  Turning design patterns into reusable components 
+Design patterns have allowed significant progress in software technology but fall short of the goals of reuse. This project systematically explores the transformation of wellestablished patterns into a library of directly reusable software components.

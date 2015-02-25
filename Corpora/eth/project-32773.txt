@@ -1,0 +1,2 @@
+  Design of zeolite-based catalysts for the upgrading of pyrolysis oil  
+In this project we explore the application of zeolite-based catalysts in  base-catalyzed liquid- and gas-phase condensation reactions relevant in the context of pyrolysis oil deoxygenation. The investigated catalysts comprise alkali metal ion-exchanged zeolites, alkaline activated zeolites and zeolit

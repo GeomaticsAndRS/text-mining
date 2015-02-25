@@ -1,0 +1,1 @@
+Influence of materials surface on the biomedical properties of bulk metallic glasses The aim of this project is to develop biocompatible metallic glasses for deployment as implant material in heart support systems. For this reason, the biomedical properties of bulk metallic glasses are studied in dependence of their surface topography, wettability, and surface chemistry.

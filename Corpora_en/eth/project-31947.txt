@@ -1,0 +1,1 @@
+Persistent and transient productive inefficiency: A Maximum Simulated Likelihood Approach The goal of this project is to provide an alternative econometric model for the estimation of a stochastic frontier model based on maximum simulated likelihood function that allow the distinction between persistent and transient level of efficiency.

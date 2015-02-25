@@ -1,0 +1,1 @@
+Partially Observable Markov Decision Processes (POMDP) in Civil Engineering Partially observable Markov decision processes describe a method to determine optimal decision strategies under uncertainty and estimate the expected cost resulting out of the optimal strategy. Here an implementation orie ted towards Civil Engineering practice is examined.

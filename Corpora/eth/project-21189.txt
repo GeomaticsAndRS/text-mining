@@ -1,0 +1,2 @@
+  GNSS water vapor monitoring in the Swiss Alps  
+The 3D retrieval of the distribution of atmospheric water vapor at scales of a few kilometers by means of GNSS path delays is investigated. A measurement campaign has been carried out in an alpine area to validate the measurement quality and to test the tomographic reconstruction in a case study.

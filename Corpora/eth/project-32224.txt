@@ -1,0 +1,2 @@
+  Optimal grouping of interventions on a highway network (IGORN)  
+Goal: To determine an algorithm that will allow the determination of the optimal set of work zones on a highway network taking into consideration both location of the object within the network and their deterioration over time 

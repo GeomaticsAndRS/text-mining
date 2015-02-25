@@ -1,0 +1,2 @@
+  Robustness and design principles of cellular control circuits  
+Robustness, the insensitivity to a wide range of perturbations, is a characteristic property of many living systems. Here, we systematically analyze robustness properties of cellular control circuits through a step-wise computational biology approach to derive more general design principles. 

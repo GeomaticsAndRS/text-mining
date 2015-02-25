@@ -1,0 +1,1 @@
+  Density functional theory (DFT) calculations as a tool in EPR spectroscopy of transition metal compounds  

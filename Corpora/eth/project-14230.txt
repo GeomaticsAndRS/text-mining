@@ -1,0 +1,2 @@
+  CoCoRob: Cooperative Control in Robot-Aided Gait Therapy 
+Das Ziel besteht darin die Roboter-Gangtherapie mit Lokomat mittels Skooperativer ¸ RegelungsstrategienS¸ zu optimieren. Diese Strategien ermöglichen die Berücksichtigung der Bewegungsintention des Patienten und passen die Roboterunterstützung an den Patienten an. Der Therapieerfolg soll so steigen.

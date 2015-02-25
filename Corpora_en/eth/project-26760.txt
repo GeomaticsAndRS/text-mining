@@ -1,0 +1,1 @@
+Experimental and Mathematical Framework to Control N-Linked Glycosylation Developing an experimental and mathematical framework to determine the impact of critical operating and feeding parameters to control N-linked glycosylation in mammalian fed-batch processes.

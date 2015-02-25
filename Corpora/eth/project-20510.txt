@@ -1,0 +1,2 @@
+  HFN, a high-precision (128 bit) package for numerical computation on CELL Broadband Engines (IBM CELL Processors) 
+The aim of this project, which involves students in CSE and physics from ETH Zurich and the University of Zurich, is the provision of a high-precision (128 bit) package for numerical computation on CELL Broadband Engines (IBM CELL Processors). Cooperation with NERSC and UC Berkeley.

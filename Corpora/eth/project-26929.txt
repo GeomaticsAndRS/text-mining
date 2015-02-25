@@ -1,0 +1,2 @@
+  Remote phenotyping of maize breeding material 
+The project aims to elucidate if remote sensing technologies can be utilized for plant breeding. A field macro array was sown with a diverse set of maize genotypes and  monitored throughout the season using thermal imaging and the normalized difference vegetation index.

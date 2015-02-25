@@ -1,0 +1,1 @@
+Nuclear physics from strong coupling lattice QCD We investigate numerically the theory of strong interactions, Quantum Chromo Dynamics (QCD), on a lattice in the limit of infinitely strong coupling. We focus on the nuclear physics arising from QCD and on the phases of the theory as a function of temperature, density and quark masses.

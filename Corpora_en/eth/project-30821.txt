@@ -1,0 +1,1 @@
+R-mu-T relations for seismically isolated structures The relations between the strength reduction factor the displacement ductility and the vibration period of the structure have been extensively studied for fixed-base structures. The objective is to investigate this relation for structures seismically isolated using deformable or sliding devices.

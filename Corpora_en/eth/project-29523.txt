@@ -1,0 +1,1 @@
+Superconductivity and magnetic instabilities in FeSe The aim of the project is to investigate by using first-principle methods changes in the magnetic structure of FeSe upon tensile strain. Since the superconducting transition in FeSe is correlated with magnetic fluctuations the results may help to understand experimental results of thin FeSe films.

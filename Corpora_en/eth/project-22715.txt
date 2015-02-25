@@ -1,0 +1,1 @@
+K-Content: Content abstraction and retrieval for large-scale mobile service we propose to assist with the further development of the new kooaba services, through IM2 technology transfer from the BIWI (ETH Zurich) and the Viper group (Un. of Geneva) to kooaba AG.

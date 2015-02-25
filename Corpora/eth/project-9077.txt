@@ -1,0 +1,2 @@
+  Chromatin Structure and DNA-Repair in Yeast 
+Genome function is coupled to packaging of DNA into chromatin. We use yeast as a model organism to study the molecular mechanisms how DNA-lesions induced by UV light are removed from chromatin and genes. Vice versa, DNA repair is used to investigate structural and dynamic properties of chromatin.

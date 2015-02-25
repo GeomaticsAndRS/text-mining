@@ -1,0 +1,1 @@
+A new equation of state for solutes in high-temperature fluids Many geologic hydrothermal processes occur at pressure-temperature conditions near the fluid’s critical point, but a robust model is lacking for the thermodynamics of dissolved components at such conditions. We are developing a model to understand fluid-rock reactions in these systems.

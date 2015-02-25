@@ -1,0 +1,2 @@
+  Identification of new host genes in cell entry of adenoviruses and bunyaviruses  
+In this project methods and concepts for image-based RNAi screens are developed to screen for new host genes important in virus infection. In particular, a kinase termed Dyrk3 has been identified in this approach and the cell biology is further worked out. 

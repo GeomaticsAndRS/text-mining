@@ -1,0 +1,2 @@
+  Microscale nonlinear systems  
+We explore dynamic phenomena in micro-scale granular crystals. We are trying to fabricate our systems with the aid of micro-fabrication techniques, and to excite and to measure on the chip level using MEMS techniques such as piezoelectric or electrostatic actuations and detections. 

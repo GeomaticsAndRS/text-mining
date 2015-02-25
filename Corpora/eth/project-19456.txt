@@ -1,0 +1,2 @@
+  ˝ a platform for storing, processing, managing, SisyphusDB U visualizing and sharing biological data  
+This project will combine the efforts of biologist and computer scientists to produce a modern, open source, extensible, and highly scalable platform for the storage, management, sharing and biological inference of proteomics data. 

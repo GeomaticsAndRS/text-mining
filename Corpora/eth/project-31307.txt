@@ -1,0 +1,2 @@
+  UPseis: Upscaling of seismic properties in fractured fluid reservoirs  
+We investigate seismic phenomena in fractured rocks, with a special focus on the so-called Krauklis wave on the scale of individual fractures both by applying numerical wave-propagation simulations and in the laboratory. 

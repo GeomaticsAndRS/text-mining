@@ -1,0 +1,2 @@
+  Mid-infrared laser spectroscopy for multi-component analysis of exhaled air 
+Development of a novel trace gas analyzer for multi-component sensing of human exhaled air. The device is expected to measure in real-time a set of gases relevant for diagnosing specific diseases. Promising features of such a device: Non-invasive investigation, high sensitivity and specificity.

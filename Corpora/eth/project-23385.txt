@@ -1,0 +1,2 @@
+  Dynamics of Opinion Formation  
+Use of methods from statistical physics to identify and understand the main mechanisms under the process of opinion formation.

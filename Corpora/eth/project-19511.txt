@@ -1,0 +1,2 @@
+  A quatitative Chevalley-Weil theorem for curves  
+Joint work with Yuri Bilu. The Chevalley-Weil theorem is an important theorem in diophantine geometry about unramified coverings of algebraic varieties. We want to give a quatitative version of it in the case of curves.

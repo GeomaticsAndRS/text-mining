@@ -1,0 +1,2 @@
+  Spin polarized x-ray photo emission  
+Time resolved x-ray photoemission is uses to investigate the dynamical properties of magnetic solids. In a pump probe setting the light from free electron laser systems serves for the photoemission probe and short infrared laser pulses are used for pumping.

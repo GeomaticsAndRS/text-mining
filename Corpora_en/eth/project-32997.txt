@@ -1,0 +1,1 @@
+Numerical simulations of subcritical convection of Enceladus A hot temperature anomaly has been detected in the south polar terrains of Enceladus, icy satellite of Saturn. We show that only a non-Newtonian rheology can sustain a stable single-plume state at low Rayleigh number. Tidal heating makes the anomaly intense enough to match the detected heat flux.

@@ -1,0 +1,1 @@
+Chemistry and Engineering of Amine Oxidation Unlike other substrates, amine oxidation did not yet receive a lot of research attention. Nevertheless, several interesting molecules, such as amides and oximes, can be formed upon the aerobic oxidation of amines. This projects aims to understand and improve such systems.

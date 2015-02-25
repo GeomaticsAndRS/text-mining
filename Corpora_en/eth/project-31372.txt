@@ -1,0 +1,1 @@
+Entropy stable shock capturing GaLS-DG methods for multi-dimensional systems of conservation laws http://www.sam.math.ethz.ch/sam_projects/mishra/entropy.php

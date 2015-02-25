@@ -1,0 +1,2 @@
+  Object-Oriented Dynamic Evolution (ODE) 
+The purpose of this project is to support dynamic evolution of objectoriented software, in a flexible manner that considers correctness concerns as expressed by contracts, and taking into account the needs of retrieving persistent objects whose classes may have been modified.

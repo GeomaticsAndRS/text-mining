@@ -1,0 +1,1 @@
+A traffic equilibrium with paid and unpaid parking This project is about a traffic ow model in which multiple types of drivers (households) interact on a road network. Decisions about where to park reect trade-offs between time (driving, search and walking) and the money (parking fees).

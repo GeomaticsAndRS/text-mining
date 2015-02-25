@@ -1,0 +1,2 @@
+  Assessment and Benchmarking of Network Inference Methods: how to cope with an underdetermined problem  
+The aim of this project is to create new assessment and benchmarking  of methods for inferring gene regulatory networks from expression data. Importantly, we would like to take into account the issue related to the underdetermined nature of the network inference problem.

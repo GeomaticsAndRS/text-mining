@@ -1,0 +1,2 @@
+  Characteristics of GPS Antenna and Multipath Effects  
+Study the electrical characteristics of the antenna and investigate possible  sources, which affect the reception conditions, considering the physics of the atmosphere and the diffraction/reflection in the vicinity of the antenna (multipath effects).

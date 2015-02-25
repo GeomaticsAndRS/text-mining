@@ -1,0 +1,1 @@
+Crossing-Free Configurations in the Plane - Counting, Enumeration, and Sampling The goal of this project is the understanding of crossing-free geometric graphs-these are graphs with an embedding on a given planar point set where the edges are drawn as straight line segments without crossings.

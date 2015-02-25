@@ -1,0 +1,2 @@
+  Promoting knowledge transfer by early programming instruction 
+We investigate whether an early start with programming education will  have an impact on transfer of knowledge in other scientific or mathematical fields. Further points to consider are interest, motivation, achievement, and choice to further engage with the programming topics taught.

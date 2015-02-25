@@ -1,0 +1,1 @@
+Tight binding models of quantum systems The Bose-Hubbard model describing systems of cold atoms is studied. Its phase diagram, and, in particular, the Mott phases of this model are studied. Estimates on the density of atoms in a region of parameter space where one expects to encounter Bose-Einstein condensation are presented.

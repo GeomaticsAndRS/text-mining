@@ -1,0 +1,2 @@
+  State-of-the-art report of SPH Fluids in Computer Graphics  
+Smoothed Particle Hydrodynamics (SPH) has been established as one of the major concepts for fluid animation in computer graphics. This state-of-the-art report summarizes SPH research within the graphics community. 

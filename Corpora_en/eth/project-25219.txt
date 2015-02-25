@@ -1,0 +1,1 @@
+Nanopatterned materials for the improvement of therahertz quantum cascade lasers and laser-driven solid-state terahertz emitters The main aim of this project is to elaborate new approaches of creating efficient solid state sources of terahertz (THz) radiation. Two concepts will be explored, namely Quantum Cascade Lasers (QCL) and laser-driven solid-state emitters.

@@ -1,0 +1,1 @@
+Kic-Transitions The project aims to develop a framework for visualization of urban analysis and planning scenarios for data from various sources and for coupling of different simulation applications. With this framework it becomes possible to compare results of various analysis models.

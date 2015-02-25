@@ -1,0 +1,2 @@
+  A Practical Exact Implementation of a Parametric Linear Complementarity Solver 
+We develop an exact solver for parametric linear complementarity problems in C++. We implement an output sensitive algorithm developed by S. Columbano, K. Fukuda and C. Jones for solving this problem. 

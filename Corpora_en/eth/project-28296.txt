@@ -1,0 +1,1 @@
+Interactive Snowboarding Assistance System Development of an interactive sensor based assistance system integrated into the clothes and the equipment of snowboarding, which is capable of supporting snowboarders on the piste and helps them improve their riding style

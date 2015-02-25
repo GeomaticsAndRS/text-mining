@@ -1,0 +1,1 @@
+Heteronuclear Spin Decoupling We have developed new methods for heteronuclear spin decoupling under MAS which result in narrower lines especially at high spinning frequencies. At the fastest possible speeds it is possible to use low-power multiple-pulse decoupling methods which lead to a reduction in the rf-power.

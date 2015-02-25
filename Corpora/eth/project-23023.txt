@@ -1,0 +1,2 @@
+  Structural behavior of glued-laminated timber members subjected to axial compression or combined compression and bending 
+The project aims at the development of fundamental knowledge and advanced calculation models for the design of glued laminated timber members subjected to axial  compression or combined compression and bending based on 2nd order analysis.

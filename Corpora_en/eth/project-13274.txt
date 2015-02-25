@@ -1,0 +1,1 @@
+Efficient combustion model for probability density function (PDF) simulations of lifted jet flames The PDF modeling approach is used in combination with laminar flamelets and progress variables to develop an efficient simulation method for lifted turbulent jet flames where local extingtion and ignition plays an important role.

@@ -1,0 +1,2 @@
+  SyBIT  
+Create basic computing infrastructure accessible to all of SystemsX.ch participants. 

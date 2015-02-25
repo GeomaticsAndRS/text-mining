@@ -1,0 +1,1 @@
+Multi-Scale Interfaces in Unsaturated Soil Displacement fluid fronts within heterogeneous porous media give rise to complex fluid patterns and dynamics not captured by standard continuum models. We characterize and quantify patterns of water and gas distributions in porous media as related to structural properties and driving forces

@@ -1,0 +1,1 @@
+A methodology to determine the most sustainable bridge intervention strategies (MOSBIS) The goal of this project is to develop an improved methodology for the determining optimal object intervention strategies based on element condition states.

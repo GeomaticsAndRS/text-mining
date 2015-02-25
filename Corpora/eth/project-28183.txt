@@ -1,0 +1,2 @@
+  Gaussian Process Bandit Optimization: Theory and Applications  
+This project addresses the exploration–exploitation dilemma, fundamental to many applications in engineering, science and society. It has the goal of bridging the gap between theory and practice by developing new algorithms based on Bayesian optimization and evaluating them on real applications.

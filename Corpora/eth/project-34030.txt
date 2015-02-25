@@ -1,0 +1,2 @@
+  Entwurf von roboterbasierten Fabrikationsverfahren für komplexe Leichtgewicht-Strukturen 
+Das Forschungsprojekt verfolgt das Ziel, räumlich komplexe Leichtgewicht-  Strukturen durch mehrere Roboterarme kooperierend zu assemblieren.

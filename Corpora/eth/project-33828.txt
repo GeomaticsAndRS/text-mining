@@ -1,0 +1,2 @@
+  Application of 3D Geographic Information Systems for transparent and sustainable planning of electric power systems 
+The project aims to develop an integrated GIS-based 3D DSS web-platform to compute optimal paths for new power transmission lines, to visualize them in 3D and to enhance the communication among all involved stakeholders in order to minimize time efforts and to reduce social opposition.

@@ -1,0 +1,2 @@
+  Bost assembly map and Lefschetz theory (with S. Micic)  
+We study the possibility of defining L1-K-homology groups using a suitable spectrum over the orbit category of a given group. Applications will be made to Lefschetz theory in a general setting.

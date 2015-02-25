@@ -1,0 +1,2 @@
+  UltraVR - Ultrasound Imaging Simulation for Virtual Reality Training  
+Ultrasound imaging is a low-cost, real-time, non-ionizing image modality. The interpretation of ultrasound images with concurrent manipulation of ultrasound transducer is, however, a complex task requiring substantial training, which is addressed hereby via virtual reality simulation of images. 

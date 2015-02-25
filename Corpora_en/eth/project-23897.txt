@@ -1,0 +1,1 @@
+Metallic glasses without harmful elements for biomedical and skin-compatible applications This project aims to develop metallic glasses without toxic or potentially harmful/allergenic (e.g. Ni) elements. The mechanical, biological and electrochemical properties of the newly developed glasses are studied in detail and correlated with the atomic-scale microstructure.

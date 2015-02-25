@@ -1,0 +1,2 @@
+  Entwicklung eines Planungstools zur simulativen Voraussage und werkzeugseitiger Kompensation des thermischen Verzugs an feingeschnittenen Teilen unter Berücksichtigung stochastischer Prozessschwankungen  
+Feinschneidteile werden oft wärmebehandelt, Material und Geometrie werden infolge des thermischen Verzugs verändert. Ziel ist es, den Prozess unter Berücksichtigung  der Eigenspannungen abzubilden, dass auf Basis des virtuell vorausgesagten Verzugs eine Werkzeugkompensation vorgenommen werden kann.

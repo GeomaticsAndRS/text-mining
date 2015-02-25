@@ -1,0 +1,1 @@
+Wearable Reaction Time Test Reaction time (RT) tests are well suited to monitor variation of cognitive efficiency in laboratory environment. In this project we design and implement wearable reaction time tests in order to assess cognitive functioning in everyday life.

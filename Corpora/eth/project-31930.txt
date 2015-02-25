@@ -1,0 +1,2 @@
+  Clustering of high-dimensional data 
+The aim of this project is to develop computationally efficient algorithms for subspace clustering and to devise mathematical tools for their performance analysis.

@@ -1,0 +1,2 @@
+  Wearable MRI  
+The WearableMRI project aims to advance magnetic resonance imaging, a  widely used medical imaging technique. The specific goal is to enhance the performance, application range, and ergonomics of MRI by introducing wearable, elastic, adaptive detector and sensor arrays.

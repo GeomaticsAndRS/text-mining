@@ -1,0 +1,2 @@
+  Performance modelling of distributed treatment systems  
+The aim of the research activity was to create a mathematical model that can be used as tool to understand the behaviour of a complex system of the collection and the management of sanitation products such as source-separated urine or faecal sludge. 

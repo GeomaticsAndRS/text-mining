@@ -1,0 +1,1 @@
+Development of general formalism to calculate Hessian for EM applications using adjoint approach We develop the approaches to invert global induction data in order to derive three-dimensional distribution of mantle conductivity

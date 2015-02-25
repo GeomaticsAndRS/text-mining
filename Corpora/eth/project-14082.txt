@@ -1,0 +1,2 @@
+  High performance Materials in Earthquake Engineering 
+The project aims to develop HFC (Hybrid Fiber Concrete) structures with superior seismic performance. HFC is a new high-performance material under development at IFB/ETHZ. Using medium scale tests on HFC walls and relevant FE analyses, design guidelines for novel structural systems are proposed.

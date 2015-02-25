@@ -1,0 +1,2 @@
+  Functions and mechanisms of action of activin in development, tissue repair and disease  
+In this project we study the biological functions of the growth and differentiation factor activin in organ homeostasis, tissue repair and in human inflammatory disease. Using cell culture models and genetically modified mice, we determine the mechanisms of action of activin at the cellular level. 

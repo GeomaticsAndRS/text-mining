@@ -1,0 +1,2 @@
+  eMeter - using mobile phones as smart metering front-end  
+The eMeter is an IT platform to develop, test, and put powerful energy feedback concepts into practice. In our ongoing research, the platform helps to collect real-world  consumption data which serves as input for device recognition algorithms and automated energy consulting services.

@@ -1,0 +1,2 @@
+  Maximum Renyi Entropy Rate  
+We study the maximization of Renyi entropy rate. We focus on the maximization over all stochastic processes whose marginals satisfy a linear constraint, and on the Burg-like maximization over all stochastic processes whose autocovariance function begins with some given values. 

@@ -1,0 +1,1 @@
+Developing and improving the Regional Oceanic Modeling System (ROMS) ROMS is our main tool to study ocean physical, biogeochemical, and ecological processes and their interactions at the regional level. We aim to improve this model by developing better numerical schemes, enhancing its capability to represent key processes, and to develop and test new configurations.

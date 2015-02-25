@@ -1,0 +1,2 @@
+  Synthetic Quantum Many-Body Systems  
+We explore frontiers in quantum many-body physics using degenerate atomic gases. We address fundamental open questions, create novel quantum-many body systems and seek applications beyond the realm of quantum gases. 

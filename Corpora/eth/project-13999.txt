@@ -1,0 +1,2 @@
+  Prohl, A.: Numerical Analysis of Phase-Field Models  
+Phase-field models consider mean fields, and have been successfully used to describe phase transition phenomena in metastable alloys or melts: a detailed knowledge of formation of patterns during phase segregation and coarsening is crucial to understand a materials behavior.

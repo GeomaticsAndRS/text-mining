@@ -1,0 +1,2 @@
+  Development of a gas sensor prototype based on a novel photoacoustic technique  
+Investigation of an innovative photoacoustic principle based on a specifically designed photoacoustic cell. The resulting variation of the photoacoustic signal is then used to derive the gas concentration. The scheme is expected to have a promising industrial potential

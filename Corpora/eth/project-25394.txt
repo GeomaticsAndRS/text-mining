@@ -1,0 +1,2 @@
+  IURO: Interactive Urban Robot  
+The goal of the Interactive Urban Robot (IURO) project is to develop and implement methods and technologies enabling robots to navigate and interact in densely populated, unknown human-centred environments and retrieve information from human partners i.o. to achieve a given navigation or interaction 

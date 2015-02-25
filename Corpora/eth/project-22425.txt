@@ -1,0 +1,2 @@
+  A synthetic metabolite-based mammalian inter-cell signaling system.  
+Functionally well-characterized modular transcription units represent the genetic repertoire for the design of synthetic gene networks operating inside individual mammalian cells.

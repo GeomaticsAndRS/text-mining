@@ -1,0 +1,1 @@
+How Universal are Asymptotics of Disconnection Times in Discrete Cylinders In agreement with a conjecture by Itai Benjamini we show that disconnection times for walks in infinite discrete cylinders with bases that are large finite graphs of bounded degree are roughly of order the square of the number of vertices in the graphs with broad generality .

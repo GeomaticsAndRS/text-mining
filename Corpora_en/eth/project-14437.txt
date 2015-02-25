@@ -1,0 +1,1 @@
+Biological micro power generators Generate electrical power in the micro-Watt regime using metabolic pathways. Ultimately, one might power medical implants, e.g. pace makers or hearing aids, directly with electricity extracted from the surrounding tissue rather than batteries. Enzymatic and whole cell approaches are investigated.

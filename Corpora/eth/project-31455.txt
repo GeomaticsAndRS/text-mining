@@ -1,0 +1,2 @@
+  Variable stiffness wing structures with compliance for aeroelastic morphing  
+This project investigates the implementation of variable stiffness buckling components embedded in compliant wing structures to achieve aeroelastically aided morphing.  Such compliant structures offer great potential in terms of actuation and complexity reduction for morphing applications.

@@ -1,0 +1,1 @@
+Preference Articulation, Hybrid Optimization, and Interactive Decision Support The project focuses on interactive search methods for multiobjective optimization in the context of design space exploration in engineering design.

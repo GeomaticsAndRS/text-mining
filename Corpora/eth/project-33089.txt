@@ -1,0 +1,2 @@
+  Probing protein structural transitions in complex biological backgrounds  
+In this project we apply a combination of proteolytic probes and a targetd proteomic techonology to unravel regulatory and pathological protein conformational changes in complex biological matrices. 

@@ -1,0 +1,1 @@
+Computer Simulation of Biomolecular Systems The accuracy and efficiency of biomolecular simulation is determined by the quality of the force field used and the degree of conformational sampling reached, and in hybrid quantum/classical QM/MM simulation in addition by the quality of the QM treatment and its consistency with the MM treatment.

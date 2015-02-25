@@ -1,0 +1,1 @@
+Geostatistical modelling of soil contamination around point sources Soil was and still is polluted by emissions during normal production in industries. The soil contamination shows often a non stationary pattern. In our study we focus on kriging methods to tackle nonlinear spatial prediction that can handle change of support and a non stationary mean.

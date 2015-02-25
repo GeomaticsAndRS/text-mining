@@ -1,0 +1,2 @@
+  Pension Scheme for Differential Mortality 
+I design the optimal linear public pension for a population of differential mortality risk. By allowing no private saving, I examine how the public pension trades off insurance, redistribution, and labor distortion. This work provides a benchmark for future studies that introduce private insurances.

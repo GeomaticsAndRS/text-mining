@@ -1,0 +1,1 @@
+Life Cycle Assessment of Urban Systems The goals of this project are to (i) model, assess, and optimize current and prospective energy and consumer goods consumption in urban systems using life cycle assessment, and (ii) develop a decision-support framework for consumption-related decision-making on a municipal level.

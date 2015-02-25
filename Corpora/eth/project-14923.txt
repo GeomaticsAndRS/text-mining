@@ -1,0 +1,2 @@
+  Discovery of biomarkers and malignant mesothelioma by high throughput quantitative plasma proteome profiling 
+We propose a proteomic-based approach for the identification of bloodderived biomarkers in malignant mesothelioma. Such markers could be crucial for the diagnosis, the therapeutic monitoring of disease and the screening of high-risk populations, potentially allowing an accurate and early diagnosis. 

@@ -1,0 +1,1 @@
+Autonomous Flying Survey System for High Precision Reliable Full Coverage Visual 3D Reconstruction The goal is to develop an efficient airborne device for 3D scanning for robust and accurate structure surveying.

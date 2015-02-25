@@ -1,0 +1,1 @@
+Ensemble Modeling of Biological Systems: Formulation, Identification and Optimization The project main aims are to develop the theoretical framework and the necessary algorithms and tools for using ensemble modeling as a platform to study and to optimize biological processes. The ensemble modeling platform will be applied to monoclonal antibody production.

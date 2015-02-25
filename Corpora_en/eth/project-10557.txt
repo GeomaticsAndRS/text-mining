@@ -1,0 +1,1 @@
+High-resolution fMRI using sensitivity-encoded (SENSE) Echo Planar Imaging at 3 Tesla Parallel imaging techniques are especially promising for fMRI in light of the increasing susceptibility effects at high magnetic field strength. Yet, spatially varying noise amplification constitutes a challenge for the application of these techniques to fMRI.

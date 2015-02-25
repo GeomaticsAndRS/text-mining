@@ -1,0 +1,2 @@
+  Bayesian techniques for model calibration and stochastic inverse problems 
+Bayesian methods are developed for the calibration of computer codes (e.g. fit the input parameters to predict measured quantities) and for solving stochastic inverse problems (infer the variability of model input parameters through the observation of scattered indirect  measurements).

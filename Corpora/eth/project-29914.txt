@@ -1,0 +1,2 @@
+  Geotechnical index for the evaluation of quartz dust exposure potential  
+In this research project it is tried to find an statistically sound relation between typical geotechnical rock parameteres (e.g. CAI, LCPC and UCS) determined in laboratory tests and the quartz dust potential of rock. 

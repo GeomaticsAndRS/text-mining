@@ -1,0 +1,1 @@
+GLP-1 as a paracrine satiation signal This project tets the hypothesis that endogenous GLP-1 inhibits eating and influecnes metabolism through vagal afferent GLP-1 receptors.

@@ -1,0 +1,1 @@
+Many particle systems of Bosons In collaboration with T.Balaban (Rutgers), Joel Feldman (UBC Vancouver) and E.Trubowitz (ETH) we want to develop a mathematically rigorous theory of weakly interacting many particle systems of Bosons with positive density. The goal is to prove the phase transition in the Bose Einstein condensate.

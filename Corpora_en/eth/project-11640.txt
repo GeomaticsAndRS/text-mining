@@ -1,0 +1,1 @@
+Quantitative analysis of microstructural transformation in extrusion process The transformaton from wet powder to concentrated suspension system by pressure and shear in extruders is investigated experimentally and by numerical simulation techniques. In a newly developed high pressure shear cell well defined normal-/shear stress ratio can be applied to the wet powder systems

@@ -1,0 +1,2 @@
+  Design an optimization of fineblanking processes by means of ALE (Arbitrary Langrangian-Eulerian) Finite Element Method  
+Failure criteria, which are able to predict the quality of fineblanking processes, will be developed and the corresponding model parameters will be determined experimentally. On the basis of these new criteria and the ALE Finite Element Method, industrial fineblanking parts will be optimized. 

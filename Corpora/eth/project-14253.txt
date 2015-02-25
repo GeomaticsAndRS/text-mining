@@ -1,0 +1,2 @@
+  Genetics of Robust Cows  
+This project analyses data from 3 cattle breeding companies and estimates genetic parameters for several dozens of functional or robustness traits in dairy cattle with an aim build a sustainable cattle breeding schemes in Switzerland

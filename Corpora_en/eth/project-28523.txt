@@ -1,0 +1,1 @@
+Feasability of topic models for daily routine monitoring We investigate the feasability of topic models for daily routine recognition. Using a daily routine simulation model performance, stability and therefore feasability of topic models in daily monitoring is explored.

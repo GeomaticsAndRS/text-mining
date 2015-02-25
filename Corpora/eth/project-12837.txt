@@ -1,0 +1,2 @@
+  New-generation multicistronic expression platform: pTRIDENT vectors containing size-optimized IRES elements enable homing endonuclease-based cistron swapping into lentiviral expression vectors 
+Capitalizing on a proven multicistronic expression vector platform we have designed novel pTRIDENT vectors which enable coordinated expression of three desired transgenes, are size-optimized, and take advantage of small highly efficient internal ribosome entry sites. 

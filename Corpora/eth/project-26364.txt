@@ -1,0 +1,2 @@
+  Single cell microfluidic imaging for spatial mapping and quantification of gene expression in an in vivo model of bone adaptation 
+The goal of the proposed research program is to develop a novel experi-  mental approach to map the location of individual osteocytes within bone, quantify their micromechanical environment and analyze their individual patterns of gene expression exploiting microfluidic technology.

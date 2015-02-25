@@ -1,0 +1,1 @@
+Scalable Spatially Enabled Wireless Post-Cellular Network For future wireless post-cellular networks we need to understand the tradeoff between node complexity and node density, and we need scalable algorithms, specifically optimized for cooperation involving low complexity nodes. Both are essentially unexplored to date in our field.

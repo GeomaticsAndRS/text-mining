@@ -1,0 +1,2 @@
+  Rotational resonance in fully labelled systems  
+Rotational-resonance magic-angle spinning NMR experiments are frequently used to measure dipolar couplings and to determine internuclear distances. We are presently developing methods that allow for selective distance determination in uniformly labelled  compounds.

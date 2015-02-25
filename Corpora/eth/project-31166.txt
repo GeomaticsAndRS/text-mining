@@ -1,0 +1,2 @@
+  Anisotropie des magnetoviskosen Effekts in Ferrofluiden  
+Das Hauptziel dieser Arbeit ist es, zu einem besseren Verständnis der Anisotropie des magnetoviskosen Effekts in Ferrofluiden beizutragen. Dazu werden detaillierte Computersimulationen von Modell-Ferrofluiden durchgeführt, analysiert und mit entsprechenden Experimenten verglichen. 

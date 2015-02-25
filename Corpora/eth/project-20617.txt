@@ -1,0 +1,2 @@
+  Novel measuring techniques for single and two-phase flows  
+Wire-mesh sensors and liquid film sensors are developed for high-resolving measurements in gas-liquid flows as well as for the measurement of concentration fields and velocities in single phase flows. A miniaturized thermoconductive probe for the wall surface temperature is designed.

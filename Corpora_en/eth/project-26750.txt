@@ -1,0 +1,1 @@
+MEGaFiT The goal is to develop all necessary technologies which create the basis to reduce the number of defects in manufacturing of complex high-precision metal parts. This will be achieved by developing and integrating in-depth process knowledge, in-line measurement and real-time adaptive process control.

@@ -1,0 +1,1 @@
+Intracellular delivery of colloids via microinjection This project is aimed at assessing the impact of injecting colloidal drug delivery systems directly in the cytoplasm on various cell parameters.

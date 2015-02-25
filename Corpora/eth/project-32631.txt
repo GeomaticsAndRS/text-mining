@@ -1,0 +1,2 @@
+  Computational Design Synthesis of Kinematic and Dynamic Systems  
+Topologic configurations of robotic systems are usually chosen by a human designer, utilizing experience and intuition. This project aims to develop automated design methods for such systems to generate valid, optimized and potentially innovative solutions compared to human-based design. 

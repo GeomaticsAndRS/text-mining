@@ -1,0 +1,2 @@
+  Genetic animal models of rare copy number variants (CNVs) and their interaction with environmental challenges.  
+This research aims to explore the behavioral phenotypic spectrum of novel mouse models of chromosomal micro-deletions, including mice with 15q13.3 and 22q11 microdeletions, with or without the presence of additional environmental challenges such as prenatal  infection or juvenile stress.

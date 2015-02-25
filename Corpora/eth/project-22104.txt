@@ -1,0 +1,2 @@
+  Sparsity in communications and information theory  
+We study the implications of sparsity of signals or random processes for various problems in communications and information theory, such as computing the capacity of sparse channels or determining the rate-distortion characteristics of sparse sources. 

@@ -1,0 +1,1 @@
+Block-upscaling of contaminant transport in heterogeneous aquifers Numerical models are widely used to solve hydrogeological problems. The most important difficulty in modeling is the ubiquitous but unknown heterogeneity in hydraulic conductivity. Due to a lack of data or - if we use artificially generated local heterogeneity - computer power we are unable to simul

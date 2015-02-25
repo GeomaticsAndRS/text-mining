@@ -1,0 +1,2 @@
+  Converter System for Traction Applications  
+Onboard converters for traction applications must cope with a wide input voltage range of either alternating or direct current. With these circumstances in mind, the project at HPE aims to develop an onboard converter of ultra-high efficiency that renders active cooling equipment redundant. 

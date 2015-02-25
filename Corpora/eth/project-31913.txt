@@ -1,0 +1,2 @@
+  CCEM SCHE-Dual  
+The present project is aiming at the further development of both Diesel and dual-fuel engines towards higher efficiency and lower emissions. This requires a better understanding of the fundamental in-cylinder phenomena through experimental measurements and  state-of-the-art reactive CFD simulations.

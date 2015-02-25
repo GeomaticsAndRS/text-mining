@@ -1,0 +1,2 @@
+  Metaanalysen zur Güte von studentischen Lehrveranstaltungsbeurteilungen  
+In diesem Projekt geht es um Metaanalysen zur Güte von studentischen Lehrveranstaltungsbeurteilungen. Es sollen aus der Zusammenfassung der Ergebnisse von Primärstudien generelle Aussagen zur Güte, insbesondere zu Reliabilität von studentischen Lehrveranstaltungsbeurteilungen abgeleitet werden. 

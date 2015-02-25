@@ -1,0 +1,2 @@
+  Understanding the assembly and function of dynamic signalling networks in complex diseases  
+This projects seeks to understand how signaling pathways assemble into complex networks that regulate cellular behavior and how these networks are altered in human disease. 

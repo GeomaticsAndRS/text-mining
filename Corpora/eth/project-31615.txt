@@ -1,0 +1,2 @@
+  OPSOL: Matching supply of and demand for soil services for sustainable land management - operationalizing cross-scale interactions in a groupware decision support system 
+OPSOL aims at linking soil ecosystem services, political strategies, land use and land management within a single economic land allocation model to investigate how available provisioning levels of soil resources and associated soil ecosystem services can be utilized, supported and maintained without 

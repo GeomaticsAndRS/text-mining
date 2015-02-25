@@ -1,0 +1,1 @@
+Arktis Radiation Detectors Fundamental research has proven the merits of liquid noble gas detectors in particle identification. The arktis project aims at developing a noble gas detector technology that harnesses these properties at room temperature.

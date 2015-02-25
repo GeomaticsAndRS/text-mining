@@ -1,0 +1,1 @@
+Deriving the Effects of Global Climate Policy on Knowledge and Growth (Spillover Project) This projects combines economic theory, econometric estimations and numerical simulation in order to derive the effect of knowledge spillovers on the effets of global climate policy.

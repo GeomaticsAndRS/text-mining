@@ -1,0 +1,2 @@
+  DIRAC: Detection and Identification of Rare Audiovisual Cues  
+DIRAC project aims to design and develop an environment-adaptive autonomous active cognitive system that will detect and identify rare events from the information derived by multiple, active informationseeking sensors.

@@ -1,0 +1,2 @@
+  Design and study of new catalytic systems for efficient water splitting  
+The project aim is to develop specially designed structure-controlled molecular ruthenium catalysts, using bisbenzimidazole as rigid ligand matrix. Appropriately adjusting the ligands sphere of ruthenium allows creating catalysts with enhanced activity toward water oxidation. 

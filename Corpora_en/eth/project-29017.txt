@@ -1,0 +1,1 @@
+Morphing Wing Based on Compliant Ribs The proposed project has the goal of further developing and improving a morphing concept based on shape adaptive compliant ribs, which should be able to properly change (morph) their shape in order to produce the desired change of the aerodynamic performances.

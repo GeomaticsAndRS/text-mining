@@ -1,0 +1,2 @@
+  Magnetic field sensors for smart phones 
+Smart phones contain primitive magnetic field sensors. For more accurate and sensitive measurements we develop hardware that may be linked to smart phones using Bluetooth. 

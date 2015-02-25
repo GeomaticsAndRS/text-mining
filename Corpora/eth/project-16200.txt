@@ -1,0 +1,2 @@
+  Stability of simulations of complex stochastic differential equations with applications in quantum statistical mechanics  
+Path integrals can be computed by stochastic differential equations because  this procedure is easily simulated. Simulations of Bose-Einstein condensation using these procedures are known to be unstable, however, so a more serious error analysis is underway.

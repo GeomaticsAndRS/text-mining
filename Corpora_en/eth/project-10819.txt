@@ -1,0 +1,1 @@
+Structural investigation of the alternative-splicing factors in complex with RNA. PTB (Polypyrimidine-tract binding protein) is an abundant RNA binding protein. PTB represses the splicing of certain alternative-exons. NPTB is 80% identical to PTB but has a different function. We are investigating the structure of these two proteins in complex with RNA by NMR spectroscopy.

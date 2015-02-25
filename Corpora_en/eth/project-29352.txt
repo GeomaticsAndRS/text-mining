@@ -1,0 +1,1 @@
+Numerical studies of electromagnetically driven zonal flows In preparation for planned liquid metal experiments, we have conducted numerical calculations of zonal flows in spherical shells that are driven by directly imposed Lorentz forces. The results are used to quantify aspects such as the required electric currents and magnetic field strengths.

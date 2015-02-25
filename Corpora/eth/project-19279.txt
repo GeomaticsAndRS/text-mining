@@ -1,0 +1,2 @@
+  Hybrid Propulsion System - Dimensioning and Control  
+Optimizating a hybrid electric powertrain differs from a conventional powertrain. In this project the hybrid electric powertrain optimization problem includes both static-  (component dimensioning) and dynamic- (energy management strategy) elements. The methods originates in optimal control theory .

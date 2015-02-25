@@ -1,0 +1,2 @@
+  Fire behaviour of glued-laminated timber beams  
+The aim of the research project is the development of a calculation model  for the fire resistance of glued-laminated timber beams taking into account the behaviour of the bonding adhesive at high temperature.

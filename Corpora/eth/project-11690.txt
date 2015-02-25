@@ -1,0 +1,2 @@
+  Trusted components  
+Trusted components are reusable software components equipped with a guarantee of quality. The Trusted Components project develops tools and techniques for achieving this goal, based on ”Component Quality Model”. 

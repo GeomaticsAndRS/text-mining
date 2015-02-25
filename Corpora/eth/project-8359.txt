@@ -1,0 +1,2 @@
+  SNovel ¸ Flux MethodologiesS¸  
+Current methods of 13C-based metabolic flux analysis are restricted to steady-state conditions in microbial cultures. By analyzing intracellular metabolites rather than amino acids of cellular protein, we seek to develop novel methods to enable intracellular carbon fluxes under dynamic conditions. 

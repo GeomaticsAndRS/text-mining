@@ -1,0 +1,1 @@
+The roles of origins of replication in the DNA-damage response Genomic DNA in cells is continously damaged by intracellular and environmental agents. DNA damage blocks the cell cycle progression to provide time for repair. Here, we use yeast as a model organism to investigate how DNA-damage affects control of DNA replication in the DNA damage response.

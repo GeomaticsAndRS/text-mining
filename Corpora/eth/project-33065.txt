@@ -1,0 +1,2 @@
+  Rocking of structural frames  
+Despite the counter intuitive thinking that a slender block excited by an earthquake would fall over there not all of them do. Columns of the same slenderness are more stable the bigger they are and the more weight there is on top. This project investigates earthquake  responses of such structures.

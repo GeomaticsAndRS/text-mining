@@ -1,0 +1,2 @@
+  Causal structure learning 
+We develop methods to learn the causal mechanism behind large-scale systems, based on observational data, where the systems may contain hidden or unmeasured variables. A possible application is learning gene networks from observational gene expression data.

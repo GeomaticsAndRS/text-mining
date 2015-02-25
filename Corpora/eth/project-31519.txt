@@ -1,0 +1,2 @@
+  Computer based screening for developmental dyscalculia  
+Screening a child for developmental dyscalculia is conducted by experts currently, a process that is cost and time consuming. We aim to develop an entirely computer-based screener for developmental dyscalculia.

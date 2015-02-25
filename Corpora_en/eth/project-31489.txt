@@ -1,0 +1,1 @@
+FIC Camera Artifact Renderer As part of the Future Internet Content Pervasive Game Platform initiative, this project aims at simulating visual camera artifacts for augmented reality applications.

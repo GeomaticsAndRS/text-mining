@@ -1,0 +1,2 @@
+  What predisposes a hip to fracture?  
+To address the limitation of current methods this project aims to develop novel subject specific diagnosis through the use of combined experimental drop tower testing, high speed video recordings and multi-scale Finite Element Analysis to understand what pre-disposes a hip to fracture. 

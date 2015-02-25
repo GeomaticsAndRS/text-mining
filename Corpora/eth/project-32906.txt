@@ -1,0 +1,2 @@
+  Protein complex formation in Plants  
+The aim of this project is to develop methods for the reliable identification of stable protein complexes in plants.

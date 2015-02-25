@@ -1,0 +1,1 @@
+Climate change mitigation scenarios with the NCAR CCSM coupled model To provide advice to policymakers, climate change scenarios with strong mitigation efforts to reduce greenhouse gas emissions are important. The NCAR CCSM 3D coupled climate model is used to quantify how much climate change can be avoided by mitigation and how much the world has to adapt to.

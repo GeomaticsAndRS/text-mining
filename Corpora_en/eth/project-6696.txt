@@ -1,0 +1,1 @@
+Emacs Speaks Statistics (ESS) ESS (Emacs Speaks Statistics): multiplatform multipackage development environment for statistical analysis, built on (X)Emacs. An international collaboration project with 6 main researchers, from ETH Zurich, TU Wien, U.Edinburgh, U.Washington(Seattle), Temple U.(Philadelphia) and Medical Coll.,WI

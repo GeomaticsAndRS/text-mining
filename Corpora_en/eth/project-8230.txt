@@ -1,0 +1,1 @@
+Synthetic Biology for multienzyme reactions One-pot enzymatic reaction cascades can open a way for the efficient synthesis of complex molecules in fine chemistry. We investigate rational, model-based catalyst design strategies and the corresponding experimental methodology to construct viable process models with these catalysts.

@@ -1,0 +1,2 @@
+  FI-Content2 Pervasive Games Platform  
+Within the FI-PPP EU programme, this platform intends to help SMEs with their game development. Libraries and cloud services are provided for Augmented Reality applications on mobile devices.

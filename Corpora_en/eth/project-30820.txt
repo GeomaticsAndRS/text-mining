@@ -1,0 +1,1 @@
+Conditions for profit-neutral permit allocations This project shows that when a regulator implements a market for permits, the number of free allowances ordinarily required to neutralize profits is low.

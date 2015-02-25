@@ -1,0 +1,1 @@
+The Group LASSO In this project, we study the numerical and theoretical properties of a logit model with a LASSO penalty on the contributions for groups of variables.

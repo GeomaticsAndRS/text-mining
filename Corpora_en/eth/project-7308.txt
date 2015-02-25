@@ -1,0 +1,1 @@
+OpenMaX, an Open Source Graphic Multi-Method Maxwell Solver Graphic platform for computational electromagnetics codes with advanced tools for modeling, visualization, animation. Contains analytic solvers, latest version of the Multiple Multipole Program (MMP), Finite Difference Tome Domain (FDTD), etc. Open Source project.

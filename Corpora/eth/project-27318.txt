@@ -1,0 +1,2 @@
+  SNF - Soilbug  
+We donŠt yet understand how soils support the unparalleled microbial diversity found even at small scale. We plan to develop a physical model of functioning soil microbial environment where dynamics of water and nutrient fluxes shape diverse microbial populations at small scale. 

@@ -1,0 +1,1 @@
+Robust numerical methods for solving nonlinear eigenvalue problems Nonlinear eigenvalue problems (NLEVPs) appear in a number of applications. Developing an efficient and robust nonlinear eigenvalue solver for a decently general class of NLEVPs is a challenging task, which will be considered in this project.

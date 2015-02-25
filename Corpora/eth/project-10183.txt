@@ -1,0 +1,2 @@
+  Identification of genes required for fruitbody development in Coprinopsis cinerea  
+We are aiming at the identification and characterization genes involved in fruiting body formation in the mushroom C. cinerea. Genes will be identified using a screen for mutants defective in mushroom development and based on differential expression during vegetative growth and sexual development. 

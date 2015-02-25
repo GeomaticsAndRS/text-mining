@@ -1,0 +1,1 @@
+Analyzing the transport of polychlorinated biphenyls to the Arctic The concentrations of polychlorinated biphenyls measured at the monitoring site, Zeppelin, in the Norwegian Arctic are analyzed by means of the Lagrangian Particle Dispersion Model, FLEXPART, and the contribution of different transport regions to the measured concentrations is determined.

@@ -1,0 +1,1 @@
+Petersen, W.P.: Approximate FFT using hyperbolic star limits on k-space coefficients Only a few Fourier modes may be necessary to get a good representation of multi-dimensional periodic functions, for example hyperbolic star approximations. We are designing algorithms for such approximations and testing classes of functions for which this is useful.

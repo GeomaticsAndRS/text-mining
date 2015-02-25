@@ -1,0 +1,2 @@
+  Gas sensors and electronic nose on flexible substrates 
+This project is focussed on the fabrication on gas sensors and gas sensor arraays, so called electronic noses, on plastic substrates. The sensors are low cost and flexible/bendable and can be positioned to any surface. Special application area of these sensors is the integration into smart textiles.

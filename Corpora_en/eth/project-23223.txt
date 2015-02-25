@@ -1,0 +1,1 @@
+Triboelectric charging of granular gas We investigate the charge effect in granular assemblies being transported by an aeolian flow. Particles exchange their intrinsic charges through mechanical collisions and their trajectories are described as the sum of mechanical and electrical forces (short and long range forces).

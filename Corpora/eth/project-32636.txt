@@ -1,0 +1,2 @@
+  Data assimilation in earthquake cycle models 
+We develop a data assimilation scheme that incorporates earthquake cycle and geodetic data into numerical models of earthquake generation in order to reveal rheological Earth properties related to the earthquake cycle.

@@ -1,0 +1,2 @@
+  In situ HERFD XANES on the hydrogenation reaction of Au/MeOx catalysts  
+X-ray absorption spectroscopy provides information on the electronic and structural properties of catalysts under reaction conditions. This technique is applied to in situ study the liquid phase hydrogenation of nitro aromatic compounds over supported gold catalysts. 

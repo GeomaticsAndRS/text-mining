@@ -1,0 +1,1 @@
+Causal inference in large-scale system Understanding cause-effect relationships between variables is of primary interest in many fields of science. We want to obtain causal information from observational data, that is, from data obtained by observing the system of interest without subjecting it to interventions.

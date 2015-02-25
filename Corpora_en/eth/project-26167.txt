@@ -1,0 +1,1 @@
+Interaction Mechanisms between Rim Seal Purge Flow and Profiled End Walls in a Low Pressure Turbine Environment The aim of this project is to study the flow phenomena related to the unsteady interaction of rim seal purge flow with profiled rotor hub and tip end walls. This is a follow-on project of project with record-ID 16663.

@@ -1,0 +1,1 @@
+Thermal Storage System for Concentrating Solar Power Project aimed at the design, fabrication, testing, modeling & validation, and optimization of a high-temperature thermal storage system for concentrated solar power.

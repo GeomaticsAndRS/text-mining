@@ -1,0 +1,2 @@
+  Spatially explicit valuation of ecosystem services in the Alps as a support tool for regional decision making  
+We develop a semi-automatic procedure to value ecosystem goods and services. Several existing process-based models are linked to economic valuation methods and integrated into a Geographic Information System platform. The model is validated in the Landschaft Davos, a municipality in the Swiss Alps. 

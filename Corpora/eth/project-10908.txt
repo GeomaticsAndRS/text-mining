@@ -1,0 +1,2 @@
+  Neuartiger Durchflusssensor für hochreine und aggressive Flüssigkeiten 
+Das neue Durchflusssensor-Konzept basiert auf einem ”Blenden-Durchflusssensor”, dessen Blende durch das Sensorgehäuse hindurch, axial berührungsfrei, aktiv magnetisch gelagert wird. Aus dem Regelstrom des Magnetlagers lassen sich die Fluidkräfte und daraus die Durchflussrate bestimmen.

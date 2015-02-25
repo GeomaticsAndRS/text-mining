@@ -1,0 +1,1 @@
+Towards kilometer-scale climate change scenarios This project develops a high-resolution cloud-resolving climate modeling capability and uses it for detailed studies of the hydrological cycle and its response to climate change in the greater Alpine region.

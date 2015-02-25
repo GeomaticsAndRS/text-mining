@@ -1,0 +1,2 @@
+  Reducing biofouling in membrane filtration using predation by protozoa and metazoa  
+Bacterial biofilms are a major concern in water treatment using membrane filtration. We evaluate the use of higher eukaryotic organisms (metazoa and protozoa) to clean the  membrane by feeding on the bacteria growing in the biofilm.

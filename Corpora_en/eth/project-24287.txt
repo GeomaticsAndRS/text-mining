@@ -1,0 +1,1 @@
+SAMBA: Self-Adapting Monitoring for Building Automation The increasing number of renewable power plants such as wind generators requires more and more balancing power to maintain electric grid reliability. In future, smart buildings interact with the power grid to optimize the energy flows between them and to save operating costs.

@@ -1,0 +1,2 @@
+  Application and data analysis development for next generation sequencing  
+Next generation sequencing is revolutionizing life science research and leads to increased complexity in data management, data processing, and data interpretation. In order to fully exploit the analytical capabilities of the technology, novel applications and bioinformatics strategies are developed.

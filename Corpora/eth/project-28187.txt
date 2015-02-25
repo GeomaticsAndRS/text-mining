@@ -1,0 +1,2 @@
+  Environmental fate models for organic chemicals in the Coastal Plains, Australia  
+In the Australian Coastal Plains pesticides and related chlorinated dioxins are released to agricultural soils. These chemicals are mobilized to some extent and enter sensitive coastal ecosystems. Here, new environmental fate models designed for the specific conditions of  the regions are developed.

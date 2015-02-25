@@ -1,0 +1,2 @@
+  Spatial Wire Cutting  
+Das Projekt basiert auf einem Schleppkurvenschnittverfahren, das von  zwei gegenüberliegenden Roboterarmen ausgeführt wird. Diese führen an ihren Endeffektoren ein Schneidemittel (z.B. Draht), welches durch die freibewegliche Führung unterschiedlich gespannt werden und Verformungskurven annehmen kann

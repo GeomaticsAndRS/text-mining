@@ -1,0 +1,2 @@
+  A Trade-off between Computational Hardness and Information Density  
+We present a general concept to measure the information content of computational problems to study the relation between the computational hardness of a problem and its information content. This promises to provide a deeper insight into the hardness of problems with  applications to cryptography etc.

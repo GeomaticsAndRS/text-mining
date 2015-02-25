@@ -1,0 +1,2 @@
+  Polynomial Remainder Codes  
+Polynomial remainder codes are error correcting codes based on the Chinese Remainder Theorem. Reed-Solomon codes are included as a special case. We study such  codes and their algebraic decoding.

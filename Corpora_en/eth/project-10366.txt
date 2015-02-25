@@ -1,0 +1,1 @@
+kronecker limit formulas The aim of his project to investigate generalizations and applications of Kronecker limit formulas.

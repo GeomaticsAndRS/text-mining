@@ -1,0 +1,1 @@
+Blind Juggler In the Blind Juggler project, we explore hardware and control design of juggling robots. Our goal is to achieve complex juggling patterns with minimal feedback and actuation.

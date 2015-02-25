@@ -1,0 +1,2 @@
+  MUSIS2 
+Fluid displacement in porous media takes place as a sequence of rapid interfacial jumps that are not represented by standard macroscopic formulation and we will develop alternative modeling and observation strategies to reveal mechanisms controlling phase distribution at pore scale. 

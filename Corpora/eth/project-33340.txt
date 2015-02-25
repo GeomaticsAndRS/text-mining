@@ -1,0 +1,2 @@
+  Measuring CSR: an outcome-based approach  
+We employ data of negative corporate newspaper reports collected by ”RepRisk” as a CSR outcome variable. We model this variable as the joint outcome of two separate processes: (1) a bad (or no) CSR policy and (2) the probability of detection of such behaviour, given (1). 

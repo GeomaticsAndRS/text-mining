@@ -1,0 +1,2 @@
+  Virtual Institute on Materials for Printable Electronics 
+A virtual institute lead by the Karlsruhe Institute of Technology, works on material issues in ink jet printable electronics. The project of ETH Zurich focusses on the mechanical integrity of the semiconducting materials.

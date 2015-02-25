@@ -1,0 +1,1 @@
+Equivariant K-homology and C*-algebras We study the Kuenneth Formula for Bredon homology, with applications to the K-theory of group C*-algebras.

@@ -1,0 +1,2 @@
+  Cell wall-associated ligands for Listeria monocytogenes phage encoded endolysins  
+We aim to identify the specific carbohydrate ligands on the surface of Listeria cells, which are recognized by the cell wall binding domains of highly specific phage encoded lytic enzymes, designed to hydrolyse the peptidoglycan after phage multiplication. 

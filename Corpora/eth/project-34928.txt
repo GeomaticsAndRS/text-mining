@@ -1,0 +1,2 @@
+  Mechanisms of genomic immunity 
+It has become clear that during yeast mitosis non-self DNAs are eliminated by asymmetric segregation while the genome is stabily maintained. The project aims to understand how a cell can make the distinction between a bona fide chromosome and a potentially toxic nonself DNA element.

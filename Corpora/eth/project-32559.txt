@@ -1,0 +1,2 @@
+  The impact of soil moisture variations and dielectric changes on differential SAR interferometry  
+Analysis of the impact of soil moisture changes and vegetation dynamics on SAR interferometric observables by i) empirical descriptions of these effects (sign, magnitude, prevalence), ii) assessment of proposed explanations, and iii) electromagnetic modelling 

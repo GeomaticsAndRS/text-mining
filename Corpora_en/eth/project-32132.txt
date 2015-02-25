@@ -1,0 +1,1 @@
+Wood2Chem: Modeling and optimization of wood-based biorefineries In this project a database of models and multicriteria process performance metrics (i.e., for techno-economic, environmental and hazard assessment) is created for bio-based production of fuels and chemicals to be introduced into a computer-aided platform for conceptual design of biorefineries.

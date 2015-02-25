@@ -1,0 +1,1 @@
+MIMO enveLope dEtection (sMILE) Testbed In the frame of the Nonlinear MIMO Systems project, we implement a MIMO envelope detection testbed. Our goal is to demonstrate detection performance of spatially multiplexed streams using multiple amplitude detectors. Furthermore, we wish to implement channel estimation and ML detection schemes.

@@ -1,0 +1,1 @@
+Embedded Optimization for Resource Constrained Platforms (EMBOCON) EMBOCON will study the potential of embedded optimization in a wide range of engineering applications. The project will focus on the theoretical and practical challenges of real-time optimization in high-speed areas where computational power is severely limited.

@@ -1,0 +1,2 @@
+  Transcriptional regulation during plant infection in the model plant pathogenic fungus Zymoseptoria tritici 
+The goal of our project is to determine how much of the variation for quantitative traits in the wheat pathogen Zymoseptoria tritici is due to differences in gene expression rather than differences in gene sequences. We will answer this question by obtaining RNAseq  data for four different strains.

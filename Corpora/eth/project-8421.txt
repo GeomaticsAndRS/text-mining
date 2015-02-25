@@ -1,0 +1,2 @@
+  The Description of Development in India Through Indicators of Direct and Indirect Household Energy Consumption  
+The project aims at quantitatively analysing total direct and indirect energy requirements of households in India for the period 1983 to 2001. Variations in energy use observed across different households and changes in quantum and pattern of energy requirements observed  over time will be analysed.

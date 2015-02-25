@@ -1,0 +1,1 @@
+Spin polarized NFESEM Together with Dr. Ramsperger, experiments aimed at determining the spin polarization of electrons, field emitted from various tips, are performed. In Addition, we are investigating the possibility of spin detection in the NFESEM mode.
