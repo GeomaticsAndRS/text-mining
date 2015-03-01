@@ -1,1 +1,1 @@
-Symplectic groupoids and symplectic reduction
+Symplectic groupoids and symplectic reduction The symplectic groupoid associated to a Poisson manifold is obtained as a Hamiltonian reduction of a path space. It is the reduced phase space of a Poisson sigma model. This construction gives the prototypical example of Lie's third theorem for Lie algebroids. A Campbell-Baker-Hausdorff formula for the canonical Lie algebroid of a Poisson manifold can be obtained by the semiclassical expansion of Kontsevich's quantization formula.

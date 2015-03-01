@@ -1,1 +1,3 @@
   Identification of novel Xenopus cDNAs encoding ion channels with pronephric kidney expression  
+
+André Brändli

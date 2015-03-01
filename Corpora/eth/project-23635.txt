@@ -1,2 +1,2 @@
-  Thermo-chemical evolution of Venus’ mantle and crust  
-Spherical simulations of convection and crustal formation in the planet Venus are performed and compared to various observations in order to understand Earth’s sister planet. 
+  Thermo-chemical evolution of Venus' mantle and crust  
+Spherical simulations of convection and crustal formation in the planet Venus are performed and compared to various observations in order to understand Earth's sister planet. 

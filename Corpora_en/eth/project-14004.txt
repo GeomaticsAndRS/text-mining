@@ -1,1 +1,1 @@
-Prohl, A.: Numerical Image Processing There are diverse goals in image processing like restoration, segmentation, or inpainting, which can be processed by minimization of functionals, or sometimes solving highly nonlinear pde’s.
+Prohl, A.: Numerical Image Processing There are diverse goals in image processing like restoration, segmentation, or inpainting, which can be processed by minimization of functionals, or sometimes solving highly nonlinear pde's.

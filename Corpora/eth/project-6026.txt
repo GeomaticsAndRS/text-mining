@@ -1,1 +1,3 @@
   (CSA) Calciumsulfoaluminate-(OPC) Cements Interactions  
+
+Acceleration of chemical hydration reactions of cements became more important especially in  shotcrete technology where mortar is shot on tunnel walls. CSA (Calciumsulfoaluminate) work as accelerators without danger to health like alkaline accelerators did. The aim of the project is the investigation of hydration products developed during early and late stages of hydration compared with the compressive strength evolution. Hydration products are studied by XRD, SEM, DTA analysis. The durability of these concretes on chemical attacks like chlorides and sulfates are investigated with XRD and optical microscopy. A further goal of the project is the study of the hydraulic behavior of oil shale ash.

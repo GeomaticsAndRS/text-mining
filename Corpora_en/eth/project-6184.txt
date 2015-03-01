@@ -1,1 +1,1 @@
-Optimum Dimensioning of Reinforced Concrete Walls
+Optimum Dimensioning of Reinforced Concrete Walls The dimensioning method described in the above parent project is applied to plane stress wall like structures. Due to the many experiments and theoretical works on members in plane stress, the result of this work can easily be compared with approaches like strut-and-tie methods or equilibrating stress fields where similarly, the goal is to create an equilibrium system capable of carrying the external loads to be used for dimensioning the reinforcement.

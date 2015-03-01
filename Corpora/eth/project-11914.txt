@@ -1,2 +1,2 @@
   Wissensbasiertes Risikomanagement in Tunnelbauprojekten  
-Mit Hilfe eines Expertensystems (Bayest’sche Netze) sollen die Projektkosten und die Bauzeit eines Tunnelbauvorhabens vorherbestimmt werden. Erkenntnisse (z.B. Geologie) die im Zuge des Baufortschrittes gewonnen werden, können jederzeit in das Netz implementiert werden. 
+Mit Hilfe eines Expertensystems (Bayest'sche Netze) sollen die Projektkosten und die Bauzeit eines Tunnelbauvorhabens vorherbestimmt werden. Erkenntnisse (z.B. Geologie) die im Zuge des Baufortschrittes gewonnen werden, k�nnen jederzeit in das Netz implementiert werden. 

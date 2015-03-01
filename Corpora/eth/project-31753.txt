@@ -1,2 +1,3 @@
   RV-EOS  
-Ringversuch zur QualitÃ¤tssicherung bei SLS-Bauteilen
+Ringversuch zur Qualitätssicherung bei SLS-Bauteilen
+In einem umfassenden Ringversuche mit EOS-Produktiosnmaschinen werden statistische Daten zu SLS-Bauteileigenschaften erarbeitet. Die Auswertung von mechanischen und geometrischen Daten liefert eine umfassenden Überblick über die Reproduzier- und Wiederholbarkeit entsprechender Kenngrössen.

@@ -1,2 +1,3 @@
   Dual Laser Processing Head Concept  
 Developing the next generation of laser processing machines to process in more than 40% less time, complex PCD/CVD-D/CBN cutting tools.
+Rapid processing of PCD/CVD-D/CBN cutting tools using two processing heads. Processing time will be reduced by more than 40% and a cutting edge radius and surface roughness (Ra) of < 2µ m and 0.2µ m can be achieved respectively. To achieve this, accelerated material removal of the toolSs contour is carried out by a processing head. Subsequently, ultrafine finishing of the toolSs contour and chip breaker is carried out by a scanner. A new modular machine generation will be developed which adopts this duality concept.

@@ -1,2 +1,3 @@
   CRONE 16 - Software Tool zur Auslegung und Berechnung von Kronenradgetrieben  
-Durch ein spezielles Software-tool wird die Auslegung, Berechnung, Fertigung und Kontrolle von KronenrÃ¤dern unterstÃ¼tzt und somit die erweiterte Anwendung von KronenrÃ¤dern ermÃ¶glicht.
+Durch ein spezielles Software-tool wird die Auslegung, Berechnung, Fertigung und Kontrolle von Kronenrädern unterstützt und somit die erweiterte Anwendung von Kronenrädern ermöglicht.
+Mittels Kronenzahnradgetrieben lassen sich grosse Übersetzungsverhältnisse bei beliebigem Achswinkel und Achsversatz realisieren. Die axiale Lage des Ritzels innerhalb der Zahnbreite ist dabei beliebig wählbar, günstige Herstellungskosten kommen bei optimierter Fertigung hinzu. Das Projekt beinhaltet die Entwicklung eines Software-Tools zur Auslegung, Werkzeuggeometrie-, Festigkeits- und Lebensdauerberechung von Kronenrädern. Dadurch wird eine kostengünstige Weich- und Hartbearbeitung von Kronenrädern ermöglicht.

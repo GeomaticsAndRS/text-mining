@@ -1,1 +1,3 @@
   Dynamic Crack Popagation and Damage in Fiber Reinfoced Composite Materials  
+
+ The static and dynamic damage mechanisms of fiber-reinforced compositesdepend on the layup and consequently on material moduli. In this project,material moduli reduction due to intralaminar cracks, which are thepreliminary damage form that occur between the fiber and matrix in staticor dynamic loading cases, is investigated. The material moduli before loadingand after loading at different levels can be determined by structural wavepropagation or resonance experiments.

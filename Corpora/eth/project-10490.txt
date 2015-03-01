@@ -1,2 +1,3 @@
   RailML - The Railway Markup Language  
-RailML- The Railway Markup Language hat das Ziel, ein generelles Austauschformat auf XML-Basis fÃ¼r Eisenbahndaten zu entwickeln.
+RailML- The Railway Markup Language hat das Ziel, ein generelles Austauschformat auf XML-Basis für Eisenbahndaten zu entwickeln.
+RailML - The Railway Markup Language hat das Ziel, ein generelles Austauschformat auf XMLBasis für Eisenbahndaten zu entwickeln. Veröffentlichungen im Berichtsjahr Nash, A., D. Hürlimann, J. Schütte und V.P. Krauss (2004) RailML - a standard data interface for railroad applications, in J. Allan, C.A. Brebbia, R.J. Hill, G. Sciutto und S. Sone (eds.) Proc. of the Ninth International Conference on Computer in Railways (Comprail IX), 233-240, WIT Press, Southampton. Webseite http://www.railml.org

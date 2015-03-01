@@ -1,1 +1,1 @@
-ARGOS Challenge ARGOS Challenge - A challenge to foster the development of autonomous mobile robots for the inspection of oil and gas sites.
+ARGOS Challenge ARGOS Challenge - A challenge to foster the development of autonomous mobile robots for the inspection of oil and gas sites. The aim of the ARGOS challenge is to foster the design of the first autonomous surface robot for use on hydrocarbon production sites on land or at sea. The challenge was initiated and is funded by Total and the call for proposals was organised by ANR.

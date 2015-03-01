@@ -1,1 +1,1 @@
-Renormalization of General Fermi Surfaces
+Renormalization of General Fermi Surfaces In collaboration with Manfred Salmhofer and Joel Feldman we have shown how to renormalize an arbitrary strictly convex Fermi surface and show that the map between bare and renormalized Fermi surfaces is locally invertible on balls in the space of twice continuously differentiable surfaces. These results are used to give a proof of Luttinger's Theorem .

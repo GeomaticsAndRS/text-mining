@@ -1,2 +1,3 @@
   ZENS, The Zurich ENvironmental Study  
 An ESO Large Program to study about 150 galaxy groups to establish how galaxy properties depend on their environment.
+The Zurich ENvironmental Study uses data for about 2000 galaxies collected through a Large Program at the European Southern Observatory to study galaxy properties as a function of environment. The goal is to understand the physical forcing which galaxies are subject to as they plunge into their dark matter halos.

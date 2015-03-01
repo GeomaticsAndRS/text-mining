@@ -1,2 +1,2 @@
-  Entwicklung eines SH-Sensors fÃ¼rs Auge  
-Konzeptstudie fÃ¼r einen Hartman-Shack Sensors zur Topographie und Wellenfrontmessung
+  Entwicklung eines SH-Sensors fürs Auge  
+Konzeptstudie für einen Hartman-Shack Sensors zur Topographie und Wellenfrontmessung

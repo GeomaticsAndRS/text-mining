@@ -1,1 +1,3 @@
   Elasticity Coefficients of Existing and Future Metric Gauge Track Systems  
+
+ Today there is practically no knowledge about values of the elasticity coefficients of metric gauge tracks. Of 1435 mm gauge tracks there is also only a small number of publications on this matter. It is planned to measure a number of elasticity coefficients on different types of existing track structures on Swiss metric railways (36 kg and 46 kg rails; concrete, wooden and steel sleepers; different soil structures). The measurements are planned with defined train compositions with different axle loads to find correlations axle load and elasticity coefficients.

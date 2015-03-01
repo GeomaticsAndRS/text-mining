@@ -1,2 +1,2 @@
-  Convergence of operational efficiency in China’s provincial power sectors  
+  Convergence of operational efficiency in China's provincial power sectors  
 To analyze the operational efficiency of Chinese power sector at the provincial level, this paper studies the convergence of technical efficiency and productivity growth of electricity across 29 Chinese provinces during the period 1996-2008 using several convergence models. Depending on the model be 

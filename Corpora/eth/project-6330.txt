@@ -1,1 +1,3 @@
   ergonomics technology - Usability Laboratory  
+
+As a service, the institute has set up a usability lab in Technopark, Zurich. The goal is  to offer industry a facility where software and hardware can be tested for their usability. The hope is that more and more goods will be tested, without the need for every firm to maintain an own lab. Research is being done on the methodology of testing usability. The lab is equipped with video monitoring, as well as the facility to mark classified events for later analysis, preferably together with the test subject. Physiological parameters will also be recorded, in order to find useful parameters to determine good usability.

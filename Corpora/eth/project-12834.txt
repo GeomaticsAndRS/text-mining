@@ -1,2 +1,2 @@
   An engineered epigenetic transgene switch in mammalian cells 
-By combining two repressors, which control each other’s expression, we have developed a mammalian epigenetic circuitry able to switch between two stable transgene expression states after transient administration of two alternate drugs.
+By combining two repressors, which control each other's expression, we have developed a mammalian epigenetic circuitry able to switch between two stable transgene expression states after transient administration of two alternate drugs.

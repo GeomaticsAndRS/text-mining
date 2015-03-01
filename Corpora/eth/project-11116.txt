@@ -1,2 +1,2 @@
   Waldvogel, J.: Parallelization of sieve algorithms 
-The software system PMP (Poor Man’s Parallelizer, developed by P. Leikauf) is being used to tap idle time of the Beowulf cluster of ETH. A recent success was the discovery of 18 densely packed primes beginnig at 2845372542509911868266807, a world record that has not been matched since 2001.
+The software system PMP (Poor Man's Parallelizer, developed by P. Leikauf) is being used to tap idle time of the Beowulf cluster of ETH. A recent success was the discovery of 18 densely packed primes beginnig at 2845372542509911868266807, a world record that has not been matched since 2001.

@@ -1,1 +1,1 @@
-Cohomology of the Mapping Class Group
+Cohomology of the Mapping Class Group The mapping class group is the group of isotopy classes of orientation preserving diffeomorphisms of a closed oriented surface. The finite subgroups of these groups are precisely the groups which act as symmetry groups of Riemann surfaces. The action of the mapping class group on Teichmüller space is used to compute Farrell cohomology.

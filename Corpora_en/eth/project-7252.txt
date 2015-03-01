@@ -1,1 +1,1 @@
-IDAS: Interactive telephone-based directory assistance services
+IDAS: Interactive telephone-based directory assistance services The challenging aim of the IDAS project is an automatic telephone directory assistance service to the public over the telephone network. The demonstration system to be built will be based on state-of-the-art speech technology such as large-vocabulary speech recognition, mixed-language text-to-speech synthesis, and intelligent dialogue management.

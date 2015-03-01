@@ -1,2 +1,3 @@
   Continous live quantification of molecular pluripotency control (DFG)  
 Continous live quantification of molecular pluripotency control (DFG)
+Long-term single cell quantification by novel bioimaging and image processing software. Single cell quantification of transcription factor protein dynamics in mouse embryonic stem cells.

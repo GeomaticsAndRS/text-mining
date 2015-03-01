@@ -1,2 +1,2 @@
-  MR-kompatible GerÃ¤te und fMRI  
-Entwicklung und Einsatz von MR-kompatiblen Sensor- und Aktorkomponenten fÃ¼r die funktionelle MRI (Hirnforschung) und statische Gelenkbelastungsuntersu-chungen im MR (funktionelle Biomechanik, geplant)
+  MR-kompatible Geräte und fMRI  
+Entwicklung und Einsatz von MR-kompatiblen Sensor- und Aktorkomponenten für die funktionelle MRI (Hirnforschung) und statische Gelenkbelastungsuntersu-chungen im MR (funktionelle Biomechanik, geplant)

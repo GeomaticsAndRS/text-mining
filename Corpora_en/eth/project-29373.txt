@@ -1,1 +1,1 @@
-Moving Dirac Cones from ab initio This project involves Density Functional Theory calculations of ’simulated graphene’ experiments: firstly a comparison of graphene with recent cold-atom experiments, and secondly the electronic properties of so-called ’molecular graphene’.
+Moving Dirac Cones from ab initio This project involves Density Functional Theory calculations of simulated graphene experiments: firstly a comparison of graphene with recent cold-atom experiments, and secondly the electronic properties of so-called molecular graphene .

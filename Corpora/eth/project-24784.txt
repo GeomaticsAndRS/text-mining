@@ -1,2 +1,3 @@
   Pd-catalyzed cross-coupling to produce precursors for novel functionalized metal-organic frameworks with big pore size  
 The aim of this project is to find a general method to produce dicarboxylate biphenyls with an environmentally friendly procedure that requires only water as solvent. Such molecules will be used as  building blocks for the synthesis of new IRMOF- and UiO-66-like functionalized MOFs with big...
+The aim of this project is to find a general method to produce dicarboxylate biphenyls with an environmentally friendly procedure that requires only water as solvent. Such molecules will be used as building blocks for the synthesis of new IRMOF- and UiO-66-like functionalized MOFs with big pore size.

@@ -1,1 +1,1 @@
-Adaptive preconditioning for Banded Linear Systems
+Adaptive preconditioning for Banded Linear Systems Iterative methods for the solution of banded linear systems on parallel computer architectures are studied. The preconditioner is chosen adaptively using ideas (1) of sparse approximate inverses (SPAI) by M. Grote und T. Huckle and (2) of wavelets by T. Chan. With this adaptive approaches, different degrees of diagonal dominance can be taken into account.

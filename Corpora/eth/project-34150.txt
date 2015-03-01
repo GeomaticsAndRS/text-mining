@@ -1,2 +1,2 @@
   Thermophysical properties of metallic glasses studied via fast differential scanning calorimetry 
-The objective of this project is to thermophysically characterize bulk me-  tallic glasses via fast scan calorimetry at rates of several 10Š000 K/s, as opposed to a few K/s deployed so far in conventional calorimetric studies. These very high rates allow in-situ probing of metallic glass formation.
+The objective of this project is to thermophysically characterize bulk me-  tallic glasses via fast scan calorimetry at rates of several 10S000 K/s, as opposed to a few K/s deployed so far in conventional calorimetric studies. These very high rates allow in-situ probing of metallic glass formation.

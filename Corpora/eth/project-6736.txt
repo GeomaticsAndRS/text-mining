@@ -1,1 +1,3 @@
   The Automorphism Group of a Free Group  
+
+We study the cohomology of the group of automorphisms of a free  group of finite rank. In particular, we compute the Farrell cohomology at various primes, in case the Krull dimension of the associated mod p cohomology ring equals one.

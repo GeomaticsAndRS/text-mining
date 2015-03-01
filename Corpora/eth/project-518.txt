@@ -1,1 +1,3 @@
-  Konzeption eines integrierten IT-gestÃ¼tzten Planungssystems zur UnterstÃ¼tzung des Managements moderner Forstbetriebe  
+  Konzeption eines integrierten IT-gestützten Planungssystems zur Unterstützung des Managements moderner Forstbetriebe  
+
+ Denis Riechsteiner, Prof. Dr. P. Bachmann

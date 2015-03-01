@@ -1,0 +1,1 @@
+Topics in Classification Theory Several selected topics in classification and clustering are briefly explored, ranging from philosophical aspects to various new tools and methods (which could lead to longer research projects), with some emphasis on application of basic robustness tools and results, also in the Bayesian paradigm.

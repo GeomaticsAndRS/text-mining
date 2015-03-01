@@ -1,2 +1,2 @@
   Lernmodule Programmiergrundlagen als Konvergenzprogramm  
-Durch die Umsetzung dieses Projekts sollen bessere Voraussetzungen fÃ¼r den Besuch von Informatik-Lehrveranstaltungen unabhÃ¤ngig von der schulischen Herkunft der Studierenden geschaffen werden. Ziel ist der Aufbau eines Lernmodule-Pools zum Programmierunterricht fÃ¼r unterschiedliche Zielgruppen. 
+Durch die Umsetzung dieses Projekts sollen bessere Voraussetzungen für den Besuch von Informatik-Lehrveranstaltungen unabhängig von der schulischen Herkunft der Studierenden geschaffen werden. Ziel ist der Aufbau eines Lernmodule-Pools zum Programmierunterricht für unterschiedliche Zielgruppen. 

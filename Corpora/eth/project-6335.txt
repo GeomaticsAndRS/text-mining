@@ -1,1 +1,3 @@
   Training effectivness of driving simulators  
+
+Simulators are increasing in importance, because they allow training without the need of the  real system. Thus resources can be saved and it is possible to confront the trainee with situations which are difficult to train because they are dangerous or do not happen often in reality. Different driving simulators were analysed in their training effectivness on trainees in comparison with the real situation. As a conclusion, recommendations for the design of driving simulators will be derived, thus allowing producers and customers to define their needs better and enabling better driving simulators for specific learning tasks in comparison with the costs of these systems.

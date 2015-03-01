@@ -1,1 +1,2 @@
-  Strukturelle Aenderungen wÃ¤hrend des Transportzyklus in ABC-Transportoren 
+  Strukturelle Aenderungen während des Transportzyklus in ABC-Transportoren 
+

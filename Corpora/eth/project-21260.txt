@@ -1,2 +1,3 @@
   SPIRIT  
 European research project for the development of novel MeV ion detection equipment and reduction of ion beam induced damage.
+SPIRIT is a European research project under FP7. It is aimed at strengthening of the European MeV ion beam infrastructure. Within a collaboration of 11 partner institutions our laboratory participates in two joint research activities. The first activity is focused on the development of advanced detection equipment for MeV ions. The second one deals with the investigation of beam induced damage during sample analysis and the establishment of best practice procedures to avoid unwanted surface modification.

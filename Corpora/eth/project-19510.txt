@@ -1,2 +1,2 @@
   Elliptic logarithms, diophantine approximation and the Birch and Swinnerton-Dyer conjecture  
-Joint work with Vincent Bosser (Caen). We prove that the conjecture of Birch and Swinnerton-Dyer for a single elliptic curve over number fields would imply a result in the direction of the abc-conjecture over number fields. The proof uses the elliptic analogue of Baker’s method. 
+Joint work with Vincent Bosser (Caen). We prove that the conjecture of Birch and Swinnerton-Dyer for a single elliptic curve over number fields would imply a result in the direction of the abc-conjecture over number fields. The proof uses the elliptic analogue of Baker's method. 

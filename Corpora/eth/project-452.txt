@@ -1,1 +1,3 @@
-  Estimations- und Detektionsverfahren in zeitvarianten MehrwegekanÃ¤len mit farbigen Rauschprozessen fÃ¼r mobile EndgerÃ¤te in WCDMA  
+  Estimations- und Detektionsverfahren in zeitvarianten Mehrwegekanälen mit farbigen Rauschprozessen für mobile Endgeräte in WCDMA  
+
+ Dirk Dahlhaus

@@ -1,2 +1,2 @@
   Drittmittel aus TH-Projekten: BlueC(ave) I (0-23807-00 Teil CAAD) und Polyprojekt BlueC-II Nachfolgeprojekt (0-21020-04)  
-Im interdisziplinÃ¤ren BlueC TH-Projekt wurden dieses Jahr die Nutzbarkeit in der RealitÃ¤t der in den letzten drei Jahren entstandene Technologie eines Echtzeit-3DProjektionssystems untersucht. Entscheidend waren hierbei die IntegrationsmÃ¶glichkeiten in bestehende architektonische Projekte.
+Im interdisziplinären BlueC TH-Projekt wurden dieses Jahr die Nutzbarkeit in der Realität der in den letzten drei Jahren entstandene Technologie eines Echtzeit-3DProjektionssystems untersucht. Entscheidend waren hierbei die Integrationsmöglichkeiten in bestehende architektonische Projekte.

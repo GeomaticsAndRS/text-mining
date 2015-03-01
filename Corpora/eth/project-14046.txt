@@ -1,2 +1,3 @@
   Multivariate extremes  
 We extend classical one-dimensional extreme value theory to arbitrary dimensions using a more geometry based approach. 
+We offer a more geometry based approach for the modelling of multivariate extremes. A multivariate version of the Generalised Pareto Distribution as a conditional limit law for exceedances over high threholds is obtained. The theory is applied to the modelling of extreme market movements in financial risk management.

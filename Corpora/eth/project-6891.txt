@@ -1,1 +1,3 @@
   Molecular Kinetics and Spectroscopy.Kinetics of Fast Gas Reactions 
+
+ We develop new experimental techniques for the investigation of fast gas reactions after IR-laser excitation, in particular reversible reactions by the gas phase IR-laser T-jump technique. Backgroud reading: S. Jans Bürli and M. Quack, Molekulare Thermodynamik und Kinetik, Vdf Zürich 1986.

@@ -1,1 +1,3 @@
   q-Deformation of conformal field theory  
+
+ Two-dimensional conformal field theory admits a q-deformation which in some limits describes massive quantum field theory or deviation from criticality in statistical mechanics. Mathematically, it is described by representations of infinite dimensional quantum groups. Quantum Hamiltonian reduction and the appearence of SL(3,Z) as a modular group are topics of research.

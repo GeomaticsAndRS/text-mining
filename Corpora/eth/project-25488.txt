@@ -1,2 +1,3 @@
   Single cell analysis on microfluidic devices  
 Development of microfluidic platforms for the analysis of cellular response.
+Development of microfludic platforms for the analysis of single cells. Cells are stimulated either by chemical compounds and drugs, or by mechanical stress. The developments include the design and fabrication of microstructures, mainly made of polymers (polydimethylsiloxane) and their optimization for various cell types and applications. We use optical lithography and soft lithography for preparing microfluidic chips. A focus lays on the development of multilayer microchip technology and the implementation of valves and microtraps. Analysis of cells is performed by fluorescence spectroscopy and microscopy.

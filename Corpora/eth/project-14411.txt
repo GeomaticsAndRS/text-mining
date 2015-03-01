@@ -1,2 +1,3 @@
   Sums of squares 
 The aim of his project to investigate generalizations and applications of Kronecker limit formulas.
+ Finding exact formulas for sums of squares is one of the oldest problems in mathematics. The subject got revitalized after J. Milne , in 1996, announced infinite families of formulas for sums of squares generalizing the ones obtained by Jacobi. The aim of this project is to look for and prove such formulas.

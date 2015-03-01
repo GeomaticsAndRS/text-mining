@@ -1,0 +1,3 @@
+  Suzuki polycondensation (SPC)  
+
+Further development of a new step-growth polymerization with formation of CC single bonds, which was discovered in the late 80's, for the synthesis of (rigid-rod) polyarylenes. Aspects which are presently being explored comprise an evaluation of this polymerizationSs sensitivity to steric demand, its ability to employ amphiphilic monomers, and its potential to use diiodo and dichloro monomers in addition to the dibromo ones used so far. An additional subproject aims at the the development of novel polyarylenes for high tensile strength fibers using the SPC protocol.

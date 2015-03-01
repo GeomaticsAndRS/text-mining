@@ -1,2 +1,3 @@
-  Neuer umweltfreundlicher Automatenstahl mit Graphitausscheidungen als Alternative zu bleilegierten StÃ¤hlen  
-Herstelltechnologie und Charakterisierung von neuen StahlquqlitÃ¤ten mit Graphitausscheidungen zur Verbesserung der Zersapnbarkeit. 
+  Neuer umweltfreundlicher Automatenstahl mit Graphitausscheidungen als Alternative zu bleilegierten Stählen  
+Herstelltechnologie und Charakterisierung von neuen Stahlquqlitäten mit Graphitausscheidungen zur Verbesserung der Zersapnbarkeit. 
+Neue Automatenstähle mit Graphitausscheidungen weisen in der spanenden Bearbeitung deutliche technische Vorteile gegenüber konventionellen bleilegierten Stählen auf. Damit sie wirtschaftlich wettbewerbsfähig werden, müssen Stahldesign, Stahlherstellung und Verarbeitungseigenschaften weiter verbessert werden. Diese komplexe Optimierungsaufgabe soll in diesem Projekt mit Hilfe von Laborschmelzen, Simulationsrechnungen, Verarbeitungsstudien, Zerspanbarkeitstests, Inprozess-Tribologiemessungen und Spanwurzelanalysen gelöst werden.

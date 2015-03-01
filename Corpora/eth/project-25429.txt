@@ -1,2 +1,2 @@
   Rate distortion theory for homogenous Poisson process 
-This project is about formulating the ”natural” distortion measure for counting processes and then evaluating the corresponding rate-distortion function for homogenous Poisson processes.
+This project is about formulating the "natural" distortion measure for counting processes and then evaluating the corresponding rate-distortion function for homogenous Poisson processes.

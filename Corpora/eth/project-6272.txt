@@ -1,1 +1,3 @@
-  Energy-Balance, Water-Balance and Carbon Cycle of Alpine Regions and their Interactions withUrban Systems (Alpine Regions as a ’Hinterland’ of Urban Systems) 
+  Energy-Balance, Water-Balance and Carbon Cycle of Alpine Regions and their Interactions withUrban Systems (Alpine Regions as a 'Hinterland' of Urban Systems) 
+
+ The goal of this PhD-thesis is to build up a quantifiable model for alpine regions. Material and energy streams, which are different to those of the urban systems, will be studied. The focus is on the energy and water balance and on the carbon cycle. The results of this study will allow the quantification of the interactions with urban systems. Study area is the swiss alps. The methodology will be the Material Flux Analysis.

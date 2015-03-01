@@ -1,2 +1,3 @@
   Object-Oriented Reengineering Environment 
-Large amounts of legacy software need to be updated to the modern world â€“ the object-oriented world. This project examines automatic and heuristic techniques for inferring abstractions in non-O-O software, for example programs written in C. It aims at full object-oriented results with contracts.
+Large amounts of legacy software need to be updated to the modern world ­ the object-oriented world. This project examines automatic and heuristic techniques for inferring abstractions in non-O-O software, for example programs written in C. It aims at full object-oriented results with contracts.
+Large amounts of legacy software need to be updated to the modern world ­ the object-oriented world. This project examines automatic and heuristic techniques for inferring abstractions in nonO-O software, for example programs written in C. It aims at full object-oriented results with contracts.

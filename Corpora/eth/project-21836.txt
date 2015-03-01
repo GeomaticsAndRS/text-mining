@@ -1,1 +1,3 @@
   Scientific Assessment of Testing Strategies (SATS) 
+
+ Testing relies largely on intuitions. The aim of this project is to provide an objective, scientific evaluation of various strategies and heuristics used in test strategies. We rely on automatic testing (through the AutoTest framework) and use as primary evaluation criterion the number of faults found in a given time.

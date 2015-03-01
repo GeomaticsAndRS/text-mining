@@ -1,1 +1,3 @@
   Stability and Instability in Hamiltonian systems  
+
+In the focus are regularity questions inherent in the analytical  techniques of the so called small divisors. Applications of these techniques aim at bounds for solutions of second order equations with quasilinear potentials.

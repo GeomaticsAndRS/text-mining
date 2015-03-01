@@ -1,1 +1,3 @@
   Optimum Dimensioning of Reinforced Concrete Flat Slabs  
+
+The dimensioning procedure described in the above parent project is used for stiffened or  unstiffened flat slab structures with constant or non-constant thickness. Stiffeners, like the floor beams or parapet walls, are modelled by means of eccentrically connected beam elements, which cause membrane stresses in the slab. Therefore, the slab has to be modelled with flat shell elements. The reinforcement to be dimensioned is assumed to act in two independent layers at the top and the bottom of the plate (sandwich model).

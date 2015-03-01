@@ -1,2 +1,2 @@
   Structural and functional phenotyping of genetically engineered mouse models of Alzheimer disease using MRI and Optical Imaging  
-Non-invasive phenotyping of transgenic mouse models of Alzheimer’s disease using MRI, fMRI and optical imaging approaches. Tools for assessing parenchymal load of amyloid plaques, amyloid angiopathy and dysregulation of calcium homeostasis will be developed.
+Non-invasive phenotyping of transgenic mouse models of Alzheimer's disease using MRI, fMRI and optical imaging approaches. Tools for assessing parenchymal load of amyloid plaques, amyloid angiopathy and dysregulation of calcium homeostasis will be developed.

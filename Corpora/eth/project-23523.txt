@@ -1,2 +1,2 @@
   Collaborative planning and the role of information uncertainty in Air Traffic Control.  
-This project tries to understand the role of information uncertainty by investigating controllersŠ adoption of planning strategies, aiming at the development of proposals  on how planning strategies and system design can be optimized.
+This project tries to understand the role of information uncertainty by investigating controllersS adoption of planning strategies, aiming at the development of proposals  on how planning strategies and system design can be optimized.

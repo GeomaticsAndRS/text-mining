@@ -1,1 +1,3 @@
   Defining the function of IL-36 cyokines in cutaneous inflammation  
+
+IL-36 , IL-36 and IL-36 (originally named IL-1F6, IL-1F8 and IL-1F9) are novel members of the IL-1 family of cytokines. Each binds specifically to the IL-36R (originally named IL-1Rp2), which leads to the recruitment of IL-1RAcP and activation of NF- B. We are studying the role of the IL-36 pathway in immunity and inflammatory diseaes

@@ -1,2 +1,3 @@
   Bandbreite  
-Signifikante ErhÃ¶hung der Bandbreite von PrÃ¤zisionsbewegungssimulatoren 
+Signifikante Erhöhung der Bandbreite von Präzisionsbewegungssimulatoren 
+Die Bandbreite von Präzisionsbewegungssimulatoren soll signifikant erhöht werden. In einer Sensitivitätsstudie wird ermittelt, welche Strukturelemente und Lager die grössten Beiträge zur Steigerung der Dynamik erbringen können. Anschliessend werden die Werkstoffe, die Konstruktion und der Fertigungsprozess dieser Strukturelemente und Lager optimiert und abschliessend an einem Demonstrator experimentell validiert.

@@ -1,1 +1,3 @@
   The Substitute Role of the Positive Muon as a Light HydrogenIsotope in the Study of Metal-Hydrogen Systems  
+
+ This is a new project to be started in 1997 which addresses various aspects concerning static (magnetic) and dynamic (diffusion) features of metal hydrides.

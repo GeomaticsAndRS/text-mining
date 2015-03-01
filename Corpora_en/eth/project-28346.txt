@@ -1,1 +1,1 @@
-Smart-DAYS Collaboration between ETH and HEIG-VD to develop sensors to recognize complex human activities for assistive technologies, providing ’memory reminders’ to persons with memory loss, or supporting independent living.
+Smart-DAYS Collaboration between ETH and HEIG-VD to develop sensors to recognize complex human activities for assistive technologies, providing memory reminders to persons with memory loss, or supporting independent living.

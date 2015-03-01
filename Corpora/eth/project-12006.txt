@@ -1,2 +1,3 @@
   The COSMOS Legacy Survey  
 COSMOS is a major international collaboration to study galaxy evolution  in the context of the large-scale structure properties using a 2-square-deg sky area observed with HST, SPITZER, XMM, CHANDRA and with a large number of groundbased world-spread facilities.
+COSMOS is a major international collaboration to study galaxy evolution in the context of the large-scale structure properties using a 2-square-deg sky area observed with most ground- and space-facilities, including HST, SPITZER, XMM, CHANDRA, VLT, Keck, et al.

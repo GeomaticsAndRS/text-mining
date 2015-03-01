@@ -1,2 +1,3 @@
   Ferrotoroidization as primary order parameter  
 Landau theory and experiments in electric and magnetic fields are used to probe the existence of a primary ferrotoroidic order parameter. 
+A major challenge on the research on toroidal moments in condensed-matter systems is the proof of ferrotoroidicity as primary ferroic form of order in distinction to antiferromagnetism. This is attempted by demonstrating the vector property of the toroidal order parameter that should distinguish it from antiferromagnets where the order parameter may have an arbitrary rank and form. We investigate this by Landau theory in combination with magnetoelectric poling experiments.

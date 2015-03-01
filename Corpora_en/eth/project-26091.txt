@@ -1,1 +1,1 @@
-Lafarge; Modeling of hysteresis in porous materials Study of the significance of hysteresis on transport processes in porous materials
+Lafarge; Modeling of hysteresis in porous materials Study of the significance of hysteresis on transport processes in porous materials The study investigates the extent to which moisture sorption hysteresis affects vapor permeability, when this one is dependent on the water saturation of the material.

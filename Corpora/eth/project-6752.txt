@@ -1,0 +1,3 @@
+  Effective Algebraic Geometry  
+
+ In this project we work on the effective presentation of commutative group varieties: projective embeddings, defining equations, addition formulae, differential equations and the Riemann-Roch Theorem.

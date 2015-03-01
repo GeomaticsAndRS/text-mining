@@ -1,1 +1,1 @@
-Case Studies in Bioclimatic Scenario Derivation
+Case Studies in Bioclimatic Scenario Derivation The project is aimed at developing, testing, and applying methods to derive future climate scenarios as required by specific ecosystem case studies in a mountainous region. Statistical Case Studies in Bioclimatic Scenario Derivation Furthermore the cohort based stochastic model ForClim is aggregated to a structured population dynamics model. The latter will be used to describe tree species migration in a complex topography forced by a changing climate.

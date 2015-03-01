@@ -1,1 +1,3 @@
-  Studie Ã¼ber Peer Review und QualitÃ¤tskontrolle in Open Access Journalen 
+  Studie über Peer Review und Qualitätskontrolle in Open Access Journalen 
+
+In our evaluation study we examine the peer review process practiced by Atmospheric Chemistry and Physics (ACP) as an example of public peer review used by open access journals. Compared to traditional scientific journals, this new system of peer review in an electronic environment is seen to have the following advantages, among others: (1) submitted manuscripts are ´ immediately published as Sdiscussion papersS on the journalSs Web site, (2) refereesS comments on the quality of the content of the manuscript and authorsS replies to the refereesS critical comments are publicly exchanged, and (3) refereesS arguments are publicly heard and, if comments are openly signed, referees can also claim authorship for their contributions.

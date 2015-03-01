@@ -1,2 +1,2 @@
   Population genomics with the eusocial bacterium Myxcoccus xanthus  
-Using next generation sequencing I seek to quantify the roles that the key ˝ forces of evolution -mutation, selection, genetic drift, hitchhiking, dispersal, and recombinationU  play in shaping genomic and social divergence in natural populations of the model cooperative bacterium Myxococcus xanthus.
+Using next generation sequencing I seek to quantify the roles that the key forces of evolution -mutation, selection, genetic drift, hitchhiking, dispersal, and recombinationU  play in shaping genomic and social divergence in natural populations of the model cooperative bacterium Myxococcus xanthus.

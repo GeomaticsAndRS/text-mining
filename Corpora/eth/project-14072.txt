@@ -1,1 +1,3 @@
   AXPO Projekt Nachhaltigkeit: Bewertungsmodell Stromerzeugung 
+
+ Fragestellung des Projektes: Welche quantitativen Nachhaltigkeitswert haben die für die Axpo relevanten Strombereitstellungstechnologien? Es sind alle vor- und nachgelagerten Prozesse bis zum Netzeinspeisepunkt zu betrachten. Die Wirkungen sind aus der Optik der ganzen Schweiz und spezifisch des Axpo Konzerns zu beurteilen. Das eigentliche Berechnungsmodell besteht aus einem Technikbeschrieb, einem Inventar, einer Indikatorenliste und der Transformations- und Gewichtungsmatrix.

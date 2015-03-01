@@ -1,2 +1,2 @@
   MEASURED - Media-rich Electronic Assessment with Secure Delivery  
-Mit der EinfÃ¼hrung von computerbasiertem PrÃ¼fen als Teil der eidg. AbschlussprÃ¼fung des Medizinstudiums bietet sich die Gelegenheit, die im Projekt SIOUX erarbeiteten Grundlagen fÃ¼r die sichere DurchfÃ¼hrung von elektronischen PrÃ¼fungen in einem neuen Kontext schweizweit anzuwenden und auszubauen. 
+Mit der Einführung von computerbasiertem Prüfen als Teil der eidg. Abschlussprüfung des Medizinstudiums bietet sich die Gelegenheit, die im Projekt SIOUX erarbeiteten Grundlagen für die sichere Durchführung von elektronischen Prüfungen in einem neuen Kontext schweizweit anzuwenden und auszubauen. 

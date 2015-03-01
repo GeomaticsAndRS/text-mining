@@ -1,2 +1,3 @@
   Aerial Cavity Mapping  
 ETH-ASL will adapt its UAV platform for operation in AGAs deep gold mines in South Africa. The goal is to be able to fly in a ore pass and acquire a 3D map.
+Ore passes are a big unknown in the operation of a mine. They can get blocked by a accumulation of rocks any time, or even grow into a neighboring shaft and cause damage to installation. Acquire information about the current condition of an ore pass is an extreme dangerous mission for humans. Loose rocks can fall down any time and mud rushes can get them buried alive. This arose the idea of using robots for data collection. This project aimed to use technology developed at the Autonomous System Lab at ETH Zurich (ASL) to deploy unmanned aerial vehicles.

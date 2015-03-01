@@ -1,1 +1,3 @@
   Simulation of stochastic differential equations with discontinuous drift  
+
+Many problems in control theory are amenable to computer simulation. One particular optimal control problem is described in Hasminskii's book on "Stochastic Stability of Differential Equations" and E. R. Fernholz's "Stochastic Portfolio Theory." Many algorithms will give a fairly good result, but due to the discontinuous drift, more careful analysis is required to get much better results.

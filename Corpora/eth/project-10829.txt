@@ -1,2 +1,3 @@
   Pedagogy of introductory programming  
-Redesign of the first-year SIntroduction ¸ to ProgrammingTˇ course, preˇ based on novel ideas of ”inverted curriculum”, reuse, graphical interfaces, viously SInformatik ¸ IT, Design by Contract and object technology. 
+Redesign of the first-year SIntroduction � to ProgrammingT based on novel ideas of "inverted curriculum", reuse, graphical interfaces, viously SInformatik � IT, Design by Contract and object technology. 
+Outside-In, "Inverted Curriculum" techniques for teaching introductory programming to new generations of students, based on object technology and Design by Contract

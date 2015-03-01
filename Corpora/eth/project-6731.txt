@@ -1,1 +1,3 @@
   Algebras With Involutions and Triality  
+
+Triality, which classically occurs for orthogonal groups in  dimension eight, is also related with central simple algebras of degree eight with orthogonal involutions. A description of this new notion, with examples and applications, is the aim of this project. Generic algebras are also considered

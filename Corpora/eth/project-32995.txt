@@ -1,2 +1,3 @@
   Topological materials 
 Search for new topological materials and topology mediated phenomena  in condensed matter physics.
+Search for topological materials and and design of topological states in heterostructures. Using the software developed for this special purpose, we search for topological insulators and semimetals, as well as for other materials that exhibit topological electronic properties. The project also aims to model topological superconductivity induced by proximity effects, thus advising the search for Majorana fermions in real materials.

@@ -1,1 +1,3 @@
   Technical Innovations of Rack (Rail) Systems  
+
+Todays rack (cog wheel) railways use different rack systems: Riggenbach, Strub, Abt. The  Riggenbach system is the most complicated and expensive of them. This study will try to analyze if and under what conditions it is feasable to replace Riggenbach racks by more economical racks. Also one tries to get more insight into other problems like welded rails on rack railways, lubrication, abrading.

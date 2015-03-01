@@ -1,2 +1,3 @@
   Patrind HPP Physical model  
 The Patrind Hydropower plant in Pakistan is currently under construction. Using a physical model at VAW the hydraulic performance of the weir as well as the sedimentation and flushing processes shall be investigated.
+The Patrind Hydropower plant in Pakistan is currently under construction. The weir site including a sediment bypass tunnel and a river stretch of 300m up and downstream of the weir are modelled at a scale of 1:45 in a physical model at VAW. The investigation focuses on the hydraulic performance of the weir on the one hand and on the sedimentation problems on the other hand. The sedimentation processes of bed load and suspended load will be simulated and the efficiency of flushing scenarios monitored.

@@ -1,2 +1,3 @@
   Autonomous Flying Survey System for High Precision Reliable Full Coverage Visual 3D Reconstruction  
 The goal is to develop an efficient airborne device for 3D scanning for robust and accurate structure surveying.
+The goal is to develop an efficient airborne device for 3D scanning for robust and accurate structure surveying. Current solutions involve expensive and cumbersome procedures using ground lasers and trained staff. Combining the expertise of Leica in precision measurement, the know-how of the ASL on autonomous navigation and the experience of Skybotix in integrating visual-inertial sensor technology on UAVs, we foresee a great impact in the research community and the market. (KTI Nr. 16432.1)

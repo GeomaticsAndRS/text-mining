@@ -1,2 +1,3 @@
   Simulation of ultrashort laser material ablation at the threshold between cold and hot ablation  
 Simulation of the material ablation process done by a ultrafast laser
+Das übergeordnetes Ziel ist es, zu einem verbesserten Verständnis der Wechselwirkung zwischen ultraharten Materialien und ultrakurzen Laserpulsen beizutragen. Im Detail wird der Materialabtrag an der Grenze zwischen warmer und kalter Ablation untersucht. Das erarbeitete Modell wird experimentell validiert.

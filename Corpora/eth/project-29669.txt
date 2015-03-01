@@ -1,2 +1,2 @@
   Development of biodegradable metallic glasses and investigation of their electrochemical properties  
-The project deals with the development of Mg- and Ca-based bulk metallic glasses for medical applications. The electrochemical and mechanical properties are optimized to  enhance the alloysŠ biocompatibility and biodegradation, especially for degradable implant applications.
+The project deals with the development of Mg- and Ca-based bulk metallic glasses for medical applications. The electrochemical and mechanical properties are optimized to  enhance the alloysS biocompatibility and biodegradation, especially for degradable implant applications.

@@ -1,1 +1,3 @@
   High Strength Austenitic Stainless Steels  
+
+The research project deals with different hardening mechanisms which can be  used to increase the strength of austenitic stainless steels. It aims to give a contribution to the understanding of the basic mechanisms of plasticity in austenitic steels, with special interest to the effect of the alloying element nitrogen. Structure analysis of deformed austenitic steels make clear that it is deformation twinning wich is one of the most important mechanism of plasticity. Based on extensive TEM-studies of the special features of the microstructures structural models are developed. Contacts: Dr. Solenthaler, Dr. Uggowitzer

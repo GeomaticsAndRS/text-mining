@@ -1,1 +1,3 @@
   Influence of Road Surface Conditions on Traffic Safety  
+
+The aim of this study is to determine the influence of road surface properties, skid  resistance, transverse unevenness (ruts), longitudinal unevenness and surface drainage on the occurrence of accidents. The data and characteristics collected with the common road condition surveying methods will be compared with data taken from accident statistics for corresponding road links. Thus, it will be checked if and what influence the surface properties might have on the accident occurrence. Moreover, it will be examined whether limits for the factors describing a desirable minimum road surface quality can be derived.

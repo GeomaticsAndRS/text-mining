@@ -1,0 +1,3 @@
+  eEx - eLearning  
+
+eEx ist eine eLearning-Veranstaltung zur Unterstützung des Übungsbetriebs vom 1. und 2. Jahreskurs im Fach Tragkonstruktionen I-IV. Sie bietet den Studierenden die Möglichkeit, sich schon vor der Übung mit dem Stoff auseinanderzusetzen - individuell und zeitlich flexibel, dann wenn es dem Studierenden am besten passt. Die Vorbereitungsübungen werden über das Internet gelöst und abgegeben. Technisch stützt sich eEx auf das LMS "WebCT Campus Edition 6" von Blackboard, die vom NET (Network or Educational Technology) auf ETH-Ebene betrieben wird. Mehr davon auf http://eex.arch.athz.ch/.

@@ -1,1 +1,3 @@
   Mechanics and Integration Studies for the CMS Detector  
+
+ The electromagnetic calorimeter for the CMS detector requires a precision mechanical support structure that is both rigid and transparent to incoming particles while avoiding to stress the individual Lead Tungstenate crystals it contains. A cooling system will be needed to maintain the crystals and possibly the photodetector temperatures to within a few tenths of a degree. A monitoring system will allow to continuously trace its stability. The mechanical structure must integrate all these services while insulating the detector from thermal and electromagnetic perturbations. All materials used must be radiation hard. Prototypes have to be made and tested in particle beams.

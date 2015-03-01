@@ -1,2 +1,2 @@
-  OPT-HE - Prevision de Production d’Hydroelectricity - High performance forecast for hydropower production 
-In this joint project between MeteoSwiss and the Atmospheric Dynamics  group at ETH Zürich, the performance of the novel limited-area ensemble system COSMO-E will be evaluated for heavy precipitation events in Switzerland, with the aim to achieve a further improvement of its predictive skill.
+  OPT-HE - Prevision de Production d'Hydroelectricity - High performance forecast for hydropower production 
+In this joint project between MeteoSwiss and the Atmospheric Dynamics  group at ETH Z�rich, the performance of the novel limited-area ensemble system COSMO-E will be evaluated for heavy precipitation events in Switzerland, with the aim to achieve a further improvement of its predictive skill.

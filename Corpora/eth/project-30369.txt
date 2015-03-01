@@ -1,2 +1,2 @@
   Permafrost Monitoring mit Wireless GPS  
-Die systematische Erhebung und Beobachtung von Naturgefahren ist fÃ¼r  Gesellschaft, BehÃ¶rden und Forschung in der Schweiz von zentraler Bedeutung. Die ETHZ entwickelt die Technologie, um GPS in den WSN-Systemen im Permafrost einzusetzen.
+Die systematische Erhebung und Beobachtung von Naturgefahren ist für  Gesellschaft, Behörden und Forschung in der Schweiz von zentraler Bedeutung. Die ETHZ entwickelt die Technologie, um GPS in den WSN-Systemen im Permafrost einzusetzen.

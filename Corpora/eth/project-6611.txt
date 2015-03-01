@@ -1,0 +1,3 @@
+  Team-work in Student Projects  
+
+Computer science students have, according to the curriculum at ETH and beside  other practical tasks, to perform a development project (of some 150 hours); most projects are focused on and executed by just one student. To improve the team-work capacity, students were taught to perform larger projects in four-student teams; rules and tools were and are adapted and developed for this goal. The experiments are going on.

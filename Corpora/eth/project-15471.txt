@@ -1,2 +1,3 @@
   Perturbative QCD  
 Next to leading order QCD corrections to six leg processes
+ Quantitative predictions for the most important physics signals measured at hadron colliders (Tevatron, LHC) and development of the necessary theoretical tools to carry out next-to-leading order and next-to-next-to leading order QCD processes.

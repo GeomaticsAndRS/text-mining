@@ -1,2 +1,2 @@
-  RobotergestÃ¼tzte Assemblierung differenzierter Holztragwerke  
-Dieses Projekt erforscht innovative Anwendungen Holz als Material fÃ¼r tragende Strukturen im Bauwesen. Das Projekt verfolgt einen integrativen Ansatz, welcher materialspezifische und konstruktive Aspekte des Holzbaus in einem digitalen Entwurfs- und robotergestÃ¼tzten Herstellungsprozess verbindet.
+  Robotergestützte Assemblierung differenzierter Holztragwerke  
+Dieses Projekt erforscht innovative Anwendungen Holz als Material für tragende Strukturen im Bauwesen. Das Projekt verfolgt einen integrativen Ansatz, welcher materialspezifische und konstruktive Aspekte des Holzbaus in einem digitalen Entwurfs- und robotergestützten Herstellungsprozess verbindet.

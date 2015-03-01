@@ -1,2 +1,3 @@
   Statistical estimation of very large dependence graphs and applications to genetic regulatory networks  
 The project deals with estimating a dependence graph from data. The graph describes conditional stochastic dependencies among very many random variables. The mo-  tivation for the project comes from estimating genetic regulatory networks based on gene expression data.
+The project deals with estimating a dependence graph from data. The graph describes conditional stochastic dependencies among very many random variables. The motivation for the project comes from estimating genetic regulatory networks based on gene expression data.

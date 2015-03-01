@@ -1,1 +1,1 @@
-NCCR IM2 WP White Paper: A Self-Learning Visual Tracker
+NCCR IM2 WP White Paper: A Self-Learning Visual Tracker This part of the NCCR IM2 develops visual trackers that adapt to the object to be followed in video data. Hence, such trackers fill a niche between generic trackers on the one hand, and dedicated trackers on the other. So far, these two types of trackers have dominated the computer vision literature. The tracker that we have developed also exploits a combination of features, from which it can then pick those that are most appropriate for a specific object.

@@ -1,0 +1,1 @@
+Linear Forms in Logarithms Study of lower bounds for linear forms in logarithms, the archimedean case, the nonarchimedean case, global questions, relation to the abc-conjecture, applications in diophantine geometry.

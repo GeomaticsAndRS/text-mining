@@ -1,2 +1,2 @@
-  Entwicklung von Quantenkaskadenlasern als monochromatisches Strahlungsquellen fÃ¼r den FIR-Bereich  
-Entwicklung von auf Quantenkaskadenlasern basierenden Strahlungsquellen, die auf die BedÃ¼rfnisse der TPs D2 und D3 des SFB 965 zugeschnitten sidn. Die Entwicklung zielt auf 2 verschiedene QCL-Typen ab: AlGaAs/GaAs QCLs auf GaAs Substrat fÃ¼r 2 und 5 THz und InGaAs/InP QCLs auf InP fÃ¼r 17 und 18 um. 
+  Entwicklung von Quantenkaskadenlasern als monochromatisches Strahlungsquellen für den FIR-Bereich  
+Entwicklung von auf Quantenkaskadenlasern basierenden Strahlungsquellen, die auf die Bedürfnisse der TPs D2 und D3 des SFB 965 zugeschnitten sidn. Die Entwicklung zielt auf 2 verschiedene QCL-Typen ab: AlGaAs/GaAs QCLs auf GaAs Substrat für 2 und 5 THz und InGaAs/InP QCLs auf InP für 17 und 18 um. 

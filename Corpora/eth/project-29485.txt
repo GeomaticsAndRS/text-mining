@@ -1,2 +1,3 @@
   Nonlinear optical investigation of organic multiferroic compounds  
 The antiferroelectric and ferromagnetic properties of the organic multiferroic compound [(CH3)2NH2]Mn(HCOO)3 are investigated by nonlinear optical techniques. 
+The antiferroelectric and ferromagnetic properties of the organic multiferroic compound [(CH3)2NH2]Mn(HCOO are investigated by nonlinear optical techniques. We explore new mechanisms promoting multiferroic order, magnetoelectric properties and the potential of organic multiferroics in general.

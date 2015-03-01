@@ -1,2 +1,3 @@
   High Performance Foams by Aqueous Dispersion Technology 
 The aim of the project is to make high performance polymeric foams (macroporous materials) by aqueous phase dispersion technology. This specific technology has been  selected because of its environmental friendly nature.
+The primary aim of this project is the preparation of polymeric foams to be applied as thermal and sound insulators. Such materials will be prepared starting from aqueous dispersions of preformed colloidal polymer particles through suitable aggregation and simultaneous reaction. The quality control of the final material in terms of density and pore size distribution is the major challenge of the project, along with the scale up of the entire production process.

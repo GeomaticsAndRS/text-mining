@@ -1,1 +1,3 @@
-  Modellierung des mechanischen Verhaltens von Betonen auf der Ebene des MesogefÃ¼ges (NF) 
+  Modellierung des mechanischen Verhaltens von Betonen auf der Ebene des Mesogefüges (NF) 
+
+ Prof. F.H. Wittmann, T. Hörsch

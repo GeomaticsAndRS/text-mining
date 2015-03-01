@@ -1,2 +1,2 @@
   Renyi Entropy and Quantization  
-A random variable Z taking value in a finite, nonatomic measure space (X, M, µ ) is to be described using N labels. We seek the labeling that minimizes the ρ -th moment of the volume of the set of points in X that have the same label as Z. 
+A random variable Z taking value in a finite, nonatomic measure space (X, M, � ) is to be described using N labels. We seek the labeling that minimizes the -th moment of the volume of the set of points in X that have the same label as Z. 

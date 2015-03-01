@@ -1,1 +1,1 @@
-Tate Cohomology and Homology for Arbitrary Groups
+Tate Cohomology and Homology for Arbitrary Groups An extension of classical Tate cohomology groups to infinite groups is being investigated. Besides of the study of generalizations of the classical spectral sequences, some concrete computations are attempted. A Tate homology theory is being developed and its properties are analyzed.

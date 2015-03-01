@@ -1,1 +1,3 @@
   Distance Fluctuations and Lyapounov Exponents  
+
+ The aim is to study the large scale behavior of certain random distance functions which roughly describe the cost for Brownian motion moving among soft Poissonian obstacles of linking two locations. This problem has similar features both to first passage percolation and to directed polymers in random environments. In first approximation these distances behave over large scales as certain deterministic norms (Lyapounov exponents). There are many open problems having to do with the description of the fluctuation or geometric properties of these distances. In the context of first passage percolation similar questions are being currently investigated or are the object of recent works by Alexander, Kesten, Newman.

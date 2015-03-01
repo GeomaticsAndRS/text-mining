@@ -1,1 +1,3 @@
   Symplectic characteristic classes of representations of groups  
+
+Study of properties of the symplectic characteristic cohomology classes  associated with a symplectic representation of a finite group. in particular for the case of cyclic groups.

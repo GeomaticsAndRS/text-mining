@@ -1,2 +1,2 @@
   Prohl, A.: Numerics of Nematic Liquid Crystals  
-Phases of a liquid crystal (LC) are intermediate between liquid and solid phases; LC’s are ordered fluids composed of elongated molecules that are either rod-or disk-like. It is this anisotropy which allows for applications in optical devices, like displays.
+Phases of a liquid crystal (LC) are intermediate between liquid and solid phases; LC's are ordered fluids composed of elongated molecules that are either rod-or disk-like. It is this anisotropy which allows for applications in optical devices, like displays.

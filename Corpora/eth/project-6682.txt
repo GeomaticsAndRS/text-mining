@@ -1,1 +1,3 @@
   History of Probability and Statistics  
+
+The history of the basic concepts of probability and statistics,  especially of the concepts of ordinary and of upper and lower probabilities, turns out to be of great interest for the renewed discussion of the foundations of statistics. There is still insufficient knowledge and much confusion about concepts of upper and lower probabilities, starting with James Bernoulli's "Ars conjectandi" and going till recent discussions of the Dempster-Shafer belief function theory and related theories, so any clarifications are likely to be not only of historical value, but also of value for the future development of statistics.

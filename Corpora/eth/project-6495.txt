@@ -1,0 +1,3 @@
+  Optimisation of Inventory Methods  
+
+The primary objective of this project is to provide mathematical guidelines for the optimisation of  two-phase / two-stage sampling schemes with unequal inclusion probabilities, which is a key issue in the context of combined forest inventories. The main ideas rest upon the generalised Horwitz-Thompson estimates and their anticipated variances under superpopulation models for the location of the trees. The problem is to minimise the expected overall costs of the inventory for a given anticipated variance. The geostatistical reformulation of the above-mentioned problem is a further objective, particularly important in the context of small area estimation.

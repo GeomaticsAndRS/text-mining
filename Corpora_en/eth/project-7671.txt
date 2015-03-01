@@ -1,0 +1,1 @@
+Applications of Computer Algebra The computer algebra program Mathematica is used to develop packages whichassist the research in mechanics. The current projects involve thepreprocessing and postprocessing for the multibody simulation programDYNAMITE and the derivation of perturbation expansions for the solutions ofordinary and partial differential equations.

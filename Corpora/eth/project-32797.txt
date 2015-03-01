@@ -1,1 +1,3 @@
   Quantum optics using transition metal dichalcogenides 
+
+ The goal of this project is to carry out combined optics and transport measurements to demonstrate photo-induced anomalous Hall effect. Transition metal dichalcogenides provide a unique truly two-dimensional material to investigate the signatures of valley dependent Berry-curvature. Combination of strong electron-hole interaction and large Berry curvature in this material system allows for investigation of topological states of polaritons.

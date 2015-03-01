@@ -1,0 +1,3 @@
+  Year-2000 Problem  
+
+The Y2K-problem is the largest corrective maintenance problem the IT-industry  was ever faced with. From a technical point of view, a single Y2K problem might look relatively simple. But the overall solution is an enormous challenge. During this project we study several aspects of the problem (project management, source- and data correction, tools, allocation of resources, contingency planning, risk management ...). We do this by a systematic study of all publicly available sources (primarily internet) and combine these insights with experiences from real projects. First results have been published already as a textbook [Aebi98]. The results are being communicated on a regular basis to an interested public (e.g. via talks and courses).

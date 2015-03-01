@@ -1,2 +1,2 @@
   Methode zur Bestimmung des kritischen Chloridgehalts an bestehenden Stahlbetonbauwerken  
-Entwicklung einer vÃ¶llig neuen Methode zur Bestimmung des kritischen Chloridgehalts (Ccrit)fÃ¼r die Korrosionsinitiierung an Stahlbetonbauwerken und Bestimmung von  zuverlÃ¤ssigen, statistisch relevanten und gleichzeitig realistischen Werten fÃ¼r Ccrit an einer reprÃ¤sentativen Auswahl von Bauwerken.
+Entwicklung einer völlig neuen Methode zur Bestimmung des kritischen Chloridgehalts (Ccrit)für die Korrosionsinitiierung an Stahlbetonbauwerken und Bestimmung von  zuverlässigen, statistisch relevanten und gleichzeitig realistischen Werten für Ccrit an einer repräsentativen Auswahl von Bauwerken.

@@ -1,1 +1,3 @@
   Effects of Magnetic Fields on Brainwave Activity  
+
+In order to determine the effects of relatively weak DC magnetic fields on  the human brain, nine patients with Mesio Temporal Lobe Epilepsy were evaluated. All patients were undergoing semi-invasive electrode brain mapping using electrodes inserted through the foramen ovale. Patients were exposed to DC fields between 0.9 and 1.8 millitesla. In six of the seven patients with low levels of interictal activity, epileptiform discharges were markedly increased during magnetic field application. In many cases, switching the field off also induced activity, indicating that the change in field may be more important than the static field.

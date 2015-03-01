@@ -1,2 +1,2 @@
   Kraftstoffkennzahlen II 
-Charakterisierung von hochsiedenden/teilsynthetischen Kraftstoffen fÃ¼r homogene (HCCI) und teilhomogene Dieselverbrennung mittels optischen Experiments und globalkinetischen Modellen. 
+Charakterisierung von hochsiedenden/teilsynthetischen Kraftstoffen für homogene (HCCI) und teilhomogene Dieselverbrennung mittels optischen Experiments und globalkinetischen Modellen. 

@@ -1,1 +1,1 @@
-Co-optimization Technique for Power Electronic Circuits and Devices
+Co-optimization Technique for Power Electronic Circuits and Devices For details of this project see http://www.pes.ee.ethz.ch/en/no_cache/our-range/research/projects/current.html

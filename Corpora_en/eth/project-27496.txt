@@ -1,1 +1,1 @@
-Chemical vapor deposition of Lewis acids
+Chemical vapor deposition of Lewis acids Chemical Vapor Deposition (CVD) is explored as a convenient technique to post-synthetically functionalize materials with Lewis acid sites. Various characterization techniques are applied to understand the molecular structure of the materials. Subsequently we will link that structure to the catalytic activity of those materials in a range of Lewis acid catalyzed reactions.

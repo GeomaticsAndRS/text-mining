@@ -1,1 +1,3 @@
   Protein engineering of Pyruvate Oxidase from lactobacillus plantarum for application in biosensors 
+
+ The aim of the project is to stabilize LpPOX in order to get a continuously measuring pyruvate/phosphate biosensor with a lifetime of at least two weeks. In doing so entropy and enthalpy driven stabilization approaches using site-directed mutagenesis guided by theoretical calculations will be investigated.

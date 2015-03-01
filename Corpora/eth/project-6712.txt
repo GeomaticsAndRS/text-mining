@@ -1,1 +1,3 @@
   Knizhnik-Zamolodchikov equations for Coxeter groups and m-harmonic polynomials 
+
+ The space of m-harmonic polynomials is the kernel of the commuting rational Calogero differential operators associated to Coxeter groups with integer coupling constant m. They are a generalization of the classical harmonic polynomials and share interesting properties with them. We exploit a version of the Matsuo-Cherednik correspondence between Knizhnik-Zamolodchikov and Calogero-Moser systems to give a description of these polynomials. In particular, the representation of the Coxeter group on m-harmonic polynomials of given degree can be computed, and integral representations are obtained in certain cases.

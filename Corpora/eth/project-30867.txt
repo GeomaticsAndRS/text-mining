@@ -1,2 +1,2 @@
   mPlane - an Intelligent Measurement Plane for Future Network and Application Management  
-The distributed nature of the Internet leads to difficulties in identifying the root causes of performance and availability issues. The first step to improve this situation is measurement. To address this, we develop a measurement plane, or mPlane, alongside the InternetŠs  data and control planes.
+The distributed nature of the Internet leads to difficulties in identifying the root causes of performance and availability issues. The first step to improve this situation is measurement. To address this, we develop a measurement plane, or mPlane, alongside the InternetSs  data and control planes.

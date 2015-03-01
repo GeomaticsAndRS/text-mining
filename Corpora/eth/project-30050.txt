@@ -1,1 +1,2 @@
   Adaptive Relational Networks: A Detailed Model for Effective Cortical Computation 
+

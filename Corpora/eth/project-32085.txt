@@ -1,2 +1,2 @@
   Mesh Mould  
-Das Forschungsprojekt Mesh-Mould untersucht die konstruktiven Aspekte von robotisch gefertigten, tragenden Konstruktionen. Der Forschungsschwerpunkt liegt auf Fabrikationsprozessen mit geringem Massentransfer bei hoher r√§umlich-koordinativer Komplexit√§t.
+Das Forschungsprojekt Mesh-Mould untersucht die konstruktiven Aspekte von robotisch gefertigten, tragenden Konstruktionen. Der Forschungsschwerpunkt liegt auf Fabrikationsprozessen mit geringem Massentransfer bei hoher r‰umlich-koordinativer Komplexit‰t.

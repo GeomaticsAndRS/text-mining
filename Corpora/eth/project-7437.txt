@@ -1,1 +1,3 @@
   Modelling of Deformation Mechanisms and the Anisotropy of Magnetic Susceptibility 
+
+Two approaches to modelling the anisotropy of magnetic susceptibility (AMS) have been developed. The first method applies theoretical deformation models to a uniform distribution of uniaxial magnetic grains. Three deformation models which are considered are the passive, line/plane and viscous models of deformation. Empirical data were compared with predictions from the theoretical models. In the second approach a synthetic AMS is calculated from different distributions of basal plane poles of sheet silicates determined by x-ray texture goniometry. It is to be investigated how the AMS can be used as a quantitative indicator of the degree of the mineral fabric development.

@@ -1,1 +1,3 @@
   Effectivity in the Theory of Diophantine Approximations  
+
+ Effective Schmidt's subspace theorem, effective Faltings' product theorem, S-unit equation, applications to the theory of diophantine equations.

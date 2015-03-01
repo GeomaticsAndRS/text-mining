@@ -1,1 +1,3 @@
   Best Practices zum Umgang mit dem in der Produktentwicklung generierten Nachhaltigkeitswissen  
+
+ Jens Soth

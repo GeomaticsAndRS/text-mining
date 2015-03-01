@@ -1,1 +1,3 @@
   Formation of radical during aerobic oxidations 
+
+ The aerobic autoxidation of hydrocarbons proceeds through a complicated reaction mechanism, mediated by free radicals. Most reported autoxidation catalysts enhance the radical formation rate via homolytic activation of hydroperoxide products. Whereas our knowledge of the product formation mechanisms has significantly improved over the last couple of years, the chain-initiation is still poorly understood. In this project, the thermal and catalytic initiation rate for the oxidation of the renewable olefin alpha-pinene is quantified, thereby providing evidence for a substrate-assisted thermal initiation. The kinetics of the catalytic initiation is in good agreement with previous studies under model conditions.

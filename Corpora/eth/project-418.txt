@@ -1,1 +1,3 @@
-  SFA-Modell fÃ¼r den regionalen Grundwasser-Haushalt  
+  SFA-Modell für den regionalen Grundwasser-Haushalt  
+
+Georg Henseler 

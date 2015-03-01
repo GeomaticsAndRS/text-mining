@@ -1,2 +1,3 @@
   NMR solution structures of non-natural oligonucleotides 
 The solution conformation, dynamics, solvation, stacking and pairing properties of oligonucleotide single strands and duplexes built from non-natural residues are studied by NMR and, in parallel, molecular dynamics simulations.
+see group website (Link1) This project is a collaboration with several other research groups (synthesis of oligonucleotides): Group of S. Pitsch, EPFL Lausanne Group of Ch. Leumann, University of Bern Group of A. Eschenmoser, Scripps Research Institute, San Diego, USA

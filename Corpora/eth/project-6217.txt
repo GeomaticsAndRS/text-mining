@@ -1,1 +1,3 @@
   Optimization of Superstructure of Railways with Me-tric-Gauge Tracks with Regards tothe Stability of Welded Rails  
+
+ It is necessary to develop rules of geometry and practice for cases where a superstructure with long welded rails has to cope with curves with small radii. Existing rules and formulas for regular gauge tracks are to be adapted for tracks of one meter gauge. Full-scale experiments, now being installed in various parts of Switzerland, will be monitored and analyzed.

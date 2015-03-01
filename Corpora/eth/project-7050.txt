@@ -1,1 +1,3 @@
   Thematic Archives of the Italian Lyric Poetry (ATLI)  
+
+We are about to install and run a computer supported information  system to determine and register the themes, metaphors and similes in Italian lyric poetry, to enable us thus to trace a certain theme in one or several different works and to locate a theme within a period.

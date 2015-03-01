@@ -1,1 +1,3 @@
   Thrust Network Analysis of vaulted masonry using reciprocal diagrams and polyhedral stress functions 
+
+Thrust Network Analysis (TNA) and the three-dimensional extension of the Lumped Stress Method (LSM) use the same framework to analyze the stability of masonry structures. The former uses reciprocal force diagrams while the latter uses discrete stress functions to represent the equilibrium of the horizontal thrusts in the system. This research aims to combine the intuitive aspects of TNA with the optimization possibilities within LSM to further the understanding of complex, vaulted structures in masonry. This research is a collaboration between Prof. Block (ETH) and Prof. F. Fraternali and Dr. G. Rocchetta (University of Salerno).

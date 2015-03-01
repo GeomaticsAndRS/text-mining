@@ -1,1 +1,3 @@
   Petrogenetic Grids for Metamorphic Rocks  
+
+Conventional petrologic methods of reconstructing the physicochemical environment of  metamorphic systems are typically based on reverse modeling approach in which it is assumed that the observed mineral compositions are the relicts of an equilibrium. Hovever, thermodynamic methods can be used to permit predictive models that have the advantage of providing both greater accuracy and a test for internal consistency. Such methods are being applied to two important petrologic systems, FeO-MgO-SiO$_{2}$-C-O-H and Na$_{2}-CaO-FeO-Al$_{2}$0$_{3}$-SiO$_{2}$-C-O-H. In each case computed phase equilibria are being compared to those preserved at well constrained Alpine localities.

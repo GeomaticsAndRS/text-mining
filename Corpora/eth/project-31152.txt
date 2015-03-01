@@ -1,2 +1,3 @@
   Precision miniature die and mould machining at higher economic and energy efficiency 
 Low energy discharges used in finishing cause a high tool wear in EDM. By reducing the tool wear, high precision and further miniaturisation of the process is aimed.
+Low energy discharges used in finishing cause a high tool wear in EDM. By reducing the tool wear, high precision and further miniaturisation of the process is aimed. Using a new generator, novel process analysis method and adaptive process control algorithms, four main tasks of low tool wear, high precision, zero surface defects and miniaturising precision micro EDM are realised. Lower number of required copper or graphite electrodes offer high economic and energy efficiency.

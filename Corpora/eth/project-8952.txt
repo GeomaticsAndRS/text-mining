@@ -1,2 +1,3 @@
   Stability of block ramps  
 The project focuses on the development of design guidelines for block ramps. As no design criteria are available, hydraulic model tests are performed to investigate the  influence of the main parameters on the stability of ramps.
+Today, most alpine rivers in Switzerland are still in an erosion state as a consequence of former river training works, mostly from the late 19th century. In various rivers a large number of sills have been built to stabilize the longitudinal profile. Fish and aquatic fauna are unable to pass the sills due to their large drop height. Block ramps are often the first choice to replace these ecological barriers. As no design guidelines are available, hydraulic model experiments are performed.

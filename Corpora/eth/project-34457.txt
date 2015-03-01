@@ -1,2 +1,2 @@
   Ubiquitous non-intrusive and infrastructureless wireless (human) posture capturing with induced response and environmental feature detection  
-Knowing a person’s posture and being able to track its motions enable many applications. In sports this information can be used to optimize training and provide instantaneous feedback. For elderly persons fall detection and inducing adequate countermeasures will  improve autonomy and quality of life.
+Knowing a person's posture and being able to track its motions enable many applications. In sports this information can be used to optimize training and provide instantaneous feedback. For elderly persons fall detection and inducing adequate countermeasures will  improve autonomy and quality of life.

@@ -1,1 +1,1 @@
-Stochastic Cascades and 3-D Navier-Stokes Equations
+Stochastic Cascades and 3-D Navier-Stokes Equations In this project, we study the non linear integral equation satisfied by the Fourier transform of the Laplacian of the velocity field of the solution of the three dimensional incompressible Navier-Stokes equations in full space. The non linear equation can be interpreted in terms of a branching process and a composition rule along the associated tree. New classes where global existence and uniqueness for the Navier-Stokes equations can be derived from this representation.

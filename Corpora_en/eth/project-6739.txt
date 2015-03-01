@@ -1,1 +1,1 @@
-Tate cohomology of profinite groups
+Tate cohomology of profinite groups It is possible to develop Tate cohomology for arbitrary profinite groups, such that a natural universal property holds. The relationship between group theoretic properties and cohomological properties of these Tate groups is investigated. In particular, profinite groups with periodic continuous cohomology are studied.

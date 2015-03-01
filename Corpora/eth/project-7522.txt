@@ -1,1 +1,3 @@
   Crystallographic preferred orientation of metamorphic olivine  
+
+Textures, microstructures and mineralogy of peridotites from the Central Alps that crystallized  during prograde Alpine metamorphism are investigated to constrain the influence of varying metamorphic grade on olivine fabrics. Measurements of Ol crystallographic preferred (CPO) are performed using electron backscatter diffraction (EBSD) in the scanning electron microscope. Main objectives of this project are the determination of mineral growth and recrystallization processes that form the Alpine fabrics, their comparison to deformation experiments and their relevance for seismic ansotropy.

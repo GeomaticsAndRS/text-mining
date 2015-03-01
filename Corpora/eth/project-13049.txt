@@ -1,2 +1,2 @@
-  K3+ basierte, elektronisch gestÃ¼tzte Leistungskontrolle 
-Um den Studierenden der Naturwissenschaften ein zeit- und ortsunabhÃ¤ngiges Lernen fÃ¼r den Informatikunterricht zu ermÃ¶glichen, wurden in einem vorgÃ¤ngigen FilepProjekt sechs AnwendungsfÃ¼hrer (hypertextbasierte Tutorate) erstellt und im blended learning fÃ¼r ca. 300 Studierende pro Semester eingesetz
+  K3+ basierte, elektronisch gestützte Leistungskontrolle 
+Um den Studierenden der Naturwissenschaften ein zeit- und ortsunabhängiges Lernen für den Informatikunterricht zu ermöglichen, wurden in einem vorgängigen FilepProjekt sechs Anwendungsführer (hypertextbasierte Tutorate) erstellt und im blended learning für ca. 300 Studierende pro Semester eingesetz

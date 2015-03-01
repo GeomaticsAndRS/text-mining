@@ -1,2 +1,2 @@
   Mechanotransduction processes, from the cell periphery to the nucleus, in 2D versus 3D microenvironments  
-EntschlÃ¼sseln, wie die physikalischen Eigenschaften der zellulÃ¤ren mikroUmgebung Zellfunktion und Genexpression regulieren, ist der â€heilige Gralâ€ der Mechanobiologie, denn die Verankerung und Wechselwirkung von Zellen mit der extrazellulÃ¤ren Matrix ihrer Umgebungen ist wichtig fÃ¼r ihr Ãœberleben. 
+Entschlüsseln, wie die physikalischen Eigenschaften der zellulären mikroUmgebung Zellfunktion und Genexpression regulieren, ist der ,,heilige Gral" der Mechanobiologie, denn die Verankerung und Wechselwirkung von Zellen mit der extrazellulären Matrix ihrer Umgebungen ist wichtig für ihr Überleben. 

@@ -1,2 +1,3 @@
   SysteMTb (Systems Biology of Mycobacterium Tuberculosis)  
 The grand goal of the SysteMTb project is to establish a Systems Biology framework to understand key features of MTb and its interactions with the host which, in turn,  will provide new insights and a solid knowledge for the development of novel and cost-effective strategies to combat tuberculosis.
+EU FP7 Project, Health, Collaborative Project. Coordinator: Prof. Luis Serrano, FUNDACIO PRIVADA CENTRE DE REGULACIO GENOMICA.

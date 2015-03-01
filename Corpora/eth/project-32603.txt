@@ -1,2 +1,2 @@
-  Optimierung von phÃ¤nomenologischen Modellen fÃ¼r die dieselmotorische Verbrennung  
-Entwicklung schneller phÃ¤nomenologischer Modelle, fÃ¼r die dieselmotorische Verbrennung (Verbrennung, NOx- und Russ-Emissionen), fÃ¼r den Einsatz in 1-dimensionalen Simulationsprogrammen, die auch zukÃ¼nftigen Auslegungsstrategien (Mehrfacheinspritzungen, variable Ventilsteuerzeiten usw.) genÃ¼gen. 
+  Optimierung von phänomenologischen Modellen für die dieselmotorische Verbrennung  
+Entwicklung schneller phänomenologischer Modelle, für die dieselmotorische Verbrennung (Verbrennung, NOx- und Russ-Emissionen), für den Einsatz in 1-dimensionalen Simulationsprogrammen, die auch zukünftigen Auslegungsstrategien (Mehrfacheinspritzungen, variable Ventilsteuerzeiten usw.) genügen. 

@@ -1,1 +1,3 @@
   25 Mrpm Magnetically Levitated Spinning Ball Motor  
+
+For details of this project, see http://www.pes.ee.ethz.ch/en/no_cache/our-range/research/projects/current.html

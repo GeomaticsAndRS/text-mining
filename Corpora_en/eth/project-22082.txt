@@ -1,0 +1,1 @@
+The Scale Axis Transform This project investigates new methods for the stable construction of shape skeletons for 2D and 3D digital geometric models.

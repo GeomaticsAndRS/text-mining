@@ -1,1 +1,3 @@
   Spectroscopy in Singlet Groundstate Systems, Muon Induced Effects  
+
+This project, already active for a number of years, has gained  considerably in importance since it became clear that muon induced modifications of local magnetic features can be studied in much detail in this type of compounds. These studies are important with respect to identify the limitations of the \gmSR technique in the study of magnetism in general. Present investigations concern the systems Pr, PrIn$_{3}$, PrPb$_{3}$and PrCu$_{2}$where the muon induced change in the CEF-splitting of nearest Pr$^{3+}$neighbours is measured.

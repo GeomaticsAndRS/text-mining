@@ -1,2 +1,3 @@
   Petersen, W.P.: An Asset Pricing in Inhomogeneous Economies  
 This is a numerical treatment for strongly inhomogenous Lucas asset pricing.
+This is an extension of the Lucas asset pricing tree economy to a strongly heterogeneous population. Lengwiler, Malamud, and Trubowitz have a perturbation theory calculation for weakly inhomogeneous situations, while the present work will be numerical. The computer simulation is a Monte-Carlo method. ref: "Asset Pricing in Heterogeneous Economies," by Y. Lengwiler, S. Malamud, and E. Trubowitz, D-Math preprint, ETHZ, 2005.

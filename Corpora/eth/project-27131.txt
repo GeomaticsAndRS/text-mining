@@ -1,1 +1,3 @@
   Multi-Objective Design and Optimization of Three-Phase PV Inverter Systems 
+
+For details of this project, see http://www.pes.ee.ethz.ch/en/no_cache/our-range/research/projects/

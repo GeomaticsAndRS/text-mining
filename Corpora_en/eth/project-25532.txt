@@ -1,1 +1,1 @@
-ChIP-seqâ€“based Computational epigenomics in drosophila
+ChIP-seq­based Computational epigenomics in drosophila

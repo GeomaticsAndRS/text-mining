@@ -1,2 +1,3 @@
   Advanced Laser Cladding 
-Herstellung dÃ¼nner Schichten & Geometrien mittels Laser Cladding
+Herstellung dünner Schichten & Geometrien mittels Laser Cladding
+Oberflächenbeschichtungen schützen Bauteile vor Korrosion, Verschleiss oder hohen Temperaturen und verlängern so ihre Einsatzdauer. Das Projekt überwindet die heutigen Grenzen thermischer Spritzbeschichtungen durch Weiterentwicklung des Laser Cladding (Laserauftragsschweissen) in Kombination mit thermischem Spritzen für das wirtschaftliche Beschichten komplexer Bauteile, als Ersatz dünner Spritzschichten mit verbesserter Korrosionsbeständigkeit oder als formgebendes Schweissverfahren, um aufwendige Geometrien herzustellen.

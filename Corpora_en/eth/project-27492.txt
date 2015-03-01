@@ -1,1 +1,1 @@
-Turning stoichiometric HNO3-chemistry in to catalytic technology
+Turning stoichiometric HNO3-chemistry in to catalytic technology Nitric acid-based oxidations are poorly understood processes of tremendous industrial importance. A disadvantage of this technology is the stoichiometric reduction of HNO3 to NOx and N2O. In this project, we developed an aerobic oxidation reaction which uses substoichiometric amounts of HNO3, using O2 as the true terminal oxidant. (Angew. Chem. Int. Ed. 2011, 50, 12355)

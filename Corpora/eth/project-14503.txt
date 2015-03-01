@@ -1,0 +1,3 @@
+  Eisenbahnbremstechnik  
+
+ Das Forschungsprojekt hat das Ziel, die Theorie der Eisenbahnbremstechnik aufzuarbeiten und neue Erkenntnisse daraus in Simulationsverfahren (OpenTrack) zu integrieren. Der Fokus liegt auf den Bremsverfahren unter ETCS Level 2, im speziellen auf dem Verhalten der Fahrzeuge in Abhängigkeit der vorausberechneten Bremskurven.

@@ -1,2 +1,3 @@
   Top Blank 
 Entwicklung von zumindest 25 % produktiveren schnelllaufenden Pressen durch stofflichen Leichtbau
+Die Produktivität von Fertigungsmaschinen mit hochdynamischen Bewegungen wird oft von Kräften limitiert, die aus dem hohen Beschleunigen der bewegten Teile resultieren. Die Reduktion der Massen dieser Teile ermöglicht also eine Produktivitätserhöhung. Ein möglicher Lösungsweg liegt im stofflichen Leichtbau mittels Verbundwerkstoffen und der Validierung im realen Prozess. Als Ergebnis wird der Umsetzungspartner die Nachfrage nach produktiveren Stanzpressen befriedigen können.

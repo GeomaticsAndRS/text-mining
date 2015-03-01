@@ -1,0 +1,3 @@
+  Heinz Hopf  
+
+The aim of this project is to compile a biography of H. Hopf  with special emphasis on the development of Hopfs many important mathematical ideas.

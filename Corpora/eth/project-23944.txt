@@ -1,2 +1,2 @@
   Fluid Struktur Interaktion eines Radiallaufrades  
-Die mechanische Auslegung von hydraulischen Anlagen ist wesentlich mitbeeinflusst durch ihr dynamisches Verhalten ( Eigenfrequenzen, DÃ¤mpfung), das durch eine Simulation berechnet werden soll. 
+Die mechanische Auslegung von hydraulischen Anlagen ist wesentlich mitbeeinflusst durch ihr dynamisches Verhalten ( Eigenfrequenzen, Dämpfung), das durch eine Simulation berechnet werden soll. 

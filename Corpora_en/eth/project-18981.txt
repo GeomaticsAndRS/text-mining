@@ -1,1 +1,1 @@
-Multiphysics simulation projects A variety of complex fluids are currently under study within computational projects which require supercomputing resources (ETH Beowulf)
+Multiphysics simulation projects A variety of complex fluids are currently under study within computational projects which require supercomputing resources (ETH Beowulf) Full project description is available following the important links, in particular http://www.polyphys.mat.ethz.ch/people/senior_researchers/mkroeger/Beowulf

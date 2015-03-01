@@ -1,2 +1,3 @@
   Metamaterials for Magnetic Field Shielding 
 Development on metamaterials for shielding magnetic fields at very low frequencies. These metamaterials are based on arrays of LC circuits with optimized parameters.
+Development of metamaterials consisting of arrays of LC resonators with and without electronic circuits for loss compensation and tuning. Tha aim of these metamaterials is to shield undesired magnetic fields near power transformers.

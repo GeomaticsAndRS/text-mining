@@ -1,2 +1,3 @@
   stailaOS  
 Development of an application-aware lightweight kernel. 
+In the StailaOS project a domain-specific, lightweight operating system (called StailaOS) is designed and implemented for an optimized data handling by the Mercury application. The StailaOS system has a scalable multi-core facility, intelligent thread management, and a transactional runtime model. It is the first port of an Oberon-based operating system to a conventional programming language. The primary market is the financial sector, other areas of application are possible and being considered.

@@ -1,2 +1,3 @@
   LES for Circular Jet Noise Prediction 
 This project explores the use of Large-Eddy Simulation (LES) for noise prediction from circular jet flow.
+This project extends our recently started research in exploring the use of Large-Eddy Simulation (LES) for jet noise prediction. In contrast to the previously investigated rectangular jet we will focus on the noise prediction for circular jet flow. It is the long-term objective to simulate a coaxial jet flow and predict its far-field noise by means of compressible LES. Towards this end, a highfidelity numerical code for the simulation of compressible flows in cylindrical geometry has been developed. The Navier-Stokes solver is validated by comparing its results with predictions from linear stability theory.

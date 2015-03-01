@@ -1,0 +1,3 @@
+  CCI Soil Moisture  
+
+The Soil Moisture CCI project is part of the ESA Programme on Global Monitoring of Essential Climate Variables (ECV), better known as the Climate Change Initiative (CCI), initiated in 2010 for a period of 6 years. The CCI Programme wants to contribute to the data bases collecting ECVs required by GCOS (Global Climate Observing System) and other international parties. In particular, the Soil Moisture CCI will: - Analyse the needs of the climate research community in terms of soil moisture data. - Adapt soil moisture satellite measurements for their use by the climate research community. - Create a long-term consistent soil moisture time series, based on active and passive data, suitable for climate change studies.

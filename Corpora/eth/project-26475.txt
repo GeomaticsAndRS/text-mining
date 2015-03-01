@@ -1,2 +1,2 @@
   BaSynthec  
-BaSynthec will combine computational and experimental biology approaches with novel high-throughput methodologies to reduce and modify Ã  la carte the chromosome of Bacillus subtilis, a genetically tractable bacterium and one of the key microbes used as a Cell Factory in biotechnology. 
+BaSynthec will combine computational and experimental biology approaches with novel high-throughput methodologies to reduce and modify à la carte the chromosome of Bacillus subtilis, a genetically tractable bacterium and one of the key microbes used as a Cell Factory in biotechnology. 

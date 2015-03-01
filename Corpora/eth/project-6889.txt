@@ -1,1 +1,3 @@
   Molecular Kinetics and Spectroscopy.Infrared Laser Chemistry of Polyatomic Molecules  
+
+Polyatomic molecules are excited with intense infrared laser radiation (with power in the GW range, say, for a ns CO$_{2}$-laser, and can then absorb typically ten to fifty photons. This vibrational multiphoton absorption is sufficient to induce chemical reactions. Shaped laser pulses are developed. The photochemical and photophysical primary processes are investigated. Applications include photochemical $^{12}and $^{13}isotope separation, hydrogen isotope separation and related processes. Long term goals include mode- and site selective reactions in large polyatomic molecules. For a recent review see M. Quack, Infrared Phys. Technol. 36 (1995) 365.

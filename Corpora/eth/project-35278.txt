@@ -1,2 +1,2 @@
   Simulation des thermischen Verhaltens von Werkzeugmaschinen 
-Simulation des Thermischen Verhaltens von Werkzeugmaschinen mit geeigneten Programmen sowie messtechnische Erfassung der WÃ¤rmeverteilung und deren Auswirkungen auf die Maschine. 
+Simulation des Thermischen Verhaltens von Werkzeugmaschinen mit geeigneten Programmen sowie messtechnische Erfassung der Wärmeverteilung und deren Auswirkungen auf die Maschine. 

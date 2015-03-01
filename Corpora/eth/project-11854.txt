@@ -1,2 +1,2 @@
   Erprobung und Entwicklung des NOWA  
-Das Neue Orthogonale WÃ¤rmeÃ¼bergangs-Anemometer ist ein wartungsfreier Windmesser ohne bewegliche Teile. Software wir erweitert um auch Niederschlag, Vereisung und Temperatur zu messen bzw. abzuschÃ¤tzen. Unter realen Bedingungen wird untersucht wie Messwerte von dene anderer Beobachtungsystemen abwei
+Das Neue Orthogonale Wärmeübergangs-Anemometer ist ein wartungsfreier Windmesser ohne bewegliche Teile. Software wir erweitert um auch Niederschlag, Vereisung und Temperatur zu messen bzw. abzuschätzen. Unter realen Bedingungen wird untersucht wie Messwerte von dene anderer Beobachtungsystemen abwei

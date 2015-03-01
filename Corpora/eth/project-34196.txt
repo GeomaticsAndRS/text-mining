@@ -1,2 +1,2 @@
   Wissenschafts- und Hochschulforschung: Weiterentwicklung der methodisch-statistischen Verfahren  
-Weiterentwicklung des methodisch-statistischen Instrumentariums fÃ¼r die Analyse komplex strukturierter Daten und deren Anwendung im Bereich der Wissenschafts- und Hochschulforschung (z.B. Profilanalyse, Mehrebenenanalyse,latente Klassenanalyse, kausalen Regression). 
+Weiterentwicklung des methodisch-statistischen Instrumentariums für die Analyse komplex strukturierter Daten und deren Anwendung im Bereich der Wissenschafts- und Hochschulforschung (z.B. Profilanalyse, Mehrebenenanalyse,latente Klassenanalyse, kausalen Regression). 

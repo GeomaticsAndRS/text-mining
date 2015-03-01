@@ -1,1 +1,3 @@
   ARCOS-G: Automatic recognition of continuous speech for German  
+
+Continuous speech recognition has to consider the fact that in general  a speech signal cannot be transformed into the correct sequence of the words that have been uttered just by means of signal processing methods. It is widely accepted that knowledge of some sort about the language is crucial to complete the task. The ARCOS-G project aims at a speech recognition architecture that closely integrates the signal processing component with components that apply linguistic knowledge. The system that is currently being realized consists of two major parts: A speech element recognizer and a linguistic processing stage.

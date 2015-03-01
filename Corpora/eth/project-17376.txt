@@ -1,2 +1,2 @@
   An Effective Criterion and a New Example for Ballistic Diffusion in Random Environment (Part of Thesis of Laurent Goergen)  
-The article develops an equivalent condition to (T’) which can be checked by direct inspection of a finite portion of the environment. (T’) ensures that the diffusion has nonvanishing velocity when the dimension is two or more. The criterion is used to yield new examples of ballistic diffusions. 
+The article develops an equivalent condition to (T') which can be checked by direct inspection of a finite portion of the environment. (T') ensures that the diffusion has nonvanishing velocity when the dimension is two or more. The criterion is used to yield new examples of ballistic diffusions. 

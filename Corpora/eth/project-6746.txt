@@ -1,0 +1,3 @@
+  Partial Differential Equations  
+
+ This ongoing project is aimed at understanding qualitative properties of solutions to various nonlinear partial differential equations that arise in geometric analysis and mathematical physics. One current focus is the class of geometric flows, including mean curvature flow and heat flow of harmonic maps. Another current topic is nonlinear evolution problems derived from physics, including Yang-Mills flow and sigma-models. Finally, problems in continuum mechanics are investigated, including classical and quantum-mechanical descriptions of many-particle systems and phase transitions.

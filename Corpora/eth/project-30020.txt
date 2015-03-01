@@ -1,2 +1,3 @@
   MetRobot 
 Entwicklung einer hochgenauen 3D-Messmaschine, welche, dank Kombination von Leichtbau, schneller Regelung und optischen Messsystemen, Objekte wesentlich schneller vermessen kann.
+Es wird eine neuartige und hochgenaue 3D-Messmaschine entwickelt. Die 3D-Messmaschine zeichnet sich dadurch aus, dass durch die Kombination von Mechanik im Leichtbau, schnellem Reglersystem und optischen Messsystemen wesentlich schneller Objekte hoch präzise dreidimensional vermessen werden können, als mit dem heutigen Stand der Technik. Die optischen Messsysteme sind dabei so angeordnet, dass die Anforderungen an die Mechanik reduziert werden können und somit die Herstellkosten gegen-über dem Stand der Technik reduziert werden.

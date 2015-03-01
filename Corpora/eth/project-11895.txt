@@ -1,2 +1,2 @@
-  Large-scale computational applications in bioinformatics, ˝ The biosimulation, chemoinformatics and biomedical sciences U SwissBioGrid  
+  Large-scale computational applications in bioinformatics,  The biosimulation, chemoinformatics and biomedical sciences U SwissBioGrid  
 Collaboration with the Swiss Institute of Bioinformatics (SIB), Biozentrum, University Basel, Swiss Center for Scientific Computing (CSCS), Manno, and Novartis Pharma, Basel.

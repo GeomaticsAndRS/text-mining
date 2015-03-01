@@ -1,2 +1,2 @@
   Prozessmodell zur Steuerung der Wirtschaftlichkeit von Immobilieninvestitionen  
-Ziel ist die Entwicklung eines projektphasenorientierten Kosten- und Renditesteuerungsprozessmodells mit integriertem Anforderungs-Engineering, welches bereits in frÃ¼hen Planungsphasen eine Optimierung der Anforderungen und Lebenszykluskosten ermÃ¶glicht. 
+Ziel ist die Entwicklung eines projektphasenorientierten Kosten- und Renditesteuerungsprozessmodells mit integriertem Anforderungs-Engineering, welches bereits in frühen Planungsphasen eine Optimierung der Anforderungen und Lebenszykluskosten ermöglicht. 

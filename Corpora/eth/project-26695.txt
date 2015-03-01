@@ -1,2 +1,3 @@
-  Entwicklung eines neuartigen Messsystems zur pr√§zisen Strommessung sehr kurzzeitiger Hochstromimpulse 
+  Entwicklung eines neuartigen Messsystems zur pr‰zisen Strommessung sehr kurzzeitiger Hochstromimpulse 
 Optical current sensor based on the farraday effect with high bandwidth and high accuracy
+In modern solid state modulator applications like Free Electron lasers, highly accurate pulses are required (error <10^-5). Also, these pulses have very short rise times (<1us). In order to measure these pulses, a highly accurate current measurement is required. In this project, a highly accurate, high bandwidth current sensor based on the faraday effect is developed. Since the sensor itself is based on optical components, it also provides a galvanically isolated measurement. To achieve a measurment accuracy <10^-5 with a rise time <1us, new concepts concerning the optical components as well as the analog and digital signal analysis are investigated.

@@ -1,1 +1,3 @@
   Evaluation of mice expressing defined viral antigens  
+
+Evaluation of mice expressing defined viral antigens. Analyses of tolerance at the T and B  cell level and how to brake it. Viral glycoprotein expressing lymphocytes, in the liver, in the brain and the islet cells are being evaluated.

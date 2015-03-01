@@ -1,0 +1,3 @@
+  Traffic Flow on Freeways  
+
+Since 1972, with few exceptions, yearly enquiries have been made into freeway  speed and headway distributions. The data collection, in general, is undertaken by means of induction loop measurements, radar equipment being the exception. The aim of the study is to measure and judge the development of speed and headway distributions over a longer period of time, until 1983 with a general speed-limit of 130 km/h and from 1984 on with a speed-limit of 120 km/h. This study will provide a long time series of traffic flow data on freeways, e.g. spot speeds, volumes, lane occupancies, headway distributions.

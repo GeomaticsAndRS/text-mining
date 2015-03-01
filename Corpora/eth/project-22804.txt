@@ -1,2 +1,2 @@
   Controlled release of nanostructured nutrients in food fortification and supplementation 
-We produce nanoparticles in a top-down process (from 50Âµ m to 100nm) by micro media milling. Factors, as bead size, rational speed, residence time and effect of surfactants, influencing the grinding efficiency. The aim is to reach a high surface area and bioavailability. 
+We produce nanoparticles in a top-down process (from 50µ m to 100nm) by micro media milling. Factors, as bead size, rational speed, residence time and effect of surfactants, influencing the grinding efficiency. The aim is to reach a high surface area and bioavailability. 

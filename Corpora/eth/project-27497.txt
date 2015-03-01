@@ -1,1 +1,3 @@
   Advanced oxidation processes for wastewater treatment 
+
+ In collaboration with Degrémont-Ozonia we study the removal of trace contaminants like ibuprofen from water using a combination of ozone and H2O2. The influence of the H2O2 concentration is under investigation.

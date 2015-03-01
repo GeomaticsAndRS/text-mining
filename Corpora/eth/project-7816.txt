@@ -1,1 +1,3 @@
   Negative Muon Depolarization inC60 and K3 C60 and K6 C60  
+
+In this project we try to understand the unexpected complete  depolarization of negative muons implanted in C$_{60}$, while no such depolarization takes place in graphite, diamond and also in metallic K$_{3}$_{60}$and insulating K$_{6}$_{60}$.

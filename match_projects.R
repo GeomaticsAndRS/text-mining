@@ -1,6 +1,6 @@
 library("tm")
 
-target <- "zhaw"
+target <- "eth"
 
 files <- dir(paste0("Corpora_en/", target))
 
@@ -13,7 +13,7 @@ for(f in files) {
 	candidate <- paste(scan(paste(c("Corpora", target, f),collapse="/"), what = "character", fileEncoding = "iso-8859-1"), collapse = " ")
 	candidate <- Corpus(VectorSource(candidate), readerControl = list(reader=readPlain))
 	
-	cost <-Corpus(DirSource("Projects/COST"), readerControl = list(reader=readPlain, language="eng"))
+	cost <-Corpus(DirSource("Projects/COSTrecent"), readerControl = list(reader=readPlain, language="eng"))
 	
 	cost_cand <- c(cost, candidate)
 
@@ -54,18 +54,24 @@ for(f in files) {
 	norm_eucl <- function(m) m/apply(m, MARGIN=1, FUN=function(x) sum(x^2)^.5)
 	m_norm <- norm_eucl(m)
 
-	names <- list.files("Projects/COST")
+	names <- list.files("Projects/COSTrecent")
 
 	query <-  as.numeric(as.matrix(t(m_norm[nrow(m_norm),])))
 	M <- as.matrix(t(m_norm[1:nrow(m_norm)-1,]))
 	
 	prod <- query %*% M
 	
-	name <- c(name, gsub(".txt", "", f, perl = FALSE))
-	project <- c(project, gsub(".txt", "", names[which.max(prod)], perl = FALSE))
-	score <- c(score, max(prod))
 	
-	print(c(gsub(".txt", "", f, perl = FALSE), gsub(".txt", "", names[which.max(prod)], perl = FALSE), max(prod)))
+	new_name <- gsub(".txt", "", f, perl = FALSE)
+	new_project <- gsub(".txt", "", names[which.max(prod)], perl = FALSE)
+	new_score <- max(prod)
+	 
+	if (sum(is.na(c(new_name, new_project, new_score)))==0){
+		name <- c(name, new_name)
+		project <- c(project, new_project)
+		score <- c(score, new_score)
+		print(c(gsub(".txt", "", f, perl = FALSE), gsub(".txt", "", names[which.max(prod)], perl = FALSE), max(prod)))
+	}
 }
 
 ranking <- data.frame(Name = name, Project = project, Score = score)

@@ -1,2 +1,2 @@
   Load distribution during sports and during daily living 
-Sport increases fitness. In the modern workplace, regular sport has become an important factor that contributes to peopleŠs health. Based on kinetic and kinematic data the load distribution will be determined with whole body simulation.
+Sport increases fitness. In the modern workplace, regular sport has become an important factor that contributes to peopleSs health. Based on kinetic and kinematic data the load distribution will be determined with whole body simulation.

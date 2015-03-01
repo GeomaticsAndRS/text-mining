@@ -1,2 +1,3 @@
   Alkane oligomerization with combined catalytic systems  
 The usual way to produce oligomers is carried out in two steps. First olefins are produced at high temperature, then, the olefins are oligomerized to build more valuable products. We aim to combine the two steps in a one-pot synthesis by applying cascade catalytic reactions. 
+The usual way to produce oligomers is carried out in two steps. First olefins are produced at high temperature, then, the olefins are oligomerized to build more valuable products. We aim to combine the two steps in a one-pot synthesis by applying cascade catalytic reactions.

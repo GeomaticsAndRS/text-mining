@@ -1,2 +1,3 @@
-  Schneller Trennprozess fÃ¼r Siliziumwafer mittels DiamantdrahtsÃ¤gen  
-Entwicklung einer neuen SeilsÃ¤getechnologie mit gebundem Korn. 
+  Schneller Trennprozess für Siliziumwafer mittels Diamantdrahtsägen  
+Entwicklung einer neuen Seilsägetechnologie mit gebundem Korn. 
+Das Aufsägen von Si-Blöcken in die einzelnen Wafer mit Hilfe von Drahtsägen ist der erste wesentliche Prozess bei der Herstellung von Wafern für die Photovoltaik, dessen Spuren weit in nachfolgende Prozessschritte hineinreichen. Ziel des Projekts ist, dem Diamantdrahtsägen für MB Wafertec zum Durchbruch zu verhelfen und somit eine Schnellverschleissprüfvorrichtung, die das Drahtverhalten zuverlässig charakterisiert, ein Verschleissmodell, welches den Einfluss der Säge auf den Drahtverschleiss vorhersagen kann, die Erarbeitung eines wissenschaftlichen Verständnis des Drahtsägeprozesses, Ergründung der Ursachen für die Oberflächenschädigung und darauf aufbauend Identifikation des relevanten Prozessfensters und Ableitung von Hinweisen zur zukünftigen Maschinendimensionierung

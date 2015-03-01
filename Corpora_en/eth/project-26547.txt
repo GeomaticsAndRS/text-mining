@@ -1,1 +1,1 @@
-Diamond Detector Development Development of new radiation hard particle detector technology using artificial diamond for future particle physics accelerators.
+Diamond Detector Development Development of new radiation hard particle detector technology using artificial diamond for future particle physics accelerators. Development of radiation hard track detectors suitable for next generation high luminosity hadron colliders.

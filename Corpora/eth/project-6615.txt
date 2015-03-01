@@ -1,0 +1,3 @@
+  Safeguarding of Informations Bases  
+
+Modern information systems are often based on quite heterogeneous data  sets from quite different management areas, and they are used by quite different applications. Over the years the structures of such applications have changed, they became more flexible and versatile, especially with the use of Internet/Intranet/Extranet. This evolution toward more heterogeneous and flexible solutions quite often stays in contrast with operational needs like data quality (availability, also over decades, precision etc.). The project investigates technical and organizational aspects to safeguard databases, including their economical and legal consequences.

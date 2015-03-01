@@ -1,2 +1,2 @@
   Full waveform ambient seismic noise inversion  
-We develop and apply a full seismic waveform inversion of microseismic ´ and long-period (ShumŠ) noise correlations for both 3D Earth structure and the geographic powerspectral distribution of ambient noise sources. This is intended to (i) constrain the details of Earth structure in region 
+We develop and apply a full seismic waveform inversion of microseismic � and long-period (ShumS) noise correlations for both 3D Earth structure and the geographic powerspectral distribution of ambient noise sources. This is intended to (i) constrain the details of Earth structure in region 

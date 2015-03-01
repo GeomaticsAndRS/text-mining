@@ -1,2 +1,2 @@
   Bosch Internet of Things Services Lab  
-The labŠs mission is to find and test out business models for the internet of things & services (IoTS). In addition, the lab will be working to develop innovative and breakthrough internet-based products and services. The first major areas of research include networked mobility and smart home.
+The labSs mission is to find and test out business models for the internet of things & services (IoTS). In addition, the lab will be working to develop innovative and breakthrough internet-based products and services. The first major areas of research include networked mobility and smart home.

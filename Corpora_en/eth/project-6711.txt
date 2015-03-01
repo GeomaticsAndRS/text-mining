@@ -1,0 +1,1 @@
+Elliptic hypergeometric integrals Generalizations of hypergeometric integrals involving elliptic functions are studied. Identities of Selberg type were derived. Modular properties are expressed in terms of Macdonald polynomials. These integrals arise in conformal field theory on tori.

@@ -1,1 +1,3 @@
   Stress Corrosion Cracking of Structural Materials in the Nuclear PowerIndustry  
+
+ Since more than ten years a large data base of stress corrosion crack growth rate data of alloys used in the nuclear power industry has been produced and collected at the Institute of Metallurgy. Our laboratory is one of very few laboratories in the world where actual crack growth rates in low alloy reactor pressure vessel and piping steel as well as austenitic stainless steels, nickel base alloys, and zirconium alloy are measured under service relevant conditions. The data are essential for the assessment of the environmental degradation of components and for the prediction of their residual lifetime.

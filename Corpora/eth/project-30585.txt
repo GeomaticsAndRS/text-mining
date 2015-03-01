@@ -1,1 +1,2 @@
-  GEOSIM - Entwicklung einer Software fÃ¼r die Prognose des seismischen Risikos bei Geothermieprojekten  
+  GEOSIM - Entwicklung einer Software für die Prognose des seismischen Risikos bei Geothermieprojekten  
+

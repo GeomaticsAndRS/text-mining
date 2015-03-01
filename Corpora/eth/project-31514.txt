@@ -1,2 +1,2 @@
   Empfehlung zur Verwendung der Normen EN-15804 und EN-15978  
-Das Ã¼bergeordnete Ziel dieses Projektes ist es, eine Empfehlung zur Verwendung der Normen EN-15804 und EN-15978 zu erstellen. Hierzu werden vier MehrfamilienhÃ¤user in einer Ã–kobilanz mit verschiedenen Sachbilanzgrundlagen (EPDs vs. generische Daten) analysiert und die Ergebnisse verglichen. 
+Das übergeordnete Ziel dieses Projektes ist es, eine Empfehlung zur Verwendung der Normen EN-15804 und EN-15978 zu erstellen. Hierzu werden vier Mehrfamilienhäuser in einer Ökobilanz mit verschiedenen Sachbilanzgrundlagen (EPDs vs. generische Daten) analysiert und die Ergebnisse verglichen. 

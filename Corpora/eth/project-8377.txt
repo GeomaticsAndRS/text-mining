@@ -1,2 +1,2 @@
-  SCell ¸ free biocatalysis using cofactor dependent oxygenases in aqueous / organic reaction mediaTˇ  
+  SCell � free biocatalysis using cofactor dependent oxygenases in  aqueous / organic reaction mediaT  
 Biocatalysts are designed based on an isolated oxygenase. This includes understanding of enzyme stability under process conditions (in organic solvents), simple protein preparation for styrene monooxygenase and a stable biotransformation process integrating down stream processing on pilot scale. 

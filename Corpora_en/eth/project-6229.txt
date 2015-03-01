@@ -1,1 +1,1 @@
-Monitoring Longterm Performance of Selected Road Sections
+Monitoring Longterm Performance of Selected Road Sections Through continuous longterm monitoring and collecting of technical data on the surface conditions of various test sections of public roads, it should be possible to find a correlation between the lifetime of a particular road superstructure and the traffic load using it. The results will be applied to the verification and further development of the pavement design methods. They will also form a small data bank, monitoring the evolution of road (surface) damage.

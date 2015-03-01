@@ -1,2 +1,2 @@
-  Praxis-Kalibrierung der neuen mobilen Grossversuchsanlage MLS10 fÃ¼r beschleunigte Verkehrssimulation auf StrassenbelÃ¤gen in der Schweiz  
-Evaluieren der EinsatzmÃ¶glichkeiteu und Kalibrieren der neuen mobilen Grossversuchsanlage MLS10 auf Oberbaustrukturen im Schweizeriscdhen Strassennetz 
+  Praxis-Kalibrierung der neuen mobilen Grossversuchsanlage MLS10 für beschleunigte Verkehrssimulation auf Strassenbelägen in der Schweiz  
+Evaluieren der Einsatzmöglichkeiteu und Kalibrieren der neuen mobilen Grossversuchsanlage MLS10 auf Oberbaustrukturen im Schweizeriscdhen Strassennetz 

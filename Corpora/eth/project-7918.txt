@@ -1,1 +1,3 @@
   Local spectroscopy of semiconductor nanostructures  
+
+ The electronic properties of semiconductor nanostructures are usually investigated by current and voltage signals applied to macroscopic contacts, which are directly connected to the mesoscopic samples. An alternative approach is to measure signals of low-dimensional electron gases with a local sensor. In this project we have developed a low temperature scanning force microscope which operates down to temperatures of 300 mK and magnetic fields up to 10 T. In this way we investigate the local potential of quantum wires, the coupling between edge states in the quantum Hall regime and the local density modulation of an electron gas

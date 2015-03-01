@@ -1,1 +1,3 @@
   Oxidative upgrading of renewable terpenes 
+
+ The oxidation of the renewable olefin beta-pinene was mechanistically investigated. A novel reaction mechanism was elucidated and used for a detailed micro-kinetic modeling. (ChemSusChem 2011, 4, 1613)

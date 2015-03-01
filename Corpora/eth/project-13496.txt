@@ -1,1 +1,3 @@
   Novel technologies for highly parallelized functional genomics screening 
+
+We are developing a novel ultra-high throughput suspension array technology which allows investigation of large numbers of clones (1e5 to 1e6/day) at single cell and colony level by fluorescence for properties such as colony growth, enzyme activity, DNA sequence, or species/species interactions. The proprietary technology permits sample preparations at the nano-liter scale and with a 100 to 1000-fold increased sample throughput if compared to currently used microtiter plate-based technologies.

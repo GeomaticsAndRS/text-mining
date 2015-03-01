@@ -1,2 +1,2 @@
-  Micro RNAŠs as Therapeutic Targets  
+  Micro RNASs as Therapeutic Targets  
 The goal of the project is to define all miRNAs associated with heart failure and to elucidate their functions in the control of cardiac contractility, stress responsiveness and pathological remodeling. 

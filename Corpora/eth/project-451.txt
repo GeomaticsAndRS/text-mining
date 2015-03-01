@@ -1,0 +1,3 @@
+  Joint space-time WCDMA demodulator  
+
+Dirk Dahlhaus 

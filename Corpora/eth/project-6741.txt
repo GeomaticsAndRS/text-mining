@@ -1,1 +1,3 @@
   Central extensions and generalized plus-constructions  
+
+The higher homotopy groups of homological plus constructions of Eilenberg-Mac Lane spaces  are investigated. As in the classical case, there is a close relationship between certain central extensions and homotopy groups. The homotopy theoretic framework for the plus-constructions has been provided by the works of Bousfield and Dror Farjoun. It is described in terms of a localizations and associated acyclic functors in the homotopy setting.

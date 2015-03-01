@@ -1,2 +1,3 @@
   Applied pharmacokinetics  
 Support for study design and pharmacokinetic data treatment is provided for various clinical studies in human and veterinary medicine.
+Support for study design and pharmacokinetic data treatment is provided for various clinical studies in human and veterinary medicine.

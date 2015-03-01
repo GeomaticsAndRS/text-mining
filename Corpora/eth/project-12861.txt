@@ -1,0 +1,3 @@
+  Software for spectrometers 
+
+A modern spectrometer controlling program (SpecMan) is under development. The program supports widely used instrumental interfaces like VISA, NIDAQ and ACQIRIS. About 20 specific devices are supported at the moment. The implemented drivers provide the full control over the device functions. SpecMan has an intuitive, compact and highly functional graphical interface. The program core makes use of a high-level language for pulse sequence programming, multithreading and general solutions for the related tasks. The program is written in C++ in Borland C Builder. At the moment we work on the further expansion of the SpecMan on Linux platform. (in collaboration with the Max-Planck Institute of Bioinorganic Chemistry, Muehlheim)

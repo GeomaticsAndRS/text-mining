@@ -1,2 +1,2 @@
-  Ë Optimale Kraftverteilung fÃ¼r Vom Schreitbagger zum Laufroboter U Navigation in unwegsamem GelÃ¤nde  
-Ziel dieses Projektes ist der Transfer von Optimierungs- und Regelstrategien aus der Laufrobotik auf Schreitbagger. Dies erhÃ¶ht die ManÃ¶vrierfÃ¤higkeit solcher Maschinen  im GelÃ¤nde, vereinfacht die Steuerung fÃ¼r den Maschinisten und trÃ¤gt gleichzeitig zu einer verbesserten Sicherheit bei.
+   Optimale Kraftverteilung für Vom Schreitbagger zum Laufroboter U Navigation in unwegsamem Gelände  
+Ziel dieses Projektes ist der Transfer von Optimierungs- und Regelstrategien aus der Laufrobotik auf Schreitbagger. Dies erhöht die Manövrierfähigkeit solcher Maschinen  im Gelände, vereinfacht die Steuerung für den Maschinisten und trägt gleichzeitig zu einer verbesserten Sicherheit bei.

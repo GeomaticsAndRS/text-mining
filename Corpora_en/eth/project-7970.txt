@@ -1,1 +1,1 @@
-Thermal structure and dynamics of continental lithosphere
+Thermal structure and dynamics of continental lithosphere Project to look at thermal structure and dynamics of the continental lithosphere, in collaboration with: Mark Sargent Chris Hieronymus Gabriele Morra Paul Flück contains projects on: - dynamic modelling of Eurasian lithosphere - thermal structure of Australian lithosphere - thermal and compositional structure of North American lithosphere

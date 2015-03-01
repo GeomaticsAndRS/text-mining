@@ -1,1 +1,1 @@
-Formation of N2O in HNO3-based oxidations
+Formation of N2O in HNO3-based oxidations During this project we identified HNO as the precursor of N2O during HNO3-based oxidations. HNO is formed in the acid-catalyzed decomposition of nitrite intermediate. Kinetic Isotope Effect measurements showed that the cleavage of the alphaH-atom of the nitrite is involved in the rate-determining step of the reaction. A linear Evans-Polanyi correlation between the measured Arrhenius activation energies and the computed reaction energies was established (ChemCatChem DOI:10.1002/cctc.201100439)

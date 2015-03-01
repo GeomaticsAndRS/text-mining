@@ -1,2 +1,2 @@
   Virtual Trainer  
-In this project we intend to develop a virtual trainer for the study of human motor learning. Such a virtual trainer shall interact with the human through a multimodal interface with haptic, auditory, and visual feedback. As a first step, a virtual rowing trainer will be developed in our MÂ¸s Lab 
+In this project we intend to develop a virtual trainer for the study of human motor learning. Such a virtual trainer shall interact with the human through a multimodal interface with haptic, auditory, and visual feedback. As a first step, a virtual rowing trainer will be developed in our M¸ s Lab 

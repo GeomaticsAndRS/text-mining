@@ -1,1 +1,3 @@
   The role of p135 in the function of the p97-p47 chaperone  
+
+ The p97-p47 chaperone is an important modulator of the ubiquitin system. The deubiquitinating enzyme p135 cooperates with p97-p47 in the regulation of mitotic membrane dynamics. We want to understand the biochemical and cell biological mechanisms of this regulation and hope to reveal general aspects of ubiquitin-dependent pathways.

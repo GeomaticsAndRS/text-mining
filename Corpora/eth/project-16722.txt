@@ -1,2 +1,2 @@
-  Lie’s II theorem of Stacky groupoids  
-As we know Lie’III theorem of Lie algebroids shows that it has 1-1 correspondence to stacky groupoids. We prove Lie’s II theorem, namely the 1-1 correspondence between morphisms of the infinitesimal object $–the Lie algebroid and that of the global object $\cG$–the source 2-connected groupoids. 
+  Lie's II theorem of Stacky groupoids  
+As we know Lie'III theorem of Lie algebroids shows that it has 1-1 correspondence to stacky groupoids. We prove Lie's II theorem, namely the 1-1 correspondence between morphisms of the infinitesimal object $�the Lie algebroid and that of the global object $\cG$�the source 2-connected groupoids. 

@@ -1,0 +1,3 @@
+  Nanocomposites  
+
+This subject refers to nanomaterials and is based on our organogel  project. Gelatin could be solubilized in w/o microemulsions at higher temperatures. During quenching the whole sample becomes a stiff gel where different kinds of inorganic materials can be incorporated. It is now possible to initiate an in-situ polymerization of metal-alkoxides. The polymerization is oriented along the gelatin network and results in a transparent organic-inorganic composite, in which the inorganic particles are in the range of nanometers. In this organic-inorganic matrix guest molecules like dyes or enzymes, which are still biologically active, can be incorporated. This project was initiated by Dr. H. Watzke, and is now the subject of a dissertation.

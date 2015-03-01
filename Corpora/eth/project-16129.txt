@@ -1,2 +1,3 @@
   Feature selection 
-Our aim is to extend the feature selection of the LASSO to the nonGaussian case.  We formulate a notion of ”irrelevance” of variables, and show that the LASSO will not select these variables with large probability.
+Our aim is to extend the feature selection of the LASSO to the nonGaussian case.  We formulate a notion of "irrelevance" of variables, and show that the LASSO will not select these variables with large probability.
+Recent work has shown that in the Gaussian linear model, the LASSO can find the relevant features for prediction, provided the smoothing parameter is chosen carefully (i.e., not following a standard cross-validation procedure). Our aim is to extend this to the non-Gaussian case. We have formulated a notion of "irrelevance" of variables, and shown that also in other models, the LASSO will not select these variables with large probability.

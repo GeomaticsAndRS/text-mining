@@ -1,0 +1,3 @@
+  High Power DC-DC Converter  
+
+The goal of the project is to replace current "hybrid" locomotives (that are supplied from on- board diesel generators in sections without overhead line supply) with environmentally friendlier solutions, i.e. using batteries instead of diesel generators. The main focus is on investigating converter topologies required for bidirectional energy flow, from the battery to the load, and from the network to the battery.

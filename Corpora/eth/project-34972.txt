@@ -1,1 +1,2 @@
-  Ermittlung temperaturabhÃ¤ngiger Fliesskurven von Titan und Stahlwerkstoffen  
+  Ermittlung temperaturabhängiger Fliesskurven von Titan und Stahlwerkstoffen  
+

@@ -1,0 +1,1 @@
+Homological Algebra During the last years various relations between the cohomology of groups and modular representation theory have been discovered. The interaction between these two fields promises to yield further interesting results.

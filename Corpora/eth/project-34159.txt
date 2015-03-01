@@ -1,2 +1,2 @@
   Biodegradable MgZnCa alloys with optimized properties via microstructural design  
-This project aims to gain a detailed understanding of the microstructure of biodegradable MgZnCa alloys, with emphasis on the precipitation and transformation kinetics of the intermetallic particles that form during processing. It also aims to optimize the alloysŠ degradation characteristics.
+This project aims to gain a detailed understanding of the microstructure of biodegradable MgZnCa alloys, with emphasis on the precipitation and transformation kinetics of the intermetallic particles that form during processing. It also aims to optimize the alloysS degradation characteristics.

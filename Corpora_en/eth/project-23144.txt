@@ -1,1 +1,1 @@
-Discrete Element Modeling Of Complex Block Assemblies
+Discrete Element Modeling Of Complex Block Assemblies This research is developing a smooth digital (design) process for modeling complex assemblies of discrete elements and analyzing their stability. Rhinoceros, a CAD software, and 3DEC, a discrete element modeling (DEM) code, are combined and linked to create a powerful design and analysis tool. This research is relevant both for the analysis of complex structures in unreinforced masonry as well as the design of novel masonry structures.

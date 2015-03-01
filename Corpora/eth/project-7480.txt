@@ -1,1 +1,3 @@
   Metal Scavenging by Mineral Sulphide Surfaces  
+
+The aim of this project is to study transition metal adsorption onto sulphide mineral and  colloid surfaces in order to understand mechanisms of heavy metal deposition in sea floor hydrothermal systems. Iron sulphides such as pyrite, pyrrhotite and mackinawite are being synthesized over a range of temperatures up to $200\dgand their points of zero charge determined potentiometrically from $25\dgto $90\dg. Metal complexes are then adsorbed onto the sulphide mineral surface as a function of pH at temperatures up to $90\dg. At present, aqueous gold complexes are being adsorbed and the nature of the surface complexes will be studied by $^{197}Mössbauer and EXAFS spectroscopy.

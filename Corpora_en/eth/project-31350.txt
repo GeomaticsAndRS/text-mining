@@ -1,1 +1,1 @@
-A microfluidic, small molecule approach to perturbation of the pluripotency transcription network (HFSP) HFSP
+A microfluidic, small molecule approach to perturbation of the pluripotency transcription network (HFSP) HFSP Genetic manipulation of mouse embryonic stem cells to generate lines with inducible and titratable expression of pluripotency transcription factors. Long-term single cell bioimaging and quantification to analyze effects of transcription factor activation on pluripotency network.

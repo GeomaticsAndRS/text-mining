@@ -1,2 +1,2 @@
   Fundamentals of Multi-Core Computing  
-In the next years, computer science is going to change! While MooreŠs law is likely continuing to be true, processor clock speeds can no longer be effectively increased. Instead, hardware designers have turned to multi-core architectures. In this project we  study the theoretical foundations.
+In the next years, computer science is going to change! While MooreSs law is likely continuing to be true, processor clock speeds can no longer be effectively increased. Instead, hardware designers have turned to multi-core architectures. In this project we  study the theoretical foundations.

@@ -1,1 +1,1 @@
-Cohomological properties of punctured mapping class groups
+Cohomological properties of punctured mapping class groups The punctured mapping class group of a closed surface has always periodic Farrell cohomology. By analyzing the structure of normalizers of subgroups of prime order, the computation of the cohomology becomes accessible in many cases. Using the natural surjection onto the unpunctured mapping class group, one obtains cohomological information on the latter via the Serre spectral sequence.

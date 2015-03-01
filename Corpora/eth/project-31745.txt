@@ -1,2 +1,3 @@
   HiperFormTool 
 Added value for high performance sheet metal forming tooling by applying additive manufacturing (SLM)
+Metal forming represent an important production technology in Europe. Virtually any product U from aerospace to automotive and household sector - contains formed metal components. The forming tool itself is critical for performance improvement in the metal forming process. We aim at developing tools for 3 demonstrator applications to significantly reduce lubrication use, scrap rate and cycle time and by improving the part quality. This will be achieved by 3 novel tooling components: i) thermal management for heating and cooling, ii) in-process lubrication system, and iii) multi-sensor tool for process monitoring.

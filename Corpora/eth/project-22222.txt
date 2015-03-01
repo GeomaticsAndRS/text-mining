@@ -1,2 +1,3 @@
   Laser and x-ray induced ultrafast demagnetization probed by spinpolarized photoemission  
 Title: Laser and x-ray induced ultrafast demagnetization probed by spinpolarized photoemission. Dr. U. Ramsperger 
+Title: Laser and x-ray induced ultrafast demagnetization probed by spinpolarized photoemission Coll: Y. Acremann, T. Michlmayr, U. Ramsperger, A. Vaterlaus, D. Pescia (ETH Zurich) A. Foehlisch, A. Eschenlohr, H.A. Dürr, M. Gensch, (Helmholtz Center Berlin) W. Wurth, M. Beye, F. Sorgenfrei (University of Hamburg) N. Stojanovic (DESY) A. Scherz, J. Stöhr (SLAC)

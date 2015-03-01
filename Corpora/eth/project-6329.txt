@@ -1,1 +1,3 @@
   Applied Vision Research - Modelling Vision  
+
+Some processes in vision can be compared to a simple reflex arc. As it has previously been  shown at our Institute other processes in vision are more complex. Visual ability resulting from such processes may possibly be acquired by training or depend on other visual processes and may therefore be subject to change. The proper estimation of ergonomic - optical properties of work places requires knowledge about whether a specific visual function belongs to one or to the other process. For this purpose a model will be developed which mainly considers accommodation, vergence, pupil size and the "visual experience".

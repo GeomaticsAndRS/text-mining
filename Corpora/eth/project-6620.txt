@@ -1,0 +1,3 @@
+  Electro-magnetic waves in cavities  
+
+ Standing electro-magnetic waves in cavities are used in most particle accelerators for the production of the accelerating electric fields. In most of the cavities the inside volume is in vacuum, sometimes ceramic structures are used for mechanical stability. For these cavities the high frequency engineer needs to know the frequency and the field shapes of a few of the lowest eigenmodes. We investigate ways to formulate the problem with finite elements and solve the very large eigenvalue problems on high performance computers such that the often observed ghost modes are avoided

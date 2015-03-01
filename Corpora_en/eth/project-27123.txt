@@ -1,1 +1,1 @@
-Inductive Power Transfer for Electric Vehicles
+Inductive Power Transfer for Electric Vehicles For details of this project, see http://www.pes.ee.ethz.ch/en/no_cache/our-range/research/projects/

@@ -1,1 +1,1 @@
-The historical development of representation theory
+The historical development of representation theory Quite a number of mathematicians who have been involved in the early history of the representation theory of groups have been at ETH Zurich; examples are: Dedekind, Frobenius, Hurwitz, Weyl. It is intended to follow up the connections of these developments with the mathematics at ETH in greater detail. The many personal documents kept in the ETH library will be the starting point.

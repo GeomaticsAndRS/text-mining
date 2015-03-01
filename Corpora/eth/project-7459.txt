@@ -1,1 +1,3 @@
   Terrestrial fractionation of thallium isotopes  
+
+Thallium possesses two stable nuclides with the masses 203 and 205. Using multiple-collector  ICP-MS, Tl isotope compositions can be measured to a precision of better than 0.005%. Such measurements have revealed significant natural variations in the stable isotope composition of Tl. Thallium is the heaviest element for which such natural fractionations have been verified. The largest Tl isotope variations are found in various marine sediments, such as ferromanganese crusts. Further investigations are being conducted to identify what processes are responsible for the fractionation of Tl isotopes.

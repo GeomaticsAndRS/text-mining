@@ -1,2 +1,2 @@
   Prohl, A.: Numerical Analysis of Stochastic Differential Equations for rough data  
-Stochastic Differential Equations (SDE’s) driven by continuous (e.g., Wiener) or discontinuous (e.g., Levy) processes have many applications in physics or finance.
+Stochastic Differential Equations (SDE's) driven by continuous (e.g., Wiener) or discontinuous (e.g., Levy) processes have many applications in physics or finance.

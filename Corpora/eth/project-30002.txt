@@ -1,2 +1,3 @@
   AMC Advanced Manufacturing Concept  
 Advanced Manufacturing Concept
+Entwicklung eines Anlagenkonzeptes für das Selective Laser Melting (SLM) Verfahren, welches branchenspezifische Bedürfnisse hinsichtlich Anlagengrösse, Anlagenpreis, Betriebskosten wie auch Bedienkomfort und Sicherheit optimal erfüllt.

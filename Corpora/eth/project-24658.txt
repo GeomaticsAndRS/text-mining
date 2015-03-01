@@ -1,2 +1,3 @@
   Understanding the support effect on methane steam reforming over Rh/Al2O3 catalysts promoted with CeO2 and Sm2O3  
 The aim of this project is to elucidate the influence of CeO2 and Sm2O3 on the stability and activity of Rh supported catalysts. Additionally, it is of great importance to determine the structure of the catalytically active phase to establish an active and selective catalyst  that shows stable ...
+The aim of this project is to elucidate the influence of CeO2 and Sm2O3 on the stability and activity of Rh supported catalysts. Additionally, it is of great importance to determine the structure of the catalytically active phase to establish an active and selective catalyst that shows stable conversion in methane steam reforming.

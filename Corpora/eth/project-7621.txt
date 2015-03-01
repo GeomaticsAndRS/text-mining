@@ -1,0 +1,3 @@
+  Robust Control  
+
+ Theoretical research is done in the following areas of linear control: LQG/LTR, H-two, H-infinity, and parameter optimization. Theoretical results are exploited in order to develop computer-aided controller design methodologies. These include both one and two degrees of freedom approaches. In the latter case, both a feedback and a feedforward controller are designed in one step. Testbenches for our control design methodologies include automotive engines, automatic gearboxes (including CVTs), helicopters, and time-delay systems.

@@ -1,1 +1,3 @@
   Biochemistry of bacterial oxygenases.  
+
+ In this project we are aiming at getting a deeper knowledge about basic biochemical features of bacterial oxygenases with respect to enzyme kinetics, oxygen activation by flavin coenzymes or iron cofactors, stability and structure. Studies include purification and work on 2-hydroxybiphenyl 3-monooxygenase (from Pseudomonas azelaica HBP1), styrene monooxygenase (from Pseudomonas sp. VLB120), alkane monooxygenases (from bacterial strains like, Pseudomonas putida oleovorans GPO1 or Thermus sp.) and xylene monooxygenase (from Pseudomonas putida mt-2).

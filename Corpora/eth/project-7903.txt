@@ -1,1 +1,3 @@
   Quantum Theory of Measurement and the Brain  
+
+In has become fashionable to solve the open problems in the quantum theory of  measurement by invoking a conscious observer. There are even models in prestigious journals, where the "mind" acts on the brain by reducing quantum probability amplitudes to classical probabilities. We try to show the absurdity of this approach by studying more quantitatively the dynamics of cortical networks leading to perception and volontary movement.

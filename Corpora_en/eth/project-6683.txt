@@ -1,0 +1,1 @@
+Topics in Mathematical Statistics The application of basic principles and tools of small sample  asymptotics may well lead to new results in the realm of the information inequality (Cramér-Rao inequality), Pitman estimators, and the asymptotic behavior of sequences of estimators for finite n, which could also be of some practical value.

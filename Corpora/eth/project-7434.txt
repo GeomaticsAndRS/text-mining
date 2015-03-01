@@ -1,1 +1,3 @@
   Magnetic Properties of Type Soil Profiles in Switzerland  
+
+This is a pilot project to examine the variation of magnetic properties  with depth from type soil profiles in Switzerland. Three type soils have been sampled: a Gleysol (Canton Zug), a brown earth (Canton Aargau) and a Podsol (Canton Ticino). Rock magnetic experiments are being used to define the magnetic mineralogy and the grain size of soils containing magnetite. The magnetic data are being correlated with other chemical information in order to deduce the conditions responsible for the magnetic minerals found.

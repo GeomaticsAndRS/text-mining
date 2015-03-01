@@ -1,2 +1,2 @@
   Modellierung und Analyse des Verkehrsablaufes, Informatikwerkzeuge 
-Das Ziel des Forschungsprojektes ist die Entwicklung von Informatikwerkzeugen (Tools) zur Analyse des Verkehrsablaufes auf der freien Strecke, in Knoten und auf StreckenzÃ¼gen auf der Basis mikroskopischer und makroskopischer Modelle.
+Das Ziel des Forschungsprojektes ist die Entwicklung von Informatikwerkzeugen (Tools) zur Analyse des Verkehrsablaufes auf der freien Strecke, in Knoten und auf Streckenzügen auf der Basis mikroskopischer und makroskopischer Modelle.

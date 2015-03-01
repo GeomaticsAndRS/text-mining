@@ -1,2 +1,2 @@
   EVA - Early Virtual mAchine  
-Ziel des Projektes EVA ist es, das interdisziplin√§re parallele Arbeiten bei der Entwicklung mechatronischer Systeme zu verbessern.
+Ziel des Projektes EVA ist es, das interdisziplin‰re parallele Arbeiten bei der Entwicklung mechatronischer Systeme zu verbessern.

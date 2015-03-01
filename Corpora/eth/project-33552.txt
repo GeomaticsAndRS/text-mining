@@ -1,1 +1,2 @@
-  Ermittlung von BewertungsansÃ¤tzen fÃ¼r Reisezeiten und ZuverlÃ¤ssigkeit auf der Basis eines Modells fÃ¼r modale Verlagerungen im nichtgewerblichen und gewerblichen Personenverkehr fÃ¼r die Bundes verkehrs wege planung 
+  Ermittlung von Bewertungsansätzen für Reisezeiten und Zuverlässigkeit auf der Basis eines Modells für modale Verlagerungen im nichtgewerblichen und gewerblichen Personenverkehr für die Bundes verkehrs wege planung 
+

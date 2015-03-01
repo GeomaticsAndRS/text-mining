@@ -1,2 +1,3 @@
   Barrelfish  
 The Barrelfish OS is a new open-source operating system for heterogeneous multicore systems being developed at ETH Zurich, in  conjunction with Microsoft Research in Cambridge.
+The Barrelfish OS is a new open-source operating system for heterogeneous multicore systems being developed at ETH Zurich, in conjunction with Microsoft Research in Cambridge. Barrelfish addreses on the one hand the current trends towards increasing hardware parallelism and increasing hardware diversity, even within a single machine, and on the other, the emergence of language and runtime features whose I/O and scheduling requirements may not be well served by existing OS structure.

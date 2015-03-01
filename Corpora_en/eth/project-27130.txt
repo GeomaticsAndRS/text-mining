@@ -1,1 +1,1 @@
-Development and Analysis of a General Purpose Bidirectional High-Bandwidth Three-Phase AC Source
+Development and Analysis of a General Purpose Bidirectional High-Bandwidth Three-Phase AC Source For details of this project, see http://www.pes.ee.ethz.ch/en/no_cache/our-range/research/projects/

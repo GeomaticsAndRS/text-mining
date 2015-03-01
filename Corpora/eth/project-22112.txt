@@ -1,2 +1,2 @@
-  Optimierung von MischvorgÃ¤ngen von Pulvern in viskoelastischen FlÃ¼ssigkeiten mittels dynamischer Mischer 
-Auslegungs- und Optimierungsverfahren, welche die rheologischen und strukturellen Eigenschaften von Pulver gefÃ¼llten viskoelastischen Fluidsystemen in komplexen Scher-/Dehn-StrÃ¶mungsfeldern von Mischprozessen berÃ¼cksichtigen, stehen bislang nicht zur VerfÃ¼gung. Ebenso liegen keine quantitativen Info 
+  Optimierung von Mischvorgängen von Pulvern in viskoelastischen Flüssigkeiten mittels dynamischer Mischer 
+Auslegungs- und Optimierungsverfahren, welche die rheologischen und strukturellen Eigenschaften von Pulver gefüllten viskoelastischen Fluidsystemen in komplexen Scher-/Dehn-Strömungsfeldern von Mischprozessen berücksichtigen, stehen bislang nicht zur Verfügung. Ebenso liegen keine quantitativen Info 

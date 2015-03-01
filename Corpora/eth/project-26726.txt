@@ -1,1 +1,2 @@
-  TemperaturabhÃ¤ngige KapazitÃ¤tsausnutzung fÃ¼r Freileitungsnetze (TeKaF)  
+  Temperaturabhängige Kapazitätsausnutzung für Freileitungsnetze (TeKaF)  
+

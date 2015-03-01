@@ -1,0 +1,3 @@
+  EvolvNet - Evolving the Internet  
+
+The ultimate goal of this project is to help the Internet  make smoother transitions, i.e., progressively evolve into the future. Within the duration of the project, the EvolvNet project will aim at developing a simulation framework, by which researchers can reasonably replicate the operation of the Internet in a laboratory environment and perform large-scale studies. Our plan is to gradually build upon existing work in three stages: - incorporate various aspects of Internet characteristics - enhance the scalability of network simulators - demonstrate through case studies that large-scale network performance evaluation can be done efficiently while preserving critical details and keeping the level of distortion to a minimum.

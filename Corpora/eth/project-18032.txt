@@ -1,1 +1,2 @@
-  Zellpolarit√§t in C. elegans: Identifikation von neuen Genen und Regulation der Lokalisierung und Aktivit√§t 
+  Zellpolarit‰t in C. elegans: Identifikation von neuen Genen und Regulation der Lokalisierung und Aktivit‰t 
+

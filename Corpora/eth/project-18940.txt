@@ -1,2 +1,3 @@
   Foundations of Political Economy 
 In this project, we examine the foundations of political competition and social choice.
+In this project, we examine the foundations of political competition and social choice. In particular, we are concerned with the following issues: Is public information desirable in social choices? How is political competition affected by two-dimensional informational asymmetries regarding the preferences and competence of candidates? How does non-informative advertising (money burning) impact on political signalling games? How should political campaigns be regulated?

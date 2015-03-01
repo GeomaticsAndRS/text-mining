@@ -1,2 +1,2 @@
-  Systems Biology of Biomembranes SLipidX Â¸  
+  Systems Biology of Biomembranes SLipidX ¸  
 The project aims to answer several fundamental questions surrounding lipids in living systems in order to begin building up a comprehensive understanding of these molecules as a whole.

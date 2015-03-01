@@ -1,2 +1,2 @@
-  Quantitative holistic risk allocation model for PPP building projects / Quantitatives holistisches Risikoallokationsmodell für PPP-Projekte im Hochbau  
-The project’s aim is the development of a risk allocation model for PPP building projects. In particular the project will consider the risk taking ability of the private partner to avoid default during the long-term project period which is in neither interest of the participating players.
+  Quantitative holistic risk allocation model for PPP building projects / Quantitatives holistisches Risikoallokationsmodell f�r PPP-Projekte im Hochbau  
+The project's aim is the development of a risk allocation model for PPP building projects. In particular the project will consider the risk taking ability of the private partner to avoid default during the long-term project period which is in neither interest of the participating players.

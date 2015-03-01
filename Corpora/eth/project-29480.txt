@@ -1,2 +1,3 @@
   Detection of magnetically induced ferroelectricity in multiferroic TbMnO3 bulk crystals  
 The magnetically induced ferroelectricity is investigated by nonlinear optical techniques in multiferroic TbMnO3 bulk crystals.
+The magnetically induced ferroelectricity is investigated by nonlinear optical techniques in multiferroic TbMnO3 bulk crystals. Nonlinear optics is used to characterize the excitation spectrum in the range of d-d transitions which will be followed by ultrafast magnetisation dynamics involving an optical-pump/x-ray-probe approach.

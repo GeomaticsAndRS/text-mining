@@ -1,0 +1,3 @@
+  Processing Road Accident Records  
+
+Road accident records are systematically screened by traffic engineers to identify  high-accident spots and high-accident sections within a given road network with the aim to locate the severest blackspots. For this task a substantial number of methods have been developed in many countries. This study tries to collect and compare them as to their possibilities of application with the help of an extensive set of test-data. The results should lead to recommendations for their application, the strongest methods possibly becoming part of standards. This should allow a more uniform identification of high-accident spots and road sections throughout Switzerland.

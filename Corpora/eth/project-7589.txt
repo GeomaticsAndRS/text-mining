@@ -1,1 +1,3 @@
   Solar Fuels - Thermochemical Production  
+
+Five thermochemical routes for solar hydrogen production are investigated: 1) Direct water thermolysis 2) Thermochemical cycles 3) Reforming 4) Cracking 5) Gasification All of these routes make use of concentrated solar radiation as the energy source of high-temperature process heat. The project aims at developing the science and technology required for effecting these thermochemical processes with high exergy efficiency.

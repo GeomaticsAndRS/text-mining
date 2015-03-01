@@ -1,1 +1,1 @@
-Abstract Operational Semantics of C (Rotor Project mit Microsoft Research)
+Abstract Operational Semantics of C (Rotor Project mit Microsoft Research) E. Börger und R. F. Stärk

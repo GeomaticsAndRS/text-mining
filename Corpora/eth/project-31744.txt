@@ -1,2 +1,3 @@
   MarM509  
-Qualifizierung des additiven Fertigungsverfahrens SLM fÃ¼r die Herstellung einer Turbinenschaufel aus der Kobalt-Basislegierung MarM-509
+Qualifizierung des additiven Fertigungsverfahrens SLM für die Herstellung einer Turbinenschaufel aus der Kobalt-Basislegierung MarM-509
+Das additive Fertigungsverfahren Selective Laser Melting SLM bietet eine attraktive Möglichkeit die konventionelle Gussfertigung für Gasturbinenschaufeln teilweise zu ersetzen. Gründe dafür sind geringe Stückzahlen, komplexe Geometrien, teure Werkstoffe sowie kürzere Lieferzeiten. Das Projekt soll das additiv gefertigte Zielmaterial qualifizieren, die Schaufelgeometrie für SLM optimieren und einen Prototypen liefern, um die Investition in die SLM-Anlagentechnik vorzubereiten.

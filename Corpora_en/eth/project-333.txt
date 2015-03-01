@@ -1,1 +1,1 @@
-Software architecture for mobile systems
+Software architecture for mobile systems T. Gross

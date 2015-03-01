@@ -1,1 +1,3 @@
   Approximation Algorithms for Problems in Communication Networks (AAPCN)  
+
+ In this research project we focus on the design and analysis of efficient algorithms that are useful in the design, evolution, and operation of complex communication networks. In particular, we study approximation algorithms for optimization problems like routing, resource allocation and admission control. As these problems are typically NP-complete even for very simple network topologies, we cannot hope for algorithms that always compute optimal solutions efficiently. Therefore, our goal is to design and analyze new algorithms that run efficiently (i.e., in polynomial time) and compute provably good solutions, even in worst-case scenarios.

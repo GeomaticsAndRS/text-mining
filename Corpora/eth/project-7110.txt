@@ -1,1 +1,3 @@
   Data Assimilation for Numerical Weather Prediction  
+
+ Numerical weather prediction using limited area models constitutes an initial-boundary value problem. One particularly demanding challenge is to make optimum use of the available space-time history of observational data to establish the most appropriate initial field for the meteorological variables. A programme of experiments is underway to examine the efficacy of a four-dimensional assimilation technique based upon relaxation procedure whereby the model flow field is locally relaxed toward the available observational data.

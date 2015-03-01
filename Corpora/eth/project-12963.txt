@@ -1,2 +1,2 @@
   Prozessorientierte Analyse von Produktionssystemen 
-Die Prozessorientierte Analyse ist ein aus CASE-Werkzeugen hergeleitete Methodik zur Konzeption, Optimierung und ÃœberprÃ¼fung komplexer Produktionssysteme.
+Die Prozessorientierte Analyse ist ein aus CASE-Werkzeugen hergeleitete Methodik zur Konzeption, Optimierung und Überprüfung komplexer Produktionssysteme.

@@ -1,2 +1,2 @@
   A Computational Study of Laser Produced Plasma EUV Source for Nanolithography  
-Applied Laser Plasma Science (SALPS Â¸ T) the engineering of a EUV lithography light sources. Here, a multi-physics computational tool has been developed in order to simulate laser-plasma interaction, from length scales of micrometer to meters. 
+Applied Laser Plasma Science (SALPS ¸ T) the engineering of a EUV lithography light sources. Here, a multi-physics computational tool has been developed in order to simulate laser-plasma interaction, from length scales of micrometer to meters. 

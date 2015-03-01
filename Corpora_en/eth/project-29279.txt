@@ -1,0 +1,1 @@
+Oracle Rapid 2 Hardware acceleration of relational databases

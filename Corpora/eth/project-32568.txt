@@ -1,2 +1,2 @@
   HGF Alliance (Hydrosphere/Cryosphere)  
-The HGF Alliance SRemote ¸ Sensing and Earth System DynamicsTˇ aims at the development and evaluation of novel bio/geo-physical information products derived from data acquired by a new generation of remote sensing satellites; and their integration in Earth system models for improving understanding. 
+The HGF Alliance SRemote � Sensing and Earth System DynamicsT at the development and evaluation of novel bio/geo-physical information products derived from data acquired by a new generation of remote sensing satellites; and their integration in Earth system models for improving understanding. 

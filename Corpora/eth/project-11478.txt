@@ -1,2 +1,2 @@
   WISDOM - Web Infrastructure for Spatial Data, Ontologies and Metadata  
-Werkzeuge + Konzepte fÃ¼r Geodateninfrastruktur (GDI) mit Zielen: Daten versch. Quellen; Dienste, die Suche, Zugriff + Verarbeitung der Daten erlauben; Nutzer + Datenanbieter einbinden. Forschungsschwerpunkte: Integration von Metadaten + Geodaten mit Ontologien, Dienste-Beschreibung und Verkettung 
+Werkzeuge + Konzepte für Geodateninfrastruktur (GDI) mit Zielen: Daten versch. Quellen; Dienste, die Suche, Zugriff + Verarbeitung der Daten erlauben; Nutzer + Datenanbieter einbinden. Forschungsschwerpunkte: Integration von Metadaten + Geodaten mit Ontologien, Dienste-Beschreibung und Verkettung 

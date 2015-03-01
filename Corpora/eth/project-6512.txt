@@ -1,1 +1,3 @@
   Logistics Concepts for Wood Production  
+
+The competitiveness of timber production is, apart from the productivity itself, essentially dependant on a supply of wood, delivered punctually in sufficiently good quality. The solutions up until now were mainly aimed at optimising technical functions. The logistics concepts, however, try to optimise the flow of material and information. Based on a pre-study examining the feasibility of solutions in the industrial context, the effectiveness shall be examined within selected enterprises. These investigations shall lead to various data and information-flow models forming fundamentals for single-case problem-solving.

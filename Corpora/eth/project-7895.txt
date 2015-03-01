@@ -1,1 +1,3 @@
   Quantum Theory of Large Systems and of Quantum Friction  
+
+ Without invoking any controversial interpretation of quantum mechanics, we plan to study the dynamics of quantum mechanical systems with many degrees of freedom, starting from basic principles. We propose to study the time evolution of metastable states and resonances and the phenomena of "decoherence" and of "purification". We also plan to study dissipative phenomena and "friction" in localized subsystems of large quantum mechanical systems. (Similar phenomena will also be studied in large classical Hamiltonain systems.) This project involves analytical and computational methods.

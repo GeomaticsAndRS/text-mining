@@ -1,2 +1,3 @@
   Domain analysis in polarization flop multiferroic materials  
 We investigate the evolution of the ferroelectric domain pattern upon the rotation of the spontaneous polarization in several mutliferroic materials.
+The ferroelectric domain patterns in multiferroic materials like o-TbMnO3, MnWO4, and LiCuVO4 are imaged using non-linear optical second harmonic generation. In these spin-spiral multiferroic materials application of a magnetic field can induce the (aprupt or continous) rotation of the spontaneous polarization. Here we investigate the evolution of the ferroelectric domain pattern under such a polarization rotation to understand the properties of the magnetic domain walls.

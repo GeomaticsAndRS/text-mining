@@ -1,1 +1,3 @@
   Structure-Activity Relationships of Calcitonin-Gene-Related Peptide (CGRP)  
+
+Calcitonin-gene-related peptide is a 37-amino acid hormone, which plays an important role in migraine. Little is known about the binding and active site of this peptide. In order to develop smaller ligands with antagonistic properties, structure-actvitiy studies of cyclic C-terminal segments are performed. The segments are obtained by multiple peptide synthesis and characterized chemically by mass spectrometry and hplc and pharmacologically on human neuroblastoma cells. Secondary structure information is obtained by circular dichroism studies and NMR.

@@ -1,1 +1,3 @@
   Topics in Condensed Matter Physics: Low-temperature Phase Diagrams ofAnisotropic Quantum Lattice Systems 
+
+ We have developed analytical methods to study the low-temperature phase diagrams of anisotropic quantum lattice systems, e.g. anisotropic t-J models, in regions of parameter space where these systems are insulators. Our methods involve a quantum mechanical version of Nekhoroshev's method in classical perturbation theory and an extension of Pirogov-Sinai theory. Presently, we are studying applications to a variety of quantum lattice systems, including variants of the Hubbard model.

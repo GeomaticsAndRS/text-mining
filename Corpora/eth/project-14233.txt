@@ -1,2 +1,2 @@
   ARMin - Evaluierung, Optimierung und erster klinischer Einsatz des Armtherapieroboters ARMin 
-Entwicklung, Evaluierung, klinischer Einsatz und HinfÃ¼hrung zur Marktreife eines Rehabilitationsroboters fÃ¼r die oberen ExtremitÃ¤ten.
+Entwicklung, Evaluierung, klinischer Einsatz und Hinführung zur Marktreife eines Rehabilitationsroboters für die oberen Extremitäten.

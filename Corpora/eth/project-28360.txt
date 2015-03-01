@@ -1,2 +1,2 @@
   StressTracker  
-Smart phone based tracking of changes in userŠs daily routine that are related to health and well-being.
+Smart phone based tracking of changes in userSs daily routine that are related to health and well-being.

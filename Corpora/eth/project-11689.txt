@@ -1,2 +1,3 @@
   Turning design patterns into reusable components 
 Design patterns have allowed significant progress in software technology but fall short of the goals of reuse. This project systematically explores the transformation of wellestablished patterns into a library of directly reusable software components.
+Design patterns are general architectural ideas that help solve certain class of problems. They are advantageously replaced by reusable components, directly usable through an abstract interface (API). This projects builds a library of reusable components covering the major design patterns, taking advantage of advanced object-oriented mechanisms such as genericity and Eiffel's agents.

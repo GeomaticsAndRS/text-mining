@@ -1,1 +1,3 @@
   Photon Production in Leptonic Z Decays  
+
+ The photon energy spectrum and rate in the different type of leptonic Z decays is analyzed and compared with expectations from QED. The possibility to study low energy photons with the L3 experiment will also be used to investigate fermion mass effects and anomalous photon production in Z decays.

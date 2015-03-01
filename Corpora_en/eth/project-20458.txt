@@ -1,1 +1,1 @@
-Numerical Methods for Kinetic Equations The aim of this project is an approach to Boltzmann’s equation that combines the methods which are physically substantiated with state of the art numerical approaches to high dimensional problems.
+Numerical Methods for Kinetic Equations The aim of this project is an approach to Boltzmann's equation that combines the methods which are physically substantiated with state of the art numerical approaches to high dimensional problems.

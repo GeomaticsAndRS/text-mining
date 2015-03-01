@@ -1,2 +1,3 @@
-  SNF 2000201 56973/13DCaptureof F ree − f ormSpecualrShapesusingM obileDevices  
+  SNF 2000201 56973/13DCaptureof F ree - f ormSpecualrShapesusingM obileDevices  
 In this project we propose to tackle the challenging problem of reconstructing reflective surfaces using practical methods with the only use of a mobile device (smartphone, table, or hand-held video camera). 
+In this project we propose to tackle the challenging problem of reconstructing reflective surfaces using practical methods with the only use of a mobile device (smartphone, table, or hand-held video camera).

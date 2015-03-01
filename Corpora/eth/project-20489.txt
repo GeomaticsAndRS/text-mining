@@ -1,2 +1,3 @@
   Arktis Radiation Detectors  
 Fundamental research has proven the merits of liquid noble gas detectors in particle identification. The arktis project aims at developing a noble gas detector technology that harnesses these properties at room temperature.
+The project aims at using noble gas scintillation technology at room temperature for security purposes. The technology offers a novel approach for detecting fast neutron radiation by allowing the discrimination between fast neutron and gamma interactions. Tests currently involve high-purity high-pressure gas scintillation setups. Preliminary results include the observation of particle discrimination.

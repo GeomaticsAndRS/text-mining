@@ -1,1 +1,3 @@
-  Input-Output-Modelle zur AbschÃ¤tzung der Ã¶kologischen Wirkungen von Walderschliessungs-Systemen in Hanglagen  
+  Input-Output-Modelle zur Abschätzung der ökologischen Wirkungen von Walderschliessungs-Systemen in Hanglagen  
+
+S. Inaba

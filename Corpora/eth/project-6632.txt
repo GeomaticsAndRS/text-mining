@@ -1,1 +1,3 @@
   Combinatorial Optimization, Enumeration, and Exhaustive Search  
+
+We study techniques for the (exact) solution of extremely compute-intensive  combinatorial enumeration and optimization problems, chosen from a wide variety of areas, such as: operations research (quadratic assignment problem, scheduling, traveling salesman), computational sciences (dense packing of polymers), computational geometry (hyperplane arrangements, vertex enumeration of polyhedra in high dimensions, minimally rigid graphs), and mathematical puzzles and games. We developed ZRAM, a portable library of search programs, and implemented it on a variety of parallel computers (Intel Paragon, the NEC Cenju, the ETH Gigabooster, and networks of workstations).
